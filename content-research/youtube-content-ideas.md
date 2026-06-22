@@ -68,7 +68,7 @@
 
 - **"The £0 Silent Practice Trick"** — foam under strings; before/after sound demo
 - **"The Complete Silent Practice Rig: Fix Ladder £0 → £15 → £150"** — anchor video for the series
-- **"Headphone Amps Compared: Vox Amplug vs. Fender Mustang Micro vs. Boss Waza Air"** — comparison format; affiliate-ready
+- **"Headphone Amps Compared: Vox Amplug vs. Fender Mustang Micro vs. Boss Waza Air vs. Boss Katana-GO vs. Tonex Plug"** — comparison format; affiliate-ready. *Update: Boss Katana-GO and IK Multimedia Tonex Plug are 2025/2026 entrants — add to the lineup before publishing.*
 - **"Is a Silent Guitar Worth It? Yamaha SLG Honest Review"** — high-search product; fair multi-tier framing
 - **"Acoustic Guitar at Night: What Actually Works (And What Doesn't)"** — problem-first framing
 
@@ -122,6 +122,26 @@
 
 ---
 
+### Returner-Player Series (New — June 2026 addition)
+
+Distinct from "adult beginner" content. Targets adults who played guitar in their teens or 20s, stopped for a decade+, and are coming back. Their failure mode is different: muscle memory decay, unrealistic expectations vs. past self, gear that's now wrong for their body.
+
+- **"Why Guitar Felt Easy at 22 and Hard at 48 (And What Changed)"** — Hook: "It's not age. It's the gap between your memory and your hands." Addresses the specific frustration of the returner who remembers playing well.
+- **"Don't Pick Up Where You Left Off: The Returner's Restart Plan"** — PM sprint framework applied to re-onboarding. High-emotion, highly searchable.
+- **"The Guitar You Had at 20 Is Probably Wrong for You Now"** — bridges returner series with ergonomics + short-scale content.
+
+---
+
+### Guitar Size Guide (New — June 2026 addition)
+
+3/4 and parlour guitars are frequently conflated in roundup articles. The channel can own the ergonomic framing here.
+
+- **"Parlour vs. 3/4 Guitar: They're Not the Same (Here's What Matters for Comfort)"** — explains scale length (comfort driver) vs. body size (portability driver); most existing content conflates these. Clear channel-fit.
+- **"Taylor GS Mini vs. Full Size: Is Smaller Actually Easier?"** — the GS Mini is the most-searched small-body guitar; an honest ergonomic test at the channel's measurement standard would rank well.
+- **"The Case for a Short-Scale Electric If Your Hands Hurt"** — complements the acoustic parlour video; expands audience to electric players in the same age band.
+
+---
+
 ## Content Gaps and Underexplored Angles
 
 1. **Carpal tunnel as a distinct condition** — forums are full of this question; no channel addresses it clearly and directly. High-priority gap.
@@ -131,6 +151,10 @@
 5. **Playing during a flare-up** — most adaptive playing content is setup-focused; no one covers what to do on a bad hand day.
 6. **Guitar size and body fit** — short-scale, parlour, and 3/4 guitars are covered in gear content but almost never framed as a comfort/ergonomics fix. Strong channel fit.
 7. **One-handed and partial-limb playing** — Django is already in the channel DNA. An episode here would be the most shareable PTI video and draw coverage beyond the guitar niche.
+8. **3/4 vs. parlour distinction** — roundup content covers both but conflates them. A dedicated video explaining the ergonomic difference (scale length vs. body size) would serve the adult-comfort audience clearly and isn't done well anywhere.
+9. **Silicone finger caps for arthritis** — a specific, affordable product category with near-zero YouTube coverage. Fits PTI series format (£0 → £5 option on the Fix Ladder).
+10. **The "90% quit within a year" returner-player angle** — strong data hook for a video explicitly targeting adults who played in their 20s and stopped. Underserved framing; most "adult beginner" content doesn't distinguish returners from true beginners.
+11. **NAMM 2026 gear news as a timely hook** — Fender Mustang Micro Plus received a firmware update for bass in Jan 2026; IK Multimedia's Tonex Plug and Boss Katana-GO are new entrants in the headphone amp category. The existing headphone amp comparison video should be updated to include Katana-GO and Tonex Plug (both emerged after the original comparison was drafted).
 
 ---
 

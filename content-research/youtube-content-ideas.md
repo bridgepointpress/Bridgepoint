@@ -184,3 +184,85 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## June 2026 Research Update — Net-New Findings
+
+*Added after web research sweep. Items below are either new ideas not previously captured, timely news hooks, or trend signals that validate/reprioritise existing ideas.*
+
+---
+
+### Timely News Hooks (Act Within 4–8 Weeks)
+
+**1. Keith Richards adapting his playing due to arthritis (Guitar World, March 2026)**
+- The 82-year-old said he plays "fewer notes" because "I'm not as fast as I used to be." High-profile validation of the PTI premise.
+- **Video hook:** "If Keith Richards Is Adapting, You're Allowed To" — leads into PTI series or standalone
+- **Why it matters:** Celebrity name in thumbnail = high CTR; the story is recent enough to still be searchable
+- **Thumbnail concept:** Split image — Keith on stage vs. hands on guitar neck; headline pulls his quote
+
+**2. Fender Mustang Micro Plus NAMM 2026 update**
+- Fender released a free update adding bass amp compatibility at January 2026 NAMM. Product is back in the news cycle.
+- **Timing signal:** Reviews published Jan–Feb 2026 are still getting indexed. A comparison video now rides the review traffic spike.
+- **Reprioritises:** "Headphone Amps Compared" video (already in Silent & Stealth series) — move this up the queue
+
+---
+
+### New Video Ideas (Not Previously Captured)
+
+**3. "Ergonomic Guitar Straps: Do They Actually Help?" (Ergonomics series)**
+- Multiple 2026 articles from Slinger Straps, Kyser Musical, and Slingerstraps detail strap ergonomics. The channel has strap *height* covered but not strap *design*.
+- Key angle: Standard narrow straps cause shoulder and neck strain over time. Wider/padded straps with even weight distribution reduce tendinitis and bursitis risk.
+- **Fix Ladder fit:** $0 (reposition existing strap) / $15–25 (padded strap) / $60+ (Slinger/ergonomic harness)
+- **Thumbnail:** Side-by-side strap widths; "your shoulder will thank you" text
+
+**4. "Short Scale Guitar: Not Just for Kids" (Ergonomics / Comfort series)**
+- Short scale (24.75" or less) is trending in parlour coverage but almost always framed as a travel or beginner guitar — almost nobody frames it as an *adult comfort fix*.
+- **Angle:** Reduced string tension = less grip force = direct arthritis/carpal tunnel benefit. Luthier-backed framing.
+- **Hook:** "The thing guitarists write off as a student instrument is the thing that could keep you playing at 60."
+- **Thumbnail:** Scale length measurement callout on two guitars; age callout ("50s/60s")
+
+**5. "Assistive Devices vs. Better Setup: Which Path Is Right for You?" (PTI crossover)**
+- The adaptive guitar space is growing: ChordBuddy, one-hand guitar devices, Velcro picks, robotar devices. No one maps this against the setup-first approach the channel advocates.
+- **Angle:** Setup is the $0–$25 path. Devices are the $50–$200 path. Both are valid — the Fix Ladder logic applies here too.
+- **Audience:** Carers buying for disabled family members, players post-stroke or post-injury, veterans
+- **Why it's valuable:** PTI episode most likely to travel outside the guitar niche
+
+---
+
+### Trend Validation & Reprioritisation Signals
+
+**Parlour guitar editorial cycle is active (June 2026)**
+- Guitar World, Guitar Lobby, and five other outlets published "Best Parlour Guitars 2026" roundups this month.
+- **Implication:** "Parlour vs. Dreadnought: Fitting the Guitar to Your Body" is already in the plan — the *timing is now*. This video would appear alongside search traffic driven by those roundups.
+
+**Carpal tunnel + guitar gaining dedicated search infrastructure**
+- A new article was published April 2026 specifically on guitarist carpal tunnel. New resource sites are appearing, which means search demand is strong enough to support fresh content.
+- **Implication:** PTI Ep 2 (Carpal Tunnel) remains the highest-priority gap. Move it ahead of Ep 3 (Tendinitis) if not already sequenced that way.
+
+**Adult beginner / returning player YouTube competition is growing**
+- "How I'd Learn Guitar as an Adult Beginner in 2026" video is a direct competitor, with technique-forward framing. The channel's setup-and-ergonomics angle is a genuine differentiator — lean into it.
+- **Implication:** Every practice system video should open with the setup framing: "Before we talk about what to practise, let's make sure your guitar isn't fighting you."
+
+---
+
+### Shorts / Quick-Format Angles Surfaced by Research
+
+- **"The one-finger barre chord test"** — 30-second nut slot check; direct before/after
+- **"Keith Richards plays fewer notes now. So can you."** — 45-second motivational hook; repurpose from any PTI episode
+- **"Is your guitar making arthritis worse?"** — setup checklist countdown; 3 items in 60 seconds
+- **"The £3 fix for tuning instability"** — string lubricant; single product, single result
+
+---
+
+### Updated Gap Assessment
+
+| Gap | Status | Priority |
+|---|---|---|
+| Carpal tunnel as distinct condition | Still uncovered on YouTube | **Highest** |
+| Parlour guitar as comfort fix | Now timely (editorial cycle active) | High — film now |
+| Ergonomic straps (not just strap height) | New gap identified | Medium |
+| Short scale as adult ergonomic tool | New gap identified | Medium |
+| Celebrity hook (Keith Richards) | 3-month window before it ages | High — act soon |
+| Assistive devices vs. setup comparison | Underexplored in PTI framing | Medium |
+| Flare-up management (PTI Ep 8) | Still uncovered | High |

@@ -184,3 +184,110 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## June 2026 Research Update — New Angles & Validation
+
+*Research run: June 25, 2026. Sources: live web search across Guitar World, MusicRadar, Mayo Clinic Connect, forum threads, and YouTube channel audits.*
+
+---
+
+### Validation of Existing Strategy
+
+- **Guitar-for-seniors niche confirmed underserved.** The most-cited channel in this demographic is "Relax and Learn Guitar" (adults 40+). It covers song tutorials, not setup/ergonomics — no direct overlap with this channel's lane.
+- **Silent practice trend accelerating.** Multiple 2026 guides rank it as a top emerging niche. Spatial audio (Boss Waza-Air gyro tech, Positive Grid headphones) is now a sub-trend within it — gives the headphone amp comparison video a timely hook.
+- **DIY guitar setup** remains one of the highest-competition categories on YouTube, but beginner-accessible and health-framed versions are sparse. "Fix before you pay" framing is still largely unclaimed.
+- **Carpal tunnel gap confirmed.** A PubMed/PMC study found most YouTube carpal tunnel content "reinforces misconceptions" — this is a direct invitation for a credible, well-researched episode.
+
+---
+
+### New Video Ideas (Not in Existing Doc)
+
+#### 1. Celebrity Angle for PTI Neuropathy Episode
+**Eric Clapton publicly disclosed peripheral neuropathy and its effect on his playing (nerve damage from COVID vaccines). Active Mayo Clinic Connect threads on guitarists with neuropathy (Feb 2026). Jake E. Lee (Ozzy's guitarist) managing arthritis after being shot in 2024 and returning to play.**
+
+- **Video:** "Eric Clapton Said He Can Barely Play. Here's What Actually Helps."
+- **Hook:** "When one of the greatest guitarists alive says his hands are failing him, it's time to talk about what the doctors don't tell you."
+- **Thumbnail:** Clapton name-drop text + hand close-up + PTI series bar
+- **Why now:** Celebrity anchor makes a clinical topic searchable and shareable beyond the existing subscriber base.
+
+---
+
+#### 2. AI Guitar App Comparison — Friction-Lens Review
+**Yousician launched "June," an AI chat-based guitar coach that listens and adapts. Fender Play has AI-mode progression. Both are heavily marketed to beginners. Neither is evaluated from a 50+ / reduced-dexterity angle.**
+
+- **Video:** "I Tried Fender Play and Yousician for 30 Days as a Returning Player (Honest Review)"
+- **Hook:** "They're built for 20-year-olds. But they might still be useful for us — if you know what to ignore."
+- **Thumbnail:** App UI screenshot + "35-65 honest test" callout
+- **Why this channel:** The Fix Ladder philosophy applies perfectly — the $0 app vs. $20/month app vs. real teacher decision maps exactly to the channel's format. Strong affiliate potential.
+- **Audience angle:** Returning players (a top-3 audience segment) who want structure without a teacher.
+
+---
+
+#### 3. Travel Guitar as Ergonomic/Retirement Content
+**Multiple 2026 guides rank travel guitars — Taylor GS Mini, Martin LX1E, Journey Instruments folding neck models — but none target the "retired, travelling, still want to play" demographic. This audience has the time and money.**
+
+- **Video:** "The Best Guitar to Take on Holiday (If Your Hands Aren't What They Were)"
+- **Hook:** "Retirement means more travel. It shouldn't mean leaving the guitar at home."
+- **Thumbnail:** Guitar in overhead luggage + "fits carry-on" callout
+- **Fix Ladder mapping:** £0 (foam in case) / £80 (3/4 acoustic) / £200 (Taylor GS Mini) / £400+ (Journey folding neck)
+- **Affiliate strength:** High-ticket items; multiple price tiers; summer + holiday seasonal hook.
+
+---
+
+#### 4. Assistive Tech for Neuropathy — Device Review
+**Jefferson University industrial design grads developed "Arc SG," a fretboard attachment that amplifies grip strength for guitarists with peripheral neuropathy. No YouTube coverage found.**
+
+- **Video:** "Can This Device Help Guitarists With Neuropathy? (Arc SG Honest Test)"
+- **Hook:** "It looks strange. It might actually work."
+- **Thumbnail:** Device on guitar neck + before/after grip demonstration
+- **Why:** Newsworthy hook; niche but highly loyal audience; shareable in occupational therapy and neuropathy communities beyond guitar.
+
+---
+
+#### 5. Spatial Audio Headphone Practice (Upgrade to Existing Comparison Video)
+**Boss Waza-Air uses an integrated gyroscope for 3D spatial audio — the guitar "stays in place" as you move your head, simulating a real amp in the room. Positive Grid also moving into this space. No clear beginner-oriented explanation exists.**
+
+- **Add to existing headphone amp comparison video** or spin out as: "The Headphone Amp That Feels Like a Real Amp (And Why It Matters for Practice)"
+- **Hook:** "It sounds gimmicky. The first 30 seconds will convince you otherwise."
+- **Affiliate angle:** Boss Waza-Air at £389 — highest-commission item in the silent practice series.
+
+---
+
+#### 6. Returning-Player Series Anchor Video
+**Web search shows strong demand for "returning guitarist" content — but results skew toward rockstar comebacks (Foo Fighters, Alice Cooper), not personal journeys. The audience gap: real players in their 50s returning after 10–20 years off.**
+
+- **Video:** "Returning to Guitar After Years Away: What Nobody Warns You About"
+- **Hook:** "Your ears are better than ever. Your hands have forgotten everything. Here's what to do first."
+- **Thumbnail:** Before/after framing — dusty guitar case vs. hands playing
+- **Series potential:** Could anchor a "Comeback Player" mini-series — setup refresh, technique re-entry, realistic expectations.
+
+---
+
+### Gaps Confirmed by 2026 Research
+
+| Gap | Evidence | Priority |
+|---|---|---|
+| Carpal tunnel — distinct from arthritis | PubMed: most YT content on CTS "reinforces misconceptions" | **Highest** |
+| Neuropathy — Eric Clapton hook | Mayo Clinic Connect active in Feb 2026; no clear YT resource | **High** |
+| AI guitar apps for 50+ players | No channel evaluates these from a friction/dexterity angle | **High** |
+| Travel guitar for retirees | All 2026 guides are generic; demographic unserved | **Medium-High** |
+| Assistive tech (Arc SG) | Zero YouTube coverage found | **Medium** |
+| Returning player anchor video | Strong search demand; supply is rockstar-focused, not personal | **Medium** |
+
+---
+
+### Thumbnail & Hook Additions
+
+**"Eric Clapton Said He Can Barely Play. Here's What Actually Helps."**
+- Thumbnail: bold name-drop text, hand close-up on fretboard, PTI amber bar bottom
+
+**"I Tried Fender Play for 30 Days as a 50-Year-Old Returning Player"**
+- Thumbnail: app logo + "honest" stamp + age callout
+
+**"Best Guitar to Take on Holiday (When Your Hands Hurt)"**
+- Thumbnail: guitar in overhead bin + "carry-on" green checkmark
+
+**"Returning to Guitar After 20 Years: Nobody Tells You This"**
+- Thumbnail: dusty case / clean guitar split-screen; no face needed

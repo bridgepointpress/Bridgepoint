@@ -184,3 +184,94 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Research Update — June 2026
+
+*Live web research conducted June 2026. Items below are new or upgraded since the initial draft.*
+
+---
+
+### New Gap: Cubital Tunnel Syndrome (Ulnar Nerve)
+
+**Why it matters:** International Musician describes cubital tunnel syndrome as "the most common nerve entrapment in musicians." It causes numbness/tingling in the pinky and ring finger — exactly the symptoms guitarists post about in forums without knowing the name. The existing PTI series covers carpal tunnel (median nerve at wrist) but not cubital tunnel (ulnar nerve at elbow). Zero strong YouTube coverage found.
+
+**Proposed video:** *"Playing Through It Ep X — The Nerve Problem at Your Elbow Nobody Names"*
+- Hook: "It's not carpal tunnel. It's not arthritis. It's probably your elbow."
+- Thumbnail: Elbow/arm close-up + PTI series bar; pinky/ring finger highlighted
+- Practical content: elbow flexion angle while playing, brace use, heat before/ice after protocol, when to see a hand surgeon
+
+---
+
+### Gear Update: Headphone Amp Landscape (2026)
+
+The comparison list in the Silent Practice series should be updated. Guitar World's 2026 headphone amp roundup names:
+
+- **Fender Mustang Micro Plus** — now top overall pick (upgraded from original Micro; improved amp models, better high-gain)
+- **Positive Grid Spark Neo** — wireless, no cables; new to market and trending; not in original list
+- **Boss Waza-Air** — still top for spatial audio / room simulation; still viewed as overpriced by many
+- **Vox amPlug 3 AC30** — best budget pick confirmed
+
+**Action:** Update the headphone amp comparison video plan to name the Micro Plus (not just Micro) and add Spark Neo to the comparison. Four-way shootout format would be distinctive — no other channel has done Mustang Micro Plus vs. Spark Neo vs. Waza Air vs. amPlug 3 as a single video.
+
+**Proposed title:** *"4 Headphone Amps, 1 Winner: Mustang Micro Plus vs. Spark Neo vs. Waza Air vs. amPlug 3 (2026)"*
+- Hook: "The market changed. The winner might surprise you."
+- Thumbnail: Four devices side by side on dark background; price callouts beneath each; winner badge revealed
+
+---
+
+### Trend Confirmed: Parlour Guitar as "Sofa-Friendly Acoustics"
+
+Guitar World 2026 best-parlour-guitars feature explicitly uses "sofa-friendly acoustics" in the headline — exactly the comfort/body-fit framing the channel already uses. This validates the angle and shows the language is resonating in mainstream gear coverage.
+
+**Opportunity:** The channel can own the ergonomics angle that gear roundups don't cover — *"Which guitar body size fits your body?"* framed as a setup/comfort decision, not a gear review.
+
+**Proposed title:** *"The Parlour Guitar Isn't Just Small — It Might Actually Fit You Better"*
+- Hook: "You've been wrestling a dreadnought. The problem isn't your technique."
+- Thumbnail: Side-by-side silhouette of player with dreadnought vs. parlour; comfort indicator overlay
+
+---
+
+### Seasonal Opportunity: Summer Humidity Window (Act Now)
+
+Search confirms the summer humidity cycle is a live, recurring problem: wood swells → neck straightens → action rises → guitar fights you. Guitar World, MusicNomad, and Taylor Guitars all have 2026-updated humidity guides, but none uses the Fix Ladder format or addresses it from the adult player's POV.
+
+Ideal timing: publish mid-July for peak seasonal relevance. Reshoot each winter for the dryness cycle.
+
+**Proposed title:** *"What Happens to Your Guitar in Summer (And the £0 Fix Before It Gets Worse)"*
+- Hook: "The guitar that played perfectly in February is fighting you by July. Here's why."
+- Thumbnail: Thermometer / humidity gauge overlay on guitar neck; before/after action measurement
+
+---
+
+### Format Idea: The 3-Part Surgery/Recovery Arc
+
+A YouTube video titled "A Guitarist Gets Carpal Tunnel Surgery [Part 1/3]" surfaced in search results — indicating the multi-part recovery arc format has audience pull. The channel has documentary authority in this space (PTI series). If/when a viewer reaches out post-surgery or post-injury, a structured 3-part "before surgery / during recovery / back to playing" arc could be the highest-performing PTI content.
+
+**Not a near-term action** — requires the right viewer story — but worth flagging as a format to actively solicit once community is established.
+
+---
+
+### Title Format Confirmed: "How I'd X in 2026 (If I Had to Start Over)"
+
+YouTube search returned a video titled *"How I'd Learn Guitar as an Adult Beginner in 2026 (If I Had to Start Over)"* — showing the "if I had to start over" format is landing well with the adult learner demographic. Adaptable to:
+
+- *"The Guitar Setup I'd Start With in 2026 (Not What I Thought)"*
+- *"If I Were Starting Guitar at 55, Here's What I'd Actually Buy"*
+
+High-CTR format, aligns with the channel's retrospective/earned-wisdom tone.
+
+---
+
+### Validated Gaps (Confirmed by June 2026 Search)
+
+| Gap | Status | Priority |
+|---|---|---|
+| Carpal tunnel vs. arthritis distinction | Dedicated 2026 articles exist; no authoritative YouTube treatment | **High** |
+| Cubital tunnel / ulnar nerve for guitarists | Barely covered anywhere; most common musician nerve issue | **High — new** |
+| Trigger finger + guitar | Acoustic Guitar Forum thread found; zero YouTube content | **High** |
+| Seasonal humidity (summer + winter cycles) | Active search demand; no Fix Ladder format exists | **Medium — seasonal** |
+| Luthier vs. DIY decision tree | High emotional charge; cost range £50–100 confirmed | **Medium** |
+| Fender Mustang Micro Plus (not original) | Guitar World 2026 top pick; comparison video needs updating | **Medium** |
+| Positive Grid Spark Neo | New to market, trending; missing from existing comparison plan | **Medium — new** |

@@ -33,6 +33,16 @@
 - Ergonomic guitars and body weight (Strandberg-type coverage mostly ignores the 45-year-old casual player)
 - Spatial audio / headphone amp comparison (Boss Waza Air, Fender Mustang Micro trending in silent practice)
 
+**Newly confirmed from June 2026 research:**
+- **Boss Katana-GO** — released/popularised in 2026; five amp models, authentic modelling; not yet in the channel's headphone amp comparison list. Add to the Vox/Fender/Boss Waza Air comparison video.
+- **Positive Grid Spark Neo** — ultra-compact, trending in silent practice roundups as of mid-2026; another comparison candidate
+- **Fender Mustang Micro → Micro Plus** — the Plus is now the dominant recommendation; channel should reference the updated model, not the original
+- **Double-shoulder harness straps** — ergonomic strap design for players with shoulder/back issues; not yet covered in the ergonomics series; natural fit for the heavy-guitar-bad-back episode
+- **Classical guitar for arthritis specifically** — shorter scale + narrower nut + 30–40 min session limits. Multiple forums mention this as a practical fix; no one is making a clear video about it
+- **Stringjoy Naturals Ultra-Light (9–44) for acoustic** — a specific product gaining traction as an arthritis/grip-strength fix; brand-level mention would strengthen the light-strings episode
+- **75% overuse injury stat** — clinical study showing 75% of guitarists develop some overuse injury; use as a hook in PTI series intro or carpal tunnel episode
+- **Age 70+ "never too late" micro-trend** — Good Guitarist's community shows players 70–80 actively learning; content validating this age bracket would be highly shareable beyond the channel's core 35–65 demographic
+
 ---
 
 ## New Video Ideas by Series
@@ -68,7 +78,7 @@
 
 - **"The £0 Silent Practice Trick"** — foam under strings; before/after sound demo
 - **"The Complete Silent Practice Rig: Fix Ladder £0 → £15 → £150"** — anchor video for the series
-- **"Headphone Amps Compared: Vox Amplug vs. Fender Mustang Micro vs. Boss Waza Air"** — comparison format; affiliate-ready
+- **"Headphone Amps Compared: Vox Amplug 3 vs. Fender Mustang Micro Plus vs. Boss Katana-GO vs. Positive Grid Spark Neo"** — update to include 2026 models; comparison format; affiliate-ready *(Micro Plus replaces original Micro as the current rec; Katana-GO and Spark Neo are new entrants as of 2026)*
 - **"Is a Silent Guitar Worth It? Yamaha SLG Honest Review"** — high-search product; fair multi-tier framing
 - **"Acoustic Guitar at Night: What Actually Works (And What Doesn't)"** — problem-first framing
 
@@ -82,6 +92,9 @@
 - **"Heavy Guitar, Bad Back: The Real Cost of a Les Paul"** — body weight and shoulder strain; relatable hook
 - **"Which Chair? The Playing Position Problem Nobody Talks About"** — simple, useful, shareable
 - **"Parlour vs. Dreadnought: Fitting the Guitar to Your Body"** — size-matching as comfort fix
+- **"The Double-Shoulder Harness: Is It Worth It for Heavier Guitars?"** *(new — June 2026)* — distributes weight like a backpack; almost zero YouTube coverage aimed at adult players with back issues
+- **"Why Classical Guitar Might Actually Be Easier on Arthritic Hands"** *(new — June 2026)* — shorter scale, narrower nut, nylon strings, session-length management; repositions classical as accessible rather than elitist
+- **"Is It Too Late to Start at 70? (Spoiler: No)"** *(new — June 2026)* — community-building episode aimed at 65–80 demographic; high shareability in family/care contexts; low production barrier (interview format possible)
 
 ---
 
@@ -175,6 +188,18 @@
 ### 10. "The £0 Silent Practice Trick"
 - **Hook:** "No gear. No amp. No complaints from next door. Here's how."
 - **Thumbnail:** Foam mute on guitar strings; £0 callout; clock showing 11pm
+
+### 11. "Why Classical Guitar Might Actually Be Easier on Your Hands" *(new — June 2026)*
+- **Hook:** "75% of guitarists develop an overuse injury. Classical players have quietly solved most of them."
+- **Thumbnail:** Nylon string close-up vs. steel string; "EASIER?" text overlay
+
+### 12. "I Started Guitar at 73. Here's What Actually Worked." *(new — June 2026)*
+- **Hook:** "Not inspiration porn. A setup list and a practice system."
+- **Thumbnail:** Older hands on guitar; bold age callout; no face required (hand-only frame is on-brand)
+
+### 13. "The Backpack Strap for Guitar: Does It Actually Help Your Shoulder?" *(new — June 2026)*
+- **Hook:** "Your guitar weighs 4kg. Your shoulder knows it."
+- **Thumbnail:** Double-harness strap vs. standard strap; weight callout overlay
 
 ---
 

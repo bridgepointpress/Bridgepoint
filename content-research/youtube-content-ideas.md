@@ -1,5 +1,61 @@
 # Bridge and Baseline — YouTube Content Research
-**Date:** June 2026
+**Date:** June 2026 (updated with fresh research)
+
+---
+
+## 2026 Research Update — New Findings
+
+### Silent Practice Market: New Competitors (Not in Prior Research)
+
+The headphone amp space has expanded significantly since the original Vox / Mustang Micro / Waza Air comparison was scoped. Four products now compete at distinct price points, all released or updated in the last 6 months:
+
+| Product | Price | Key Differentiator |
+|---|---|---|
+| Boss Katana:Go Mini | $99 | Most portable; fits in a gig bag pocket; hard to beat at this price |
+| Fender Mustang Micro Plus | ~$132 | NAMM 2026 free update added 10 amps/presets; best overall choice per Guitar World |
+| Positive Grid Spark NEO Core | $159 | Overhead headphone format + amp sim in one; AI smart features |
+| IK Multimedia TONEX Plug | ~$150 | AI-captured amp tones; TONEX ecosystem; 70g, barely there |
+| Boss Waza-Air | $299 | Wireless freedom; still the premium pick for purists |
+
+**What this means for the channel:**
+- The prior comparison video idea (Vox vs. Mustang Micro vs. Waza-Air) is now outdated before it's been filmed. A 4-way 2026 shootout is more timely and more affiliate-rich.
+- A Headphone Amp Shootout already exists on YouTube covering these products generically. The channel's angle — "which one is right for a 50-year-old with arthritic hands who plays acoustic-electric" — is not covered anywhere.
+
+**New video ideas from this:**
+- **"The 2026 Silent Practice Showdown: Boss Katana:Go Mini vs. Mustang Micro Plus vs. TONEX Plug"** — framed around the Fix Ladder ($99 / $132 / $150 / $299); older player use case
+- **"Fender Just Updated the Mustang Micro Plus for Free — Is It Now the Best Silent Practice Amp?"** — timely reactive content; low production lift; high search intent
+- **"The $99 Silent Practice Amp You Didn't Know Existed (Boss Katana:Go Mini Review)"** — entry-level option; high CTR potential; affiliate-ready
+
+---
+
+### Carpal Tunnel: Gap Confirmed by 2026 Research
+
+A YouTube Shorts format ("The Carpal Tunnel Guitar Exercise") and a generic 3-part surgery series exist, as does a CarpaltunnelPros.com article (April 2026) confirming sustained search demand. None of them address carpal tunnel through the lens of guitar *setup* — the channel's core differentiator.
+
+**The gap:** All existing YouTube content treats CTS as a medical/physiotherapy problem. The channel's angle (fix the guitar, not just the hands) is genuinely unoccupied.
+
+**Confirmed angle for PTI Ep 2:** Lead with "Your doctor told you to stop playing. Here's a smarter middle path." Frame the nut slot height and string action as variables the player can control. CTS compression vs. arthritis inflammation is the key clinical distinction to open with.
+
+---
+
+### Ergonomic Guitars for Older Players: Growing in 2026
+
+- "10 Top Ergonomic Guitar Brands for Physical Comfort (2026)" guide published this year confirms the market is maturing.
+- YouTube video "How Guitar Brands Target Kids Vs Older Players" (May 2026) proves the older-player demographic is now being discussed on YouTube — but from a manufacturer/marketing lens, not a player lens.
+- Strandberg's EndurNeck is increasingly cited as "the gold standard" for reducing hand fatigue, but Strandberg coverage ignores the 45-year-old casual player entirely (confirmed in original research — still true).
+
+**New video idea:**
+- **"Guitar Brands Don't Make Guitars for People Like You (And What to Do About It)"** — reacts to the growing "targeting older players" conversation; positions the channel as the player's advocate; high shareability
+- **"Is an Ergonomic Guitar Worth £600? What I Found After 30 Days with a Strandberg"** — aspirational content; drives Shorts clips; opens affiliate / sponsorship conversations with Strandberg
+
+---
+
+### YouTube Algorithm Signals for This Channel (June 2026)
+
+- **Shorts and long-form are now fully decoupled** — they operate on separate algorithms, separate recommendation feeds. Shorts don't cannibalise long-form; but Shorts go stale after ~30 days and need fresh uploads to stay visible.
+- **Creators posting both formats grow 3× faster.** The before/after measurement moments in every video are the natural Shorts cuts — no face required, consistent with existing channel identity.
+- **Older audiences skew toward long-form watched on TV.** The algorithm personalises by individual viewing habits, not age. But the 35–65 audience is more likely to watch 10–15 min long-form on a TV screen than to scroll Shorts. This supports the channel's existing format.
+- **Evergreen content still compounds.** High-search-volume setup videos ("guitar action too high", "fret buzz fix") continue to accumulate views over months. Front-load these in the upload schedule.
 
 ---
 

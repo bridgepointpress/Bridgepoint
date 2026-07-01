@@ -184,3 +184,35 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — July 2026
+
+### New gear releases worth covering (Silent Practice series)
+
+The headphone-amp market moved since the last pass — worth folding into the anchor comparison video before a competitor claims first-mover coverage:
+
+- **Positive Grid Spark Neo** — all-in-one wireless headphones + amp modeling + wireless guitar link. Biggest single release in this category; a standalone honest review ("Is the Spark Neo Worth It?") would be timely and high-CTR.
+- **Fender Mustang Micro Plus** — free firmware update adding 10 new amps/presets (bass-focused, NAMM 2026). Minor, but worth a one-line mention/update note in the existing Mustang Micro coverage.
+- **Laney Prism-Mini, Blackstar Beam Solo, Line 6 POD Go Wireless, Boss Katana:Go Mini** — new mid-tier entrants; expands the "Headphone Amps Compared" video from 3-way to a proper tier list (£30 / £80 / £150+ Fix Ladder framing fits naturally).
+
+### Celebrity hooks for the arthritis/PTI series
+
+Fresh, quotable material that gives Ep 1 (arthritis) and future PTI episodes a topical cold-open hook:
+
+- **Joe Perry** (Aerosmith) has spoken publicly about switching to a hybrid string set (.09 top / .08 bottom) to compensate for reduced finger pliability from arthritis — a concrete, specific, channel-relevant detail.
+- **Keith Richards** has discussed playing fewer notes and moving to a wider fingerboard as an age/arthritis adaptation.
+- **Video idea:** *"What Joe Perry and Keith Richards Actually Changed for Arthritic Hands"* — hook: "Two legends, same problem, two different fixes — here's what actually works." Strong thumbnail potential (side-by-side famous-guitarist photos + hand close-up).
+
+### Correction to prior gap call: carpal tunnel
+
+The earlier note that carpal tunnel content is a wide-open gap needs refining — there **is** existing YouTube coverage (breakdowns, exercise shorts, a surgery documentary series), so it's not unclaimed territory. The real gap is narrower: no one frames it with a **setup-first, Fix Ladder** structure for the 35–65 demographic specifically. Keep Ep 2 on the roadmap, but position it as "the clearest, most actionable version" rather than "first to cover this," and title/hook accordingly (e.g., avoid claims of novelty in the thumbnail).
+
+### Shorts/format update (2026 algorithm behavior)
+
+- Sweet spot has narrowed to **20–25 seconds** for completion rate, tighter than the previously noted "30 seconds uninterrupted playing" clips — consider trimming Reels cut-downs to fit this window while keeping a longer cut for the main video.
+- **85% of Shorts are watched muted** — every before/after measurement clip needs burned-in captions/text callouts (e.g., "Action: 3.2mm → 1.8mm") rather than relying on voiceover alone.
+- **Loopable endings** (last frame flows back into first frame) measurably boost rewatch/completion — worth testing on the foam-mute and feeler-gauge demo clips, which already have a natural "reset" visual.
+
+No changes to the core gap analysis, series structure, or existing title list below this section — treat this as an addendum, not a replacement.

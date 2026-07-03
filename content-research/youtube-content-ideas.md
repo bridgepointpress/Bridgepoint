@@ -184,3 +184,74 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — July 2026 Research Pass
+
+**Date:** July 3, 2026
+**Scope:** Fresh web research since the June pass. Focused on what's new — not re-listing June's ideas. See above for the original list; this section only adds what wasn't already there.
+
+---
+
+## New Trending Topics & Keywords (since June)
+
+- **"Getting back into guitar after years off"** — very active search/forum topic; distinct audience from "returning players" already in scope, but under-served as its own funnel. Multiple guides exist (Guitar Gear Finder, LickLibrary, Guitar Nine) but none are setup-first or adaptive-playing-aware — pure opening for this channel.
+- **Essential tremor / Parkinson's and guitar** — active, sustained forum threads (Guitar Tricks, TDPRI, Delcamp, Acoustic Guitar Forum, r/EarthquakerDevices) going back years, but **zero dedicated YouTube content found**. Larger gap than carpal tunnel — this is a genuinely unclaimed niche.
+- **Music-as-wellness / "social prescribing"** — 2026 wellness-industry trend (Global Wellness Institute cites a Loewy/Batiste framework on music as a formal wellness prescription). Positions guitar practice as therapy-adjacent, which matches the channel's arthritis/adaptive angle and gives it a wellness-content on-ramp beyond gear/setup.
+- **"40% of beginner guitarists learning for mental health/therapy"** (per 2026 industry stat roundups) — reinforces that the emotional hook (not the technical one) is what's driving new adult sign-ups. Useful framing for hooks and video intros.
+- **Hybrid Shorts + long-form strategy** — 2026 creator-economy data says channels posting both formats grow ~3x faster than single-format channels; posting frequency now matters more than niche optimization. Relevant to the existing "Shorts cut-down" note — worth treating as a standing production requirement, not an afterthought.
+
+---
+
+## New Video Ideas
+
+### Getting Back Into It (new mini-series — adjacent to Playing Through It)
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| 1 | **The Guitar That's Been in Your Closet for 10 Years Needs This First** | Setup-first reboot: strings, humidity damage check, action drift — before any playing advice |
+| 2 | **Why Your Hands Feel Like a Beginner's Again (And What Actually Comes Back Fastest)** | Motor-skill "hibernation" framing from research; realistic timeline, not hype |
+| 3 | **The 15-Minute Comeback Plan: Guitar After a 5+ Year Break** | Practice-system crossover episode; ties into existing "PM Player" series |
+
+### Playing Through It — new episode
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| 9 | **Essential Tremor and Guitar: What Nobody on YouTube Has Covered** | Genuinely open niche — no competing YouTube content found; anchoring technique (pinky-anchor), electric/classical over acoustic, slide-guitar as an option, not a compromise |
+
+### Wellness / Positioning Crossover (new short strand)
+
+- **"Is Guitar Actually Good for Your Mental Health After 40? What the Research Says"** — ties 2026 wellness-industry framing to channel mission without turning into a lifestyle channel; keeps it evidence-based, one setup/practical takeaway at the end
+- **"Why 40% of Adult Beginners Aren't Learning Guitar to 'Get Good'"** — reframes the channel's non-metric philosophy using the 2026 stat as a hook
+
+---
+
+## New Content Gaps
+
+1. **Essential tremor / Parkinson's — highest-priority new gap.** Deeper and more clearly unclaimed than carpal tunnel: long-running forum demand, zero YouTube supply found in this research pass.
+2. **"Returning after a long break" as its own funnel**, distinct from arthritis/adaptive framing — general guitar sites cover the technique side; none pair it with a setup-first / Fix Ladder approach.
+3. **Wellness/therapy framing** is trending industry-wide in 2026 but the channel hasn't used it yet as a hook, only as underlying motivation. Low-risk crossover if kept evidence-based and short.
+
+---
+
+## New Titles, Hooks & Thumbnail Concepts
+
+### "Essential Tremor and Guitar: What Nobody on YouTube Has Covered"
+- **Hook:** "There's no video for this. So here's one."
+- **Thumbnail:** Hand mid-tremor over strings, anchored pinky highlighted; PTI series card, Ep 9
+
+### "The Guitar That's Been in Your Closet for 10 Years Needs This First"
+- **Hook:** "Don't play a note until you check these three things."
+- **Thumbnail:** Dusty guitar case opening; checklist overlay (strings / humidity / action)
+
+### "Why Your Hands Feel Like a Beginner's Again"
+- **Hook:** "It's not gone. It's hibernating."
+- **Thumbnail:** Split timeline graphic — "Week 1" vs. "Week 3" hand close-up
+
+---
+
+## Format Note
+
+- Treat Shorts as a standing weekly requirement, not a post-hoc cut-down: 2026 data shows hybrid Shorts + long-form channels growing roughly 3x faster than single-format ones, and posting frequency now outweighs niche optimization for growth.

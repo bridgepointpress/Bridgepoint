@@ -184,3 +184,51 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — July 2026 Research Pass
+
+New material since the June pass, from live web research (news cycle, product landscape, platform algorithm changes). Nothing below duplicates the June list.
+
+### Live Newsjacking Opportunity (time-sensitive)
+
+Keith Richards and Joe Perry both went public in **March 2026** interviews (Guitar World, syndicated across ~10 classic-rock radio sites) about adapting their playing to arthritis:
+- Richards: says he's moving to a **wider fingerboard** to accommodate large/arthritic knuckles; plays fewer notes; partnered with Gibson on signature models
+- Perry: changed **string gauge/type** to compensate for reduced finger pliability
+
+This is a rare case of A-list rock stars validating the channel's entire premise (setup fixes > forcing through pain) in mainstream press. It's a few months old but still highly citable and under-used by other guitar channels — most coverage stayed in classic-rock/news spaces, not guitar-education YouTube.
+
+- **"Keith Richards Just Proved My Whole Channel's Point"** — reaction/analysis video; ties his "wider fingerboard" comment directly to nut width and neck profile as a PTI-style fix; strong shareability + SEO on his name
+- **"What Joe Perry's String Change Actually Tells You About Arthritis and Guitar"** — string gauge/type as the accessible version of what a touring pro does with a full tech team
+- Fits directly into PTI Ep 2 (arthritis) as a cold open hook — "Even Keith Richards had to change his guitar. Here's what that means for you."
+
+### New Gap: Adaptive Gadgets & Assistive Devices (channel doesn't cover this at all)
+
+Research surfaced a small but real market of adaptive playing devices that sit exactly between the channel's $0 and $100+ Fix Ladder tiers and are almost never reviewed by mainstream guitar channels:
+- **ChordBuddy** — color-coded chord-forming attachment, marketed for arthritis/limited mobility/cognitive disability
+- **Strumling** — silicone pick-holding strap for limited hand mobility or limb difference
+- **Robo-Tar** — automates chord formation for one-handed/upper-limb-disability players (therapy-adjacent)
+- **EyeHarp / Soundbeam** — eye-tracking and motion-sensor instruments for severe mobility limits (niche, but strong human-interest/shareability)
+
+None of this is in the existing doc, and it's underexplored on YouTube generally — most coverage is disability-advocacy blogs, not guitar-content creators.
+
+- **"I Tried ChordBuddy So You Don't Have To (Arthritis Review)"** — honest Fix Ladder-style review, positions against "just push through it" advice
+- **"The $30 Gadget That Lets You Play With One Hand"** — Strumling review, high emotional hook, crosses over into disability-community audiences beyond the core niche
+- **New gap #8 for the list above:** Adaptive/assistive playing devices — a full mini-series here (3–4 videos) would be genuinely novel content, not just a repackaged version of what other channels already do
+
+### Confirms/Sharpens Existing Ideas (no new video needed, but strengthens angle)
+
+- Seniors/50+ guitar content: research reinforces **nylon-string classical or parlor-size + extra-light strings** and a **2-minute hand-stretch warm-up before playing** as the two most-recommended fixes for older beginners — both map directly onto the channel's existing "Warmup Problem" and "Parlour vs. Dreadnought" ideas. Consider folding the stretch routine into those scripts as a concrete demo beat.
+- Silent practice: 2026 "best headphone amp" roundups now center on **Fender Mustang Micro Plus, Boss Katana:GO Mini ($99, new value leader), Blackstar Beam Solo, Positive Grid Spark Neo** — update the planned headphone-amp comparison video's product lineup to include Katana:GO Mini as the new budget-value pick (it wasn't out for the June draft).
+
+### Platform Note: YouTube Shorts Algorithm Changed in 2026
+
+Relevant to how the "before/after measurement" Shorts cut-downs get made going forward:
+- **30–45 seconds is now the sweet spot** — sub-15-second Shorts lost reach in a 2026 update because they can't clear the new watch-time bar even at 100% retention. Existing plan to cut 30-second clips is close but should target the higher end (35–45s) with a few extra seconds of setup/payoff.
+- **Original audio is favored over trending sounds** for channels under 50K subs (bonus added March 2026) — the channel's own voiceover fits this naturally; no need to chase trending audio.
+- **Shorts now appear in dedicated search carousels** — title keywords matter again. Worth keyword-matching Shorts titles to the same high-volume terms already identified (e.g. "fret buzz," "guitar action," "neck relief") rather than treating them as generic teasers.
+
+### Bottom Line
+
+No need to abandon or reorder the June priority list — the top gap (carpal tunnel) and the Fix Ladder format are still correctly prioritized. The additions above are: one timely newsjack hook worth using soon (Keith Richards/Joe Perry), one genuinely new content gap (adaptive gadgets), and small factual updates to two already-planned videos (headphone amp lineup, Shorts length/audio strategy).

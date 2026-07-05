@@ -1,5 +1,6 @@
 # Bridge and Baseline — YouTube Content Research
 **Date:** June 2026
+**Update:** July 2026 (see "July 2026 Update" section below for fresh findings)
 
 ---
 
@@ -184,3 +185,31 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## July 2026 Update — Fresh Research Findings
+
+### Correction to a prior gap claim
+- **Carpal tunnel is NOT an open gap** — this update's search turned up an active, populated space: guitarist testimonial videos ("How I Dealt With Carpal Tunnel As A Guitarist"), Shorts-format exercise content, a surgery-recovery series, and — notably — a TikTok-native product called the **"Chord Presser"** being pushed hard by @guitarvirtuoso.co specifically at carpal tunnel players. The angle is populated but **not PM-framed and not setup-framed** — every existing video is exercises/technique/product, none treat it as a Fix Ladder problem the way this channel would. Reframe the opportunity: not "no one's covered this" but **"no one's covered this from a setup-cost-and-triage angle."** Worth a competitive teardown of the Chord Presser itself as a video (does the $20 gadget actually help vs. a $0 setup fix?).
+- Recommend softening Ep 2 in the PTI table from "Different mechanism from arthritis" framing alone to explicitly contrast against the existing exercise/gadget content already out there — differentiate on PM/Fix Ladder structure, not on topic novelty.
+
+### Validated trends (channel format is well-aligned)
+- **Short-scale guitars are being actively repositioned industry-wide** — 2026 coverage explicitly reframes them away from "beginner/kids" instruments toward "smart players who don't want to fight their instrument," with pro players (Mustang, Jaguar, 24.75" Les Paul) cited as legitimizing cover. This directly supports Video idea #7 ("The Guitar I Wish I'd Bought at 50") — the messaging angle should borrow this "not training wheels" reframe, it's landing well industry-wide right now.
+- **Shorts strategy has clear 2026 data behind it:** optimal length is 15–30 sec (matches the channel's existing "30 sec uninterrupted playing" beat exactly), and musicians posting Shorts 3–5x/week see 40–60% higher channel growth than long-form alone. Raw/authentic clips are outperforming polished ones. **Action: treat the before/after measurement moment as a standing weekly Shorts cadence, not an occasional cutdown** — the format is already native to what's being filmed for long-form.
+- **Headphone amp comparison (Waza Air vs. Mustang Micro) is well-timed** — both remain the two reference points in every 2026 "best headphone amp" roundup; a hands-on comparison from an ergonomics/older-player angle (weight on the guitar, control size/reach, wireless vs. wired for someone with grip issues) is a genuine differentiator no roundup currently covers.
+- **Guitar setup pricing has held steady** ($75–$150 electric, $40–$90 basic acoustic, $200–$350 for fret/nut work), which keeps the "Pay a Luthier or DIY?" video's cost breakdown accurate as scripted — no update needed to that angle.
+
+### Competitive landscape note
+- **"Senior Guitar Lessons with Bill"** is the closest adjacent channel (over-50 audience, returning players) but it's a straight lessons channel — chords, strumming, songs — with no setup/ergonomics/Fix Ladder framing. Findachannel.net's 2026 niche scoring rates the broader "senior citizens" content niche as high-competition/low-discoverability (94% competition score) *for lessons content specifically* — this channel's setup-and-adaptive-playing angle sits outside that crowded lesson-content space, which is a structural advantage worth keeping in messaging (this is not "guitar lessons for seniors," it's "make the instrument stop fighting you").
+
+### New/refined video ideas from this pass
+| Idea | Angle |
+|---|---|
+| **"I Bought the $20 Carpal Tunnel Guitar Gadget So You Don't Have To"** | Direct teardown of the TikTok "Chord Presser" product vs. a $0 setup fix; rides an existing trend with a contrarian, channel-native angle |
+| **"Short-Scale Guitars Aren't Training Wheels (Here's the Proof)"** | Rides the 2026 industry reframe directly; measurable comfort claims, pairs well with existing Video #7 |
+| **"Waza Air vs. Mustang Micro: Which One Actually Works for Bad Hands?"** | No existing roundup covers grip/reach/weight for this audience — clear differentiation |
+| **Weekly Shorts cadence from existing footage** | Not a new video, a process change: cut the before/after moment from every long-form video into a same-week 15–30 sec vertical post; aligns with the 3–5x/week growth data above |
+
+### Bottom line
+No major new gap emerged this pass beyond the correction above — the existing June research and script queue remain well-matched to current search and platform trends. The main actionable changes are: (1) reframe the carpal tunnel PTI episode to differentiate from existing gadget/exercise content rather than claim it's uncovered, and (2) formalize the Shorts cutdown into a weekly habit rather than an occasional extra, since the growth data on that cadence is stronger than assumed.

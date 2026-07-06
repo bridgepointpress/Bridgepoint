@@ -1,5 +1,5 @@
 # Bridge and Baseline — YouTube Content Research
-**Date:** June 2026
+**Date:** June 2026 (updated July 2026 — see addendum at bottom)
 
 ---
 
@@ -184,3 +184,44 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Addendum — July 2026 Update
+
+Re-checked search and competitor landscape a month after the initial report. Most findings below extend the June report rather than replace it; nothing here contradicts the existing plan.
+
+### What's New Since June
+
+- **Competitive whitespace is still open.** A fresh scan of the top guitar YouTube channels (JustinGuitar, Marty Music, Rick Beato, Paul Davids, That Pedal Show, Five Watt World) confirms none target the 35–65 / adaptive-playing audience directly. No new competitor has entered this specific niche — the positioning from the June report still holds.
+- **"Returning to guitar after a break" is a validated, underserved angle.** A commercial product ("Band Ready Over 40") launched in this exact demographic, confirming real demand — but it's a jam/theory-skills offer, not a setup/ergonomics one. This is a gap the channel's Fix Ladder format is well suited to fill and it isn't in the June idea list.
+- **YouTube's 2026 algorithm changes favor this channel's existing format.** Shorts and long-form are now fully decoupled algorithmically, and satisfaction-per-minute (tight payoff) is weighted over duration/padding. This rewards the channel's already-planned short, single-friction-point structure — no format change needed, but it strengthens the case for a dedicated Shorts cadence built from the before/after cut-downs already noted in Format Notes.
+- **Low-priority / skip:** AI-assisted lutherie, AR/VR guitar lessons, and smart/app-connected guitars are trending in general guitar coverage but don't fit this channel's low-tech, trust-first identity — not recommended.
+
+### New Video Ideas
+
+| Working Title | Key Angle |
+|---|---|
+| **The Comeback Setup: What to Fix Before You Play Again** | For players restarting after years off; reframes "I lost my skills" as "my guitar drifted while I was gone" |
+| **Why Your Old Guitar Feels Harder Now Than It Did 20 Years Ago** | Body changes (grip, joints) + guitar changes (neck relief, action creep) compound — nobody separates the two variables |
+| **The 24-Hour Comeback Check** | Fast, single-session setup audit for someone about to play again for the first time in years — companion piece to the Fix Ladder |
+
+### Updated Gap List
+
+Adds one item to the five gaps already logged in June:
+
+6. **"Returning after a long break" as its own arc** — distinct from both "beginner" and "arthritis/PTI" framing; the emotional hook is nostalgia + frustration, not injury. No channel currently owns this from a setup-first angle.
+
+### New Title/Hook/Thumbnail Concepts
+
+**"I Hadn't Touched a Guitar in 20 Years. My Fingers Weren't the Problem."**
+- Hook: "Everyone tells you to practice more. Nobody checks whether your guitar changed while you were gone."
+- Thumbnail: dusty guitar case opening; before/after action measurement overlay
+
+**"The 24-Hour Comeback Check (Before You Play Again)"**
+- Hook: "One evening, one checklist, and your guitar stops fighting you."
+- Thumbnail: checklist graphic over guitar neck; clock icon
+
+### Bottom Line
+
+No urgent pivots. The June plan remains sound — this update adds a third viable series pillar ("Comeback") alongside Playing Through It and the Setup Basics library, and validates that the channel's format is well-timed for the 2026 Shorts algorithm shift.

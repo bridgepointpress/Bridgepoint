@@ -184,3 +184,75 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — July 2026
+
+*Research refresh. Existing sections above are preserved; this section covers what's new or changed since the June 2026 pass.*
+
+## What's New in Trending Topics & Keywords
+
+- **String tension math as a hook:** Moving from Light to Medium gauge adds roughly 20–30 lbs of pull on the bridge/neck — a concrete, quotable number that explains *why* a setup needs re-adjusting after a string-gauge change. Direct follow-on to the already-scripted "light strings" video. [Source: guitarworld.com string coverage]
+- **AI practice gear has gone mainstream:** Positive Grid Spark NEO (Auto Chords, Smart Jam backing-track generator, "Spark AI" tone-matching by band/song name) and Mooer StemLab (one-click stem separation — isolate guitar/bass/drums/vocals from any song for practice) are the two most-covered new devices in guitar press this year. Both are squarely "silent practice" adjacent and gear-comparison-ready.
+- **Celebrity relatability hook, freely available:** Keith Richards and Joe Perry have both gone on record this year about adapting their playing and gear to arthritis. This is a ready-made cold-open hook ("if it happens to Keith Richards...") that the channel hasn't used yet — high-authority, zero-cost borrowed credibility.
+- **Parkinson's + guitar is breaking into mainstream press:** A Good Morning America / ABC News feature on a guitar teacher launching a Parkinson's therapy program, plus new academic coverage of tremor/rhythm interaction, signals real search and interest growth. Distinct mechanism from arthritis or carpal tunnel — tremor management, not pain or grip.
+- **Stroke recovery / hand rehab via guitar:** Emerging clinical coverage (stroke patients regaining fine motor control through guitar chord practice) mirrors the existing carpal tunnel / neuropathy framing but for a different audience entering the niche from a rehab angle rather than a "lifelong player" angle.
+- **"Jam intimidation" is a bigger barrier than physical friction for many over-40 returners:** Multiple sources point to fear of embarrassment / not being "good enough" to play with others as the top blocker for adults returning to guitar — not hand pain. This is a *social* friction point, not a physical one, and it's currently outside the channel's PM/Fix-Ladder framing, which has so far been entirely physical/mechanical.
+- **YouTube Shorts algorithm shift favors this channel's existing format:** 2026 update rewards 30–45 second clips (the channel's "30 sec uninterrupted playing" payoff moment already fits), original audio/voiceover over trending sound, and raw/authentic footage over polished cuts. Shorts titles are now searchable again, so keyword-bearing Shorts titles matter.
+
+## New Video Ideas
+
+### Playing Through It (two new episodes — mechanism-distinct from existing PTI list)
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| Ep 9 | **Guitar and Parkinson's: What Rhythm Can (and Can't) Do** | Tremor management is a different problem from arthritis/carpal tunnel — steady strumming patterns as a tool, not a cure; clinical tone, cite the GMA-covered therapy program |
+| Ep 10 | **Relearning Guitar After a Stroke** | Fine motor recovery angle; distinct audience entry point (rehab-referred, not lifelong player); highest emotional payoff of the whole series |
+
+### New mini-series: "The Other Kind of Friction" (social/psychological — genuinely new lane for the channel)
+
+- **"Why You're Too Scared to Jam (And What Actually Fixes It)"** — reframes jam intimidation as a solvable, structured problem, PM-style, matching the channel's whole thesis but applied to confidence instead of hands
+- **"Nobody Cares If You Mess Up: What 10 Years of Open Mics Taught Me"** — testimonial/interview format, could feature a guest
+- **"The 5-Minute Jam Warmup for People Who Haven't Played With Anyone in 20 Years"** — practical, low-stakes, directly actionable
+
+### Gear Comparison Refresh (Silent & Stealth Practice series)
+
+- **"Positive Grid Spark NEO Review: Is the AI Worth It?"** — Auto Chords / Smart Jam tested against manual practice; honest take for a skeptical 45+ audience wary of AI hype
+- **"Mooer StemLab vs. Just Learning by Ear"** — stem-separation practice tool tested against traditional ear-training; positions the channel's "no-shortcuts-but-easier-is-fine" philosophy well
+- **"I Updated My £0–£150 Silent Practice Rig for 2026"** — direct refresh of the existing anchor video with the two new devices slotted into the Fix Ladder
+
+### Standalone
+
+- **"What 20–30 Extra Pounds of String Tension Does to Your Neck"** — direct sequel to the light-strings video; visual/measurable payoff (truss rod adjustment demo)
+- **"Even Keith Richards Had to Change His Guitar for Arthritis"** — borrowed-authority cold open; leads into the existing arthritis/PTI content as the "real" video
+
+## Content Gaps Confirmed by This Pass
+
+1. **Social/psychological friction is entirely unaddressed.** Every existing PTI episode and Fix Ladder is mechanical or physical. Jam intimidation, performance anxiety, and "letting yourself sound bad in front of people" sit outside the current format but fit the underlying PM philosophy perfectly — likely the single highest-leverage new lane found this pass.
+2. **Tremor-based conditions (Parkinson's, essential tremor) are a distinct mechanism** from everything currently planned (arthritis = inflammation, carpal tunnel = compression, tremor = involuntary movement) and have real, current mainstream press attention.
+3. **Rehab-entry audiences (stroke, post-surgery hand rehab)** are a new viewer acquisition channel distinct from "lifelong player returning" — worth testing as a discrete video before folding into the PTI series.
+4. **Shorts strategy is under-specified relative to the algorithm's 2026 shift.** The channel's format naturally produces 30–45 second payoff clips, but there's no stated cadence (2026 data suggests 3–5/week) or note on using original voiceover over trending audio.
+
+## Titles, Hooks & Thumbnails for This Pass's Top Ideas
+
+### "Even Keith Richards Had to Change His Guitar for Arthritis"
+- **Hook:** "If it happens to him, it's not a you problem."
+- **Thumbnail:** Silhouette hand on fretboard + small inset photo-style callout; "IT'S NOT JUST YOU" text treatment
+
+### "Why You're Too Scared to Jam (And What Actually Fixes It)"
+- **Hook:** "It's not your playing. It's the story you're telling yourself about your playing."
+- **Thumbnail:** Empty chair next to a guitar amp; warm lighting; no face required
+
+### "Guitar and Parkinson's: What Rhythm Can (and Can't) Do"
+- **Thumbnail:** Metronome + guitar neck; PTI series card, episode 9
+- **Hook:** "Rhythm won't fix a tremor. Here's what it actually does instead."
+
+### "I Updated My £0–£150 Silent Practice Rig for 2026"
+- **Hook:** "Same budget. Better gear. Here's what changed."
+- **Thumbnail:** Fix Ladder price callouts refreshed with new device photos, dark background, consistent with original anchor video
+
+## Format Note
+
+- The Shorts algorithm change (watch-time over swipe-rate, 30–45s sweet spot, original-audio bonus) validates the channel's existing before/after clip length without requiring format changes — the only gap is upload cadence and using narrated voiceover rather than trending audio on cut-downs.

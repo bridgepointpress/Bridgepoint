@@ -184,3 +184,58 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — July 2026
+
+**Date:** 2026-07-08
+
+---
+
+## Trending Topics & Keywords (New This Update)
+
+- **Keith Richards arthritis interview (March 2026, still circulating)** — Richards told Guitar World he's "going for a wider fingerboard" and plays fewer notes because of arthritis/large knuckles: *"I do have arthritis... it does get in the way sometimes... at my age, what I find most interesting about the guitar is you can compensate for certain disabilities."* This is a high-profile, still-live newsjack directly on-mission for the channel. [Guitar World](https://www.guitarworld.com/artists/guitarists/keith-richards-rolling-stones-2026-interview)
+- **"Smart guitar" search volume up 470% (2024→2025)** — rising interest in app-connected, learning-assist, hybrid digital-acoustic instruments; relevant to the "returning player" segment of the audience. [Accio Trend Report](https://www.accio.com/business/trend_guitar)
+- **Used/vintage guitar market "resetting" in 2026** — commentary describes the post-2020 buying frenzy cooling into a "healthier, more sustainable rhythm" with fair prices for buyers — a good moment to revisit the Pawn Shop Rescue franchise. [Guitar Shop of Elm Street](https://www.theguitarshopoffelmstreet.com/post/the-used-guitar-market-in-2026-what-players-collectors-and-sellers-need-to-know)
+- **Adaptive/thumb-loop picks** — recurring, underserved search cluster ("Gripless," "Cling Pro," Etsy adaptive pick holders) aimed explicitly at arthritis, tendinitis, and carpal tunnel; almost no video content explains *how to choose* between designs. [Cling Pro Picks](https://www.clingpropicks.com/store/artharitic-cling-pro-pick) / [Etsy Gripz](https://www.etsy.com/listing/1891760472/guitar-pick-holder-gripz-sher-hold)
+- **Ergonomic guitar brands as a 2026 gear category** — trade press now covers ergonomic-guitar body design as its own buying category (posture/back pain framing), not just a niche oddity — validates the channel's existing "Support Systems Compared" idea. [Guitar Brands: Ergonomic 2026](https://www.guitarbrands.org/ergonomic-guitar-brands-for-physical-comfort/)
+- **Spatial audio in headphone practice gear** — Boss and Positive Grid both pushing spatial-audio practice amps in 2026, confirming the existing silent-practice comparison idea is still timely and worth a refresh pass. [GuitarPlayer Best Practice Amps 2026](https://www.guitarplayer.com/gear/best-practice-amps)
+
+---
+
+## New Video Ideas
+
+| Working Title | Description | Est. Audience Appeal |
+|---|---|---|
+| **"Keith Richards Just Described Every Player Over 60" (Reaction/Breakdown)** | React to his March 2026 Guitar World quotes on arthritis and "wider fingerboard" adaptation; bridge into the channel's own Fix Ladder for the same problem | High — timely newsjack, built-in search traffic from his name, direct tie to PTI series |
+| **Adaptive Picks Compared: Gripless vs. Thumb Loop vs. Cling Pro** | Hands-on comparison of the main adaptive pick systems people with arthritis/carpal tunnel actually buy; which grip style suits which condition | Medium-High — underserved search cluster, affiliate-ready, natural PTI companion piece |
+| **"Wider Neck, Easier Chords?" — Testing the Keith Richards Fix** | Practical test: does a wider fingerboard actually reduce string-crowding pain, or is it a myth for most players? | Medium — curiosity hook off the newsjack, but delivers real setup-vs-instrument-choice insight |
+| **Is Now a Good Time to Buy a Used Guitar? (2026 Market Check)** | Ties 2026 used-market commentary to the Pawn Shop Rescue franchise; "the frenzy is over, here's what that means for you" | Medium — service journalism angle, extends an existing franchise rather than starting a new one |
+| **"Smart Guitars" for Returning Players: Hype or Actually Helpful?** | Honest look at app-connected/learning-assist guitars for someone coming back after a 10–20 year break | Medium — rising search term, fits the "returning player" audience segment already named in channel docs |
+| **Ergonomic Guitar Bodies: Worth It, or Just a Strap Height Fix in Disguise?** | Tests whether a $600+ ergonomic-body guitar solves anything a $15 strap adjustment doesn't — classic Fix Ladder skepticism | High — controversial claim, measurable, matches channel's contrarian-but-honest voice |
+
+---
+
+## Content Gaps and Underexplored Angles (New This Update)
+
+1. **No current video reacts to or contextualizes celebrity/public-figure arthritis moments** — the Keith Richards interview is exactly the kind of cultural hook this channel hasn't used yet; timely reaction content is absent from the existing slate.
+2. **Adaptive pick selection has no dedicated video** — the channel covers strings, action, and neck relief in depth but hasn't touched picks as an adaptive-gear category, despite a visible product ecosystem (Gripless, Cling Pro, Etsy sellers) built entirely around this audience's pain points.
+3. **No "market timing" content** — every budget-guitar video is instrument-specific; nothing yet addresses *when* to buy, which the 2026 used-market reset makes newly relevant.
+
+---
+
+## Titles, Hooks & Thumbnail Concepts (New This Update)
+
+### 1. "Keith Richards Just Explained Why Your Guitar Feels Wrong at 60"
+- **Hook:** "He's got arthritis, big knuckles, and 60 years of playing. Here's what he changed — and what you can change today."
+- **Thumbnail:** Richards' quote overlaid on a fretboard-width comparison graphic; PTI series bar
+
+### 2. "The £8 Fix Everyone With Arthritis Buys (And Whether It Works)"
+- **Hook:** "Adaptive picks are everywhere online. I tested the three most popular ones."
+- **Thumbnail:** Three pick styles laid out on a guitar, price tags visible, one circled in green
+
+### 3. "Should You Buy a Used Guitar Right Now? (2026 Reality Check)"
+- **Hook:** "The pandemic guitar boom is over. Here's what that actually means for your wallet."
+- **Thumbnail:** Pawn-shop-style guitar wall with a "2026 PRICE CHECK" overlay, callback to the existing Pawn Shop Rescue thumbnail style

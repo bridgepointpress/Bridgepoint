@@ -184,3 +184,65 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — July 9, 2026
+
+Web research pass to check for new gear, trends, and gaps since the June 2026 doc above. Findings supplement (not replace) everything above.
+
+## What's New Since June
+
+**Gear releases worth reacting to:**
+- **Positive Grid Spark Neo** — new all-in-one wireless headphone amp: modeling + headphones + wireless guitar link in one unit. Strongest new entrant in the silent-practice category; directly upgrades the existing "Headphone Amps Compared" idea.
+- **Fender Mustang Micro Plus — bass update (NAMM 2026)** — free firmware update adds 10 bass amp/presets. Minor angle: signals crossover audience (guitarist-turned-bassist, common in the 35–65 group after hand fatigue).
+- **Vox Amplug 3 series** — new analog circuit, still budget-friendly plug-and-play.
+- **IK Multimedia Tonex Plug** and **Boss Katana:Go** — additional competitors in the mid-tier headphone amp space.
+- **LEKATO headphone amp (~$40, Amazon's Choice)** — fills the true budget tier; good Fix Ladder $0–20 candidate the channel hasn't tested yet.
+
+**Adaptive/accessibility gear (previously undercovered in this doc's gear lists):**
+- **Strumling** (EazyHold) — silicone pick-holder strap for limited grip or limb difference; low-cost, high-relevance.
+- **EZ-Fret** — external fretting-assist device for finger pain.
+- **Robo-Tar** — assistive device for upper-limb disability / stroke recovery, used in music therapy contexts.
+- **The LOLO** — adaptive tabletop acoustic/electric guitar built for players who've lost dexterity.
+- **Super Sounds Guitar** (Enabling Devices) — switch-adapted guitar with wheelchair-tray mount.
+
+These are real products with almost no independent, plain-language review content — a clear white space for the PTI series.
+
+**Audience/behavior signal:**
+- Recurring theme across senior-focused sources: guitar framed as a **cognitive and social** activity (fine motor skills, memory, group classes at senior centers/community colleges), not just a hobby. This is a softer, more emotional angle than the channel currently uses and could widen appeal beyond the "fix my pain" viewer.
+
+**Platform/format signal:**
+- YouTube Shorts algorithm now weights **freshness** heavily — Shorts older than ~30 days rarely get pushed, versus the older evergreen-favoring model. Ranking-style ("top 5") Shorts are currently the strongest-performing format, and the hook needs to land in the first 2 seconds. This means the channel's current plan of purely reusing before/after clips as Shorts may underperform unless each one leads with a distinct hook rather than a generic cutdown.
+
+## New Video Ideas
+
+| Idea | Description | Audience Appeal |
+|---|---|---|
+| **Adaptive Guitar Gear Tested: Strumling, EZ-Fret, LOLO** | Hands-on review of accessibility devices most players have never heard of | High — near-zero competing content, strong PTI-series fit, shareable beyond guitar niche |
+| **Positive Grid Spark Neo vs. Fender Mustang Micro Plus** | Head-to-head of the two newest silent-practice flagships | High — timely, gear-comparison format already proven to work for this channel |
+| **Can a $40 Headphone Amp Replace a $200 One?** (LEKATO test) | Budget-tier honest test, fits Fix Ladder $0–20 rung | Medium-high — strong curiosity hook, cheap to produce |
+| **Why Guitar Keeps Your Hands (and Mind) Sharp After 50** | Cognitive/social framing of adaptive playing, softer than pain-first videos | Medium — broadens funnel, good for shareability with family members of core viewers |
+| **One-Handed and Limb-Different Guitar: The Devices That Actually Help** | Robo-Tar / LOLO / Super Sounds Guitar explainer, ties to existing Django/one-handed episode plan | High — most underserved topic found in this pass, strong press/community potential |
+| **Guitar Classes vs. YouTube: When a Local Group Beats a Video** | Honest video pointing viewers to senior-center/community classes for the social side | Medium — unusual for a channel to recommend competitors' turf, but builds trust and matches the "luxury is absence of friction" mission |
+
+## Gaps Confirmed by This Pass
+
+1. **Assistive-device reviews are still a blind spot** — the channel talks about setup and ergonomics but hasn't reviewed a single named accessibility product (Strumling, EZ-Fret, Robo-Tar, LOLO). This is the single biggest opportunity found this round.
+2. **Shorts strategy needs its own hook, not just cutdowns** — given the 2026 freshness-weighted algorithm, treat Shorts as a distinct format with a fast standalone hook rather than a recycled clip.
+3. **The "cognitive/social benefit" angle is untouched** — everything currently is friction/pain-first; a softer benefits-first video could pull in adjacent audiences (adult children researching gifts for parents, senior center program coordinators).
+
+## Titles, Hooks & Thumbnails for the Top 2
+
+### "I Tried the Weirdest Adaptive Guitar Gear So You Don't Have To"
+- **Hook:** "There's a guitar pick holder for hands that can't hold a pick. Nobody's talking about it."
+- **Thumbnail:** Strumling/EZ-Fret close-up on hand; PTI series bar; red "NOBODY REVIEWS THIS" style callout
+
+### "Positive Grid Spark Neo vs. Fender Mustang Micro Plus: The Real Silent Practice Winner"
+- **Thumbnail:** Two units side-by-side, headphone icon, price + feature callouts
+- **Hook:** "One of these just made the other one obsolete. Here's which."
+
+## No Change Needed
+
+Everything in the June 2026 research above (topics, keyword list, Playing Through It roadmap, Fix Ladder structure) still holds — this pass found additive opportunities, not corrections.

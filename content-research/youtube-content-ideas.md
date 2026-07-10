@@ -184,3 +184,55 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — July 2026
+
+*This section preserves all research above and adds newly identified opportunities as of this date.*
+
+## What's New Since June
+
+- **The 45+ demographic is now a documented majority, not a niche.** 70% of Fender Play app users are 45 or older, and industry data puts the average guitarist age at 35–45, with a large share of that group being returning hobbyists. This validates the channel's core audience bet — worth referencing directly in a video (see Title Idea #11 below).
+- **"Guitar learning app" search interest hit a record high in December 2025** (Google Trends), driven by users plateauing at barre chords and basic open-chord fluency. This is a direct, current-events tie-in to the channel's existing barre chord video (#5 in the Titles list) — the plateau this data describes *is* a setup problem the channel already has an answer for.
+- **AI practice tools (chat-based coaches, AI tone finders, adaptive tuners) are a fast-growing 2026 category**, but none of the coverage addresses whether they actually help older, less tech-fluent, or hand-pain-affected players — an unclaimed skeptical-review angle that fits the channel's honest, no-hype voice.
+- **Practice-amp and silent-rig gear has shifted**: Yamaha THR30II, Fender Mustang Micro Plus, and Soundbrenner Core 2 (haptic metronome) are the current reference points for 2026 apartment/quiet setups — useful for refreshing the existing Silent & Stealth Practice series with current gear rather than aging comparisons.
+- **Confirmed via current sourcing:** the twice-yearly (seasonal) setup recommendation already planned in the Humidity video idea matches 2026 industry guidance almost verbatim — good sign this topic is evergreen and worth prioritizing.
+
+## New Content Gap: Tremor Conditions (Essential Tremor / Parkinson's)
+
+This is the single biggest gap found in this update. Search and forum activity (Telecaster forum, Delcamp Classical Guitar, guitar-specific tremor communities) shows real, recurring demand from guitarists managing essential tremor or Parkinson's-related tremor — a condition **distinct from both arthritis and carpal tunnel** (motor control/involuntary movement vs. joint inflammation vs. nerve compression). No dedicated, high-quality YouTube content exists for this audience. It fits the Playing Through It series exactly and would round out the series' coverage of the three major categories of hand friction (structural, nerve, and motor control).
+
+- **Proposed:** **PTI Ep 9 — "Playing Guitar With Essential Tremor"**
+  - **Angle:** Anchoring technique (weighting the picking hand, fingerpicking over flatpicking), setup fixes that reduce the precision tremor punishes (wider string spacing, lighter action), and an honest note on when it's a medical-treatment conversation, not a setup one.
+  - **Hook:** "Your hand won't hold still. Your guitar can still meet it halfway."
+  - **Thumbnail:** Close-up of hand anchored against guitar body; PTI series card, episode number.
+
+## Other Newly Identified Video Ideas
+
+| Working Title | Angle | Why Now |
+|---|---|---|
+| **"I Used an AI Guitar Coach for 30 Days (Honest Review for Older Players)"** | Tests a chat-based AI coach against the channel's Fix Ladder philosophy — does it actually reduce friction or add a new one? | Fast-growing 2026 category with zero skeptical, age-aware coverage |
+| **"Why You're Stuck at Barre Chords (It's Not a Practice Problem)"** | Reframes the existing barre chord video around the Dec-2025 search spike in "plateauing at barre chords" | Rides a documented, current search trend directly into an existing content strength |
+| **"The 2026 Silent Practice Rig, Rebuilt"** | Refresh of the Silent & Stealth series with THR30II, Mustang Micro Plus, and haptic metronome gear | Keeps an evergreen series current; comparison format is proven in this niche |
+| **"Do Haptic Metronomes Actually Help? (Soundbrenner Core 2 Tested)"** | Vibration-based timing feedback — useful crossover for players with mild hearing loss or who practice silently | New gear category with no adaptive-playing-angle coverage yet |
+| **"70% of Fender's App Users Are Over 45 — So Why Is Gear Made for 25-Year-Olds?"** | Data-led identity piece; makes the channel's audience bet explicit and citable | Strong, current statistic gives the video a built-in hook and shareability |
+
+## Updated Titles, Hooks & Thumbnails
+
+### 11. "70% of Guitarists Are Over 45. Nobody Builds Gear for Them."
+- **Hook:** "The industry finally has the data. Here's what it actually means for your setup."
+- **Thumbnail:** Bold stat callout ("70%") over a hand on a guitar neck; no face
+
+### 12. "Playing Guitar With Essential Tremor"
+- **Hook:** "Your hand won't hold still. Your guitar can still meet it halfway."
+- **Thumbnail:** Anchored hand close-up; amber PTI series bar, "Episode 9"
+
+### 13. "I Tried an AI Guitar Coach for 30 Days (Would I Recommend It at 55?)"
+- **Hook:** "It promised to fix my practice. Here's what it actually fixed — and what it didn't."
+- **Thumbnail:** Phone/app screen next to guitar; skeptical expression or plain text overlay, no hype framing
+
+## Confirmed: No Major Reversal of Prior Findings
+
+The June research holds up — arthritis, carpal tunnel, silent practice, and setup-basics searches remain the strongest-matched high-volume topics for this channel. This update mainly *adds* (tremor conditions, AI-tools skepticism, current gear refresh) rather than replaces. Prioritize the Essential Tremor episode and the barre-chord/search-trend reframe first — both have the clearest search-demand evidence and the most direct fit with content already scripted.

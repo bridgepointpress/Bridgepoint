@@ -184,3 +184,52 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — July 2026
+
+Follow-up research pass. Nothing below duplicates the June 2026 research above; it extends it with what's moved since then.
+
+### Trending Topics & Keywords (new signal since June)
+
+- **"Returning to guitar after 50" / adult band camp trend** — multiple outlets (Acoustic Guitar, Medium, TuneLectric) now covering a documented wave of 50–70-year-olds re-entering instruments for community and identity, not skill-building. Motivation angle (belonging, not mastery) is a better hook than technique.
+- **Fret buzz remains a top-volume evergreen query** — stat worth citing on camera: ~45% of guitarists report fret buzz, and 62% of a 10k-player survey hit buzz specifically after a string change (Sweetwater/industry data). Gives the existing "$0 Fix" video a credibility anchor.
+- **Wireless/cordless practice amps** — 2026 gear cycle (Flatsons FBA-10, Positive Grid Spark Neo, Boss Katana:GO relaunch) is shifting the "silent practice" conversation from headphone amps alone to cordless all-in-one rigs. The existing silent-practice series should track this.
+- **Vox Amplug 3 Series** — refreshed analog circuit, still the budget benchmark; worth folding into the planned headphone-amp comparison video as the "$" tier.
+- **Adaptive playing devices reaching mainstream coverage** — ChordBuddy, Velcro/strap-on picks, and one-handed chord-forming devices are getting broader press (Soundbrenner, Disabled World) than a year ago. This is a monetizable, underexplored on-camera demo category the channel hasn't touched yet.
+
+### New Video Ideas
+
+| Idea | Description | Est. Appeal |
+|---|---|---|
+| **"I Went to Adult Band Camp at 58" (or interview format)** | Ride the documented 2026 "returning musicians" trend; community/identity angle rather than gear. Could be a guest-interview or first-person mini-doc. | High — taps a trend with active press coverage, strong emotional hook, good for channel-identity video #2 |
+| **"Adaptive Picks and ChordBuddy: Do They Actually Work?"** | Honest gear-test format on Velcro strap-picks and chord-assist devices for arthritis/limited grip; fits Fix Ladder if framed by price tier | High — underexplored on this channel, strong search intent from disabled/limited-mobility players, natural affiliate fit |
+| **"Cordless Practice Amps in 2026: Do You Still Need a Headphone Amp?"** | Update to the silent-practice series comparing new wireless amps (Flatsons FBA-10, Spark Neo) against the headphone-amp approach already planned | Medium-High — rides a live gear-news cycle, keeps the silent-practice series current |
+| **"The Fret Buzz Stat Nobody Tells You (45% of Guitars Have It)"** | Data-driven hook version of the existing $0 fret buzz video; use the survey stat as the cold open | Medium — mostly a packaging/hook variant of an already-planned video, cheap to produce as an alternate title test |
+| **"Why So Many People Are Picking Guitar Back Up in Their 50s and 60s"** | Trend-explainer video: not a tutorial, a "you're not alone" piece that acknowledges the wave of returning players and positions the channel as the home for it | Medium-High — community-building, likely to get comments/shares from the core 35–65 audience, doubles as a channel-identity/mission video |
+
+### Content Gaps and Underexplored Angles
+
+1. **Adaptive assistive devices (ChordBuddy, strap-on picks, one-handed chord aids)** — the channel covers technique and setup adaptations but has no dedicated gear-review coverage of assistive devices themselves. Given the PTI series already exists, this is a natural extension and currently a gap.
+2. **The "why now" trend piece** — every planned video is a fix or tutorial; there's no video yet that names and validates the returning-player wave itself. Doing so early, while press coverage is fresh, could position the channel as the definitive home for this audience before competitors notice the trend.
+3. **Live gear-cycle tracking for silent practice** — the existing silent-practice series was scoped before this year's cordless-amp releases; worth a lightweight update/comparison video rather than letting the anchor video go stale.
+4. **Shorts cadence** — per current YouTube strategy data, channels posting 3–5 Shorts/week in a niche outgrow sporadic posters, and the algorithm now clusters by micro-niche watch history, which favors a tightly-defined channel like this one. The channel has a "Shorts / Reels cut-downs" format note already but no stated posting cadence — worth deciding on one explicitly.
+
+### Titles, Hooks & Thumbnails for High-Potential New Ideas
+
+**"Adaptive Picks and ChordBuddy: Do They Actually Work?"**
+- Hook: "I tested the gear that promises to fix your grip. Here's what actually helped."
+- Thumbnail: Hand with strap-on pick mid-strum, red/green verdict badges over two device photos
+
+**"Why So Many People Are Picking Guitar Back Up in Their 50s and 60s"**
+- Hook: "You didn't stop playing because you lost interest. Here's what actually happened."
+- Thumbnail: Dusty guitar case being opened; warm light; no price callout (identity video, not a fix video)
+
+**"Cordless Practice Amps in 2026: Do You Still Need a Headphone Amp?"**
+- Hook: "The silent-practice rig just changed. Here's whether you need to upgrade."
+- Thumbnail: Old headphone amp vs. new cordless unit, side by side, "2026 UPDATE" banner
+
+### Confirmation
+
+No major new gaps emerged beyond the four above — the June research already covers this niche thoroughly (arthritis, carpal tunnel, silent practice, budget rescue, ergonomics, PM framing). This pass mainly surfaces a live trend (the returning-50+-player wave) and a gear-cycle update worth folding into existing plans, plus one clear content gap (assistive-device reviews).

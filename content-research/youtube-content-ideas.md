@@ -184,3 +184,70 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update: July 2026
+
+**Date:** July 12, 2026
+
+This section adds new findings on top of the June 2026 report above; nothing prior has been changed.
+
+## What's New Since June
+
+- **Essential tremor / Parkinson's guitar playing is a genuine open gap.** Forums (Guitarchat, TDPRI, Delcamp, Tony's Acoustic Challenge, HealthBoards) show recurring, detailed threads from players managing tremor while playing — anchoring the little finger on the body while picking, dropping the pick for fingerstyle, expecting leads to be harder than rhythm. No guitar YouTube channel addresses this directly. It sits squarely in the channel's 35–65 demographic (onset age for essential tremor) and fits the PTI format exactly. **This is the strongest new find this cycle — higher priority than the existing Trigger Finger gap.**
+- **Trigger finger remains confirmed and unaddressed.** Fresh forum evidence (Martin, Gibson, Steel Guitar Forum, JustinGuitar Community, Cracking the Code) across multiple guitar communities — treatment discussion (splinting, cortisone, surgery) but no setup-focused guitar content. Supports moving PTI Ep 4 up in priority.
+- **YouTube Shorts and long-form are now fully decoupled algorithmically** (per 2026 Creator Academy guidance) — Shorts get their own recommendation engine and reward posting volume/consistency over niche-perfection, and search-optimized "how to" Shorts are a real discovery channel in their own right. This changes the calculus on the existing "before/after clip" Shorts strategy: clips should be titled/captioned as standalone searchable answers ("why does my guitar buzz" as on-screen text), not just teasers for the long-form video.
+- **Extra-light string gauges (.009–.042) are now explicitly recommended in current buyer content for arthritis/joint pain**, not just "light strings" generally — gives the existing light-strings video a more specific, citable hook ("go to 9s, here's why").
+- **Headphone amp landscape shifted slightly**: Fender Mustang Micro Plus and Positive Grid Spark Neo are the current top picks in 2026 coverage (Spark Neo is new since the June list); Yamaha THR30II called out repeatedly as the apartment-specific pick. Worth refreshing the planned comparison video with these three plus Boss Waza-Air.
+- **Strandberg shipped a new model (Boden Standard N2, ~$1,799)** with continued EndurNeck ergonomic messaging — useful as a concrete, current product reference in the ergonomics series, though "Ergoplay" specifically still has no dedicated coverage anywhere (confirms that gap still stands).
+- **Older-adult guitar market continues to grow** as a retirement-hobby trend, with adaptive accessories (padded straps, fingerpicks, footrests) increasingly treated as mainstream rather than niche — validates the channel's core premise is riding a real tailwind, not a small corner case.
+
+## New Video Ideas
+
+| Series | Working Title | Angle / Appeal |
+|---|---|---|
+| Playing Through It | **Essential Tremor and the Guitar: What Actually Works** | Zero direct competition; anchor-finger and fingerstyle techniques pulled straight from player forums; high emotional resonance, likely strong watch time and comments |
+| Playing Through It | **Trigger Finger and the Guitar (Revisited)** | Bump priority given fresh multi-forum evidence; pair setup fixes (lighter tension, action) with realistic expectations around medical treatment |
+| Setup Basics | **Why Everyone's Moving to 9s: The Extra-Light String Case** | Specific gauge hook (.009–.042) rather than generic "light strings"; easy before/after bend-and-fret demo |
+| Silent Practice | **3 Headphone Amps in 2026: Mustang Micro Plus vs. Spark Neo vs. THR30II** | Refresh of planned comparison with currently-favored gear; comparison format is inherently shareable and affiliate-ready |
+| Ergonomics | **Is the New Strandberg Worth It for an Older Player's Hands?** | Uses a real, current ($1,799) product as a talking point without requiring the channel to own one — honest "who is this actually for" framing |
+| Shorts Strategy | **"Why Does My Guitar Buzz?" — 30 Seconds, No Preamble** | A Shorts-native cut (not a long-form teaser): on-screen text as the searchable hook, answer delivered in the clip itself, per the decoupled Shorts algorithm |
+
+## Updated Gap Priority
+
+1. **Essential tremor / Parkinson's-related tremor** — new, uncontested, high-fit. Top priority addition.
+2. **Trigger finger** — carried over from June, now with stronger evidence; still uncontested.
+3. **Shorts as standalone searchable answers**, not just clip-downs of long-form — format/strategy gap rather than a topic gap, but changes how existing Shorts should be captioned and titled.
+
+## Suggested Titles & Hooks (new)
+
+### "Essential Tremor and the Guitar: What Actually Works"
+- **Hook:** "Your hand won't cooperate. Here's how other players keep playing anyway."
+- **Thumbnail:** Hand mid-tremor over strings, calm annotation arrow — PTI series card
+
+### "Why Everyone's Moving to 9s"
+- **Hook:** "Half the tension. All the chord. Here's the string gauge nobody tells beginners about."
+- **Thumbnail:** Two string sets side by side with tension numbers overlaid (90 lbs vs. 120 lbs)
+
+### "Is the New Strandberg Worth It for an Older Player's Hands?"
+- **Hook:** "$1,799 for a headless neck. Is it a gimmick or does it actually help?"
+- **Thumbnail:** Strandberg Boden N2 next to a standard guitar, price callout
+
+## Sources Consulted
+
+- [Guitar Setup 101 (YouTube)](https://www.youtube.com/watch?v=WPhk4T4bq2Q)
+- [13 Tools and Tips for Playing Guitar with Arthritis — Roadie Music](https://www.roadiemusic.com/blog/tips-for-playing-guitar-with-arthritis/)
+- [7 Essential Insights for Learning Guitar at 50 and over — TuneLectric](https://www.tunelectric.com/learning-guitar-at-50-and-over/)
+- [Best headphone amps for guitar 2026 — Guitar World](https://www.guitarworld.com/features/best-headphone-amp-for-guitar)
+- [Understanding the ergonomic benefits of .strandberg* guitars](https://support.strandbergguitars.com/article/341-ergonomic-benefits)
+- [Strandberg Boden Standard N2 review — Musical Instrument World](https://www.musicalinstrumentworld.com/archives/38938)
+- [Trigger Finger — The Unofficial Martin Guitar Forum](https://umgf.com/trigger-finger-t170446.html)
+- [Trigger finger — JustinGuitar Community](https://community.justinguitar.com/t/trigger-finger/369551)
+- [Essential Tremor and Playing with a Pick — Guitarchat](https://www.guitarchat.co.uk/topic/767-essential-tremor-and-playing-with-a-pick/)
+- [Playing with "Essential Tremors" in your hands — Telecaster Guitar Forum](https://www.tdpri.com/threads/playing-with-essential-tremors-in-your-hands.1137406/)
+- [Learning to play guitar with essential tremor — Tony's Acoustic Challenge](https://tonypolecastro.com/family-forums/topic/learning-to-play-guitar-with-essential-tremor/)
+- [Guitar String Gauge Chart — OwningAFender](https://owningafender.com/guitar-setup/string-gauges)
+- [YouTube Shorts Algorithm Update: January 2026 — Miraflow](https://miraflow.ai/blog/youtube-shorts-algorithm-update-january-2026)
+- [Top Trending Niches on YouTube 2026 — OutlierKit](https://outlierkit.com/blog/trending-niches-on-youtube)

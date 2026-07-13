@@ -184,3 +184,64 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — July 2026 Content Research
+
+**Date:** July 13, 2026
+
+This section adds to (not replaces) the research above. Nothing in the June 2026 report is stale — the core gaps (carpal tunnel, seasonal humidity, luthier-vs-DIY, viewer rescue, one-handed playing) are still open and still the highest-priority list.
+
+---
+
+## Trending Topics & Keywords (new since last pass)
+
+- **Returning to guitar after a long break** — steady, well-documented search demand (Quora, forums, dedicated blogs all cover it), but almost no one frames it through a *setup* lens. Most existing content is "practice tips"; the channel's angle — "your guitar drifted while you were gone, not just your fingers" — is unclaimed.
+- **Robo-Tar / one-hand-cycling chord devices** — a genuine adaptive-guitar hardware trend (push-button/pedal chord cycling for one-handed strumming) surfaced in disability-tech coverage this year. Directly overlaps the "Django Framework" / one-handed PTI episode already planned — worth a mention or product-aware follow-up once Ep 5 ships.
+- **ChordBuddy-style graduated assist devices** — recurring in arthritis/disability searches; an honest "does this actually work, and when do you graduate off it" review sits well inside the Fix Ladder format.
+- **Cognitive/wellness framing of learning guitar 60+** — Johns Hopkins/Harvard-cited research on music and cognitive decline is circulating widely in senior-guitar content. Not a setup topic on its own, but a strong hook/cold-open line for PTI and "guitar over 50" videos ("this isn't just about playing easier — it's rewiring your brain").
+- **Headphone amp market has moved slightly since June**: Fender Mustang Micro *Plus* and Boss Katana-GO are now the two most-cited apartment/silent-practice picks (Boss Waza Air still relevant but less dominant in fresh coverage). Update the planned comparison video's product list before scripting.
+- **Wireless/no-power-cord practice amps** (e.g. Flatsons FBA-10 class of product) — an emerging sub-trend in the silent-practice space; worth one line in the "Silent Practice Rig" anchor video as a "what's coming" note, not a full episode yet.
+
+---
+
+## Format / Platform Notes (2026 Shorts landscape)
+
+- Current Shorts best-practice data reinforces the channel's existing identity rules almost exactly: **sub-3-second hook, text overlay (silent-watchable), one problem → one payoff, 15–35 seconds.** No format change needed — the before/after measurement cutdowns already planned are the right shape.
+- "Quick educational how-to, one problem/one solution" is explicitly named as an outperforming Shorts category right now — supports prioritizing the $0-fix and buzzing/neck-relief explainer videos as the first Shorts wave, since they compress cleanly into that structure.
+
+---
+
+## New Gaps Identified This Pass
+
+1. **"Getting your guitar ready" as part of the comeback narrative** — the returning-player audience is large and currently served only by generic practice-routine content; nobody connects "guitar setup drift during storage" to "why this feels harder than you remember." Strong overlap with the existing humidity/seasonal-drift angle — could be packaged as a single "Guitar Comeback Kit" video or short series.
+2. **Adaptive-device literacy** (Robo-Tar, ChordBuddy, and similar) — the channel currently has no video that simply explains *what adaptive hardware exists* and how it compares to a setup fix. An honest "device vs. setup vs. both" explainer would fill a real information gap and complements rather than competes with the Fix Ladder philosophy.
+3. **Cognitive-benefit hook lines are underused** — existing scripts lean entirely on comfort/pain-relief framing. A short cold-open referencing the memory/neuroplasticity research could widen appeal for the 50+ segment without changing the core PM/Fix Ladder format.
+
+---
+
+## Additional Titles, Hooks & Thumbnails
+
+### 11. "I Hadn't Played in 3 Years. My Guitar Was the Problem, Not Me."
+- **Hook:** "Everyone tells you to blame your fingers. Check your action first."
+- **Thumbnail:** Dusty guitar case opening; feeler gauge overlay; "3 YEARS LATER" caption
+
+### 12. "Do Adaptive Guitar Devices Actually Work? (Robo-Tar, ChordBuddy, Honest Test)"
+- **Hook:** "One of these is a crutch. One of these is a bridge. Here's how to tell which."
+- **Thumbnail:** Two devices side by side on a guitar neck; PTI series card
+
+### 13. "Best Headphone Amp for Apartment Practice in 2026 (Updated)"
+- **Hook:** "The winner from last year just got replaced."
+- **Thumbnail:** Fender Mustang Micro Plus vs. Boss Katana-GO; head-to-head layout, price callouts
+
+### 14. "Your Brain on Guitar: Why Starting at 60 Isn't Too Late"
+- **Hook:** "This isn't a hobby video. This is a neuroplasticity video that happens to be about guitar."
+- **Thumbnail:** Simple, warm portrait-style shot (hands only, per identity rules); single stat callout
+
+---
+
+## Bottom Line
+
+No major pivot required — this pass confirms and sharpens the June report rather than surfacing a new direction. The most actionable additions are: (1) the "returning after a break" angle as a natural bridge between the humidity/seasonal-drift gap and a new audience segment, and (2) a refresh of the silent-practice gear comparison before that script locks, since the product leaderboard shifted since June.

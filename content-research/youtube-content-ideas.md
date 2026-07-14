@@ -184,3 +184,29 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## July 2026 Update — New Findings
+
+### Timely Newsjack Opportunities (time-sensitive, act within 2–4 weeks)
+
+- **Keith Richards on arthritis and guitar (Guitar World, March 2026):** Richards, 82, went public about playing fewer notes and switching to a wider fingerboard to compensate for arthritis and enlarged knuckles. Direct hook for the PTI series — "Even Keith Richards Had to Adapt: What His Arthritis Fix Actually Means" reframes a celebrity story through the channel's setup-first lens (wider neck = nut/fretboard geometry, not talent loss).
+- **Joe Perry (Aerosmith) on early arthritis and string-gauge changes:** Parallel angle to Richards; supports a two-part or combined video comparing how two legendary players independently landed on setup/gear fixes rather than quitting. Strong shareability outside the core niche (classic rock fan crossover).
+- Both stories give the channel a rare opening to newsjack mainstream guitar press with content that's 100% on-mission — worth prioritizing over evergreen topics for the next upload or two while the stories are fresh.
+
+### New Trending Topics & Keywords
+
+- **"Positive Grid Spark Neo" (wireless headphone amp, $199):** Reviewers across Guitar World, Guitar Player, Guitar.com, and SoundGuys are calling it the best headphone amp on the market — 33 amp models, 43 effects, AI tone-matching, 6-hour battery, praised specifically for all-day comfort. This directly upgrades the already-planned "Headphone Amps Compared" video — Spark Neo should be added as a fourth contender alongside Vox Amplug, Fender Mustang Micro, and Boss Waza Air, and likely deserves its own standalone review given review volume and search interest.
+- **Vox Amplug 3 Series:** New analog circuitry, positioned as the value pick. Confirms the existing comparison video concept is still current and worth prioritizing.
+- **Fender Mustang Micro Plus bass update (Jan 2026, NAMM):** Free firmware update, 10 new amps/presets — minor relevance unless the channel ever covers bass, likely skip.
+- **ChordBuddy adaptive learning device:** Shark Tank-famous, explicitly marketed toward arthritis and physical-challenge players — the channel hasn't reviewed it. Fits the Fix Ladder format well as a mid-tier ($25–100) product review with an honest "does it actually help or is it a gimmick" framing, which matches the channel's trust-first positioning.
+- **YouTube Shorts algorithm shift (Jan 2026 onward):** Watch-time-per-impression has replaced swipe-rate as the core ranking signal; new Shorts get a 30–60 minute performance window before distribution is decided; retention benchmark for "good" is now ~70%+; an anti-repetition AI filter now suppresses Shorts that reuse the same hook/format/visual style too often; Shorts are now surfaced directly in search results and Home, not just the swipe feed. **Action:** the planned before/after measurement Shorts strategy still works, but cut-downs need enough hook variation (not the same "reveal" structure every time) to avoid the repetition filter, and titles/on-screen text should be search-phrase-driven since Shorts now rank in regular search.
+
+### New Content Gap
+
+- **"Getting Back Into Guitar After Years Off" (adult-specific)** — "returning players" is already named as a core audience segment in the channel context, but no dedicated video exists for this exact search intent. Generic returning-guitar advice online skips the physical/setup angle entirely (sore fingertips, weaker calluses, forgotten barre-chord strength); this channel is uniquely positioned to connect "why it feels harder than you remember" to setup and conditioning rather than just "practice more." Suggested title: **"Why Guitar Feels Harder Than You Remember (It's Not Just Rust)"** — Hook: "Your hands changed. Your guitar didn't. Here's the gap." Thumbnail: dusty guitar case + calendar/years callout.
+
+### Updated Priority Call
+
+Given the Richards/Perry news cycle and the strength of the Spark Neo release, recommend resequencing near-term uploads: (1) arthritis newsjack video, (2) updated headphone amp comparison with Spark Neo added, (3) ChordBuddy honest review, ahead of previously lower-priority evergreen topics.

@@ -184,3 +184,75 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — July 2026
+
+*Follow-up pass on the June 2026 research above. All prior content preserved; this section adds newly surfaced angles and confirms/updates existing gap calls based on current search and competitor activity.*
+
+## What's Changed Since June
+
+- **Carpal tunnel gap is narrowing but still open for YouTube specifically.** A dedicated clinical explainer site (carpaltunnelpros.com) published a guitarist-focused strategy article in April 2026 — confirms rising search demand, but it's blog-only. No well-produced YouTube video owns this query yet. PTI Ep 2 remains high-priority and should ship soon before a bigger channel claims it.
+- **Guitar humidity content has strong purchase intent to pair with education.** Comparison-shopping content around case humidifiers (D'Addario Humidipak, MusicNomad Humitar with digital hygrometer, "Humitar ONE") is heavily saturated on blogs but thin on YouTube from a *player-education* angle rather than pure product review. Confirms the existing "Humidity and Your Guitar" idea and strengthens the case for a gear-comparison companion video.
+- **"Return to guitar after a break" is a well-covered topic but not through this channel's lens.** Existing content treats it as a motivation/practice-routine problem (relearn old songs, set weekly goals). None of it addresses the physical side — hands losing calluses and fine motor precision, or a guitar that's drifted out of setup after months in a closet. This is a natural PM-Player/Setup crossover the channel is uniquely positioned to own.
+
+## New Trending Topics & Keywords
+
+- **Essential tremor and guitar** — distinct from both arthritis and Parkinson's; ~10M Americans affected (8x more common than Parkinson's per current sources), and adaptive techniques (anchoring the picking hand, weighted approaches) exist only in scattered forum posts, not video form. **Strongest new gap found this pass.**
+- **Stroke recovery and guitar** — real clinical precedent (LSU kinesiology/engineering rehab research, hospital-documented patient stories) and a handful of raw survivor vlogs exist, but nothing produced with this channel's clarity/production bar. High emotional stakes, high shareability, genuine underserved niche.
+- **Guitar and Parkinson's** (distinct video from essential tremor — different mechanism, different adaptive approach; conflating the two in search/content is a common error worth correcting explicitly)
+- **Prosthetic and one-handed adaptive picks/tools** — a few scattered demo videos exist; no channel has built this into a recurring, well-produced series the way PTI could
+- **YouTube Shorts hook discipline (2026 platform shift)** — current best practice has compressed to a sub-2-second hook (data shows <2s hooks get ~30% longer average view duration than longer intros); this is a format/production note, not a content topic, but affects how every Short in the Fix Ladder / before-after library should open
+
+## New Video Ideas
+
+### Playing Through It (further expansion)
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| Ep 9 | **Essential Tremor and Guitar: The Anchor Method** | Distinct condition from arthritis/Parkinson's; anchoring technique, pick weight, no medical overreach — practical only |
+| Ep 10 | **Parkinson's and Guitar: What's Different From Tremor** | Explicitly disambiguates from Ep 9; addresses the conflation happening in search and forums |
+| Ep 11 | **Playing Guitar After a Stroke: A Setup-First Approach** | Leans on real rehab precedent; setup and one-handed adaptation as the entry point, not just inspiration |
+| Ep 12 | **One-Handed and Prosthetic Playing: Tools That Actually Help** | Builds on the existing Django-referenced episode; reviews adaptive picks/tools specifically |
+
+### Setup Meets Comeback (new mini-series)
+
+- **"Your Hands Forgot, But So Did Your Guitar" — The Setup Check After Any Long Break** — reframes "returning to guitar" as a two-part problem (fingers *and* instrument drift); strong crossover with PM-Player audience
+- **"Calluses Are Gone. Here's What Actually Changed"** — technique + string gauge as a temporary bridge back, not a permanent downgrade
+- **"The 10-Minute Comeback Setup Check"** — quick-hit companion to the £0 Setup Check video, framed specifically for returning players
+
+### Gear Comparison (education-first angle, thin competition)
+
+- **"Case Humidifiers Compared: Humidipak vs. Humitar vs. the £3 Sponge Method"** — player-education framing rather than pure spec review; pairs with the existing humidity/seasonal drift video
+- **"Do You Actually Need a Hygrometer?"** — honest answer for the budget-conscious end of the audience; likely "yes, and here's the £8 one," reinforcing Fix Ladder trust
+
+## Updated Content Gaps
+
+1. **Essential tremor** — new #1 priority gap; larger affected population than Parkinson's, distinct from arthritis, virtually no dedicated YouTube content found in this pass.
+2. **Stroke recovery** — clinical/medical precedent exists but is disconnected from consumer-facing setup content; the channel's Fix Ladder framing could make this the most-shared PTI episode yet.
+3. **The "comeback" audience specifically** — heavily served on the motivation/routine side, essentially unserved on the "your guitar also needs to come back" side. Low production competition, high relevance to the 35–65 core audience (career/family gaps are common in this age band).
+4. Carpal tunnel remains open per the June research but is now time-sensitive — a blog has already staked a claim; recommend prioritizing Ep 2 in the next production cycle.
+
+## Titles, Hooks & Thumbnails for New High-Potential Ideas
+
+**"Essential Tremor and Guitar: The Anchor Method"**
+- Hook: "This isn't Parkinson's, and it isn't arthritis. Here's what actually works."
+- Thumbnail: Close-up of anchored picking hand; PTI series card, new episode number
+
+**"Playing Guitar After a Stroke: A Setup-First Approach"**
+- Hook: "Recovery videos show you the after. Nobody shows you the setup that made it possible."
+- Thumbnail: Hand on fretboard, warm lighting, PTI amber bar; understated, not clinical
+
+**"Your Hands Forgot, But So Did Your Guitar"**
+- Hook: "You've changed in six months. So has your guitar. Here's what to check first."
+- Thumbnail: Dusty guitar case opening; before/after action measurement overlay
+
+**"Case Humidifiers Compared: Humidipak vs. Humitar vs. the £3 Sponge Method"**
+- Hook: "One of these costs £3. One costs £30. Only one of them is a waste of money."
+- Thumbnail: Three humidifier options laid out with price tags; clear winner teased, not spoiled
+
+## Confirmation
+
+No prior ideas from the June research have been invalidated — trend signals this pass reinforce rather than replace them. The Fix Ladder / PTI format continues to match a genuinely underserved content space; the main risk flagged this pass is timing on carpal tunnel (Ep 2), where outside content is starting to appear.

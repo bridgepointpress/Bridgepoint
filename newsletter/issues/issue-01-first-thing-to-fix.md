@@ -11,3 +11,6 @@ The Fix Ladder this week:
 Try this before next week: play your usual first chord, then play it again pressing half as hard as feels natural. Notice where it stops ringing clean. That's your pressure baseline, and it's the number next week builds on.
 
 Play more. Work less.
+
+<!-- drafted: gmail draft id r-8507407786037764129, created 2026-07-14 -->
+

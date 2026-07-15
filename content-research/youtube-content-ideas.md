@@ -184,3 +184,52 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 15 July 2026
+
+**Sources consulted:** current web search (trending guitar/ergonomics/YouTube queries, July 2026), Bridge and Baseline backlog (`Bridge_and_Baseline_Final_v7.xlsx`, 52-video plan), Channel Ops Guide, existing scripts. Cross-checked against this file's June 2026 research and the v7 backlog to avoid duplicating planned or already-scripted topics.
+
+**Housekeeping note:** the skill's project-file table references a "v10" backlog spreadsheet, an Arthritis Checklist, a Short Scale Guitars 2026 doc, and an Easier Play Guitars doc. Only `Bridge_and_Baseline_Final_v7.xlsx` (last modified 11 Apr 2026), the Channel Ops Guide, and individual video scripts were found in the Bridge and Baseline Drive folder — worth confirming whether those four docs live elsewhere or are still to be created, since Mode 3 planning depends on the backlog being current.
+
+## What's Changed Since June
+
+Nothing in the niche has shifted in a way that invalidates the June research — the core keyword set (fret buzz, action too high, arthritis, neck relief) is stable, evergreen search volume. Three things are newly worth noting:
+
+- **Short-scale guitars have moved further from "beginner instrument" framing.** Current gear-press coverage explicitly positions short scale as a deliberate choice for players who "don't want to fight their instrument" — language that matches this channel's philosophy almost exactly. This strengthens (not just confirms) the existing "Guitar I Wish I'd Bought at 50" idea.
+- **Ergonomic-guitar brand coverage (Strandberg, Aristides) is trending in gear press but is priced and voiced for a different audience** — tech-forward, spec-driven, not this channel's persona. This is a gap the channel can fill: nobody is translating ergonomic-guitar thinking into Fix Ladder terms for a player who isn't going to buy a $2,000 headless guitar.
+- **Practice-app coverage has shifted from "which app" to "which small stack of 2–3 tools."** Relevant to the Practice Systems series — reinforces the PM framing (minimal toolset, not maximal) rather than suggesting a new app-review format.
+
+## New Video Ideas (not already in June list or the v7 backlog)
+
+| Working Title | Friction / Angle | Audience Appeal |
+|---|---|---|
+| **"Ergonomic Guitars Cost $2,000. Here's the $30 Version of the Same Idea"** | Strandberg/Aristides-style ergonomic design principles (neck angle, weight distribution) translated into Fix Ladder fixes on a normal guitar | High — rides current gear-press trend, but reframed for this channel's budget-agnostic audience; strong contrarian hook |
+| **"Sticky Strings in Summer: The Sweat Problem Nobody Mentions"** | Seasonal counterpart to the existing winter/humidity idea — hot weather causes sweat corrosion, string tackiness, and grip changes; timely for July publish | Medium-high — seasonal search spike right now, easy reshoot template alongside the winter video |
+| **"Don't Leave Your Guitar in the Car: What Heat Actually Does"** | Car/hot-case damage (softened glue, bridge lift) — practical, one-fix-focused (case choice, shade, hygrometer) | Medium — lower search volume but strong shareability, ties to travel season |
+| **"The 3-App Practice Stack (And Why More Apps Made Me Practice Less)"** | Reframes "best guitar app" search intent through the PM constraint lens — minimal toolset over maximal | Medium — fits Practice Systems series, low production cost, evergreen |
+| **"What a $2,000 Ergonomic Guitar Actually Solves (And What It Doesn't)"** | Honest teardown of what ergonomic design claims solve vs. what a $0–$30 setup fix already solves — protects channel credibility if viewers ask "should I just buy a Strandberg?" | Medium — positions channel as trustworthy against gear-hype content, natural affiliate-safe framing (no sponsor needed either way) |
+| **"Guitar Tuner Apps Compared for Players With Hearing or Attention Differences"** | Visual vs. pitch-based tuning apps; relevant to a segment of the audience never addressed directly in existing content | Medium — small but underserved audience, differentiator, no existing coverage found anywhere in this niche |
+
+## Gaps Confirmed Still Open
+
+The June research's content-gap list holds up — none of the seven gaps identified then have been filled by the v7 backlog or published scripts (carpal tunnel, seasonal/humidity as a repeatable format, luthier-vs-DIY, viewer rescue, flare-up day, guitar size as comfort not just gear, one-handed/partial-limb playing). Two additions worth flagging:
+
+1. **"Translated ergonomics" gap** — no channel in this niche is taking premium ergonomic-guitar design language and translating it into low-cost fixes for players who already own a normal guitar. This is a genuine white space and matches the channel thesis directly.
+2. **Summer/heat seasonal content** — the existing gap note only covers winter humidity. A hot-weather counterpart is missing and is timely for a July shoot.
+
+## Suggested Titles, Hooks, Thumbnails for the Top Two New Ideas
+
+**1. "Ergonomic Guitars Cost $2,000. Here's the $30 Version of the Same Idea"**
+- Hook: "The design principle is real. The price tag isn't required."
+- Thumbnail: Split frame — sleek ergonomic guitar silhouette on one side, ordinary guitar with strap/neck-angle adjustment on the other; no price callout needed, the title carries it
+
+**2. "Sticky Strings in Summer: The Sweat Problem Nobody Mentions"**
+- Hook: "Your strings aren't wearing out. They're corroding while you play."
+- Thumbnail: Close-up of string with visible tarnish/residue; small sun icon top corner to signal season, consistent with the winter video's visual system for series recognition
+
+## Confirmation
+
+No urgent or time-sensitive opportunity emerged this cycle — this is an incremental update to a healthy backlog, not a signal to reprioritise. The six ideas above are additions to the pipeline, not replacements for anything already planned.

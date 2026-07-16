@@ -184,3 +184,57 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Research Update — 2026-07-16
+
+Follow-up pass on the June 2026 research above. Focused on what's changed in the last month and where external signals sharpen or confirm the gaps already logged. No project files beyond this research doc were found in the repo (Charter, Arthritis Checklist, Short Scale doc, Easier Play Guitars doc, and the v10 spreadsheet weren't locatable) — recommendations below lean on the existing content-research notes plus fresh web research.
+
+### What's New Since the Last Pass
+
+- **Carpal tunnel is still wide open.** Current search results (CarpalRx, Riffhard, Seymour Duncan, Midlife Guitar) are all generic hand-health advice — none frame it through setup/Fix Ladder logic. This keeps Ep 2 ("Carpal Tunnel and Guitar") as the single highest-priority gap on the board; nothing has closed it in the last month.
+- **Wrist-neutral positioning shows up everywhere.** Both arthritis and carpal tunnel sources independently converge on strap height / wrist angle as the first lever to pull. Strengthens the case for "The Strap Height Experiment" as a crossover video that serves both PTI conditions at once, rather than two separate episodes.
+- **Fanned-fret / multi-scale guitars are trending in the boutique market for 2026**, marketed on reduced wrist strain from angled fret access. This is a legitimate new Premium-tier (often $400+) entry for a future ergonomics/short-scale comparison — worth a mention, framed honestly as high-cost and niche, not a default recommendation.
+- **Mainstream adult-beginner advice is prescribing 30–45 minute sessions, 3x/week** ("How I'd Learn Guitar as an Adult in 2026" and similar). This directly conflicts with the channel's 15-minute sprint philosophy and is a clean counter-programming opportunity rather than a gap to fill.
+- **2026 Shorts data confirms "transformation" (visual proof, before/after, fast payoff) as a top-performing format.** This validates last month's "Viewer Rescue" gap and confirms the existing before/after measurement moments are already the right raw material — the ask is packaging them as native Shorts, not filming anything new.
+- **Silent-practice hardware has moved on.** New 2026 entrants worth folding into the already-planned headphone amp comparison: Positive Grid Spark Neo (all-in-one headphone amp/modeling/wireless guitar system), Flatsons FBA-10 (cordless practice amp), Vox Amplug 3 series (updated analog circuits). The comparison video sketched in June should be shot with these current options rather than the prior generation.
+
+### New Video Ideas
+
+| Working Title | Friction | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|
+| **"Carpal Tunnel vs. Arthritis: Same Guitar, Different Fix"** | Players lump the two together and apply the wrong fix | Free: wrist-neutral strap height / Affordable: lighter strings / Quality: locking tuners to cut re-tensioning strain / Premium: professional setup with nut/saddle work for reduced fretting pressure | High — closes the top-ranked content gap, near-zero direct competition |
+| **"The 45-Minute Practice Rule Is Wrong for You (Here's Why)"** | Guilt from prescriptive practice-length advice that assumes free time and pain-free hands | Reframes the 15-minute sprint as the counter-position; no purchase required | Medium-high — direct counter-programming against a trend this month's research surfaced, strong shareability in PM/productivity-adjacent circles |
+| **"Fanned Frets: Worth $400+ or Just Hype?"** | Curiosity about a 2026 boutique trend with an ergonomic health claim attached | Free: check if a standard neck's fret spacing is actually the problem first / Affordable: n/a / Quality: short-scale alternative around $150–250 / Premium: multi-scale guitar $400+ | Medium — niche audience, but strong differentiation since no one evaluates this claim skeptically |
+| **"Silent Practice in 2026: What's Actually New"** | Existing silent-rig video ideas need updated products | Free: foam mute / Affordable: Vox Amplug 3 / Quality: Fender Mustang Micro Plus / Premium: Positive Grid Spark Neo or Flatsons FBA-10 | High — refreshes an already-approved concept with current, searchable product names |
+| **"Your Before/After, 20 Seconds"** (Shorts format) | No new friction — repackaging existing measurement moments as native Shorts | N/A — production/format change, not a new fix | High — rides a confirmed 2026 Shorts trend using footage the channel already generates |
+
+### Gaps Confirmed or Sharpened
+
+1. **Carpal tunnel remains unaddressed anywhere with a setup/PM lens** — confirmed again this pass. No change in priority: still the top gap.
+2. **Practice-duration prescriptivism is now a visible mainstream trend**, not just an absence — it's active advice the channel's philosophy quietly contradicts. Worth naming directly rather than only implying it through the 15-minute sprint content already planned.
+3. **Fanned-fret/multi-scale ergonomics is undiscussed from a skeptical, non-boutique-marketing angle** — an open lane at the premium end of the Fix Ladder.
+4. **Shorts-native packaging of existing footage is unclaimed** — the content exists; the distribution format doesn't yet.
+
+### Titles, Hooks & Thumbnails
+
+**"Carpal Tunnel vs. Arthritis: Same Guitar, Different Fix"**
+- Hook: "Same hand pain. Two different problems. One wrong fix."
+- Thumbnail: split hand close-up, left labelled arthritis / right labelled carpal tunnel, no text overlay beyond the PTI series bar
+
+**"The 45-Minute Practice Rule Is Wrong for You (Here's Why)"**
+- Hook: "Every guitar channel tells you to practice longer. Here's why that's the wrong metric."
+- Thumbnail: clock at 15 minutes vs. 45 minutes, no judgment framing, just the numbers
+
+**"Fanned Frets: Worth $400+ or Just Hype?"**
+- Hook: "The angled frets are real. The marketing claim needs a closer look."
+- Thumbnail: close-up of a fanned fretboard next to a standard neck, price tags visible on both
+
+**"Silent Practice in 2026: What's Actually New"**
+- Hook: "The silent practice rig from last year just got an upgrade."
+- Thumbnail: three current-year products in a row with price callouts, headphones prominent
+
+### Format Note
+
+- The transformation/before-after Shorts format is confirmed as a 2026 platform-level trend, not just a channel hunch — worth prioritizing cut-downs from the existing video backlog before scripting anything new for that slot.

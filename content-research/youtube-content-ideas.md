@@ -184,3 +184,86 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+## Research Update — 21 July 2026
+
+Cross-checked against both this document's earlier ideas and the current 52-title production backlog (Bridge_and_Baseline_Final_v7.xlsx, all 52 unfilmed/unpublished as of this check) before adding anything new below, so nothing here repeats a title already planned. Most obvious "quick win" topics (fret buzz, arthritis, silent practice, budget rescue) are now well covered across the two documents — this update focuses on genuine gaps the backlog itself flags as thin, plus a live product-pricing update for a video already on the slate.
+
+### Trending Topics & Keywords (new since June)
+
+- **"Guitar for seniors" / "guitar equipment for seniors"** — rising as a distinct search cluster from "arthritis," framing age itself (not a diagnosed condition) as the reason for adaptive choices
+- **"Ergonomic guitar 2026"** — steady interest in Strandberg-style designs, but coverage still skews toward younger/tech-forward players, not the channel's 45–65 demographic — same gap flagged in June, still open
+- **"AI guitar practice" / "AI tab guitar"** — real and growing search volume; the backlog's two AI videos (Phase 7) are the thinnest phase on the channel and don't yet touch setup diagnosis, only practice coaching
+- **"Can AI fix my guitar" / AI-assisted troubleshooting** — emerging query pattern, essentially unaddressed by any guitar channel; strong fit for this channel's diagnostic format specifically
+- **Fret buzz remains the single highest-volume, most evergreen query in the niche** — confirmed again this update; the standard diagnostic sequence (neck relief → action → nut → frets) is well established as the "correct" framing to teach, which the channel already uses
+
+### New Video Ideas (5–7, none overlapping existing doc or backlog)
+
+**1. Playing Through It: Guitar and Tremor**
+- Friction: involuntary hand shake (essential tremor, Parkinson's, and similar) makes both fretting accuracy and pick timing unpredictable in a way standard technique advice doesn't address
+- Fix angle: technique (weight-bearing rest strokes, anchoring) plus setup (simplifying what the fretting hand has to do)
+- Fix Ladder: Free — rest-stroke anchoring technique · Affordable — capo to shorten reach (£8) · Quality — partial capo for open-voiced simplicity without retuning (£20–25) · Premium — a dedicated open-tuned instrument set up specifically to minimise required precision (£150+)
+- Notes: explicitly named in the channel's own "Playing Through It" mission statement but has no standalone episode yet — a real, self-identified gap
+
+**2. Playing Through It: Guitar After a Stroke**
+- Friction: relearning with one side of the body significantly weaker or less coordinated than the other, where most technique content assumes symmetric hands
+- Fix angle: approach — lap-style or slide playing led entirely by the unaffected hand, rather than compensating within standard two-hand technique
+- Fix Ladder: Free — lap-style open-tuning play, unaffected hand only · Affordable — slide/bottleneck (£10) · Quality — partial capo + light-string bundle (£25) · Premium — short-scale or baritone guitar reconfigured as a dedicated lap instrument (£150+)
+- Notes: also named in the series mission statement with no episode yet; distinct from the one-handed/limb-difference episode already in the backlog (#35), which is fingerstyle-technique-led rather than recovery-led
+
+**3. The Guitar Body That Fits You: Limb Difference and Instrument Fit**
+- Friction: standard guitar bodies assume a particular contact and support point; for players with limb differences, the mismatch is physical fit, not technique
+- Fix angle: hardware and ergonomics — strap systems, adaptive pick holders, support points
+- Fix Ladder: Free — repositioning strap angle and body contact point · Affordable — adaptive/thumb pick holder (£10–15) · Quality — dedicated support system such as an Ergoplay-style strap (£40–60) · Premium — luthier-modified body contour or custom prosthetic attachment (£150+)
+- Notes: complements rather than duplicates backlog #35, which covers technique; this covers the instrument itself
+
+**4. Guitar Technical Debt: What You're Still Paying For Every Time You Play**
+- Friction: small deferred setup issues (a slightly high nut slot, one buzzing fret, a "good enough" saddle) each cost a small amount of comfort, and the cost is easy to stop noticing
+- Fix angle: insight — technical debt as a PM concept, applied to a whole-guitar "debt audit" rather than a single fix
+- Fix Ladder: Free — a full debt audit, feeling for friction fret by fret · Affordable — feeler gauge and sanding paper (£10) · Quality — TUSQ nut and saddle swap (£25–35) · Premium — full professional setup clearing all debt at once (£80–150)
+- Notes: fills the backlog's own flagged gap in Phase 9 (only 4 PM-concept videos exist despite being called the channel's "most differentiated content"); uses a PM concept — technical debt — not yet used anywhere in the current 52
+
+**5. Guitar Stakeholder Management: When Someone You Live With Hates the Noise**
+- Friction: practicing feels like a source of household friction or guilt, which is a relationship problem, not only a decibel problem
+- Fix angle: approach — treating housemates or family as stakeholders with their own constraints, negotiating a practice window rather than only chasing silence
+- Fix Ladder: Free — a negotiated practice window, agreed in advance · Affordable — door draft stopper to reduce sound bleed (£8) · Quality — compact isolation pad and acoustic foam panel (£30–50) · Premium — a dedicated quiet-hours headphone rig (£150+, see product note below)
+- Notes: fills the backlog's flagged gap in Phase 4 (Stealth, explicitly called thin and "worth prioritising"); a second, distinct PM concept (stakeholder management) not yet used
+
+**6. Can AI Diagnose Your Guitar's Fret Buzz From a Photo?**
+- Friction: uncertainty about whether buzz is neck relief, action, nut, or frets — and hesitation to guess wrong before spending money
+- Fix angle: insight — using a free AI chat tool as a triage step ahead of the manual diagnostic sequence, not as a replacement for it
+- Fix Ladder: Free — describe the problem to a free AI chatbot, then confirm with the manual relief → action → nut → frets sequence · Affordable — feeler gauge to verify what the AI suggested (£10) · Quality — action gauge and capo kit (£25) · Premium — luthier visit if triage points to an uneven fret job (£80+)
+- Notes: addresses the backlog's flagged Phase 7 gap ("AI videos only work if framed as removing practice barriers") by applying AI to setup diagnosis — the channel's core niche — rather than practice coaching, where the two existing AI videos already sit; particularly relevant for players who feel less confident troubleshooting their own guitar
+
+### Content Gaps (still open after this update)
+
+1. **Tremor and other neurological fine-motor conditions** — named in the "Playing Through It" mission statement, no episode exists
+2. **Stroke recovery** — same: named in mission statement, no dedicated episode
+3. **Limb difference as instrument-fit problem** (distinct from the technique-led episode already planned) — open
+4. **PM-concept videos generally** — only 4 exist despite being flagged internally as the channel's most differentiated content; risk register, critical path, and stakeholder management are all unused PM concepts with natural guitar mappings beyond what's suggested above
+5. **AI applied to setup/diagnosis** rather than practice — open, and arguably a better fit for the channel's identity than practice-coaching AI content
+
+### Product/Pricing Note for an Already-Planned Video
+
+Backlog video #32, "Guitar Headphone Amp Comparison: Which One Actually Disappears?", predates two relevant 2026 releases worth folding in before filming: the **Positive Grid Spark Neo** (~$199, wireless transmitter, 43 amp models) and the relaunched **Boss Katana:Go** (~$120, budget tier). Both would strengthen the Fix Ladder spread in that video — Katana:Go at the affordable/quality tier, Spark Neo at the upper end alongside the existing Boss Waza-Air ($349) and Fender Mustang Micro Plus ($129) comparisons.
+
+### Titles, Hooks & Thumbnails for the Highest-Potential New Ideas
+
+**"Guitar Technical Debt: What You're Still Paying For Every Time You Play"**
+- Hook: "Every guitar has a running tab. Most players never look at it."
+- Thumbnail: guitar with small red tick marks at each friction point (nut, one fret, saddle); no price callout needed — this one's about the audit, not the spend
+
+**"Guitar Stakeholder Management: When Someone You Live With Hates the Noise"**
+- Hook: "The noise isn't the problem. The negotiation is."
+- Thumbnail: guitar and a closed door, warm light under the gap; PM Player series card
+
+**"Playing Through It: Guitar and Tremor"**
+- Hook: "Unpredictable hands don't mean unpredictable playing."
+- Thumbnail: hand on neck, motion-blur suggestion on the fretting hand only; PTI series bar
+
+**"Can AI Diagnose Your Guitar's Fret Buzz From a Photo?"**
+- Hook: "Before you pay a luthier, ask the same question I did."
+- Thumbnail: phone camera pointed at a guitar neck, AI chat bubble overlay; £0 callout

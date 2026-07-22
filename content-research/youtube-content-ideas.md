@@ -184,3 +184,81 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 22 July 2026
+
+Scheduled research pass. Existing content above (Videos 1–9, PTI Ep 2–8, and the setup/silent-practice/ergonomics/budget/practice-system/PM series lists) already covers the channel's core high-volume territory well. This pass focused on what's changed or emerged since June, and on conditions and formats not yet in the backlog. Nothing here duplicates an idea already listed above.
+
+## Trending Topics & Keywords (New Since Last Pass)
+
+- **"Smart guitars" / Bluetooth-connected instruments** — a real 2026 gear trend (app-linked tuning, LED fretboards). High search volume, but largely gear-hype territory — worth a critical, channel-authentic take rather than a straight review.
+- **Adaptive playing devices as consumer products** — ChordBuddy and Strumling both have active review/search traffic and forum discussion; neither has been evaluated on this channel yet.
+- **Essential tremor and Parkinson's tremor + guitar** — distinct condition from arthritis, carpal tunnel, and neuropathy (already covered in PTI). Active threads on Guitarchat, Guitar Tricks Forum, Delcamp, and HealthBoards with no clear consolidated answer anywhere. Genuine content gap.
+- **"Guitar club" / accountability-based return-to-playing** — JustinGuitar Community has recurring threads from adults returning after multi-year hiatuses; the recurring theme is motivation and consistency, not physical friction. Fits The PM Player series.
+- **Guitar education market growth** — enrollment in guitar lessons reportedly up over the last decade, with steady growth in the 35+ segment specifically; confirms the channel's core audience is a growing, not shrinking, search category.
+- **Zager "Easy Play" strings** — marketed specifically at reduced fretting pressure for pain-sensitive hands; positioned as a premium-tier product. Worth a Mode 2 evaluation before any recommendation, not a confirmed fit yet.
+
+## New Video Ideas
+
+### Playing Through It (further expansion)
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| Ep 9 | **Essential Tremor and the Guitar: What Actually Works** | Action tremor worsens with voluntary movement — opposite mechanism to Parkinson's resting tremor; anchoring technique and fingerstyle-vs-pick tradeoffs |
+| Ep 10 | **Parkinson's and Playing: A Different Kind of Adaptation** | Resting tremor, not action tremor; separate from Ep 9 on purpose — conflating the two is the exact kind of inaccuracy the channel avoids |
+
+**Fix Ladder sketch — Essential Tremor and the Guitar:**
+- Free: anchor the picking-hand pinky against the body; switch to fingerstyle if pick control is inconsistent
+- Affordable (£5–20): heavier, textured pick for more tactile feedback
+- Quality upgrade (£25–100): Strumling adaptive pick holder (removes pinch-grip requirement entirely)
+- Premium (£100+): guitar support system, or an open-tuning/slide setup as a legitimate alternate playing mode — not a fallback
+
+### Adaptive Devices (New Series — Fix Ladder Applied to Assistive Tools)
+
+- **"ChordBuddy, Tested Honestly: What It Does and Doesn't Do"** — chord-forming clip system; direct-to-camera, before/after chord-change speed
+- **"The Strumling: A £15 Fix for Pick Grip"** — silicone pick-holding strap; single-focus, high clarity video
+- **"Adaptive Guitar Gear Compared: Free DIY Fixes vs. £50 Devices"** — anchor video for the series; sets Fix Ladder tiers across the category (rubber band/tape grip at £0 through ChordBuddy at the top)
+
+*Note: each of these requires the creator to have used the product before publishing, per the Mode 2 sponsorship conditions — flag for hands-on testing before scripting.*
+
+### The PM Player (further expansion)
+
+- **"The Guitar Club Effect: Why Accountability Beats Willpower"** — motivation and consistency as a project constraint, not a character flaw; maps returning-after-hiatus community behaviour to stakeholder check-in cadence
+- **"Do Smart Guitars Actually Reduce Friction?"** — critical, non-cynical look at Bluetooth/app-connected guitars; asks whether the tech solves a real friction point or adds a new one (screen dependency, app setup, battery). Consistent with the channel's "not a gear-hype channel" identity — this is the video that proves it.
+
+## Content Gaps and Underexplored Angles (New)
+
+1. **Tremor conditions, split by mechanism** — essential tremor and Parkinson's are frequently conflated online; a channel that gets this distinction right will stand out immediately in a low-quality field. Highest-priority new gap this pass.
+2. **Consumer adaptive devices** — ChordBuddy and Strumling are both established products with real search demand and no honest, non-affiliate-driven review from a channel with this channel's credibility on playability.
+3. **Motivation/consistency friction, not physical friction** — the backlog is strong on hand-health and setup friction but currently light on "I have the ability to play but keep not doing it" — the guitar-club/accountability angle fills this.
+4. **A stated position on smart guitars** — the gear-hype adjacent trend is large enough now that silence reads as avoidance rather than restraint; one clearly-framed video settles it without turning the channel into a gear channel.
+
+## High-Potential Titles, Hooks & Thumbnail Concepts (New)
+
+### 1. "Essential Tremor and the Guitar: What Actually Works"
+- **Hook:** "Your tremor gets worse when you try to play on purpose. Here's why, and what to do about it."
+- **Thumbnail:** Close-up of anchored pinky against guitar body; PTI series card, episode number
+
+### 2. "ChordBuddy, Tested Honestly"
+- **Hook:** "Shark Tank sold the dream. Here's what it actually does."
+- **Thumbnail:** Device on guitar neck mid-chord-change; stopwatch overlay for before/after speed
+
+### 3. "The Guitar Club Effect: Why Accountability Beats Willpower"
+- **Hook:** "You don't have a discipline problem. You have a project management problem."
+- **Thumbnail:** Calendar with playing sessions marked; PM Player series bar
+
+### 4. "Do Smart Guitars Actually Reduce Friction?"
+- **Hook:** "More technology isn't automatically less friction. Let's measure it."
+- **Thumbnail:** Analog guitar and Bluetooth-enabled guitar side by side; neutral, no red/green judgment colouring
+
+## Format Notes (New)
+
+- Multi-format publishing (long-form plus Shorts plus community posts from the same shoot) is a stated 2026 platform-wide trend — the existing before/after clip habit already produces this; no new production burden to capture it, just a distribution checklist item
+- Episodic, video-podcast-style framing is trending broadly on YouTube; the existing PTI numbering (Ep 1, Ep 2...) already reads this way and needs no format change, just consistent thumbnail treatment across episodes to reinforce the series feel
+
+## Confirmation
+
+New opportunities did emerge this pass — the tremor-condition gap and the adaptive-devices series are the two highest-priority additions to the backlog. Everything else surfaced either overlapped with ideas already logged above or didn't clear the channel's playability-first bar (e.g. general gear/tonewood trends, vintage market movement) and was excluded rather than padded in.

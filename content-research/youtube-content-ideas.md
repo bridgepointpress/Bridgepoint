@@ -184,3 +184,88 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 23 July 2026
+
+Cross-checked against the production backlog (`Bridge_and_Baseline_Final_v7.xlsx`, 46 videos across 9 phases plus the 7-episode Playing Through It arc) so nothing below duplicates a video that's already scripted or slotted. Several June ideas have since been picked up into the backlog — noted inline — so this update focuses on what's still open.
+
+## What's Already Been Absorbed Into the Backlog (no longer a gap)
+
+- Headphone amp comparison → Video 32
+- Silent practice rig → Video 23
+- 15-minute sprint → Video 10
+- One-handed / adaptive playing → Video 35 (cites Django, Iommi, Garcia)
+- Small fret / hand-fit problem, short-scale as a fix → Video 43
+- Luthier vs. DIY → Video 33
+- Progress measurement / practice logging → Videos 18 & 30
+- Used guitar buying checklist → Video 17
+
+## Trending Topics & Keywords (verified this week)
+
+- **Carpal tunnel + guitar** — still the clearest gap. Multiple dedicated blog/clinic sites now rank for this (CarpalTunnelPros, CarpalRx, Midlife Guitar), but no channel is answering it with a playability-first, Fix Ladder lens. This was flagged in June and remains unscripted in the v7 backlog — it's the highest-priority open item.
+- **Short-scale guitars** — trend has strengthened past "beginner instrument" framing; 2026 coverage explicitly links short scale to comfort for smaller hands, longer sessions, and carpal tunnel. Video 43 touches this as a Fix Ladder tier but there's room for a dedicated buying-guide video the backlog doesn't currently have.
+- **Adaptive guitar hardware** (ChordBuddy, Robo-Tar, Arcana Strum) — a distinct 2026 wave of assistive chord devices, separate from the technique-based adaptive strategies (open tuning, partial capo, EBow) already covered in Video 35. Worth an honest, hands-on evaluation.
+- **"GuitarSMR"** — ASMR-adjacent, no-talking guitar setup clips (feeler gauge, nut slot work, fret polishing) are an active Shorts trend, including from major brands. This is a framing opportunity for footage the channel is likely already capturing, not a new production.
+- Fret buzz explainer shorts remain high-volume and evergreen — already served editorially by the main Video 1 / nut-slot content; only worth revisiting as a Shorts cut-down, not a new long-form video.
+
+## New Video Ideas
+
+**1. Carpal Tunnel and Guitar: What Actually Helps**
+- Friction: wrist pain/numbness that players assume means they have to stop, when the mechanism (compression, not inflammation) responds to different fixes than arthritis
+- Fix angle: wrist angle correction (strap height), grip pressure, and setup changes that reduce the reach and tension driving compression
+- Fix Ladder: Free — raise the strap, retune to open tuning to remove reach / Affordable — lighter strings (£6) / Quality — Graph Tech nut & saddle setup (£25–35) / Premium — short-scale guitar (£150+)
+- Audience appeal: high — validated search demand, zero strong existing YouTube answer, direct fit with Playing Through It
+
+**2. Your Hands Aren't Broken. They're Just Older.**
+- Friction: dexterity or reach changes with age that have no diagnosis attached — no arthritis, no injury, just less than it used to be — and the player feels embarrassed rather than medically "entitled" to adapt
+- Fix angle: normalise age-related change as a design constraint like any other, apply the same setup fixes used elsewhere in the series
+- Fix Ladder: Free — reassess action and neck relief / Affordable — lighter strings (£6) / Quality — TUSQ nut & saddle (£25) / Premium — short-scale or lighter-bodied guitar (£150+)
+- Audience appeal: high — this is the audience segment between "diagnosed condition" and "no problem at all," currently unaddressed by name anywhere in the backlog
+
+**3. The Humidity Problem Nobody Fixes Until It's Too Late**
+- Friction: a guitar that played well in summer feels stiff, buzzy, or high-actioned by winter, and the player assumes it's their hands rather than the wood
+- Fix angle: distinguishing seasonal setup drift from physical change — important specifically for this audience, who might otherwise misattribute the cause
+- Fix Ladder: Free — reposition away from vents/radiators / Affordable — Boveda packs or soundhole humidifier (£10–15) / Quality — case humidifier + hygrometer (£30–40) / Premium — room humidifier (£100+)
+- Audience appeal: medium-high — recurring seasonal search, no strong beginner-accessible content exists, repeatable annual upload
+
+**4. Adaptive Guitar Tools Worth Knowing About**
+- Friction: even after setup and technique adjustments, some players still can't reliably fret full chords — and don't know dedicated assistive hardware exists as an option, not just a last resort
+- Fix angle: honest, hands-on look at chord-assist devices (e.g. ChordBuddy) alongside the technique-based adaptive strategies already covered in Video 35, framed as a permanent option, not training wheels
+- Fix Ladder: Free — partial capo revisit / Affordable — thumb pick (£8) / Quality — chord-assist device (£40–50) / Premium — powered strumming aid (£150+, framed as an emerging category, not a firm recommendation until tested)
+- Audience appeal: medium — smaller audience, but high loyalty and shareability within the Playing Through It series; requires hands-on testing before publishing per Mode 2 sponsorship rules if any product is gifted or discounted
+- Note: per channel ethos, do not recommend a specific device on camera until it's actually been tried
+
+**5. The £0 Guitar Rescue: A Subscriber's Guitar, Start to Finish**
+- Friction: viewers have a guitar sitting unplayed and don't know if it's worth fixing or how much it would cost
+- Fix angle: format, not a setup topic — invite a subscriber submission, apply the existing triage/Fix Ladder framework on camera to a real reader guitar
+- Fix Ladder: whatever the guitar actually needs, shown transparently tier by tier
+- Audience appeal: high for community-building — flagged as a gap in June, still unscripted; worth revisiting now that the channel has had months to build a comment base
+
+## Gaps and Underexplored Angles (still open)
+
+1. **Carpal tunnel, tendinitis, trigger finger, neuropathy, shoulder/neck pain** — all proposed in June, none yet in the v7 production backlog. Carpal tunnel is the clear next priority given confirmed search demand.
+2. **Seasonal/humidity content** — still absent from the backlog; a strong, repeatable annual anchor.
+3. **Assistive chord hardware** — a distinct sub-category from the technique-based adaptive content already scripted; currently unaddressed.
+4. **"Undiagnosed" dexterity change** — the audience segment between a named condition and no issue at all isn't currently spoken to directly anywhere in the series.
+5. **Viewer rescue format** — still not produced; the channel now has enough runway (per the original June note) to consider scheduling it.
+
+## Titles, Hooks & Thumbnails for the Highest-Potential New Ideas
+
+**"Carpal Tunnel and Guitar: What Actually Helps"**
+- Hook: "It's not the same as arthritis, and it doesn't need the same fix."
+- Thumbnail: wrist at a neutral vs. bent angle against the neck, side by side
+
+**"Your Hands Aren't Broken. They're Just Older."**
+- Hook: "There's no diagnosis for this. There doesn't need to be."
+- Thumbnail: close-up of hands on the fretboard, warm and plain — no medical imagery
+
+**"The Humidity Problem Nobody Fixes Until It's Too Late"**
+- Hook: "The guitar that played fine in July is a different guitar in January."
+- Thumbnail: split frame, sunny window vs. frosted window, same guitar
+
+**"Adaptive Guitar Tools Worth Knowing About"**
+- Hook: "This isn't a last resort. It's another option on the ladder."
+- Thumbnail: chord-assist device next to a standard capo, both treated as equally valid gear

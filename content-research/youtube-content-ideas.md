@@ -184,3 +184,60 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 25 July 2026
+
+*Scheduled research pass. Existing content above is unchanged; this section adds new findings and ideas that don't duplicate the June backlog. The v10 spreadsheet and project docs (Charter, Arthritis Checklist, etc.) weren't reachable from this session — cross-check against the live backlog before scheduling anything below.*
+
+## Trending Topics & Keywords (new since June)
+
+- **Keith Richards / arthritis / "wider fingerboard"** — March 2026 Guitar World interview, still circulating widely: Richards described going to a wider fingerboard to work around "very large knuckles" from arthritis. High-authority, high-recognition news hook for the *Playing Through It* series that the channel hasn't used yet.
+- **Adaptive assist devices (ChordBuddy and similar)** — over 300,000 units sold, explicitly marketed to arthritis and occupational-therapy audiences. Sits squarely in the channel's niche and Fix Ladder, and isn't covered anywhere in the current backlog.
+- **"Regret quitting guitar" data point** — 55% of adults who quit electric guitar say they regret it; ~17% of guitar buyers in a given year are returning players. Strong, research-backed emotional hook for a reactivation-focused video aimed at lapsed players, not current ones.
+- **AI practice amps** — Positive Grid Spark Pearl (AI "bandmate," Auto Chords from Spotify tracks), Blackstar BEAM Mini, TONEX Plug headphone amp. Heavy hype cycle in gear media right now — an opening for the channel's no-hype, ROI-first voice to cover it skeptically rather than promotionally.
+- **Headphone amp landscape has shifted since the June silent-practice video was scoped** — Fender Mustang Micro Plus shipped a major free firmware update, and Boss Katana:Go Mini launched at $99, undercutting the price point used in the existing comparison. Worth a refresh note before that video is produced/published.
+- **Short-scale legitimacy narrative** — 2026 gear press is actively reframing short-scale as a pro choice (Macca, Jack Bruce, Mike Kerr), not just a beginner compromise. Reinforces the existing "guitar I wish I'd bought at 50" idea with fresh, citable proof points.
+- **YouTube search/discovery change (Jan 2026)** — YouTube split search filters into separate Videos/Shorts choices and added a Popularity filter blending view count with relevance. Minor but worth noting for title/thumbnail testing going forward — evergreen "how-to" titles may get relatively easier to surface under the new Popularity signal.
+
+## New Video Ideas
+
+| # | Working Title | The Friction | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| 1 | **The ChordBuddy Question: Do Assist Devices Belong on the Fix Ladder?** | Players with reduced grip strength are told to "just push through" barre and open chords, but don't know if assist devices are a real fix or a gimmick | Free: partial capo re-fingering · £15–20: capo + simplified voicings · £30–50: ChordBuddy-style device · £100+: custom setup plus device | High — direct hit on arthritis/reduced-grip audience; no channel currently reviews this category honestly |
+| 2 | **Wide Neck, Narrow Neck: What Actually Changes for Big or Swollen Knuckles** | Standard "get a slim neck" advice ignores players whose knuckles need more room between strings, not less | Free: string spacing check at the nut · £20: nut re-cut or shim · £60–100: aftermarket wider nut · £150+: guitar chosen for nut width from the start | High — timely (Keith Richards hook), genuinely underexplored angle distinct from scale length |
+| 3 | **I Quit Guitar for [X] Years. Here's What Actually Brought Me Back** | Lapsed players assume the guitar (or their hands) got worse while they were away, and don't know where to restart | Free: reset expectations, 15-minute sprint restart · £10–20: fresh strings + basic check · £40–100: professional setup on the old guitar · £150+: a guitar chosen for today's hands, not the ones from 20 years ago | High — targets the large dormant-player audience (regret-to-return data point), distinct from current "keep playing when busy" video which assumes an active player |
+| 4 | **Do AI Practice Amps Actually Help an Adult Learner? A No-Hype Test** | Gear marketing promises AI "bandmates" and auto-chord detection will fix practice motivation; unclear if that solves real friction or adds a new layer of it | Free: metronome + backing track app · £20: basic looper · £100–150: mid-tier modeling/headphone amp · £250+: AI-featured practice amp under test | Medium-high — rides a live hype cycle but keeps the channel's skeptical, ROI-first identity intact rather than chasing gear hype |
+| 5 | **Headphone Amps in 2026: What Changed Since We Last Checked** | Players researching silent practice gear find outdated comparisons; new options changed the price-to-value picture | Free: phone + interface you already own · £15–30: entry headphone amp · £80–100: Boss Katana:Go Mini / Vox amPlug tier · £150+: Fender Mustang Micro Plus | Medium — housekeeping/update video, but keeps the evergreen silent-practice comparison current and searchable |
+| 6 | **The Short-Scale Stigma Is Gone: What Changed and Why It Matters at 50** | Players assume a short-scale guitar signals "beginner" or "kid's guitar" and avoid a genuinely better-fitting instrument out of self-consciousness | Free: try a friend's or shop's short-scale before buying · £150–250: entry short-scale · £400–600: quality-tier short-scale · £800+: premium short-scale | Medium-high — pairs with existing Video 7 idea but adds a social-permission angle (pros using short-scale) that removes the embarrassment barrier |
+
+## Content Gaps and Underexplored Angles (additions)
+
+1. **Adaptive assist devices as a Fix Ladder category** — the June gap list covers conditions (carpal tunnel, neuropathy, etc.) but not products designed specifically for grip/dexterity limitation. This is a direct product category the audience is already searching for.
+2. **Fingerboard/nut width as distinct from scale length** — existing content treats "short-scale" and "slim neck" as the whole ergonomics story; width for larger or swollen knuckles is a separate, unaddressed variable.
+3. **The lapsed/returning player as a segment**, not just "busy current player." Reactivation content (why they quit, what's different now, how to restart without shame) is a different emotional arc than the existing practice-consistency videos.
+4. **Skeptical gear coverage** — the channel has no established position on the AI-practice-amp trend. Silence here cedes the "is this hype or real" question to gear channels that don't share the ROI lens.
+
+## Titles, Hooks & Thumbnail Concepts for the Highest-Potential New Ideas
+
+**1. "The ChordBuddy Question: Do Assist Devices Belong on the Fix Ladder?"**
+- Hook: "Three hundred thousand people have used this. Here's an honest look at what it does and doesn't solve."
+- Thumbnail: Device on the fretboard mid-chord change, plain price tag callout, no text overlay beyond the price
+
+**2. "Wide Neck, Narrow Neck: What Big Knuckles Actually Need"**
+- Hook: "The advice is always 'get a slim neck.' For some hands, that's backwards."
+- Thumbnail: Two nut widths measured side by side with a tape measure, hand resting near the strings
+
+**3. "I Quit Guitar for 12 Years. Here's What Brought Me Back"**
+- Hook: "More than half the people who quit electric guitar say they regret it. This is for them."
+- Thumbnail: An older guitar case being opened; no face, just hands on the latches
+
+**4. "Do AI Practice Amps Actually Help? A No-Hype Test"**
+- Hook: "It promises a bandmate and auto-chords. Here's what that's actually worth for fifteen minutes a night."
+- Thumbnail: Amp on a stand with a plain "£ / 15 min" overlay, no product-hype styling
+
+---
+
+*If nothing above warrants scheduling ahead of the existing June backlog, no action is needed — the June list still has unproduced high-fit ideas (carpal tunnel episode, luthier vs. DIY, silent practice rig anchor) that outrank all but the ChordBuddy and returning-player ideas on relevance and timeliness.*

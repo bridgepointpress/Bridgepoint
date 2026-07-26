@@ -184,3 +184,56 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 26 July 2026
+
+Scheduled research refresh. Cross-checked against the sections above to avoid duplicating existing series entries; this update focuses on what's changed in the last month and adds to (rather than replaces) the June research.
+
+## What's New Since the June Research
+
+- **A real news hook has emerged: the "aging guitar hero" arthritis story.** Guitar World published a widely-shared July 2026 feature covering Keith Richards, Alex Lifeson, Joe Perry, and Joe Satriani all discussing arthritis and hand health, framed around the line "guitarists should think of themselves as athletes." The Rolling Stones also cancelled a 2026 tour partly attributed to Richards' arthritis. This is a live news cycle the channel can credibly enter — high search interest, mainstream press validation of a topic the channel already owns.
+- **Short-scale guitars have shed the "beginner/kids" stigma in mainstream coverage.** Multiple 2026 buying guides now frame short-scale explicitly as a deliberate choice for adults with arthritis, smaller frames, or fatigue concerns — not a compromise instrument. This validates and strengthens the existing Short Scale Guitars content angle; the timing is good for a video that rides this reframe.
+- **The dominant adult-beginner YouTube channels (JustinGuitar, Marty Schwartz, Andy Guitar) remain purely instructional** — none address physical friction, ergonomics, or returning/comeback players. The gap identified in the June research is confirmed, not closed. This remains the channel's clearest differentiation.
+- **DIY fret-buzz content is a large, active TikTok/Shorts trend** (truss rod adjustments, allen-key tutorials, nut-depth checks). Confirms the existing Shorts strategy is aimed at real search/watch behaviour, not a guess.
+
+## New Video Ideas
+
+| # | Working Title | The Friction | Fix Angle | Estimated Appeal |
+|---|---|---|---|---|
+| 1 | **What Keith Richards Gets Right About Guitar and Arthritis** | Players assume arthritis means giving up technique they used to have | News-hook reaction video; reframes "compensate for disabilities" as a setup + adaptive-approach problem, not just a mindset one | High — rides an active press cycle, strong thumbnail/title CTR potential, slots directly into Playing Through It |
+| 2 | **"Guitarists as Athletes": Does the Warm-Up Advice Actually Hold Up?** | Generic warm-up advice doesn't account for individual pain patterns | Tests the athlete-training framing from the Guitar World piece against the channel's Arthritis Checklist; keeps what's useful, drops what doesn't fit a 15-minute sprint | Medium-High — timely, but more explainer than transformation, so slightly lower emotional payoff than #1 |
+| 3 | **Short Scale Isn't a Smaller Guitar. It's a Different Decision.** | Players assume short-scale means "settling" or "starter" | Reframes short-scale as a deliberate ergonomic choice, using current press validation as social proof; pulls specific models from the Short Scale Guitars doc | High — well-timed to the mainstream reframe, strong fit with Budget DIYer and Comfortable Player alike |
+| 4 | **Why the Big Guitar Channels Never Mention Your Hands** | Beginners assume difficulty is normal because every tutorial treats it that way | Positioning/differentiation video — not a callout, but an honest naming of the gap; doubles as a channel-identity piece | Medium — less searchable on its own, but strong for channel trust and community-building, good pinned-comment material |
+| 5 | **The Allen Key Video Everyone's Making — Done Properly** | Shorts-length truss rod tutorials are everywhere but rarely explain when *not* to adjust | Enters the active fret-buzz Shorts trend with the channel's ROI/baseline framing (measure first, adjust second, know when it's not a truss rod problem at all) | Medium-High — rides a proven trend format, natural Shorts cut-down candidate |
+| 6 | **The Guitar That Made Joe Satriani Rethink His Hands** | Established players assume years of technique protect them from hand strain | Uses the athlete-guitarist news angle to make the case that setup matters *more*, not less, as hands age — appeals to older, longer-time players specifically | Medium — narrower audience (experienced players) but strong watch-time potential given the emotional hook |
+
+## Content Gaps and Underexplored Angles (Additions)
+
+- **No channel is connecting the current "aging guitar hero" press cycle to practical, at-home setup fixes.** The coverage stays at the level of anecdote and sympathy; nobody follows it with "here's what to actually do about it." This is the clearest open lane found this cycle.
+- **The athlete-training framing is new territory.** Worth testing carefully — it could reinforce the channel's ROI/measurement lens well, but must be handled so it doesn't imply players who don't train like athletes are failing. Frame as optional, not prescriptive.
+- **Short-scale destigmatization is happening in press coverage but not yet in a channel voice that also serves the arthritis/ergonomics audience specifically** (most guides are written for tone-chasers or gigging musicians, not comfort-first players).
+
+## Suggested Titles, Hooks & Thumbnails
+
+**1. "What Keith Richards Gets Right About Guitar and Arthritis"**
+- Hook: "He's 82, his hands don't work like they used to, and he's still finding ways to play. Here's the part that applies to you."
+- Thumbnail: Close-up of hands on a fretboard, no face; small text-free news-clipping visual cue; PTI series card
+
+**2. "Short Scale Isn't a Smaller Guitar. It's a Different Decision."**
+- Hook: "Scale length was never about skill level. Here's what it's actually about."
+- Thumbnail: Two guitars side by side with a scale-length measurement overlay, no price callout this time — comfort framing, not budget framing
+
+**3. "The Allen Key Video Everyone's Making — Done Properly"**
+- Hook: "Before you touch that truss rod, measure this."
+- Thumbnail: Feeler gauge and allen key on a neck, red circle on the measurement point
+
+**4. "Why the Big Guitar Channels Never Mention Your Hands"**
+- Hook: "Every beginner tutorial assumes the same hands. Yours might not work that way — and that's fine."
+- Thumbnail: Simple, warm, face-optional; simple neutral background, no split-screen gimmick — this one should feel like a conversation, not a hook-driven thumbnail
+
+## Confirmation
+
+No major reversal of the June research — the existing series (Playing Through It, Silent Practice, Budget Rescue) remain correctly prioritised. This update mainly adds a timely news-hook opportunity (the arthritis press cycle) and reinforces two angles already flagged as gaps (comeback-player content, short-scale destigmatization) with fresh outside validation.

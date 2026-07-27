@@ -207,11 +207,13 @@
 
 ### Product & Device Evaluation (new category — Mode 2 territory)
 
-| Working Title | Friction | Fix Ladder Angle |
-|---|---|---|
-| **Chord-Assist Devices Compared: ChordBuddy vs. the Cheap Alternatives** | Player has heard capo-style chord helpers exist but doesn't know which, if any, is worth it | Free (open-hand chord voicings) → Affordable (Guitar Chord Presser-style tool, ~£15) → Quality (ChordBuddy full kit) → Premium (custom luthier chord-ease setup) |
-| **Silicone Finger Caps: Do They Actually Help?** | Fingertip pain treated as something to push through rather than solve | Free (playing-time pacing) → Affordable (finger caps, ~£8) → Quality (lighter strings + caps combined) → Premium (professional setup removing the need for either) |
-| **I Tested the 2026 Zager Easy Play Against My Own Setup** | Uncertainty about whether a purpose-built "easy play" guitar beats a well-set-up ordinary one | Honest comparison video — measured action, tension, and felt effort side by side; positions the channel's core claim ("setup matters more than the sticker") against a specific current product |
+| Working Title | Friction | Fix Ladder Angle | Cost to Acquire | Turnaround Risk |
+|---|---|---|---|---|
+| **Chord-Assist Devices Compared: ChordBuddy vs. the Cheap Alternatives** | Player has heard capo-style chord helpers exist but doesn't know which, if any, is worth it | Free (open-hand chord voicings) → Affordable (Guitar Chord Presser-style tool, ~£15) → Quality (ChordBuddy full kit) → Premium (custom luthier chord-ease setup) | Low (~£15–40 total for both units) | Low — small items, fast shipping, film within days |
+| **Silicone Finger Caps: Do They Actually Help?** | Fingertip pain treated as something to push through rather than solve | Free (playing-time pacing) → Affordable (finger caps, ~£8) → Quality (lighter strings + caps combined) → Premium (professional setup removing the need for either) | Low (~£8) | Low — single cheap item, film within days |
+| **I Tested the 2026 Zager Easy Play Against My Own Setup** | Uncertainty about whether a purpose-built "easy play" guitar beats a well-set-up ordinary one | Honest comparison video — measured action, tension, and felt effort side by side; positions the channel's core claim ("setup matters more than the sticker") against a specific current product | High (£100+, full guitar purchase) | High — shipping/import lag on top of purchase; hold for sponsor/loaner outreach or defer until budget allows |
+
+**Sequencing note:** film the two Low/Low rows first — they're cheap enough and fast enough to turn around inside a normal upload cadence. Hold the Zager comparison out of the near-term backlog; it only moves forward via a sponsor/loaner arrangement (subject to the full Mode 2 independence checklist) or once budget is earmarked for it specifically.
 
 ### Trend-Response / Validation Videos (new category)
 
@@ -222,6 +224,15 @@
 ### Budget Guitar Rescue (extension)
 
 - **"The Secondhand Guitar Boom: More Rescues, More Traps"** — responds to the growing used-market trend; helps viewers navigate a bigger, noisier secondhand market than the channel's earlier pawn-shop videos assumed.
+
+## Planning Filter: Cost & Turnaround (apply to all future hardware-review ideas)
+
+Added 27 July 2026 after a planning discussion: acquisition cost and turnaround time were missing as filters on hardware-review ideas, and that gap let expensive, slow-to-produce reviews sit next to cheap, fast ones with no distinction. From this batch forward, every hardware/device idea gets tagged on two axes before it's added to the backlog:
+
+- **Cost to Acquire** — Low (channel can self-fund without a second thought, roughly under £40) / High (meaningful spend, likely £100+ or multi-unit)
+- **Turnaround Risk** — Low (item ships fast, no dependency on anything else) / High (shipping/import lag, needs a comparison item already in hand, or depends on a second purchase)
+
+This sits alongside the existing 15-minute sprint and physical-load filters already applied in Mode 3 backlog planning — same purpose: don't let a great idea jump the queue if it can't actually be produced soon. High/High ideas aren't dropped, just held: they move forward only via a sponsor/loaner arrangement (still subject to the full Mode 2 independence checklist, since a sent unit is a commercial relationship, not a purchase workaround) or once budget is specifically earmarked. Low/Low ideas are the default next-up candidates.
 
 ## Content Gaps Confirmed or Newly Surfaced
 

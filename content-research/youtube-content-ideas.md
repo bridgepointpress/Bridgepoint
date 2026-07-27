@@ -184,3 +184,79 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 27 July 2026
+
+*Research refresh since the June 2026 pass above. Existing sections preserved in full; this section adds what's changed or newly surfaced.*
+
+## What's New in the Landscape Since June
+
+- **Ergonomic guitars have gone mainstream in coverage, not just niche forums.** General gear channels are now publishing "rethink ergonomic guitars" content aimed at ordinary players, not just Strandberg loyalists. This validates the channel's whole thesis earlier than expected — the wider guitar-content world is catching up to what Bridge and Baseline has argued since Video 1.
+- **A named proof point is circulating: a 67-year-old student playing full barre chords pain-free after a short-scale switch.** Concrete, quotable, and exactly the kind of specific claim the channel's tone rewards — worth chasing down or reproducing on camera rather than repeating secondhand.
+- **Chord-assist devices have multiplied.** ChordBuddy remains the category anchor, but a wave of cheaper "Guitar Chord Presser" style tools has entered the market this year, explicitly marketed at arthritis and beginner players. This is a live Mode 2 evaluation opportunity — several of these sit at different Fix Ladder tiers and the category has never been compared head-to-head from a neutral, playability-first lens.
+- **Zager shipped a 2026 "Easy Play" model (ZAD-80CE).** Directly overlaps the Easier Play Guitars doc's territory and gives a concrete, current product to test against the channel's existing recommendations rather than relying on last year's list.
+- **Silicone finger caps are trending as a low-cost arthritis aid** — squarely a Free/Affordable-tier product the channel hasn't covered yet, and a natural companion to the existing Arthritis Checklist content.
+- **Guitar practice-app stacks are being recommended as a "four-app system"** (tuner, metronome, tab source, progress tracker) in 2026 buying guides. Relevant to the Practice Systems and PM Player series — the channel's PM framing (one system, tracked deliberately) is a sharper answer than "install four apps."
+- **Before/after transformation format is confirmed as a leading Shorts category in 2026**, reinforcing the existing format note below rather than changing it — no new action needed there, just a signal to keep prioritising those cut-downs.
+- **Used/vintage guitar market is growing (~5.5%/yr projected), with customization as a differentiator.** Slight tailwind for the Budget Guitar Rescue series — more inventory in circulation, more viewers likely to be holding an inherited or secondhand instrument.
+
+## New Video Ideas
+
+### Product & Device Evaluation (new category — Mode 2 territory)
+
+| Working Title | Friction | Fix Ladder Angle |
+|---|---|---|
+| **Chord-Assist Devices Compared: ChordBuddy vs. the Cheap Alternatives** | Player has heard capo-style chord helpers exist but doesn't know which, if any, is worth it | Free (open-hand chord voicings) → Affordable (Guitar Chord Presser-style tool, ~£15) → Quality (ChordBuddy full kit) → Premium (custom luthier chord-ease setup) |
+| **Silicone Finger Caps: Do They Actually Help?** | Fingertip pain treated as something to push through rather than solve | Free (playing-time pacing) → Affordable (finger caps, ~£8) → Quality (lighter strings + caps combined) → Premium (professional setup removing the need for either) |
+| **I Tested the 2026 Zager Easy Play Against My Own Setup** | Uncertainty about whether a purpose-built "easy play" guitar beats a well-set-up ordinary one | Honest comparison video — measured action, tension, and felt effort side by side; positions the channel's core claim ("setup matters more than the sticker") against a specific current product |
+
+### Trend-Response / Validation Videos (new category)
+
+- **"Why Every Gear Channel Suddenly Cares About Ergonomics"** — commentary format; the channel didn't chase this trend, it predicted it. Low production cost, high authority-building potential.
+- **"The 67-Year-Old Barre Chord Story — I Tried to Reproduce It"** — takes a circulating anecdote and tests it honestly on camera with a real player and real measurements, avoiding secondhand claims.
+- **"Four Apps or One System? Rethinking the 2026 Practice Stack"** — direct answer to the "install four apps" advice trending in buying guides; reframes through the channel's practice-logging and Parking Lot List concepts.
+
+### Budget Guitar Rescue (extension)
+
+- **"The Secondhand Guitar Boom: More Rescues, More Traps"** — responds to the growing used-market trend; helps viewers navigate a bigger, noisier secondhand market than the channel's earlier pawn-shop videos assumed.
+
+## Content Gaps Confirmed or Newly Surfaced
+
+1. **Chord-assist and finger-aid devices are entirely uncovered by the channel** despite being one of the fastest-growing arthritis-adjacent product categories this year. This is now the single highest-priority gap — it sits at the intersection of the Arthritis Checklist, the Fix Ladder, and Mode 2 evaluation, and no other channel is covering it from a neutral playability lens.
+2. **The channel has no "put a trending claim to the test" format yet.** The 67-year-old barre chord anecdote and the Zager 2026 model both offer a template: take a claim circulating elsewhere, verify it on camera, report honestly. This builds credibility distinct from pure how-to content.
+3. **Practice-app commentary is absent.** Given how much 2026 buying-guide content pushes multi-app stacks, a PM-lens rebuttal or endorsement video is timely and low-cost to produce.
+
+## Titles, Hooks, Thumbnails for This Batch
+
+### "Chord-Assist Devices Compared: ChordBuddy vs. the Cheap Alternatives"
+- **Hook:** "One of these costs £12. One costs £40. Here's what you actually get for the difference."
+- **Thumbnail:** Three chord-assist tools laid out side by side, price tags visible, no text overlay needed beyond price.
+
+### "Silicone Finger Caps: Do They Actually Help?"
+- **Hook:** "An £8 fix that either works in the first five minutes or doesn't — here's the honest test."
+- **Thumbnail:** Close-up of fingertip with and without the cap, side by side.
+
+### "I Tested the 2026 Zager Easy Play Against My Own Setup"
+- **Hook:** "A guitar built to be easy to play, versus a guitar made easy to play. Same measurement, two different paths."
+- **Thumbnail:** Two guitars, one action-height measurement tool bridging both.
+
+### "Why Every Gear Channel Suddenly Cares About Ergonomics"
+- **Hook:** "This channel has said this since video one. Here's what changed everyone else's mind."
+- **Thumbnail:** Simple text-free composite of headlines/thumbnails from other channels' ergonomics content, guitar in foreground.
+
+## Sources Consulted This Pass
+
+- [The Best YouTube Channels for Learning Guitar in 2026](https://musician.ie/best-youtube-channels-learn-guitar-2026/)
+- [This Will Make You Rethink Ergonomic Guitars — YouTube](https://www.youtube.com/watch?v=rN9sNqRPNpw)
+- [Guitar Goals for 2026: Play, Create, Share — Positive Grid](https://www.positivegrid.com/blogs/positive-grid/guitar-goals-for-2026-play-create-share)
+- [5 Top Music Gear Trends for 2026 — Guitar Center](https://www.guitarcenter.com/riffs/gear-tips/guitars/5-top-music-gear-trends-for-2026)
+- [How to Learn Guitar with Arthritis or a Disability — Chord Buddy](https://thechordbuddy.com/blogs/news/how-to-learn-guitar-with-arthritis-or-a-disability)
+- [Guitar Chord Presser (arthritis-marketed tool) — Amazon listing](https://www.amazon.com/Guitar-Presser-Trainer-Beginners-Arthritis/dp/B0DT8Q95WY)
+- [Easiest Guitar to Play with Arthritis for Comfort — Gentle Octaves](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [Best Short Scale Electric Guitars 2026 — Guitar Lobby](https://www.guitarlobby.com/best-short-scale-electric-guitars/)
+- [Top 10 Short-Scale Electric Guitars for Adults 2026 — Tone Authority](https://www.toneauthority.com/top-10-short-scale-electric-guitars-for-adults-2026-buyers-guide/)
+- [Best Guitar Practice Apps in 2026 — Practis Blog](https://pract.is/blog/best-guitar-practice-apps-2026)
+- [Viral YouTube Shorts 2026: Hooks, Trends & Tips — Praper Media](https://prapermedia.com/blog/make-viral-youtube-shorts/)

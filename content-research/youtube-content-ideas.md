@@ -184,3 +184,52 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 28 July 2026
+
+Scheduled research refresh. Cross-checked against the June 2026 research above and the channel skill's project docs (Charter, Arthritis Checklist, Short Scale Guitars, Easier Play Guitars) to avoid duplicating what's already scoped. The Bridge and Baseline v10 spreadsheet was not found in this session's connected Drive — backlog sequencing (Mode 3) should still be checked against it directly before filming order is finalised. No spreadsheet or Charter content was overwritten or assumed here.
+
+### Trending Topics & Keywords (new signal since June)
+
+- **Ergonomic / shape-adaptive guitars** — 2026 gear coverage is leaning into instruments designed to change shape to the player rather than the reverse (multi-scale/fanned-fret, chambered ergonomic bodies). Mostly framed for working musicians; almost no one frames it for a 50-year-old casual player with joint pain. Strong premium-tier Fix Ladder fit.
+- **Fingerpicking / hybrid picking as a joint-pain fix** — recurring in arthritis-adjacent search results as a technique-level alternative to flatpicking, distinct from any setup change. Not yet covered anywhere in the backlog — it's a technique fix rather than a hardware fix, which is a new Fix Ladder shape (Free tier: technique only).
+- **Scale length specificity (24"–24.75")** — search results are converging on a concrete number for "arthritis-friendly" scale length rather than vague "shorter is better" advice. Ties directly into the Short Scale Guitars 2026 doc; worth a video that names the number.
+- **Returning players (post-gap)** — industry data puts returning players at roughly 1 in 6 guitar purchasers, a distinct persona from "arthritis" or "budget." Not explicitly named in the current backlog even though "Playing Through It" and identity content touch it indirectly.
+- **Portable recording / audio interfaces for practice tracking** — usage among guitarists is up sharply this year, mostly framed as a recording trend, not a practice trend. Fits the channel's practice-logging content ("what to track") as a Free/Affordable tier tool for measuring progress rather than producing content.
+- **Fret buzz diagnostic-by-location** — buzz on frets 1–5 usually points to neck relief; buzz higher up the neck usually points to bridge action. This is a sharper, more teachable version of the existing "Guitar Buzzing" video idea and could be folded into that script.
+
+### New Video Ideas
+
+| Working Title | Friction | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|
+| **Fingerpicking vs. Flatpicking: Which One Hurts Less?** | Pain is often blamed on the guitar when picking technique is doing the damage | Free: switch technique, no purchase · Affordable (£5–15): thumbpick, felt pick · Quality (£25–60): ergonomic pick grips · Premium (£100+): dedicated fingerstyle instrument | High — fills a real content gap (technique-as-fix, not hardware-as-fix); strong PTI series tie-in |
+| **The Real Scale Length Number for Sore Hands (24"–24.75")** | "Get a shorter scale" advice is vague and hard to act on | Free: measure your current guitar's scale length · Affordable: n/a (informational) · Quality (£150–300): entry short-scale electric · Premium (£400+): short-scale acoustic | Medium-high — pairs directly with the Short Scale Guitars 2026 doc, gives viewers a concrete number to search and shop against |
+| **Coming Back After a Long Break: What's Actually Changed (You or the Guitar?)** | Returning players assume the difficulty is personal failure, not a stale setup or forgotten calluses | Free: baseline check-in, no-judgment reassessment · Affordable: fresh strings · Quality: full setup service · Premium: instrument reassessment/upgrade | High — names an underserved persona directly; strong shareability among the "I used to play" audience |
+| **What I Actually Track When I Practice (And What I Ignore)** | Vague sense of "not improving" without evidence either way | Free: notebook log · Affordable (£0–15): practice log app · Quality (£30–80): basic audio recorder · Premium (£100+): audio interface + DAW | Medium — extends existing Practice Systems series with the 2026 recording-trend hook; good comparison/affiliate potential |
+| **The Ergonomic Guitar Trend, Translated for the Rest of Us** | Shape-adaptive guitar coverage is aimed at touring musicians, not someone with joint pain playing at home | Free: strap angle + seated position adjustment · Affordable: cushioned strap · Quality (£60–150): ergonomic support (Ergoplay-type) · Premium (£300+): multi-scale/chambered-body instrument | Medium-high — timely hook riding a real 2026 gear trend, reframed for the channel's actual audience |
+| **Fret Buzz: How to Tell What's Actually Wrong Before You Touch Anything** | "My guitar buzzes" covers at least three different causes, and guessing wastes a fix attempt | Free: listen-and-locate diagnostic (which frets buzz) · Affordable: shims/nut file · Quality: professional relief adjustment · Premium: full re-fret | High — sharpens an already-planned video with a genuinely useful diagnostic framework; strong search volume |
+
+### Gaps and Underexplored Angles (additions to the existing list)
+
+1. **Technique-only fixes** — the backlog is almost entirely hardware/setup-driven; fingerpicking-vs-flatpicking is the first clear example of a Free-tier fix that's pure technique, not equipment. Worth deliberately building 1–2 more of these so the Fix Ladder doesn't read as "you need to buy something."
+2. **Returning players as a named persona** — currently addressed only indirectly through arthritis and identity content. A direct video would likely outperform on shares, since "I used to play" is a very common comment-section refrain.
+3. **2026 ergonomic-guitar trend is ownable** — the trend is being covered, but not for this audience. Early-mover advantage on "ergonomic guitars for people with joint pain" before larger channels reframe it.
+
+### Titles, Hooks & Thumbnail Concepts
+
+- **"The Scale Length Number Nobody Tells You (24"–24.75")"**
+  Hook: "Shorter scale isn't a guess. It's a number." Thumbnail: tape measure across the fretboard, number circled.
+- **"Fingerpicking vs. Flatpicking: Which One Actually Hurts Less?"**
+  Hook: "Before you blame your guitar, check your pick." Thumbnail: split-screen hand shots, no product visible — technique is the whole story.
+- **"What Actually Changed: You, or the Guitar? (Coming Back After a Break)"**
+  Hook: "You didn't lose your hands. The guitar drifted." Thumbnail: dusty guitar case open, guitar mid-reach.
+- **"Ergonomic Guitars, Translated for the Rest of Us"**
+  Hook: "This trend wasn't built for touring musicians. It was built for you." Thumbnail: standard guitar next to a shape-adaptive one, comfort arrows overlaid.
+- **"Fret Buzz: Diagnose It Before You Touch Anything"**
+  Hook: "Where it buzzes tells you what's wrong. Here's how to read it." Thumbnail: fretboard with frets 1–5 highlighted vs. frets 12+ highlighted, two colours.
+
+### Confirmation
+
+New opportunities did emerge this cycle — five new video concepts and one new content gap (technique-only fixes) beyond what June's research already scoped. Nothing here duplicates an existing planned title; the fret-buzz idea sharpens rather than replaces the existing "Guitar Buzzing? Here's the £0 Fix" entry. Recommend checking the v10 spreadsheet directly (not accessible from this session) before locking filming order.

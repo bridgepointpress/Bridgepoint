@@ -184,3 +184,59 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 29 July 2026
+
+**Sources checked:** existing backlog (`Bridge_and_Baseline_Final_v7.xlsx`, Drive), channel intro script, and fresh web research on 2026 guitar-market and YouTube-format trends. No dedicated Charter, Arthritis Checklist, Short Scale Guitars, or Easier Play Guitars docs were found in Drive under this account — recommendations below lean on the channel intro script and v7 backlog instead. Everything below is new since the June 2026 research pass; nothing already listed above is repeated.
+
+## Trending Topics & Keywords (New Since Last Pass)
+
+- **"Why do beginners quit guitar" / adult learner attrition** — fresh 2026 data puts first-year dropout at ~90%, and 55% of adults who quit electric guitar say they regret it. Strong, shareable, data-backed hook that's currently unused on the channel.
+- **"Guitar player statistics 2026"** — women now make up roughly half of new guitar players (Fender's 2026 player landscape report); body-fit and ergonomics content rarely speaks to this audience directly.
+- **Short-scale guitars going mainstream** — 2026 coverage shows short-scale instruments shedding their "beginner/lesser" reputation, with touring pros using them as signature instruments. The credibility angle is new; the channel's existing short-scale content sells the ergonomics but not the stigma-busting.
+- **"First guitar at 40" / retirement hobby learners** — a distinct and growing segment: first-time (not returning) adult beginners in their 40s–60s, often picking guitar up as a retirement or life-stage hobby.
+- **Snackable format sweet spot** — 2026 platform guidance points to 60–90 second Shorts as the highest-performing length for tutorial/demo niches, longer than the simple 30-second cut-down the channel currently plans for.
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| **Why 90% of Adults Quit Guitar in Year One** | Players quietly stop playing and blame themselves, not an unset-up instrument | Reframes churn as a root-cause problem, not a willpower problem; positions the core setup check as the intervention | Free: 10-min nut/saddle/relief check · £5–20: fresh strings + feeler gauge · £25–100: nut & saddle swap · £100+: full professional setup | High — data-driven hook, strong candidate for a pinned/identity video |
+| **Coming Back to Guitar After 10, 20, 30 Years** | The specific friction of a long-gap return — calluses gone, memory of old ability creating frustration — distinct from arthritis-specific friction | Baseline-and-measure: establish where the hands are now, not where they used to be | Free: reset practice expectations with 15-min sprints · £5–20: fresh light strings · £25–100: setup check · £100+: a genuinely easier-playing instrument if the old guitar no longer fits | High — large, currently untargeted segment (55% regret-quitting figure) |
+| **Short-Scale Guitars Aren't "Beginner" Guitars Anymore** | Stigma that short-scale means a lesser instrument keeps comfort-seeking players from a genuine fix | Credibility reframe using 2026 pro adoption, paired with the existing scale-length ergonomics case | Free: check if a current guitar's scale is already shorter than assumed · Affordable: secondhand Squier Mini/Harley Benton (~£130–180) · Quality upgrade: mid-tier short-scale (~£300–400) · Premium: no ceiling if it solves the problem | Medium-High — reframes existing content with a fresh, myth-busting hook |
+| **Does a Short-Scale Guitar Actually Help Carpal Tunnel? (Testing the Claim)** | Carpal tunnel players are told short-scale helps, but no one demonstrates or measures it | Crosses the "Playing Through It" carpal tunnel episode with the short-scale doc; measurable before/after (reach distance, fret spacing, felt symptom change) | Same Fix Ladder as above, framed around the specific carpal-tunnel test | Medium — narrow but high-intent audience, strong watch-through potential |
+| **Guitars for Smaller Frames: A Body-Fit Case, Not a Marketing One** | Sizing and ergonomics content assumes a "default" body; roughly half of new players don't fit that default | Body-fit framing (reach, scale, body depth, strap geometry) rather than a gendered marketing angle | Free: strap height + position check · £5–20: lighter strings · £25–100: parlour/short-scale secondhand · £100+: full body-fit instrument swap | Medium-High — underexplored, addresses a stated but unserved audience segment |
+| **First Guitar at 40+: The Setup Mistakes Almost Everyone Makes** | First-time (not returning) adult beginners buy a guitar, get a factory setup built for younger/more limber hands, and don't know to check it | Onboarding-style video parallel to the $4k Mistake video, but aimed at the first-timer rather than the upgrader | Free: truss rod + saddle sand check on day one · £5–20: string change · £25–100: nut & saddle · £100+: full setup kit | High — growing demographic (40+ first-timers), natural funnel into the core setup video |
+
+## Content Gaps and Underexplored Angles (New)
+
+1. **Retention/regret data as a hook** — the channel has never used quit-rate or regret statistics to frame a video, despite them mapping directly onto the friction-removal thesis.
+2. **Women and smaller-framed players as an explicit segment** — roughly half the new-player market, currently addressed only implicitly through general ergonomics content.
+3. **Short-scale credibility reframe** — existing coverage sells comfort; it doesn't yet address the "lesser instrument" stigma that stops comfort-seeking players from trying one.
+4. **The oldest end of the stated audience** — the channel intro explicitly says "35 or 55 or 95," but no content currently speaks to players in their 80s–90s specifically.
+5. **Snackable format as strategy, not just a cut-down** — current planning treats Shorts as leftover clips; 2026 guidance suggests a deliberate 60–90 second companion format could perform better than 30-second cut-downs alone.
+
+## Titles, Hooks & Thumbnail Concepts (New)
+
+**1. "Why 90% of Adults Quit Guitar in Year One"**
+- Hook: "It's not you. Nine times out of ten, it's the setup."
+- Thumbnail: Simple stat callout (90%) beside a guitar on a stand, no face
+
+**2. "Coming Back to Guitar After 20 Years"**
+- Hook: "Your hands aren't what they were. Neither is the smart way to start again."
+- Thumbnail: Dusty guitar case opening; before/after setup measurement overlay
+
+**3. "Short-Scale Guitars Aren't 'Beginner' Guitars Anymore"**
+- Hook: "The guitar you were told to grow out of is the one pros are choosing on purpose."
+- Thumbnail: Short-scale guitar with a simple scale-length measurement callout
+
+**4. "First Guitar at 40? Here's What to Fix Before You Play a Single Chord"**
+- Hook: "Nobody hands you a manual. Here's the five-minute check that changes everything."
+- Thumbnail: New guitar still with tags, feeler gauge resting on the neck
+
+## Bottom Line
+
+New opportunities did emerge this pass — primarily around 2026 player-retention data and the short-scale credibility reframe, both currently absent from the backlog. Everything else confirms rather than replaces the June 2026 research: the existing Playing Through It, Silent Practice, and Budget Rescue pipelines remain the channel's strongest planned content.

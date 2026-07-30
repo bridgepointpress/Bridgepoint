@@ -184,3 +184,65 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 30 July 2026
+
+**Note on sources:** No v10 backlog spreadsheet, Charter, Arthritis Checklist, or Short Scale doc was found in this repository — only this file exists here. If those live elsewhere (Drive, a separate project), cross-check this update against the v10 backlog there before scheduling anything below, per Mode 3.
+
+### Trending Topics & Keywords (new since June)
+
+- **Keith Richards arthritis news cycle** — the Rolling Stones' December 2025 tour cancellation and his March 2026 Guitar World interview put mainstream press attention on a famous guitarist's arthritis for the first time in detail. Search interest around "Keith Richards arthritis guitar" is currently elevated. Direct newsjack potential for Playing Through It, if handled without tabloid tone.
+- **"Wider fingerboard" as an arthritis adaptation** — Richards specifically cited seeking a wider fingerboard to work around stiff, enlarged knuckles. A concrete, searchable angle that isn't yet covered anywhere in beginner-accessible content.
+- **Silicone finger caps / fretting aids** — a recurring product mention across 2026 arthritis-and-guitar coverage. Distinct from the string-gauge and action fixes already in this doc; not yet part of the channel's Fix Ladder vocabulary.
+- **Adaptive instrument tech** (e.g. chord-assist strum devices, one-handed bass modifications) — small but growing accessibility-press coverage in 2026. Underserved from a "traditional guitar, adapted" angle — most existing coverage frames these as replacement instruments rather than additions to a player's toolkit.
+- **"Athlete mindset" framing for aging guitarists** — a recurring phrase in 2026 guitar press, encouraging warm-up and recovery discipline. Maps cleanly onto the channel's baseline-and-measure thinking.
+- **Guitar lesson market growth** — enrollment reportedly up over the past decade, with adult learners named as a specific growth segment. Useful context for channel positioning; not a video topic on its own.
+- **2026 YouTube Shorts specifics** — 30–45 second sweet spot, captions expected by default (most Shorts viewers watch muted), replay rate as the dominant ranking signal, original audio favoured over trending audio below 50K subscribers. Actionable production guidance for the Reels/Shorts cut-down plan already noted in this doc.
+
+### New Video Ideas
+
+| # | Working Title | Friction / Angle | Fix Ladder sketch | Audience appeal |
+|---|---|---|---|---|
+| 1 | **What Keith Richards Just Said About Arthritis and Guitar** | Viewers who saw the same interview want to know what it means for them, not just for a rock star | Free: nut slot/relief check for perceived fretboard width · Affordable: flatter-radius or wider aftermarket nut (~£15) · Quality upgrade: tech-reshaped nut and string spacing (~£40–60) · Premium: guitar with a genuinely wider neck profile (£150+) | High — timely and searchable, but needs a clinical, non-tabloid tone to fit the channel |
+| 2 | **Do Silicone Finger Caps Actually Work? An Honest Test** | Fretting pain from string pressure; caps are widely mentioned but rarely tested honestly | Free: moleskin/tape trial · Affordable: silicone finger caps (~£8–12) · Quality upgrade: custom-fit caps or thicker gel sleeves (~£20–30) · Premium: nut/action work that removes the need for caps entirely (£80+) | Medium-high — must show the trade-off (reduced feel and tone), not oversell |
+| 3 | **Adaptive Guitar Tech in 2026: What's Actually Out There** | Players assume "adaptive" means giving up the guitar; most coverage frames adaptive devices as replacements, not additions | Roundup format rather than strict tiers — DIY approaches through commercial adaptive devices | Medium-high — strong shareability into the accessibility/disability community beyond the core guitar niche; complements the planned One-Handed Playing and Neuropathy PTI episodes |
+| 4 | **The Athlete Mindset: Why Warm-Up Matters More After 50** | Warm-up treated as optional rather than a discipline | Free: warm-up routine · Affordable: grip/hand therapy tool (~£10) · Quality upgrade: compression gloves or hand-specific physio device (~£25–40) · Premium: occupational therapy consultation (£100+) | Medium — pairs naturally with the existing Warmup Problem idea in Practice Systems |
+| 5 | **Short-Scale Guitars in 2026: What's Actually Worth Buying** | Assumption that short-scale means compromise; the field has moved since the existing Short Scale doc was written | Ladder mapped to specific current models across price points (sub-£150 through mid-range) | High — evergreen buyer's-guide format performs consistently in this niche and refreshes existing reference material |
+
+**Production note (not a standalone video):** apply the 2026 Shorts specifics above to the existing cut-down plan — keep clips to 30–45 seconds, burn in captions by default, use the before/after moment as the loop point for replay rate, and favour original audio over trending sounds at the channel's current size.
+
+### Content Gaps and Underexplored Angles (new)
+
+1. **Newsjacking a mainstream story without tabloid tone** — untested format for this channel; worth trying once, carefully, given the current Keith Richards news cycle.
+2. **Adaptive hardware as its own Fix Ladder category** — the planned PTI episodes (Ep 2–8) focus on technique and setup; none currently treat adaptive devices as a distinct, addable option.
+3. **Comfort products beyond strings and action** — finger caps, grip aids, and compression tools appear throughout 2026 arthritis-and-guitar coverage but are absent from the channel's current Fix Ladder vocabulary.
+4. **A repeatable Shorts production checklist** — this doc has flagged Shorts potential since June but hasn't yet translated 2026 platform specifics into a standard the creator can apply without re-deciding each time.
+
+### High-Potential Titles, Hooks & Thumbnail Concepts (new)
+
+**1. "What Keith Richards Just Said About Arthritis and Guitar (And What It Means for You)"**
+- Hook: "He's dealt with this for decades. Here's what actually changed for him — and what might help you."
+- Thumbnail: neck-width comparison shot, no face, PTI series bar.
+
+**2. "Do Silicone Finger Caps Actually Work? An Honest Test"**
+- Hook: "£8, five minutes, a real before and after."
+- Thumbnail: bare fingertip next to a capped fingertip on the fretboard, price callout.
+
+**3. "Adaptive Guitar Tech in 2026: What's Actually Out There"**
+- Hook: "Adapting doesn't mean giving up the guitar. Here's what exists right now."
+- Thumbnail: guitar alongside an adaptive device, calm and neutral framing.
+
+**4. "The Athlete Mindset: Why Warm-Up Matters More After 50"**
+- Hook: "Five minutes before you play changes what the next hour feels like."
+- Thumbnail: hands mid-stretch, clock overlay.
+
+**5. "Short-Scale Guitars in 2026: What's Actually Worth Buying"**
+- Hook: "New models, same question: does scale length change what you can play?"
+- Thumbnail: three current-year short-scale guitars side by side, price callouts.
+
+### Format Notes (new)
+
+- The 2026 Shorts algorithm rewards replay rate above other signals — the before/after measurement moment already used in every video is the correct loop point. Burn in captions, since most Shorts viewers watch muted.
+- Sources consulted this update: Guitar World's March 2026 Keith Richards interview coverage, 2026 arthritis-and-guitar articles (Roadie Music, Blayze, Guitar Wiz), adaptive-instrument coverage (Rehabmart, Soundbrenner), current short-scale buyer's guides (Guitar World, Guitar Lobby, Powers of 10), and 2026 YouTube Shorts algorithm guides (Socialync, Riverside, JoinBrands).

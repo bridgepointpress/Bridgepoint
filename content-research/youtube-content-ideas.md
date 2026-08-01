@@ -184,3 +184,72 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 1 August 2026
+
+**Backlog check:** Reviewed `Bridge_and_Baseline_Final_v7.xlsx` in Drive before adding anything below — Videos 1–8 (three-point setup, arthritis/PTI Ep 1, pawn shop rescue, barre chords, the $4,000 mistake, light strings, ergonomics, PM identity video) are already scripted or in the publish queue, matching the "Already scripted" list above. Nothing new below duplicates that sequence. No v10 file exists in Drive yet — v7 is current.
+
+## Trending Topics & Keywords (new this pass)
+
+- **"Guitar comeback after years off"** — 90% of beginners quit within their first year, and returning players are a recognised, named segment of the market (not a niche within a niche). Strong, under-used hook territory for this channel specifically.
+- **Adaptive guitar devices entering mainstream search** — "Strumling," "ChordBuddy," "one-handed guitar device" are all showing active 2026 content and product activity outside the channel's usual orbit. Worth an honest evaluation video rather than ceding the topic.
+- **Short scale legitimacy narrative** — 2026 coverage increasingly frames short scale as a *professional* choice (Paul McCartney, Jack Bruce, Mike Kerr referenced as signature players), not just a beginner or "compromise" instrument. This directly counters the stigma the channel already works to dismantle — good citation to have on hand, not a new stigma to introduce.
+- **Headphone amp field has moved on** — Fender Mustang Micro **Plus** and Blackstar Beam Solo 6 are the 2026-current names players are searching, alongside the Vox Amplug 3 Series. The existing "Silent & Stealth Practice" section above should be updated with these before that video is produced.
+- **Shorts algorithm specifics worth knowing before cutting clips** — 2026 guidance is specific: 20–35 second runtime, captions by default (most Shorts are watched sound-off), and a loopable ending. This changes how the existing "before/after measurement" Shorts plan (noted above) should be edited, not just that it should exist.
+
+## New Video Ideas
+
+### 1. "I Quit Guitar for 12 Years. Here's What Actually Got Me Back."
+- **The friction:** Returning players don't know if their old guitar, old calluses, or old technique are worth rebuilding from, or if they should start over.
+- **The fix angle:** Reframes "starting over" as a baseline-and-reassess problem, not a failure. Personal/narrative format rather than a pure fix video.
+- **Fix Ladder sketch:** Free — pick the guitar back up and do nothing else for a week; Affordable (£10–15) — fresh strings, since old strings are the single biggest reason a returning guitar feels worse than memory; Quality upgrade (£25–60) — the three-point setup already in the channel's core video; Premium (£100+) — professional setup if the guitar's been stored badly for years.
+- **Audience appeal:** High — directly targets the largest identifiable underserved segment (returning adult players), and the "quit for years" framing is a strong, honest hook without hype.
+
+### 2. "Strumling, ChordBuddy, and the One-Handed Guitar: What Actually Helps"
+- **The friction:** Viewers with significant grip, dexterity, or limb differences see adaptive devices marketed at them and have no independent, non-affiliated source to know which ones genuinely reduce friction versus which are gimmicks.
+- **The fix angle:** Honest, comparative evaluation — run each device through the same Mode 2-style checklist the channel already uses for sponsors, but presented editorially rather than as sponsored content.
+- **Fix Ladder sketch:** Free — technique-only adaptations (partial capo, open tuning, thumb-over); Affordable (£15–30) — ChordBuddy-tier learning aids; Quality upgrade (£40–80) — Strumling-tier assistive devices; Premium (£100+) — custom/prosthetic-integrated setups, acknowledged honestly as a real but smaller-audience tier.
+- **Audience appeal:** High with a passionate, underserved niche; strong potential to be shared well outside the channel's existing subscriber base (disability and adaptive-music communities actively search this topic and have few trustworthy guitar-specific sources).
+
+### 3. "Short Scale Isn't a Beginner Guitar Anymore (And Here's the Proof)"
+- **The friction:** Viewers considering a short-scale guitar for comfort worry it signals they've "settled" or aren't a real player.
+- **The fix angle:** Uses the 2026 mainstream/professional short-scale narrative (signature players, pro adoption) as evidence, paired with the channel's own scale-length comfort case.
+- **Fix Ladder sketch:** Free — capo-up technique to simulate shorter reach on a full-scale guitar as a trial; Affordable — none at this tier, scale length isn't a bolt-on fix; Quality upgrade (£150–300) — Harley Benton/Sire/Mitchell/Indio short-scale models per the Short Scale Guitars doc; Premium (£400+) — short-scale models from majors now offered as first-class instruments, not just travel or student guitars.
+- **Audience appeal:** Medium-high; strong evergreen search value, and it removes a real psychological barrier the Comfortable Player persona specifically has flagged (spending real money on a "beginner" instrument feels like a step backward).
+
+### 4. "The Silent Practice Rig, Updated for 2026"
+- **The friction:** The channel's existing silent-practice content (noted above) references gear that's since been superseded; viewers researching today land on outdated comparisons.
+- **The fix angle:** Refresh, not reinvent — same Fix Ladder structure, current product names.
+- **Fix Ladder sketch:** Free — foam mute under strings (unchanged); Affordable (£30–50) — Vox Amplug 3; Quality upgrade (£80–120) — Fender Mustang Micro Plus; Premium (£150+) — Blackstar Beam Solo 6 or Yamaha SLG silent guitar.
+- **Audience appeal:** Medium; lower novelty but high search durability — this is a "keep the anchor video current" play rather than a new-territory play.
+
+### 5. "Why Your Hook Has to Work With the Sound Off"
+- **The friction:** Not a viewer-facing friction — this is a channel-operations idea, included because the Shorts research surfaced it directly and it affects how existing planned Shorts should be cut.
+- **The fix angle:** Not a video for the channel — a production note. Recommend applying caption-first, 20–35 second, loopable-ending editing to the "before/after measurement" Shorts already planned in the Format Notes above, rather than treating it as a new video topic.
+- **Fix Ladder sketch:** N/A — production practice, not audience-facing content.
+- **Audience appeal:** N/A — indirect; affects retention on Shorts already in the plan.
+
+## Gaps and Underexplored Angles (new this pass)
+
+1. **Returning players as a named, addressed segment.** The channel currently speaks to "35–65" broadly but doesn't have a video that names the comeback experience directly. Given 90% of beginners quit and returning players are a recognised market segment, this is a high-priority gap and a strong channel-identity fit.
+2. **Independent adaptive-device evaluation.** The channel has arthritis and physical-difference content throughout, but no video evaluates the assistive-device products (Strumling, ChordBuddy, one-handed devices) themselves. This is squarely in the channel's stated mission and currently unaddressed.
+3. **Keeping evergreen gear videos current.** The silent-practice and headphone-amp content is good but references products that have since been superseded — a reminder to build a light refresh pass into the schedule for any gear-comparison video older than ~12 months.
+
+## Titles, Hooks & Thumbnail Concepts (new this pass)
+
+### "I Quit Guitar for 12 Years. Here's What Actually Got Me Back."
+- **Hook:** "It wasn't motivation. It was a fifteen-minute fix."
+- **Thumbnail:** Dusty guitar case being opened; timestamp overlay reading "12 years"
+
+### "Strumling, ChordBuddy, and the One-Handed Guitar: What Actually Helps"
+- **Hook:** "Three adaptive devices, one honest answer."
+- **Thumbnail:** The three devices laid out side by side, plain background, no text gimmicks
+
+### "Short Scale Isn't a Beginner Guitar Anymore"
+- **Hook:** "The players who could buy anything are buying these."
+- **Thumbnail:** Short-scale guitar next to a full-scale, subtle price tags visible on both
+
+**If no new opportunities had emerged this pass, this section would say so plainly — they did, primarily around the returning-player segment and adaptive-device evaluation, both genuine gaps against the existing backlog.**

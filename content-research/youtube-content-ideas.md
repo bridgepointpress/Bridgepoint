@@ -184,3 +184,70 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+## Research Update — 2 August 2026
+
+*This section is additive — everything above is preserved from the June 2026 research pass. Ideas here are new; where a topic overlaps with something already logged above, it's been reframed to add a distinct angle rather than repeated.*
+
+### Trending Topics & Keywords (fresh signal since June)
+
+- **Keith Richards / arthritis in mainstream music press** — ongoing 2026 coverage of Richards adapting his playing (wider fingerboard, fewer notes, changed technique) is putting "guitarist + arthritis" in front of a mainstream audience, not just guitar forums. A timely, non-hype hook for the existing Playing Through It series.
+- **Short-scale guitars losing the "beginner instrument" stigma** — 2026 gear press (bass and guitar both) is actively repositioning short-scale as a legitimate choice for working players, not a compromise. Directly supports the channel's existing short-scale content with external validation.
+- **Solderless electronics / DIY kit culture** — builder-kit content is trending, with solderless wiring called out repeatedly as what's making electronics mods accessible to non-specialists. The channel's Fix Ladder has never had a strong electronics-side entry; this closes that gap.
+- **40+ and returning-player demographic still rising** — continued growth in adults starting or restarting guitar in their 40s and beyond, with commentary consistently framing patience and effective practice habits (not youth) as the advantage. Reinforces the channel's core audience without needing new positioning.
+- **3/4-body and small-body acoustic roundups** in mainstream gear press (Guitar World and others) — the "which small guitar" question is getting mainstream coverage but almost never through a comfort/ergonomics lens, which is exactly the channel's angle.
+
+### New Video Ideas
+
+| # | Working Title | Friction | Fix Ladder sketch |
+|---|---|---|---|
+| 1 | **"The Solderless Pickup Swap: A Quality Upgrade Without a Soldering Iron"** | Players want a meaningfully better instrument but electronics work feels like a specialist skill | Free: clean and reseat existing wiring / Affordable (£10–15): new pots or push-pull swap kit / Quality (£40–80): solderless pickup swap / Premium (£100+): full solderless loaded pickguard |
+| 2 | **"Dupuytren's Contracture and the Guitar: What Still Works"** | A specific, named hand condition with real search demand and effectively no beginner-accessible guitar content | Free: capo placement and voicing choices that avoid the affected finger / Affordable: partial capo (~£12) / Quality: light-gauge string set matched to reduced stretch / Premium: custom nut and action reset for a permanently altered hand shape |
+| 3 | **"The Guitar Already in Your Closet"** | Distinct from the pawn-shop rescue format — this is for the returning player who already owns an instrument and hasn't opened the case in years | Free: restring and clean, re-baseline the setup / Affordable: new strings and a set of feeler gauges / Quality: a proper setup pass / Premium: a professional setup as a "welcome back" investment |
+| 4 | **"Neck Width Is a Comfort Variable, Not Just a Spec"** | Setup content usually treats action and relief as the whole story; nut width and neck profile — which matter enormously for smaller or larger hands — are rarely discussed as a fixable comfort choice | Free: measure your current nut width and compare to hand span / Affordable: none (this is a guitar-selection insight, not a part swap) / Quality: a narrower or wider aftermarket nut / Premium: a different guitar chosen on neck profile rather than brand |
+| 5 | **"Short Scale Isn't the Beginner Guitar Anymore"** | Comfortable Players in particular have absorbed the idea that short-scale means "starter" or "compromise," which keeps them from a genuinely lower-friction option | Free: try a friend's or shop's short-scale model before assuming / Affordable: a budget short-scale (see Short Scale Guitars doc) / Quality: a mid-tier short-scale build / Premium: a premium short-scale instrument bought on merit, not as a fallback |
+| 6 | **"Even Keith Richards Had to Change His Setup"** | Mainstream-press hook: normalises setup changes due to hand changes for an audience that may feel self-conscious about needing them | Free: none — this is a framing/insight video, not a part-swap video | 
+| 7 | **"The Capo Isn't a Shortcut — It's a Design Choice"** | Adaptive tools like the capo are sometimes still perceived (by the player themselves, not the channel) as lesser options rather than legitimate ones | Free: recognising which songs are easier reframed with a capo / Affordable: a decent clamp-style capo (£10–15) / Quality: a partial capo (£20–30) / Premium: a spider-style full-reconfiguration capo |
+
+### Content Gaps and Underexplored Angles (new since June)
+
+1. **Named conditions beyond arthritis and carpal tunnel** — Dupuytren's contracture, trigger thumb, tremor, and post-stroke single-hand relearning all show real search interest and essentially no accessible guitar-specific content. The Playing Through It format extends naturally here.
+2. **Electronics as a Fix Ladder tier** — every existing idea in this doc is nut, bridge, string, or hardware. Solderless electronics mods are trending and would round out the ladder with a genuinely new fix category.
+3. **Neck profile and nut width as a comfort variable** — the channel's setup content is entirely action/relief-focused; width and profile matching to hand size is a distinct, unaddressed lever.
+4. **The "already own it" returning player** — existing rescue content assumes a purchase (pawn shop, budget guitar). A large share of the 40+ returning-player audience has a guitar sitting unplayed already; that's a different entry point and a lower barrier to the first video someone watches.
+5. **Timely mainstream hooks used sparingly** — the Richards story is a one-time opportunity to connect the channel's existing arthritis content to a name recognisable outside the guitar-forum audience, without chasing celebrity-news hype more broadly.
+
+### High-Potential Titles, Hooks & Thumbnail Concepts
+
+1. **"The Solderless Pickup Swap: A Quality Upgrade Without a Soldering Iron"**
+   - Hook: "No solder, no tech, no repair shop. Just a screwdriver."
+   - Thumbnail: Two pickups side by side, one wired, one solderless clip connector visible
+
+2. **"Dupuytren's Contracture and the Guitar: What Still Works"**
+   - Hook: "The finger doesn't move the way it used to. The guitar can."
+   - Thumbnail: Hand on neck, PTI series card with episode number
+
+3. **"The Guitar Already in Your Closet"**
+   - Hook: "It's not broken. It's just been waiting."
+   - Thumbnail: Dusty guitar case being opened; before/after string shot
+
+4. **"Neck Width Is a Comfort Variable, Not Just a Spec"**
+   - Hook: "You've been blaming your technique. It might be the ruler."
+   - Thumbnail: Feeler gauge or calliper measuring nut width, two necks side by side
+
+5. **"Short Scale Isn't the Beginner Guitar Anymore"**
+   - Hook: "The pros using this scale length aren't compromising. Why should you?"
+   - Thumbnail: Short-scale guitar next to full-scale, matched frame, no size gimmick
+
+6. **"Even Keith Richards Had to Change His Setup"**
+   - Hook: "Fewer notes. Wider neck. Still Keith Richards."
+   - Thumbnail: Simple text-free image suggestion — a guitar neck close-up, no likeness used
+
+### Confirmation
+
+New opportunities did emerge this pass — this is not a "nothing new" update. The strongest near-term pickups are the solderless electronics tier (closes a real Fix Ladder gap) and the Dupuytren's/named-condition angle (extends Playing Through It with low-competition search demand). The Keith Richards hook is time-sensitive and worth prioritising before the news cycle moves on.
+
+**Sources consulted:** [Guitar World — Keith Richards arthritis](https://www.guitarworld.com/artists/guitarists/keith-richards-arthritis-impact), [Guitar World — arthritis and guitarists](https://www.guitarworld.com/artists/guitarists/arthritis-and-guitarists), [Guitar Fabrik — Best DIY Guitar Kits 2026](https://theguitarfabrik.com/us/blog/best-diy-guitar-kits-2026.html), [Guitar World — kickstart 2026 DIY kits](https://www.guitarworld.com/shop/gear/guitars/looking-to-kickstart-2026-with-a-new-guitar-or-pedal-project-here-are-12-of-my-favourite-diy-guitar-kits-easy-mods-and-simple-pedal-builds-to-help-you-smash-the-january-blues), [Breakthrough Guitar — average age of guitar players](https://breakthroughguitar.com/what-is-the-average-age-of-guitar-players-surprising-statistics-trends/), [Guitar World — Best 3/4 acoustic guitars 2026](https://www.guitarworld.com/features/best-three-quarter-acoustic-guitars), [Tone Authority — Short-Scale vs Full-Scale 2026](https://www.toneauthority.com/short-scale-vs-full-scale-guitars-which-should-you-choose-2026-guide/)

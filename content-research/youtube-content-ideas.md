@@ -184,3 +184,93 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 3 August 2026 Research Refresh
+
+Cross-checked against the current backlog (Bridge and Baseline video list, 52 planned videos across Phases 1–10, including the Playing Through It, Silent & Stealth, Ergonomics & Comfort, and Budget Rescue playlists) so the ideas below are net-new rather than duplicates of planned or already-scripted content.
+
+### Trending Topics & Keywords (New Signals Since June)
+
+- **Boutique ergonomic guitars going mainstream** — Strandberg's EndurNeck and Aristides' Arium material are being covered widely in 2026 gear press as ergonomic design moves from niche to marketed feature; viewers will start asking whether the premium tier is actually necessary
+- **"Short-scale for smart players"** — 2026 coverage increasingly frames short-scale (22.5"–24.75") as a deliberate choice for experienced players, not just a beginner or child's instrument — matches the channel's existing Short Scale Guitars research directly
+- **AI-assisted setup and tuning apps** — a new wave of phone apps claim to measure action, relief, and intonation using the camera/mic; no independent, tools-in-hand test of these claims exists yet
+- **Guitar-specific RSI data entering mainstream gear press** — coverage now cites repetitive strain injury rates among musicians generally; useful as context, not as a standalone hook (figures vary by source and skew toward professional/high-hours players, so any on-camera stat should be caveated rather than stated flatly)
+- **Neuropathy as a distinct, actively-discussed condition** — patient community discussion (e.g. Mayo Clinic Connect forum) shows people specifically searching for how to keep playing guitar with numbness and reduced sensation, separate from arthritis or grip strength
+
+### New Video Ideas
+
+**1. Dupuytren's Contracture and the Guitar: What Changes, What Doesn't**
+- Friction: a hand slowly curling toward the palm changes reach and chord shape over months or years, and standard fretting advice doesn't account for a hand that keeps changing
+- Fix angle: setup and tuning adaptation — alternate tunings, partial capo, nut and string spacing
+- Fix Ladder: Free — retune to remove full-hand stretch chords · Affordable (£5–20) — lighter strings · Quality (£25–100) — re-cut or wider-spaced TUSQ nut · Premium (£100+) — wider-neck guitar swap
+- Audience appeal: high — common age-related condition, currently unaddressed on the channel or, as far as this research found, by any guitar channel; strong next episode for Playing Through It
+
+**2. Essential Tremor and the Guitar: Playing With Shaking Hands**
+- Friction: involuntary shake in the fretting or picking hand makes precise contact feel unreliable, and most technique content assumes a steady hand
+- Fix angle: technique and gear adaptation — pick weight and grip, capo to reduce required precision, simplified voicings
+- Fix Ladder: Free — anchor the strumming arm against the body, simplify chord voicings · Affordable — heavier pick or thumb pick for more predictable contact · Quality — capo plus lighter strings together · Premium — adaptive pick grips fitted to the hand
+- Audience appeal: medium-high — real, specific, currently unaddressed; another strong Playing Through It entry
+
+**3. I Tried a £1,600 Ergonomic Guitar Against a £25 Nut Fix**
+- Friction: 2026 gear marketing pushes premium ergonomic necks hard, and viewers with joint pain want to know honestly whether that's the real answer or whether a correct low-cost setup gets most of the way there
+- Fix angle: direct comparison — measure the same friction points (grip strain, reach, chord ease) on a boutique ergonomic neck against a budget guitar carrying a properly executed Fix Ladder treatment
+- Fix Ladder: the comparison is the video's structure — Free/Affordable/Quality tiers applied to a budget guitar, set directly against the Premium-tier boutique option, both measured the same way
+- Audience appeal: high — rides a live trend, strong click potential, and extends the "price doesn't equal comfort" thesis from the $4,000 Mistake video with a fresh, current product rather than repeating it
+
+**4. Do AI Guitar Setup Apps Actually Work?**
+- Friction: new phone apps promise to measure action, relief, and intonation without buying tools, and no one has tested the claims plainly against a feeler gauge
+- Fix angle: honest tech comparison — same guitar, app reading against manual measurement, report the accuracy without hedging
+- Fix Ladder: Free — app measurement · Affordable (£5–20) — feeler gauge and ruler · Quality (£25–100) — full StewMac gauge set · Premium (£100+) — professional setup, priced against what the app claimed to save
+- Audience appeal: medium-high — timely, appeals particularly to the Comfortable Player persona, extends channel reach into tech-adjacent search traffic
+
+**5. The 24.75-Inch Question: Why Scale Length Is the Ergonomic Fix Nobody Mentions First**
+- Friction: viewers chase nut and action fixes without realising scale length changes string tension and hand travel before any setup work even begins
+- Fix angle: education and side-by-side demonstration — same chord shape played on two scale lengths, same hand
+- Fix Ladder: Free — capo up two frets on a long-scale guitar to approximate the tension feel · Affordable — lighter gauge to compensate on an existing guitar · Quality (£150–300) — short-scale guitar · Premium (£300+) — boutique short-scale build
+- Audience appeal: high — matches the 2026 "short-scale for smart players" trend directly, positions the channel ahead of a growing search category, draws on the existing Short Scale Guitars research
+
+**6. Viewer Rescue: I Set Up a Subscriber's Guitar (Live Diagnosis)**
+- Friction: viewers have one specific guitar with one specific problem and no way to know whether their exact instrument is worth the time to fix
+- Fix angle: format, not a single fix — full on-camera triage of a subscriber-submitted guitar, ladder applied live to whatever the guitar actually needs
+- Fix Ladder: determined on camera by the guitar's actual condition, not pre-selected
+- Audience appeal: high — strongest community-building format available; this was already flagged as a gap in the June research and is worth greenlighting once comment volume supports it (worth confirming current comment/subscriber count before scheduling)
+
+### Content Gaps and Underexplored Angles (New This Pass)
+
+1. **Dupuytren's contracture** — distinct from arthritis, age-correlated, no coverage found anywhere in the guitar-content space
+2. **Essential tremor** — distinct condition, real forum search signal, no coverage found
+3. **The premium ergonomic guitar trend** — Strandberg/Aristides-style boutique ergonomics are now mainstream marketing; the channel hasn't yet tested or referenced any of it, and viewers will start asking whether it's worth it before the channel has an answer ready
+4. **AI-assisted setup tools** — a new product category with no independent, tools-in-hand review from an ergonomics-first channel
+5. **Scale length as its own standalone fix** — currently only reachable through short-scale buying content; framing it as "measure this before you touch the nut" is a distinct, underused angle
+
+### High-Potential Titles, Hooks & Thumbnail Concepts
+
+**Dupuytren's Contracture and the Guitar: What Changes, What Doesn't**
+- Hook: "Your hand is changing shape. Your guitar doesn't have to stay the same."
+- Thumbnail: close-up of a curled finger beside a widened nut-slot measurement, PTI series bar
+
+**I Tried a £1,600 Ergonomic Guitar Against a £25 Nut Fix**
+- Hook: "One of these costs sixty times more. Only one of them was necessary."
+- Thumbnail: split shot — boutique guitar neck against a budget guitar with a TUSQ nut visible, price tags overlaid
+
+**Do AI Guitar Setup Apps Actually Work?**
+- Hook: "The app says your action is fine. The feeler gauge disagrees."
+- Thumbnail: phone screen showing the app reading next to a feeler gauge on the fretboard, both visible in frame
+
+### Sources Consulted
+
+- [10 Top Ergonomic Guitar Brands for Physical Comfort (2026)](https://www.guitarbrands.org/ergonomic-guitar-brands-for-physical-comfort/)
+- [Exciting Design Trends in Boutique Guitars for 2026 — Mythic Guitar Company](https://mythicguitars.com/blogs/articles/boutique-guitar-design-trends-2026)
+- [Easiest Guitar to Play with Arthritis for Comfort](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [Ergonomic Comfort Series Guitars — Journey Instruments](https://journeyinstruments.com/product-category/ergonomic-comfort-series/)
+- [14 Best Short Scale Electric Guitars in 2026 — Guitar Lobby](https://www.guitarlobby.com/best-short-scale-electric-guitars/)
+- [Top 10 Short-Scale Electric Guitars for Adults (2026 Buyer's Guide) — Tone Authority](https://www.toneauthority.com/top-10-short-scale-electric-guitars-for-adults-2026-buyers-guide/)
+- [Guitar Truss Rod Adjustment: Safe Step-by-Step Guide (2026)](https://owningafender.com/guitar-setup/truss-rod-adjustment)
+- [How to Set Up Your Electric Guitar: The 2026 Step-by-Step Guide — Tonalyst](https://tonalyst.com/electric-guitar-setup-guide)
+- [Peripheral neuropathy and guitar playing — Mayo Clinic Connect](https://connect.mayoclinic.org/discussion/peripheral-neuropathy-and-guitar-playing/)
+
+### Note on This Pass
+
+No major reversal of channel strategy emerged — the existing Fix Ladder format and Playing Through It series remain the strongest fit for everything found. The main opportunity is two genuinely new adaptive-playing conditions (Dupuytren's, essential tremor) plus three trend-responsive comparison videos (boutique ergonomic guitars, AI setup apps, scale length) that ride live 2026 search interest without duplicating the 52-video backlog.

@@ -184,3 +184,45 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 4 August 2026
+
+*(Appended to the June 2026 report above. Existing sections unchanged.)*
+
+## What's New Since June
+
+A fresh scan of search trends, guitar-health forums, and 2026 YouTube algorithm reporting didn't surface a wholesale shift in the niche — the June gap analysis still holds. What follows are additions and refinements, not a rewrite.
+
+### Trending Topics & Keywords (new signals)
+
+- **"Guitarist as athlete" framing** — Guitar World and adjacent outlets are pushing a longevity/prehab mindset for aging players (warm-up as training, not just prep). Distinct from the existing warm-up video: this is a maintenance-schedule angle, not a pre-session checklist.
+- **"Guitars for small hands"** — a 2026 buyer's-guide wave (separate from "short scale") treats hand size as its own search category, independent of age. Worth noting as a keyword distinct from the channel's existing short-scale/older-player framing.
+- **Cubital tunnel syndrome ("guitarist's elbow")** — turned up alongside carpal tunnel and trigger finger in forum and clinical search results. Same compression-injury family as the channel's existing PTI entries, but nobody in the niche has covered the elbow specifically.
+- **YouTube Shorts algorithm (2026 update)** — Shorts and long-form are now fully decoupled in recommendation, and Shorts reward loop rate and a hook inside the first few seconds over general watch time. This affects distribution strategy more than video ideas — see Format Notes below.
+
+### New Video Ideas
+
+| # | Working Title | Key Angle | Fix Ladder sketch |
+|---|---|---|---|
+| PTI Ep 9 | **Cubital Tunnel: The Elbow Nobody Blames** | Ulnar nerve compression from fretting-arm elbow flexion; distinct mechanism from carpal tunnel, same "setup absorbs it" logic | Free: elbow angle/strap adjustment · £5–20: elbow sleeve · £25–100: ergonomic strap redesign · £100+: guitar support system that removes elbow flexion entirely |
+| — | **The Maintenance Schedule for Your Hands** | PM insight: hands are an asset with a maintenance plan, not something you react to after damage. Reframes warm-up as scheduled upkeep, not a chore before "real" playing | Free: daily mobility routine · £5–20: massage ball/stretch band · £25–100: physio consult · £100+: ongoing OT/physio programme |
+| — | **Small Hands, Not Small Guitar: What Actually Fits** | Separates "hand size" from "age" and "short scale" — nut width and string spacing matter more than scale length for some players; broadens the audience beyond the 35–65 frame without leaving it | Free: measure your own reach and compare to spec sheet · £5–20: narrower nut aftermarket check · £25–100: parlour/short-scale rental or trial · £100+: guitar chosen to hand geometry, not marketing |
+
+### Content Gaps and Underexplored Angles (additions)
+
+8. **Cubital tunnel / elbow compression** — same family as carpal tunnel and trigger finger, already in the PTI pipeline, but the elbow specifically is undercovered anywhere in the niche.
+9. **Hand-geometry fit independent of age** — current framing routes "smaller/easier guitar" content through the older-player lens; a hand-size-first video reaches players who don't identify as the target demographic yet share the friction.
+10. **Preventive/longevity framing** — most existing content (including the June backlog) treats hand health reactively (pain → fix). A maintenance-schedule framing gets ahead of it, which fits the PM lens directly.
+
+### Format Notes (update)
+
+- **Shorts strategy needs its own cadence, not just cut-downs.** The June report treats Shorts as a byproduct of long-form editing. 2026 algorithm reporting suggests Shorts distribution is now a separate audience with its own reward signals (loop rate, first-seconds hook). Worth testing a deliberate 2–3x/week Shorts cadence built from the same before/after footage, rather than treating it as leftover material.
+- No format changes suggested to the long-form video structure — Insight → Action → Encouragement still matches what's working.
+
+### Bottom Line
+
+No major pivot indicated. Three genuinely new video ideas (cubital tunnel, hand-maintenance framing, hand-size-not-age framing) plus a Shorts-cadence format note are the actionable output this cycle. Everything else in the June report remains current and unduplicated.
+

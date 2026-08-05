@@ -184,3 +184,96 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — August 2026
+
+**Method note:** Before generating new ideas, this update was cross-checked against the production backlog (`Bridge_and_Baseline_Final_v7.xlsx`, 51 planned videos across Phases 1–10, including the full "Playing Through It" series arc) to avoid duplicating what's already scripted or scheduled. Everything below is either genuinely new or a confirmed still-open gap.
+
+## What's Already Well-Covered (confirmed via backlog, not repeated below)
+
+The June list's core angles are already in production: setup basics, arthritis (multiple episodes), silent/stealth practice (rig, headphone amp comparison, quiet acoustic, quiet space build), short-scale/small-fret framing (Video 43), one-handed & adaptive playing (Video 35/50), flare management (Videos 10/45/51), luthier-vs-DIY, and PM-concept long-tail videos. No need to re-suggest these — they're already scheduled.
+
+## Trending Topics & Keywords (new signal since June)
+
+- **Essential tremor / hand shake and guitar** — active, recurring discussion on Telecaster and classical guitar forums; zero dedicated, serious YouTube coverage found. Distinct from arthritis (movement-triggered, not joint/inflammation-based).
+- **Carpal tunnel syndrome, guitar-specific** — has real academic and forum signal (compression neuropathy from posture/duration, not joint degeneration). The backlog's "Playing Through It" arc covers arthritis, tendinitis (via cross-training angle), and flares, but has no dedicated carpal tunnel episode.
+- **Guitar setup cost / "am I overpaying"** and **"guitar buzzing" / fret buzz** remain top-volume, well-matched searches — already served by Videos 1, 4, 12, 19, 24.
+- **Short-scale guitars** continue gaining mainstream legitimacy beyond "beginner instrument" framing (short-scale basses going pro-endorsed is pulling short-scale guitars along with it) — reinforces Video 43/50 framing, no new video needed but worth noting in scripting for those episodes.
+- **Headphone practice amps** (Fender Mustang Micro Plus, Boss Katana, Positive Grid Spark Neo) remain a strong comparison-content category — already anchored by Video 32.
+
+## New Video Ideas (not in backlog, not in June list)
+
+1. **Essential Tremor and the Guitar: A Different Approach**
+   - *Friction:* Involuntary hand movement disrupts clean fretting and picking — often mistaken by players as a discipline or technique failure rather than a physical variable.
+   - *Fix angle:* Anchoring technique (pinky planted on the body), instrument choice (electric/classical react differently to tremor than steel-string acoustic), reframing slide/open-tuning wobble as a usable effect rather than a flaw.
+   - *Fix Ladder:* £0 hand-anchoring technique → £10 capo to simplify chord shapes → £30 slide/open-tuning setup → £100+ guitar swap to a tremor-friendlier action/weight.
+   - *Audience appeal:* Small but highly underserved audience with strong word-of-mouth potential — the kind of video that gets shared in medical and forum communities, not just guitar ones.
+
+2. **Carpal Tunnel and Guitar: The Setup Fix Before the Wrist Brace**
+   - *Friction:* Numbness/tingling from wrist compression, distinct from arthritis pain — players often don't know their fretting-hand wrist angle is the aggravating factor.
+   - *Fix Ladder:* £0 wrist-angle and strap-height correction → £10 ergonomic thumb pick or grip → £30 lower action/quality nut → £100+ ramped or scalloped fretboard consult.
+   - *Audience appeal:* High — fills the one explicit gap in the "Playing Through It" arc's condition coverage.
+
+3. **Trigger Finger and the Guitar**
+   - *Friction:* A finger catches or locks mid-motion; players often stop playing assuming it's unfixable.
+   - *Fix angle:* Which fingers are typically affected by fretting-hand repetition, technique redistribution, when it's a "see a doctor" signal vs. a "change your setup" signal.
+   - *Audience appeal:* Very high forum search signal, almost no existing video content — one of the clearest content vacuums identified across two research passes now.
+
+4. **Guitar and Neuropathy: When You Can't Feel the Strings**
+   - *Friction:* Numbness (diabetic, chemo-related, or age-related) removes tactile feedback, not strength — a fundamentally different problem than arthritis or grip loss.
+   - *Fix angle:* Visual/positional cues to replace tactile feedback, string gauge and texture experimentation, lighting and hand-position awareness.
+   - *Audience appeal:* Underserved and emotionally resonant; distinct enough from arthritis content to avoid audience fatigue in the PTI series.
+
+5. **Summer Guitar Care: Sweat, Humidity, and Sticky Frets**
+   - *Friction:* The unaddressed half of the seasonal-drift problem — the June list flagged winter humidity but not summer sweat/humidity, and the backlog has no seasonal-care video at all.
+   - *Fix Ladder:* £0 wipe-down habit and case humidity awareness → £8 microfiber + fretboard conditioner → £20 sweat-resistant coated strings → £40 case humidifier/dehumidifier pack.
+   - *Audience appeal:* Timely for an August publish, repeatable evergreen content, low production complexity.
+
+6. **The Guitar Chair: Why Where You Sit Changes What You Can Play**
+   - *Friction:* Named as a gap in the June list ("Which Chair?") but never turned into a scoped video; the backlog covers amp position (Video 37) but not seating.
+   - *Fix Ladder:* £0 existing chair height/angle adjustment → £15 footstool or leg rest → £40 guitar support cushion (A-frame/Ergoplay-type) → £80+ dedicated ergonomic playing stool.
+   - *Audience appeal:* Simple, visual, immediately actionable — strong candidate for a Shorts cut-down.
+
+7. **Viewer Rescue: Fix My Guitar (Community Format)**
+   - *Friction:* Not a friction video — a format gap. The June list flagged this as an underexplored angle (#4) but it's still not in the production backlog.
+   - *Format:* Invite a subscriber to describe or send footage of their guitar's problem; diagnose and fix on camera using the existing Fix Ladder structure.
+   - *Audience appeal:* Strongest community-building format available once the channel has enough comment volume (June list suggested waiting for 50–100 comments/video) — worth flagging now so it's ready to trigger, not designed from scratch later.
+
+## Content Gaps Confirmed Still Open (checked against both the June list and the 51-video backlog)
+
+1. **Carpal tunnel** — still no dedicated episode anywhere in the pipeline. Highest-priority gap, two research passes running.
+2. **Trigger finger** — still zero coverage anywhere; highest novelty-to-effort ratio of any idea on this list.
+3. **Essential tremor / neurological hand movement** — a condition category the "Playing Through It" mission statement implies ("bodies have changed") but doesn't yet name or cover.
+4. **Neuropathy** — distinct from arthritis (numbness vs. pain); not present in the backlog's condition list.
+5. **Seasonal humidity — summer side** — winter drift is a known gap; summer sweat/humidity is an even bigger gap since it hasn't been named anywhere yet.
+6. **Seating/chair ergonomics** — flagged in June, still absent from the 51-video backlog.
+7. **Viewer rescue format** — flagged in June as a future community builder; still not scheduled or scoped with a first episode.
+
+## Titles, Hooks & Thumbnail Concepts for the Top New Ideas
+
+**1. "Trigger Finger and the Guitar: What to Do When Your Finger Locks Up"**
+- Hook: "It's not weakness. It's not your technique. Here's what's actually happening."
+- Thumbnail: Close-up of a fretting finger mid-motion with a subtle motion-blur/freeze-frame effect; PTI series card.
+
+**2. "Carpal Tunnel and Guitar: Fix the Setup Before You Get the Brace"**
+- Hook: "The wrist brace treats the symptom. This treats the guitar."
+- Thumbnail: Wrist angle diagram overlay on a fretting hand; £0 callout for the strap-height fix.
+
+**3. "Can You Still Play Guitar With a Hand Tremor? Yes — Here's How"**
+- Hook: "The shake doesn't go away. The friction it causes does."
+- Thumbnail: Split-screen hand close-up, steady vs. tremor, both mid-chord; calm, documentary framing — no dramatization.
+
+**4. "The Guitar Chair Nobody Tells You to Buy (Or Not Buy)"**
+- Hook: "You've fixed the guitar. You haven't fixed the chair."
+- Thumbnail: Same player, two chairs, visible posture difference; Fix Ladder price bar along the bottom.
+
+**5. "Sweat, Humidity, and Sticky Frets: Your Summer Guitar Checklist"**
+- Hook: "Winter isn't the only season that changes your guitar."
+- Thumbnail: Fretboard with a visible moisture sheen; £0–£40 Fix Ladder callout; sun/thermometer visual cue.
+
+## Format Note
+
+Ideas 1–4 above (trigger finger, carpal tunnel, tremor, neuropathy) are strong candidates to fold directly into the existing "Playing Through It" series as new episodes rather than launching a separate arc — they match the series' existing tone, structure, and Fix Ladder pattern exactly, and the series already has a named home for exactly this kind of content.

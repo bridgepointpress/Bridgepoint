@@ -184,3 +184,52 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+# Content Research Update — August 2026
+
+**Cross-referenced against:** `Bridge_and_Baseline_Final_v7.xlsx` (51-video backlog, Phases 1–10) and existing scripts (Channel Intro, Videos 1–4, Arthritis) in the Bridge and Baseline Drive folder, plus the June 2026 research above. Nothing below duplicates a title already in the v7 backlog or the June list — this section is additive.
+
+## What's New Since June
+
+Search activity around guitar ergonomics, adaptive playing, and short-scale instruments hasn't shifted direction since the last review — it's deepened. The three genuinely new findings this cycle:
+
+- **Ulnar/cubital tunnel is a distinct, unaddressed condition.** Every existing plan (backlog and June research) covers carpal tunnel and arthritis, but ulnar nerve entrapment — the second most common nerve compression in guitarists' hands, per hand-health sources — has zero coverage anywhere in the channel's plan. Pinky/ring-finger numbness and weak grip on fretting-hand chords is a distinct mechanism from carpal tunnel (wrist flexion vs. elbow compression) and needs its own video, not a folded-in mention.
+- **Short-scale guitars have shed the "beginner instrument" stigma in 2026.** Coverage this year frames short-scale as a legitimate ergonomic choice for experienced players, not a starter compromise — useful reframing for the channel's existing short-scale mentions (currently just a Fix Ladder line item in PTI Ep. 9), which could support a standalone buying-guide video.
+- **No Shorts-native content exists in the 51-video backlog.** Every planned video is long-form with Shorts as an afterthought cut-down. Given Shorts remains the primary discovery surface into 2026, a small dedicated Shorts batch (not full re-edits) is worth testing as a distinct production line, not just a repurposing step.
+
+## New Video Ideas
+
+| Working Title | Friction | Fix Ladder sketch | Audience appeal |
+|---|---|---|---|
+| **Ulnar Tunnel and Guitar: The Nerve Problem That Isn't Carpal Tunnel** | Numbness or weakness in the pinky/ring finger, worse when the elbow is bent — often misidentified as carpal tunnel or "just getting older" | £0 elbow angle + strap height adjustment → £8 elbow brace/wrist neutral splint → £25 lighter strings + lower action → £100+ ergonomic guitar consult | High — clear diagnostic hook, genuinely uncovered anywhere in guitar YouTube; strong Playing Through It fit |
+| **Short-Scale Guitars in 2026: The Buying Guide for Grown-Up Hands** | Uncertainty about whether a short-scale guitar is "a real guitar" or a compromise, plus which models are worth it | £0 measure your current scale length and compare → £150 in-house brand short-scale (Harley Benton/Sire/Mitchell tier) → £300 mid-tier (Fender Mustang/Duo-Sonic) → £600+ boutique short-scale build | Medium-high — standalone buying guide fills the gap left by the PTI Ep. 9 passing mention; strong affiliate potential |
+| **One Fix, One Shot: 30-Second Setup Checks (Shorts series)** | Long-form setup videos ask for 8+ minutes of attention the audience doesn't always have; single measurable checks (nut gap, relief, saddle height) work as standalone 30-second clips | £0 for every entry — this is a discovery/top-of-funnel format, not a Fix Ladder video | Medium — not a subscriber-conversion play, but a low-cost test of whether Shorts drives long-form views for this audience |
+| **The Sound of a Bad Setup (Before/After Only, No Talking)** | Some viewers bounce off talking-head setup content entirely; a silent, close-mic'd before/after of buzz-to-clean is its own hook | N/A — demonstration format, not a Fix Ladder video | Medium — low production cost, highly shareable/embeddable, good Shorts and community-tab material |
+
+## Gaps Still Open (confirmed, not yet in backlog or scripts)
+
+1. **Ulnar/cubital tunnel** — new gap identified this cycle (see above). Highest priority addition to Playing Through It.
+2. **Carpal tunnel** — flagged as a gap in June, confirmed still active in forums (Ultimate Guitar, Steel Guitar Forum, My Les Paul) as of April 2026 sources, and still absent from both the June ideas list's production queue and the v7 backlog. Recommend this moves from "idea" to "scripted" before ulnar tunnel, since it already has a written Ep. 2 concept.
+3. **Seasonal/humidity setup drift** — still no coverage in the v7 backlog; remains a good recurring-calendar anchor.
+4. **Shorts-native production** — new gap. The backlog has zero videos designed as Shorts from the start.
+5. **Short-scale buying guide** — the backlog only references short-scale guitars inside the Playing Through It Fix Ladder; there's no dedicated comparison/buying video, despite this being one of the stronger 2026 trend signals found this cycle.
+
+## Titles, Hooks, Thumbnails
+
+**"Ulnar Tunnel and Guitar: The Nerve Problem That Isn't Carpal Tunnel"**
+- Hook: "If it's your pinky and ring finger going numb, not your thumb — this is a different problem, and a different fix."
+- Thumbnail: Hand diagram highlighting elbow-side nerve path vs. wrist-side; PTI series card
+
+**"Short-Scale Guitars in 2026: The Buying Guide for Grown-Up Hands"**
+- Hook: "Short-scale used to mean 'beginner guitar.' In 2026 it means 'the guitar that actually fits your hands.'"
+- Thumbnail: Two guitars side by side with scale-length ruler overlay, price tiers along the bottom
+
+**"One Fix, One Shot" (Shorts series card)**
+- Hook: no spoken hook — cold open on the measurement, caption does the work: "This gap shouldn't be there."
+- Thumbnail: N/A (Shorts) — consistent vertical template: measurement close-up + one-word caption ("Buzz." / "Fixed.")
+
+## Note on Duplication Risk
+
+The v7 backlog is already comprehensive — 51 videos across 10 phases, covering setup fundamentals, arthritis, budget rescue, practice systems, silent practice, cross-training, and adaptive/one-handed playing in real depth. Most future research cycles from here on will find fewer new angles, not more, as the backlog matures. That's expected and not a sign this research is running dry — it's a sign the planning work already done was thorough. The two strongest opportunities this cycle (ulnar tunnel, short-scale buying guide) are additions to existing series rather than new series.

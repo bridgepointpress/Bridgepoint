@@ -184,3 +184,80 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 7 August 2026
+
+Web research pass to check for new trending topics, product gaps, and format shifts since the June 2026 report. No project files (Charter, Arthritis Checklist, Short Scale doc, Easier Play Guitars doc, v10 spreadsheet) were present in this workspace to cross-check against the backlog, so the ideas below are checked only against the existing content above — worth a pass against the spreadsheet before scheduling.
+
+### What's New Since June
+
+- **Adaptive chord-assist gadgets are a live but poorly-served search category.** Products like the Ez-Fret attachment, Strumling pick holder, "Gripless" no-grip picks, and one-handed automated devices (e.g. Robo-Tar-style attachments) turn up in Amazon/eBay listings with real but thin, mixed reviews — no one has done a calm, honest, comparative video. This is a stronger and more specific gap than the general "arthritis" coverage already planned.
+- **Short-scale guitars are shedding the "beginner instrument" stigma** in 2026 coverage, partly on the back of professional short-scale bass players (Paul McCartney, Jack Bruce, Mike Kerr) being cited as legitimizing the format. Useful supporting angle for the already-listed "The Guitar I Wish I'd Bought at 50," and possibly its own explainer.
+- **Thumbnail and hook conventions have shifted slightly**: 2026 guidance favours cleaner, bolder thumbnails with fewer elements and more negative space, and hooks that state the result first, then the tension/gap ("your action is fine, your nut isn't" rather than a question). Worth applying to upcoming thumbnail concepts rather than a video topic in itself.
+- Core high-volume searches from the June report (fret buzz, action height, neck relief, intonation, arthritis) remain stable — no signs of decline, nothing here supersedes that list.
+
+### New Video Ideas (Output A)
+
+**1. The Chord-Assist Gadget Aisle: What's Worth Buying**
+- **Friction:** Players with arthritis or reduced grip see ads for chord-pressing gadgets and can't tell if they're a real fix or a gimmick.
+- **Fix angle:** Honest, hands-on comparison across the full ladder — this is a genuine content gap, not a duplicate of the existing "Playing Through It" episodes, which are condition-focused rather than product-focused.
+- **Fix Ladder:**
+  - Free — partial capo technique / open tuning as a baseline comparison point
+  - Affordable (£5–20) — "Gripless" no-grip picks, Strumling pick holder
+  - Quality upgrade (£25–100) — Ez-Fret-style chord attachment
+  - Premium (£100+) — automated one-handed chord device
+- **Note:** Frame reviews honestly — some of these genuinely help, some don't fit every hand. Fits the channel's editorial-first ethos directly.
+
+**2. The Partial Capo: One Tool, a Dozen New Chord Shapes**
+- **Friction:** Standard chord shapes assume a hand that can stretch and press in ways that aren't available to everyone; players don't know a partial capo is a permanent, legitimate option rather than a novelty.
+- **Fix angle:** Technique/approach — no dedicated video exists yet despite partial capos being philosophically core to the channel's "adaptive approaches are permanent strategies" stance.
+- **Fix Ladder:**
+  - Free — using a pencil or elastic band as a improvised partial capo to demonstrate the concept
+  - Affordable (£5–20) — basic partial capo (Kyser, Shubb)
+  - Quality upgrade (£25–100) — multi-string adjustable partial capo
+  - Premium (£100+) — not applicable; noted on camera as a fix that doesn't need a premium tier
+
+**3. Why Short-Scale Guitars Aren't "Beginner Guitars" Anymore**
+- **Friction:** Players assume a short-scale instrument is a step down, and avoid a genuinely more comfortable option out of pride or misinformation.
+- **Fix angle:** Explainer/myth-reframe, supports the already-planned "guitar I wish I'd bought at 50" video.
+- **Fix Ladder:** Same tiers as existing short-scale content — this is a framing/myth-busting video rather than a new product piece, so it leans on the Short Scale Guitars doc for named models.
+
+**4. Is Using a Chord Presser "Cheating"? (It Isn't)**
+- **Friction:** Underlying skepticism — some players feel adaptive tools are a shortcut rather than a legitimate fix, and that hesitation stops them trying something that would help.
+- **Fix angle:** Identity/thesis video, directly reinforces "easier is better" without ever qualifying it. Good to release just before or alongside the gadget-aisle comparison (#1) so the audience has the framing first.
+- **Fix Ladder:** Not product-driven — insight and encouragement carry this one, fix ladder appears only as a quick recap of what "easier" can look like at each tier.
+
+**5. String Height by the Numbers: What "Low Action" Actually Means**
+- **Friction:** Players hear "lower the action" as advice but have no way to know what number they're aiming for or how far off they currently are.
+- **Fix angle:** A measurement-first companion to the existing "guitar action too high" and "neck relief" explainer ideas — this one is the baseline-and-measure video specifically, with a feeler gauge and a target range in mm rather than general troubleshooting.
+- **Fix Ladder:**
+  - Free — measuring current action with a ruler/feeler gauge
+  - Affordable (£5–20) — proper feeler gauge set
+  - Quality upgrade (£25–100) — string action gauge tool + truss rod wrench
+  - Premium (£100+) — professional setup, framed as the ceiling option, not the default
+
+### Content Gaps Confirmed by This Pass
+
+1. **Adaptive gadgets (chord pressers, pick holders, automated devices)** — the strongest new gap found. Reviews online are thin and mixed; no channel has covered this calmly and comparatively.
+2. **Partial capo as permanent technique** — mentioned in channel philosophy but has no dedicated video yet.
+3. **Short-scale destigmatisation** — the "beginner guitar" framing is actively being challenged elsewhere online; the channel is positioned to make this case directly.
+
+### Titles, Hooks, Thumbnails for the Top New Ideas
+
+**1. "I Tested Every Guitar Gadget for Arthritis (Most Are a Waste of Money)"**
+- Hook: "One of these earned a permanent spot in my case. The rest are going back."
+- Thumbnail: Four gadgets laid out in a row, one circled; clean background, no text clutter
+
+**2. "The £8 Tool That Rewrites Every Chord You Know"**
+- Hook: "Same guitar, same hands, twelve new chord shapes."
+- Thumbnail: Partial capo mid-neck, close crop, before/after chord shape overlay
+
+**3. "Short-Scale Guitars Aren't Beginner Guitars. Here's the Proof."**
+- Hook: "The bass players changed the conversation first. The guitar world is next."
+- Thumbnail: Short-scale guitar next to full-size, simple ruler overlay, no faces
+
+### Format Note
+
+Thumbnail convention has moved toward cleaner, bolder compositions with fewer elements — worth applying to the gadget-aisle and partial-capo thumbnails above rather than the busier before/after overlays used earlier. Hooks that state the result before the tension ("this one earned a spot in my case" rather than "which one works?") are testing well in 2026 guidance and fit the channel's calm, direct tone naturally.

@@ -178,6 +178,54 @@
 
 ---
 
+## August 2026 Update
+
+**Research scope:** Fresh trend scan two months after the June pass. Cross-checked against the existing backlog above to avoid duplicating Playing Through It, Silent Practice, or Budget Rescue ideas already logged. No new content-research files were found in this repo beyond this one, so the Charter, Arthritis Checklist, Short Scale doc, Easier Play Guitars doc, and v10 spreadsheet referenced in the skill guide were not available to cross-reference this pass — worth pointing the creator to those files directly next time so backlog-duplication checks are complete.
+
+### What's moved since June
+
+- **"Guitar learning app" search interest spiked hard** (Google Trends record high in Dec 2025, holding well above baseline into 2026), driven by AI-assisted feedback tools (camera-based posture/finger correction). This is a tech trend adjacent to the channel's audience, not a fix-ladder topic on its own — but it's a strong contrarian hook: apps can coach technique, they can't lower your action.
+- **Ergonomic guitar brand coverage is growing** in the wider guitar press, but framed around "redefining playability" for professionals with RSI — none of it speaks to the 35–65 casual/returning player. Gap remains wide open, consistent with June's findings.
+- **Picking-hand adaptation (fingerstyle/hybrid vs. flatpicking) for joint pain** surfaced repeatedly in this pass and isn't in the existing backlog — the June research focused on fretting-hand and setup fixes; picking-hand ergonomics is untouched.
+- **Seated posture as a distinct topic from "which chair"** — general guitar-press content ties reduced strain to sitting position and wrist angle specifically, not just chair choice. The existing "Which Chair?" idea covers furniture; the posture mechanics themselves are still open.
+
+### New Video Ideas
+
+| Working Title | Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **"Can an App Fix Your Guitar? (No — Here's What Can)"** | Player downloads a guitar app expecting it to fix pain/frustration; app coaches technique but can't touch the physical mismatch | Contrarian tech-trend hook redirected to the Fix Ladder | Free: app audit — what it can/can't diagnose · £5–20: feeler gauge self-check · £25–100: pro setup · £100+: instrument better matched to player |
+| **"Flatpick, Fingerstyle, or Hybrid: Which Hurts Less?"** | Picking-hand joint pain gets ignored because all the advice is about fretting hand | Technique/approach comparison, filmed side-by-side with the same song | Free: switch picking style, no purchase · £5–20: soft/felt picks, thumbpicks · £25–100: ergonomic pick shapes (e.g. Wegen, Dunlop Max-Grip variants) · £100+: N/A — this one's mostly free-tier, and that's the point |
+| **"The Seated Position That Actually Reduces Wrist Strain"** | Generic "sit up straight" advice doesn't address ulnar deviation at the fretting wrist | Posture mechanics, measurable wrist angle before/after | Free: reposition footstool-free · £5–20: strap-based seated support · £25–100: guitar support cushion (Ergoplay-type) · £100+: adjustable ergonomic stool |
+| **"Nut Width Compared: Why 'Just Get a Classical' Isn't Enough Advice"** | Players told to switch to nylon for wider spacing, but nut widths vary 42mm–52mm across nylon models — the advice is too vague to act on | Concrete comparison/reference video, high searchability | Free: measure your current nut · £5–20: N/A (informational) · £25–100: budget wide-nut nylon · £100+: quality wide-nut nylon or hybrid crossover |
+| **"Returning After a Long Break: The First Session Shouldn't Hurt"** | Adult returners restart after years away, hit frustration fast, and don't know if soreness is normal adaptation or a setup problem | Reframes "returning player" as a distinct persona moment, ties into 15-minute sprint philosophy | Free: baseline check before first session · £5–20: fresh strings · £25–100: setup check · £100+: N/A — deliberately a low-spend video |
+
+### Gaps and Underexplored Angles (new this pass)
+
+1. **Picking-hand ergonomics** — the entire existing backlog addresses the fretting hand; picking-hand joint pain (thumb/wrist on the strumming or plucking side) has no coverage at all. Clear, distinct gap.
+2. **The "app won't fix it" contrarian angle** — the channel hasn't directly engaged with the guitar-app/AI-coaching trend. A single well-placed video could capture search traffic from a much bigger, tech-adjacent audience while reinforcing the channel's core thesis.
+3. **First-session-back friction for returners** — adjacent to but distinct from the arthritis/Playing Through It series; this is about the psychological and physical reset after a gap, not a chronic condition.
+4. **Nut width as a concrete, comparable spec** — existing content (Easier Play Guitars doc, per the skill) likely has model-level detail already; a dedicated comparison video turns that research into a standalone searchable asset.
+
+### Titles, Hooks & Thumbnail Concepts
+
+**"Can an App Fix Your Guitar? (No — Here's What Can)"**
+- Hook: "The app can hear you're rushing. It can't hear that your action is 4mm too high."
+- Thumbnail: Phone with a guitar app open, guitar neck behind it with action-height overlay
+
+**"Flatpick, Fingerstyle, or Hybrid: Which Hurts Less?"**
+- Hook: "Nobody talks about the hand holding the pick."
+- Thumbnail: Three-way split of picking hand in each position, no faces, close crop
+
+**"Returning After a Long Break: The First Session Shouldn't Hurt"**
+- Hook: "If it hurt more than it used to, that's not you being out of practice."
+- Thumbnail: Dusty guitar case opening; simple, warm, no text-heavy overlay
+
+### If nothing new had emerged
+
+Not applicable this pass — four new angles surfaced (picking-hand ergonomics, the app/AI contrarian hook, returner-specific friction, and nut-width-as-spec) that don't overlap the June backlog.
+
+---
+
 ## Format Notes
 
 - **Comparison videos** (headphone amps, string gauges, guitar sizes) are highly shareable in this niche and affiliate-ready for Phase 2 monetisation

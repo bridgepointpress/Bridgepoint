@@ -184,3 +184,50 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 2026-08-09
+
+Scheduled research pass. Web search only — the Bridge and Baseline v10 spreadsheet, Charter, Arthritis Checklist, Short Scale Guitars doc, and Easier Play Guitars doc were not present in this repository, so backlog cross-checking against those files wasn't possible this pass. New material below is checked against the June 2026 research above to avoid duplication; it extends into a friction area that research wasn't covering yet — the picking/strumming hand — plus one adaptive-device evaluation and one competitive-landscape note.
+
+## Trending Topics & Keywords (new signal since June)
+
+- **Pick grip fatigue and dropped picks** — "arthritis guitar pick," "thumb pick for arthritis," "gripless guitar pick" show a steady stream of product searches (Gripless, Cling Pro Picks, The Protagonist Pick). This is the picking-hand mirror of the fretting-hand friction the channel already covers heavily — underexplored on the channel so far.
+- **ChordBuddy** — Shark Tank–era product still drives consistent search volume; guitar-forum sentiment is split between "genuinely helps mobility-limited players" and "not a real learning system." That tension is a good fit for the channel's "easier is not a shortcut" thesis.
+- **Squier Mini Stratocaster (22.75" scale, ~$199)** — repeatedly cited in 2026 buying guides as the reference short-scale entry point; several reviewers specifically credit the shorter scale with eliminating barre-chord hand cramps. Useful as a named, current product for the Fix Ladder's affordable/quality tiers in any short-scale video.
+- **"Adult beginner guitar" content is growing but stays generic** — channels like Midlife Guitar serve the 40+ beginner audience well on motivation and time-constraint framing, but don't address physical friction, hand pain, or adaptive setup at all. That's a clear gap Bridge and Baseline already sits inside of.
+
+## New Video Ideas
+
+**1. "Why Your Strumming Hand Hurts More Than Your Fretting Hand"**
+- Friction: nearly all setup content (including the channel's own back catalogue) treats the fretting hand as the whole problem; grip fatigue and pick control on the strumming side goes unaddressed.
+- Fix Ladder: Free — pick angle/grip adjustment and rubber band grip trick · Affordable (£5–15) — Gripless system or a textured pick · Quality (£25–40) — Cling Pro Pick or Protagonist Pick · Premium (£100+) — custom-molded orthotic pick or hand therapy consult.
+- Adaptive relevance: direct fit for arthritis, tendinitis, and reduced grip strength; complements rather than duplicates the existing Playing Through It series.
+
+**2. "ChordBuddy: Does It Actually Help, or Is It a Shortcut Nobody Needs?"**
+- Friction: mobility-limited players want to know if a colour-coded chord device is a legitimate tool or something to be embarrassed about using.
+- This is a Mode 2 candidate (affiliate/product evaluation) as much as a video idea — run it through the channel values checklist before scripting, since it's a single product review rather than a Fix Ladder spread.
+- Insight: reframes "shortcut" language directly — the channel's stated thesis ("easier is not a shortcut") gives it a clean, non-defensive answer.
+
+**3. "The £199 Guitar That Fixed My Barre Chords" (Squier Mini Stratocaster short-scale review)**
+- Friction: named, current, budget-tier product that 2026 buying guides consistently credit with reducing hand strain — gives the existing short-scale angle (idea #7 in the June list) a concrete, up-to-date product to anchor on.
+- Fix Ladder: positions the Mini Strat itself as the quality-upgrade tier; Free/Affordable tiers could cover capo-and-simplified-shapes as a no-purchase alternative for the same friction.
+
+**4. "What Adult Beginner Channels Don't Tell You About Hand Pain"**
+- Friction: viewers arriving from general 40+ beginner content (motivation, timelines, practice habits) but finding nothing there about physical setup.
+- Positions the channel against the wider adult-beginner content landscape without naming competitors unfavourably — the video can stand alone as "the piece the rest of that content is missing."
+- Good candidate for a channel-identity or "start here" style video rather than a single Fix Ladder demo.
+
+## Gaps and Underexplored Angles
+
+1. **Picking/strumming-hand friction** is the clearest gap — the channel's existing library (per the June research above) is almost entirely fretting-hand and setup-focused.
+2. **Single-product adaptive-device reviews** (ChordBuddy and similar) sit outside the standard Fix Ladder format and may need their own recurring segment structure rather than being forced into the usual four-tier video.
+3. Could not verify current backlog status — the v10 spreadsheet wasn't accessible from this session, so items above should be checked against it before scheduling to confirm none are already planned or filmed.
+
+## Titles, Hooks & Thumbnail Concepts
+
+- **"Why Your Strumming Hand Hurts More Than Your Fretting Hand"** — Hook: "Every guitar video talks about your left hand. Almost none talk about your right." Thumbnail: pick shown mid-drop next to a hand, no text.
+- **"ChordBuddy: Shortcut or Solution?"** — Hook: "Easier isn't a shortcut. Here's what a colour-coded chord system actually does." Thumbnail: ChordBuddy device on a guitar neck, plain product shot, price visible.
+- **"The £199 Guitar That Fixed My Barre Chords"** — Hook: "Scale length did more for my barre chords than six months of practice." Thumbnail: Mini Strat next to a full-scale guitar, scale-length measurement overlay.

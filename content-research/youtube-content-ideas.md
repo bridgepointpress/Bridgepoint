@@ -184,3 +184,61 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 10 August 2026
+
+**Method:** Reviewed the June 2026 research above, cross-checked the current backlog (Bridge_and_Baseline_Final_v7.xlsx — first 10 videos: $10 Setup, Arthritis and the Guitar, Pawn Shop Rescue, Barre Chords, $4,000 Mistake, Light Strings, Ergonomics for Older Players, PM identity video) to avoid duplication, and ran fresh trend research. This section adds to the June research rather than replacing it — the carpal tunnel, humidity, and silent-practice gaps identified in June are still open and still worth producing.
+
+## What's New Since June
+
+**The "ergonomic guitar" category is having a moment.** Purpose-built ergonomic guitars (Strandberg-style and newer entrants) are getting dedicated buyers' guides and reaction videos ("I Tried [Almost] Every Ergonomic Guitar") on YouTube right now. This is a trend the channel is unusually well positioned to comment on — the channel's whole thesis is that most of what an ergonomic guitar sells you can be recovered from a guitar you already own via the Fix Ladder. That's a contrarian-but-fair angle nobody in that trend is taking.
+
+**Short-scale guitars are shedding the "beginner instrument" stigma.** Current gear coverage is starting to frame short-scale as a deliberate choice for adult players with smaller hands or joint conditions, not a compromise. This validates the channel's existing short-scale content and opens room for a video that directly names and dismantles the stigma.
+
+**Text-content competitors are showing up in the arthritis space** (guitar blogs publishing "how to play with arthritis" listicles). The channel's advantage over this competing content is still specificity and demonstration — general listicles don't measure anything or show a before/after. Worth leaning harder into on-camera measurement as the differentiator, especially in thumbnails.
+
+## New Video Ideas (Output A)
+
+| # | Working Title | Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|---|
+| 1 | **I Compared My Fix Ladder to a £1,200 Ergonomic Guitar** | Players see ergonomic guitars marketed as the only real solution to hand strain and assume a full Fix Ladder can't compete | Comparison/reaction format; measure playability gap between a fully-fixed budget guitar and a purpose-built ergonomic model | Free: full 3-point setup on existing guitar → £20: light strings + lubricant → £80: quality nut/saddle + setup kit → £100+: honest note on when the premium guitar is genuinely worth it |
+| 2 | **Short Scale Isn't a Beginner Guitar (Here's the Actual Case For It)** | Players assume short-scale signals "not a real guitar" and rule it out even when it would solve their friction | Reframe short-scale as a deliberate ergonomic choice, not a compromise; direct rebuttal of the stigma | Free: measure your own reach/fret spacing to see if you're fighting scale length → £20: try a short-scale on loan/in-store → £100+: named model recommendations by price tier (from Short Scale Guitars doc) |
+| 3 | **What a Hand Therapist Would Actually Tell You About Guitar** | Arthritis/joint content on the channel is self-taught; audience wants outside validation that the approach is sound | Credibility format — brief consult or cited guidance from a hand-health professional, translated into the Fix Ladder | Free: joint-friendly warm-up sequence → £10: grip/joint aids → £50: setup changes a therapist would flag first → £100+: professional setup referral, framed honestly |
+| 4 | **The Guitar You Already Own Probably Isn't the Problem** | Viewers browsing "ergonomic guitar" content assume they need to buy their way out of hand strain | Direct counter-programming to the ergonomic-guitar buying trend; myth-busting format | Free: diagnostic checklist to test before buying anything → £20–100: targeted fixes matched to what the diagnostic reveals |
+| 5 | **Viewer Guitar Rescue #1** | Isolated viewers want proof the Fix Ladder works on their actual guitar, not just the host's demo guitars | Community/social-proof format — a subscriber's guitar, full triage and fix on camera | Uses whatever Fix Ladder tiers the specific guitar needs; framed as a repeatable series opener |
+| 6 | **The Setup Check You Can Do While Watching TV** | 15-minute sprint audience wants fixes that fit into existing downtime, not dedicated "guitar time" | Low-physical-load, no-workbench-needed check; positions the channel's time-constraint philosophy directly | Free only — deliberately single-tier, positioned as the lowest-friction entry point into the whole channel |
+| 7 | **Why Two Guitars at the Same Price Can Feel Completely Different** | Buyers use price as a proxy for playability and get burned; ties into "$4,000 Mistake" video without repeating it | Explainer on the variables setup controls that price doesn't — nut cut, relief, saddle geometry | Free: what to check before buying secondhand → £25–100: what a post-purchase Fix Ladder pass typically finds |
+
+## Gaps and Underexplored Angles (New)
+
+1. **No comparison content positioning the Fix Ladder against purpose-built ergonomic guitars.** The trend is happening now; this channel is the only one that can make the comparison honestly on both sides.
+2. **No third-party credibility voice yet.** Every fix is presented on the host's authority alone. A single video citing or briefly consulting a hand-health professional would strengthen trust in the whole arthritis/adaptive line without changing the channel's tone.
+3. **No viewer-submitted content yet**, per the June notes — still open, and now more time-sensitive given text-content competitors are starting to appear in the arthritis search space. Social proof is a differentiator worth moving up the schedule.
+4. **Short-scale stigma is named in gear content but never directly addressed and dismantled** — the channel has the short-scale doc already; this is a low-production-cost video with a strong hook.
+
+## High-Potential Titles, Hooks & Thumbnails (New)
+
+**"I Compared My Fix Ladder to a £1,200 Ergonomic Guitar"**
+- Hook: "One of these cost twelve hundred pounds. One of these cost the price of a setup kit. Guess which one I'm still playing."
+- Thumbnail: two guitars side by side, price tags visible, measurement overlay showing near-identical action
+
+**"Short Scale Isn't a Beginner Guitar"**
+- Hook: "Somebody told you short scale means you're not a real player. They were wrong, and here's the measurement that proves it."
+- Thumbnail: short-scale guitar next to full-scale, hand-span comparison graphic, no text beyond a scale-length callout
+
+**"What a Hand Therapist Would Actually Tell You About Guitar"**
+- Hook: "I asked, so you don't have to guess."
+- Thumbnail: hands on guitar neck, calm clinical framing, PTI series card
+
+**"The Guitar You Already Own Probably Isn't the Problem"**
+- Hook: "Before you buy the guitar that promises to fix your hands, run this check on the one you've already got."
+- Thumbnail: single guitar, checklist overlay, no price tag (deliberately — this is the free-tier anchor video)
+
+## Format Note
+
+The ergonomic-guitar comparison format is trending broadly right now (multiple "I tried every ergonomic guitar" videos surfacing in search). This is a narrow window where the channel can enter an existing trend with a genuinely different angle — most of that content sells the premium option; this channel would be the one saying "measure first, most of you don't need it." Worth prioritising while the trend is active rather than filing it for later.
+
+If no new opportunities beyond the above emerge in future passes, that will be noted rather than padded with repeat ideas.

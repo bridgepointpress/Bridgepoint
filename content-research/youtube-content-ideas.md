@@ -184,3 +184,60 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 11 August 2026
+
+Cross-checked against the June 2026 report above, the channel intro script, the pre-launch guide, and the current video backlog (Bridge_and_Baseline_Final_v7.xlsx) to avoid repeating ideas already logged. This update focuses on angles the existing list hadn't captured: small-hands instrument specs, adaptive gear, and an inspiration format the backlog doesn't yet have.
+
+## Trending Topics & Keywords (new since June)
+
+- **"guitars for small hands"** — steady high-volume search; most results are generic gear-roundup content, not setup-and-fit explainers
+- **"Squier Mini Stratocaster" / "GS Mini-e"** — two specific short-scale models recurring across "best guitars for small hands" roundups; audience is actively comparing named models, not just asking "what's a short scale guitar"
+- **"guitar picks for arthritis" / velcro strap picks** — small but real search cluster; adaptive gripping aids are being reviewed piecemeal on forums, not as a coherent buying guide anywhere
+- **"nut width vs scale length"** — players are starting to search by spec rather than by "small hands guitar," a sign the audience is getting more sophisticated and wants a proper explainer
+- **Bluegrass/acoustic revival + vintage guitar interest** — broader 2026 guitar-market trend (tonewood, older instruments regaining value); creates a natural tie-in for "is this old guitar worth restoring" content
+- **"guitarists still playing in their 70s and 80s"** — search and forum interest in older musicians who kept going; almost no channel treats this as its own format rather than a passing anecdote
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Nut Width, Scale Length, Neck Profile: The Three Specs That Actually Fit Small Hands** | Shoppers are told to buy "a short scale guitar" without knowing which of three separate specs is actually causing their strain | Explainer/buying framework | Free: measure your current guitar's specs with a tape measure · £affordable: try a borrowed/shop-floor guitar with different specs before buying · Quality: Squier Mini Stratocaster or similar named short-scale model · Premium: custom nut width on an existing guitar via a luthier |
+| **Squier Mini Strat vs. Yamaha GS Mini-e: Which Short-Scale Actually Fits You?** | Two specific models keep surfacing in searches; nobody compares them against the same player's hands | Head-to-head comparison, affiliate-ready | Frame as electric vs. acoustic short-scale rather than a price ladder — same measurable fit criteria applied to both |
+| **Adaptive Picks and Grips: What's Actually Worth Buying** | Velcro-strap picks and grip aids are reviewed one at a time on forums; no single, calm, tested roundup exists | Gear roundup, playability-focused | Free: rubber band or tape-wrapped standard pick · £5–20: velcro strap pick, textured grip pick · £25–100: thumb pick system, ergonomic pick set · Premium: custom-molded grip aid |
+| **Guitarists Who Never Stopped: Playing Into Your 70s and 80s** | Viewers assume a point exists where playing becomes impossible; the channel hasn't yet made the case that it doesn't, in someone else's voice | Interview/profile format — first of a kind for this channel | Not a Fix Ladder video; positions as a companion piece to Playing Through It, closing on the subject playing rather than the creator |
+| **Is This Old Guitar Worth Restoring? A Baseline-First Framework** | The vintage/bluegrass revival is pulling players toward older instruments, but there's no honest "should I" video before the "how to" | Decision framework, ties market trend back to channel's PM lens | Free: baseline assessment checklist (neck, bracing, electronics) · £affordable: setup-only revival · Quality: replacement parts (nut, saddle, tuners) · Premium: full luthier restoration — and when to walk away instead |
+| **Nylon vs. Steel-String vs. Electric for Hands That Hurt** | Players default to "nylon is easier" without knowing it's true for some pain patterns and false for others | Comparison explainer, direct use of the Easier Play Guitars doc | Free: try a friend's or shop-floor nylon-string before assuming · £affordable: switch strings within the same guitar type first · Quality: right-tension nylon or extra-light electric strings · Premium: second guitar in the better-fit category |
+
+## Content Gaps and Underexplored Angles (new)
+
+1. **Spec literacy, not just product recommendations.** The June report and backlog both point players toward specific guitars for small hands, but nothing yet teaches the underlying three specs (nut width, scale length, neck profile) as a standalone skill — a gap that also makes every future gear-comparison video stronger once it exists.
+2. **Adaptive accessories as their own category.** Grip aids and strap-on picks currently only appear as a footnote inside broader arthritis content; they haven't had a dedicated, tested roundup.
+3. **First-person inspiration format.** Every existing idea (June list and backlog) is fix-focused and creator-led. A profile/interview format — someone else demonstrating that playing doesn't stop — is a structurally different video the channel hasn't tried yet, and pairs naturally with Playing Through It without duplicating it.
+4. **Confirm the nylon vs. steel vs. electric video is actually scheduled.** The Easier Play Guitars doc exists specifically to support this comparison, but the backlog rows reviewed didn't show it scheduled — worth checking the full spreadsheet before assuming it's covered.
+
+## Titles, Hooks & Thumbnail Concepts
+
+### "The Three Specs That Actually Matter for Small Hands"
+- **Hook:** "Not every short-scale guitar fits the same hand. Here's how to tell which spec is yours."
+- **Thumbnail:** Tape measure across a guitar neck at three marked points; no text beyond the three spec labels
+
+### "Squier Mini Strat vs. Yamaha GS Mini-e: Which Short-Scale Actually Fits You?"
+- **Thumbnail:** Both guitars side by side, same hand reaching for the same chord shape on each
+
+### "Adaptive Picks and Grips: What's Actually Worth Buying"
+- **Hook:** "Five grip aids, tested the same way, on the same hand."
+- **Thumbnail:** Picks and grip aids laid out in a row, one circled
+
+### "Guitarists Who Never Stopped: Playing Into Your 70s and 80s"
+- **Hook:** "Nobody told them to stop. Here's what changed instead."
+- **Thumbnail:** Close-up of an older player's hands on the fretboard, mid-chord
+
+### "Is This Old Guitar Worth Restoring?"
+- **Hook:** "Before you spend a penny on it — does this guitar deserve the work?"
+- **Thumbnail:** Dusty vintage guitar next to a simple checklist overlay
+
+No changes are recommended to the June 2026 findings — they remain accurate and none of the ideas above duplicate that list.

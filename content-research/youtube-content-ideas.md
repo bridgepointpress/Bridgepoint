@@ -184,3 +184,71 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 12 August 2026
+
+*Note: the Bridge and Baseline v10 backlog spreadsheet was not accessible from this session, so the ideas below were checked only against this document, not the live backlog. Cross-check against v10 before scheduling.*
+
+## What's Changed Since June
+
+- **Keith Richards arthritis interview (March 2026)** is still generating press and search interest — he described playing "fewer notes" now, framed as a deliberate adjustment rather than decline. Strong, ready-made news hook for the core 50–65 audience.
+- **NAMM 2026** put ergonomic design in the mainstream spotlight: Martin's SC-13E Modern (low-profile neck heel, offset body), Strandberg's Arc TILT tremolo, and — notably — Donner's sub-£350 HLX-500 headless guitar, which brings headless/ergonomic design down from Strandberg-only premium pricing into budget territory for the first time.
+- **Partial capos** have moved from niche to mainstream; they now appear in every major outlet's gear-guide roundups (Guitar World, Guitar Lobby, Premier Guitar). They are completely absent from the current idea backlog despite being one of the cheapest, least invasive tools available.
+- **Chord-presser devices** (ChordBuddy and similar) are getting fresh independent review coverage in 2026, but reviews split between "great accessibility tool" and "gets in the way of real technique" — nobody is answering that tension from an ROI/Fix-Ladder framing, which is exactly this channel's lens.
+- **Short-scale guitars** are being covered by mainstream outlets as legitimate instruments (Paul McCartney, Jack Bruce, Mike Kerr referenced as short-scale players) rather than beginner-only gear — this strengthens, but doesn't replace, the existing short-scale content plan.
+
+## Trending Topics & Keywords (new)
+
+- "chord presser guitar" / "ChordBuddy honest review" — rising volume, no independent ROI-framed evaluation exists
+- "partial capo for beginners" — exploding interest per 2026 gear press; near-total gap in current backlog
+- "headless guitar ergonomics" / "budget headless guitar" — new search cluster created by the sub-£350 Donner HLX-500
+- "guitar arthritis Keith Richards" — direct news-hook spike tied to March 2026 coverage
+- "is a chord presser cheating" — stigma-driven long-tail query, well suited to a Shorts companion piece
+
+## New Video Ideas
+
+| Working Title | Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| **Chord Pressers, Honestly Reviewed: Does a ChordBuddy Help or Get in the Way?** | Players with limited hand strength feel embarrassed asking whether a chord-assist device is "cheating," so they push through pain instead of trying one | Product evaluation reframed as a legitimate Fix Ladder tier, not a shortcut | Free: simplified voicings · Affordable: finger tape/technique tweaks (£5–15) · Quality upgrade: ChordBuddy or equivalent (£35–40) · Premium: custom-fitted adaptive device or short-scale swap | High — taps stigma-driven search, evergreen SEO, directly serves the arthritis persona |
+| **The £15 Tool That Rewrites What Your Hands Have to Do (Partial Capos)** | Certain shapes (barre-heavy, wide stretches) stay painful regardless of setup; players assume the only options are a full capo or gritting their teeth | Technique/approach change via accessible hardware, new to the channel | Free: open-tuning experiments · Affordable: basic partial capo (£15) · Quality upgrade: multi-string partial capo, e.g. SpiderCapo (£25–40) · Premium: custom luthier-set alternate nut (£100+) | Medium-high — strong search growth, genuinely new ground for the channel, crosses into the songwriting audience too |
+| **What NAMM 2026 Got Right About Ergonomics (And What It Still Ignores)** | N/A — reactive industry-commentary format, not a personal friction video | Positions the channel as the credible independent voice on ergonomic design trends | Maps announced gear to the Fix Ladder rather than presenting one; anchor example: Donner HLX-500 (£330) as a new quality-upgrade-tier entry point | High but time-sensitive — timely commentary is rewarded by the algorithm and builds authority fast |
+| **Is the £330 Donner HLX-500 an Ergonomic Guitar for the Rest of Us?** | Ergonomic/headless design has been premium-only (Strandberg £1,000+); players assume it's out of reach | Budget-tier product review through the ergonomics-not-tone lens | Free: rebalance an existing guitar via strap adjustment · Affordable: weight-reducing strap (£15) · Quality upgrade: the HLX-500 itself (£330) · Premium: Strandberg-tier headless (£1,000+) | Medium-high — serves the Budget DIYer persona, differentiates from tone-focused gear reviewers |
+| **What 82-Year-Old Hands Can Still Teach You (The Keith Richards Interview)** | Aging players fear continued joint changes mean they'll eventually have to quit — feels inevitable and demoralising | News hook reframed through the PM lens: deliberate scope reduction, not decline | Free: simplify voicings/riffs on purpose · Affordable: lighter strings (£10–20) · Quality upgrade: professional setup for lower action (£40–80) · Premium: custom neck profile or short-scale swap (£100+) | Very high — proven celebrity news hook, strong emotional resonance with the core 50–65 audience |
+| **Is a Chord Presser "Cheating"? Why That Question Is Wrong** *(Shorts companion to Idea 1)* | Same stigma as above, compressed to a single reframe | Direct address of the shame framing in under 60 seconds | N/A — Shorts/Reels format | Medium — low production cost, high shareability, feeds the main review video |
+
+## Content Gaps and Underexplored Angles (new)
+
+1. **Chord-assist devices** — real search volume, real stigma, and zero honest ROI-framed coverage from any channel in this niche. High-priority gap.
+2. **Partial capos** — absent from the entire existing backlog despite being one of the cheapest, lowest-effort Fix Ladder tools that exists. Should have been in the original Free/Affordable tier content and wasn't.
+3. **No reactive/news-commentary format yet** — the channel currently has no mechanism for capturing timely search spikes (NAMM announcements, celebrity health interviews). Worth considering as a recurring "the news, through a Fix Ladder lens" segment rather than a one-off.
+4. **Budget-tier ergonomic/headless guitars** — a genuinely new product category (sub-£350) that outpaces the channel's existing "ergonomic guitars" framing, which currently assumes Strandberg-level pricing.
+
+## Titles, Hooks & Thumbnail Concepts (new)
+
+**1. "Is a ChordBuddy Cheating? An Honest Review"**
+- Hook: "You didn't earn a G chord. You earned to keep playing. Here's whether this tool actually helps."
+- Thumbnail: split screen — hand on chord-presser buttons vs. bare fretboard, no text overlay
+
+**2. "The £15 Tool That Changes What Your Hands Have to Do"**
+- Hook: "This isn't a capo. It's half a capo. And it might be the cheapest fix on this channel."
+- Thumbnail: close-up of a partial capo clamped across three strings only
+
+**3. "What 82-Year-Old Hands Can Still Do (And What They Stopped Trying To)"**
+- Hook: "Keith Richards plays fewer notes now. That's not decline. That's scope management."
+- Thumbnail: weathered hand on a fretboard, minimal composition, no text
+
+## Sources
+
+- [Guitar World — arthritis and guitarists](https://www.guitarworld.com/artists/guitarists/arthritis-and-guitarists)
+- [Ultimate Classic Rock — Keith Richards arthritis interview](https://ultimateclassicrock.com/keith-richards-arthritis-guitar-playing/)
+- [Guitar World — NAMM 2026 live coverage](https://www.guitarworld.com/gear/live/namm-2026-live)
+- [Guitar World — 10 things we learned at NAMM 2026](https://www.guitarworld.com/gear/10-things-we-learned-at-namm-2026)
+- [TrueFire — NAMM 2026 top 10 gear releases](https://blog.truefire.com/guitar-gear/namm-2026-the-top-10-hottest-guitar-gear-releases/)
+- [Guitar World — best guitar capos 2026](https://www.guitarworld.com/features/best-guitar-capos)
+- [Premier Guitar — partial capo roundup](https://www.premierguitar.com/partial-capo-roundup)
+- [Guitar Chalk — ChordBuddy full audit](https://www.guitarchalk.com/chord-buddy-review-test/)
+- [BestReviews — best guitar chord pressers of 2026](https://bestreviews.com/music/music-equipment/best-guitar-chord-presser)
+- [Guitar Lobby — best short scale electric guitars 2026](https://www.guitarlobby.com/best-short-scale-electric-guitars/)

@@ -184,3 +184,87 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 13 August 2026
+
+Cross-checked against the current backlog (`Bridge_and_Baseline_Final_v7.xlsx`, ~52 planned/produced videos) so nothing below repeats a title, series slot, or Fix Ladder anchor already claimed. Comfort (8 videos), Practice System (7), and Stealth/Silent Practice (5) are already heavily served — new ideas below deliberately avoid adding to those and instead target thin or empty categories: Playing Through It (still missing several conditions flagged in the June research), Budget/Premium Gear (4 and 3 videos respectively), and Long Tail/PM concept content (4).
+
+## Trending Topics & Keywords (new since June)
+
+- **"Guitarists over 50 returning to guitar"** — Guitar World and others are actively covering the "shred generation hits retirement age" story; arthritis and joint stiffness are being reframed in mainstream guitar press as a mainstream aging-player topic, not a niche one
+- **"Guitar for small hands"** — steady, well-established search category, but 2026 coverage increasingly connects it to the shift in who's buying guitars, not just to younger beginners
+- **New buyer demographics** — women now make up roughly half of new guitar buyers (up from a historic minority), which shifts "small hands / shorter reach" from a niche ergonomics question to a mainstream one, distinct from arthritis or age
+- **"Why do beginners quit guitar"** — dropout-rate content (roughly 9 in 10 beginners quit within a year) is being used as a data-driven hook across the wider learn-guitar space; almost no channel connects the dropout stat to setup friction specifically, which is exactly this channel's thesis
+- **"Returning player" / "played 20 years ago"** — distinct from general nostalgia content; the angle getting traction is less about hands and more about how much the gear landscape itself has changed (headphone amps, apps, tuners) since a returning player last shopped
+- **Left-handed guitar setup** — perennially underserved across the whole guitar content space, not just this channel; almost no setup-focused content addresses it directly
+
+## New Video Ideas
+
+**1. Left-Handed Setup: The Same Fixes, a Different Starting Point**
+- Friction: left-handed players get setup advice that assumes a right-handed instrument, or none at all
+- Fix angle: the same nut, saddle, and relief checks the channel already teaches, applied to a flipped or dedicated left-handed instrument, plus the specific things that don't just mirror (nut slot re-cutting, strap button placement)
+- Fix Ladder: Free — re-check nut slot symmetry after restringing left-handed / Affordable (£8–15) — a second nut file pass or drop-in left-handed nut / Quality upgrade (£30–50) — Graph Tech left-handed nut and saddle set / Premium (£150+) — dedicated left-handed short-scale build
+- Gap: confirmed absent from the current backlog; no left-handed content exists anywhere in the plan
+
+**2. The Ergonomics Nobody Names: Guitar Setup for Shorter Reach**
+- Friction: a hand span or finger length mismatch with the instrument — separate from arthritis, separate from age, and rarely named on its own terms
+- Fix angle: scale length, neck profile, and string spacing as the actual variables, with the current "Small Fret Problem" episode reframed as one entry point rather than the whole story
+- Fix Ladder: Free — capo two frets up to shorten the stretch on anything you're learning / Affordable (£10) — lighter, closer-together string set / Quality upgrade (£40–80) — short-scale conversion setup on an existing guitar / Premium (£150+) — a short-scale instrument built for the player's actual reach
+- Adaptive relevance: pairs naturally with the arthritis and reduced-grip content already in Playing Through It, but stands on its own — this isn't a condition, it's a body
+
+**3. Why Most Beginners Quit in the First Year (And What Setup Has to Do With It)**
+- Friction: an emotional and identity-level friction — feeling like giving up on guitar reflects on the player, not the instrument
+- Fix angle: an insight-forward video connecting the widely-cited first-year dropout rate directly to unaddressed setup friction, using the channel's PM lens (root cause vs. symptom) without becoming another "Root Cause Analysis" retread
+- Fix Ladder: the standard $0/$10/$25/$100+ setup ladder, framed here as "the fixes most likely to be the actual reason someone put the guitar down"
+- What it unlocks: reframes quitting as a solvable input problem rather than a verdict on the player — strong candidate for a Long Tail / identity-adjacent slot
+
+**4. What's Actually Different Since You Last Picked One Up**
+- Friction: a returning player after a long gap doesn't just face rusty hands — they face a gear and tooling landscape that's unrecognisable
+- Fix angle: distinct from the existing "Playing After a Long Break" episode (which is about hands); this one is an orientation video — headphone amps, tuner apps, string options, and setup tools that didn't exist or weren't accessible last time
+- Fix Ladder: Free — a tuner app and a metronome app, nothing else needed to start / Affordable (£10–20) — a clip-on tuner and a fresh set of strings / Quality upgrade (£40–80) — a compact headphone amp / Premium (£150+) — a modelling practice amp with built-in everything
+- What it unlocks: removes "I don't even know what to buy anymore" as a reason not to start
+
+**5. Short-Scale Guitars, Properly Compared: A Buying Guide for Adult Players**
+- Friction: short-scale guitars keep coming up as a fix ladder line item across multiple videos, but there's no single video that helps a player actually choose one
+- Fix angle: a standalone comparison — budget-tier and mid-tier short-scale options, evaluated the way the channel evaluates everything else: by what it removes, not by tone or brand prestige
+- Fix Ladder: naturally structured as a price-tiered guide rather than a single fix, but keeps the same four-tier logic — sits in the currently thin Budget/Premium Gear categories
+- Gap: agent-confirmed — short-scale guitars are referenced repeatedly as Fix Ladder items but never given their own dedicated buying guide
+
+**6. Buying for Someone Else: What to Get the Guitarist in Your Life Who's Struggling**
+- Friction: gift-givers (often adult children buying for aging parents, or partners buying for a returning player) don't know what actually helps versus what just looks like a nice gift
+- Fix angle: reframes the Fix Ladder as a gift-buying guide — what at each price point genuinely reduces friction rather than sitting unused
+- Fix Ladder: Free — a gift card plus a "3 things to check" list for their existing guitar / Affordable (£10–20) — string lubricant, a strap, a feeler gauge set / Quality upgrade (£30–60) — a professional setup as a gift / Premium (£150+) — a short-scale or adaptive-friendly instrument
+- Seasonal note: strong November/December scheduling candidate; genuinely new format (buying guide, not a fix video) that diversifies the channel without drifting off-mission
+
+## Content Gaps and Underexplored Angles (update)
+
+1. **Left-handed players are entirely absent from the backlog** — not deprioritised, simply unaddressed. Highest-priority new gap identified this cycle.
+2. **The June research's "Playing Through It" expansion (carpal tunnel, tendinitis, trigger finger, neuropathy, shoulder/neck pain, flare-up day) remains largely unproduced** — only the general arthritis and flare-up episodes exist in the current backlog. Still the single biggest opportunity in the plan; nothing new needs adding here, it needs producing.
+3. **Shorter reach / smaller hand span as its own topic, not folded into arthritis or age** — increasingly relevant given the shift in who's buying guitars, and currently only touched once, indirectly, in a cross-training-adjacent episode.
+4. **Dropout and quitting, addressed directly** — the channel implicitly answers "why did I quit" in almost every video but has never named the dropout problem on camera as its own hook.
+5. **Buying guidance is thin relative to fix guidance** — the backlog is dense with "how to fix what you have" and comparatively light on "what to actually buy," despite this being a natural strength given the channel's non-judgmental, ROI-based approach to price tiers.
+
+## Titles, Hooks & Thumbnail Concepts
+
+**"The Guitar Was Never Built for Left-Handed Players Either"**
+- Hook: "Same fixes. Different starting point. Almost nobody covers this."
+- Thumbnail: mirrored nut/neck split image, left-handed guitar clearly in frame
+
+**"Guitar Setup for Shorter Reach (It's Not Arthritis, It's Not Age, It's Just Your Hands)"**
+- Hook: "This isn't a condition. It's a body. Here's the setup that matches it."
+- Thumbnail: hand span measured against fretboard width, simple ruler overlay
+
+**"Why 90% of Beginners Quit Guitar in the First Year"**
+- Hook: "It's not motivation. It's not talent. It's almost always the setup."
+- Thumbnail: bold stat callout ("9 in 10") over a guitar in a case, lid half-closed
+
+**"What's Actually Different Since You Last Picked Up a Guitar"**
+- Hook: "Your hands remember more than you think. The gear changed more than you know."
+- Thumbnail: old amp next to a modern headphone amp, simple side-by-side
+
+**"Short-Scale Guitars, Properly Compared: A Buying Guide for Adults Who Just Want to Play"**
+- Hook: "Not the beginner-guitar version. The version for someone whose hands already know what they want."
+- Thumbnail: three short-scale guitars in a row with price tags visible, no clutter

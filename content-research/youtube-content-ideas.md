@@ -184,3 +184,68 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 14 August 2026
+
+This section supplements the June 2026 report above. It does not repeat ideas already listed there (Carpal Tunnel, Django/one-handed, Neuropathy, Trigger Finger, Silent Practice, Humidity, Luthier vs. DIY, Viewer Rescue, Flare-Up Day, Parlour/short-scale sizing) — those remain valid and unfilmed as of this update. Everything below is a new angle or a new format found since the last pass.
+
+## New Trending Topics & Keywords (since June)
+
+- **Keith Richards / arthritis newsjack** — *Guitar World* (March 2026) ran an interview in which Richards discusses adapting his playing for arthritis, framing guitarists as needing an "athlete" mindset toward hand health. This is a live, quotable news hook the channel can respond to directly.
+- **"Guitarist as athlete" framing** — emerging language in guitar press (prehab over rehab, treating hand care as training rather than an afterthought). Not yet claimed by any channel in this niche.
+- **CMC / basal thumb joint arthritis** — searched and discussed in guitar forums as distinct from general "arthritis" content; specifically affects thumb-over-neck grip and chord-hand strength. Underserved even within arthritis-adjacent content.
+- **"Guitars for small hands"** — a broader, higher-volume search cluster than "short scale guitar," and one the channel hasn't framed directly yet. Neck profile and nut width, not just scale length, are the real variables — and this term pulls in viewers beyond the core 35–65 demographic.
+- **Returning-player timeline / skill retention** — 2026 market coverage frames returning hobbyists as a defined, growing segment, and notes retained skills return faster than they were first learned. Distinct from the June report's "maintenance mode" idea — this one is about resetting expectations before someone restarts, not sustaining a habit once resumed.
+- **Neck profile literacy** — "C shape," "U shape," "compound radius" are thrown around in gear content with no accessible explainer, similar to how "neck relief" was flagged as a gap in June.
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **What Keith Richards Gets Right (and Leaves Out) About Arthritis** | Viewers see a famous player talk about adapting to arthritis but get no concrete, replicable steps | Newsjack format — take a real, current quote and translate it into a Fix Ladder | Free: technique adaptation (find another way around the shape) / £5–20: capo + lighter strings / £25–100: professional setup with lower action / £100+: custom-built adaptive guitar |
+| **The Base-of-Thumb Pain Nobody Names** | CMC/basal joint pain gets lumped into "arthritis" generally and never addressed as its own mechanism | Thumb position and neck profile, not grip strength, is the lever | Free: reposition thumb off the top of the neck / £5–20: thumb brace / £25–100: swap to a slimmer-profile neck guitar / £100+: custom neck carve |
+| **Why Warm-Up Isn't Optional After 40** | Stiffness and early pain get blamed on "getting old" rather than skipped preparation | Reframe warm-up as prehab, not indulgence — direct response to the "guitarist as athlete" framing now circulating | Free: finger/wrist stretch routine / £5–20: stress ball or therapy putty / £25–100: vibration massage tool / £100+: OT consult and custom brace |
+| **How Fast Do Your Guitar Skills Actually Come Back?** | Would-be returning players assume they're starting from zero and never restart | Baseline vs. rebuilt skill — a PM concept applied to expectation-setting, not technique | Not a hardware Fix Ladder video — pairs with a setup-refresh upsell (the guitar likely also drifted while unplayed) |
+| **It's Not Your Hand Size. It's the Neck.** | Players blame their own hands for difficulty when neck profile and nut width are the actual variable | Broadens the audience beyond the core persona — anyone Googling "guitar for small hands" lands in-format | Free: retest grip with adjusted thumb position / £5–20: compensated nut / £25–100: slimmer-neck guitar swap / £100+: custom nut width and neck carve |
+| **The 67-Year-Old Barre Chord Breakthrough (Case Study)** | Viewers doubt a setup change can produce a dramatic result at their age or stage | Testimonial/case-study format — a real before/after outcome (cited in 2026 short-scale coverage) walked through step by step | Maps the combined fix (scale length + action + string gauge) that produced the result, at each tier |
+
+## Content Gaps and Underexplored Angles (new since June)
+
+1. **No channel voice on the current arthritis news cycle.** The Keith Richards piece is a real, timely hook and nobody in this niche has responded to it with a practical framework yet.
+2. **CMC/basal thumb arthritis as its own topic.** Distinct mechanism from carpal tunnel (already queued) and from general arthritis (already covered in PTI Ep 1) — currently the gap between those two videos.
+3. **Case-study/testimonial format is unused.** The backlog has "viewer rescue" as a future format, but a scripted case study using an existing outcome could ship sooner and doesn't require waiting on audience submissions.
+4. **Small hands framing has no home yet.** Short-scale content exists in the backlog, but nothing currently targets the "small hands" search cluster directly, and it pulls in viewers outside the 35–65 core.
+5. **Nothing sets expectations for returning players before they restart.** The June report's practice-system ideas assume someone has already picked the guitar back up; this angle is the step before that.
+
+## Titles, Hooks & Thumbnail Concepts
+
+**1. "What Keith Richards Gets Right (and Leaves Out) About Arthritis"**
+- Hook: "A rock star can call a luthier any time he likes. Here's the £15 version of the same fix."
+- Thumbnail: guitar neck close-up, amber "PLAYING THROUGH IT" bar, small "fact-checked" style callout
+
+**2. "The Base-of-Thumb Pain Nobody Names (And the £0 Fix)"**
+- Hook: "It's not your grip. It's where your thumb sits."
+- Thumbnail: thumb position on the back of the neck, circle marking the CMC joint
+
+**3. "Why Warm-Up Isn't Optional After 40"**
+- Hook: "Athletes warm up before they play. Guitarists should too."
+- Thumbnail: stopwatch beside hands stretching over the neck
+
+**4. "How Fast Do Your Guitar Skills Actually Come Back?"**
+- Hook: "You didn't forget as much as you think you did."
+- Thumbnail: timeline graphic, chord shapes reappearing left to right
+
+**5. "It's Not Your Hand Size. It's the Neck."**
+- Hook: "Small hands aren't the problem. The wrong neck profile is."
+- Thumbnail: two neck profiles side by side with a tape measure
+
+## Sources Consulted
+
+- [Guitar World — "As arthritis creeps into the hands of aging guitar heroes..."](https://www.guitarworld.com/artists/guitarists/arthritis-and-guitarists)
+- [Ultimate Classic Rock — Keith Richards on adapting his playing for arthritis](https://ultimateclassicrock.com/keith-richards-arthritis-guitar-playing/)
+- [Tone Authority — Top 10 Short-Scale Electric Guitars for Adults, 2026 Buyer's Guide](https://www.toneauthority.com/top-10-short-scale-electric-guitars-for-adults-2026-buyers-guide/)
+- [Breakthrough Guitar — What Is the Average Age of Guitar Players?](https://breakthroughguitar.com/what-is-the-average-age-of-guitar-players-surprising-statistics-trends/)
+- [MyGuitarMatch — Coming Back to Guitar: The Best Guitars for Returning Players](https://www.myguitarmatch.com/blog/best-guitars-for-returning-players/)

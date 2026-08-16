@@ -184,3 +184,69 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Trend Refresh — 16 August 2026
+
+*This section is additive. Nothing above has been changed. Ideas below are new since the June 2026 research pass and avoid duplicating existing series entries.*
+
+## What's Changed Since June
+
+- **Aging-guitarist arthritis stories are having a cultural moment.** Keith Richards spoke publicly (March 2026) about playing fewer notes due to arthritis; Joe Perry has discussed the same. A July 2026 trade piece framed it as "the shred generation hitting retirement age." This is the first *reactive/news-hook* opportunity the channel has had — everything in the June list is evergreen.
+- **Short-scale guitars have shed the "beginner instrument" stigma in 2026.** Signature short-scale models from working pros are now mainstream talk, which strengthens (not just supports) the channel's existing short-scale content — it's no longer a hard sell.
+- **Silent-practice gear has a genuinely new product category:** cordless/battery practice amps (eliminating the power cable entirely) and amp-capture pedals like the ToneX are 2026-specific and not in the June comparison list.
+- **Named adaptive devices exist and are searched directly** — ChordBuddy and EZ-Fret both show up in disability/adaptive-playing content. Neither is in the current doc; both are natural Fix Ladder entries once personally tested per the Mode 2 checklist.
+- **Secondhand/sustainable buying is a named 2026 market trend**, which strengthens the Budget Guitar Rescue series' framing — "rescuing" a guitar is now a mainstream consumer behaviour, not just a budget workaround.
+- **Format signal:** short-form adaptive-guitar content (wheelchair playing, one-handed playing, adaptive picks) is active on TikTok/Shorts right now. The channel's existing "no face required" Shorts rule fits this directly.
+
+---
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **What Keith Richards and Joe Perry Are Actually Saying About Arthritis** | Players see legends "slowing down" and read it as decline, not adaptation | Commentary + setup angle: reframe fewer-notes playing as a deliberate ROI choice, then show the setup changes that make it easier | Free: play fewer, cleaner notes deliberately · £5–20: light strings · £25–100: setup adjustment · £100+: adaptive instrument change |
+| **The Shred Generation Is Retiring: Nobody Tells You What Happens Next** | Players in their 50s–60s trained on a "faster is better" era and don't know how to adapt when speed and grip decline | Reframes decline as a project constraint change, not a loss — PM insight: scope changes, the project continues | Free: reprioritise repertoire · £5–20: lighter gauge · £25–100: action/setup adjustment · £100+: short-scale or adaptive instrument |
+| **ChordBuddy and EZ-Fret: Honest Review for Adult Hands** | Viewers don't know if named adaptive devices are legitimate tools or gimmicks, and can't find a calm, non-condescending review | Direct product test against Mode 2 checklist; positions devices as a legitimate tier, not a crutch | Free: partial capo/technique equivalent · £5–20: EZ-Fret · £25–100: ChordBuddy · £100+: N/A (products cap below £100) |
+| **Short Scale Isn't a Beginner Guitar Anymore — Here's the Proof** | Comfortable-tier players avoid short-scale guitars because they still read as "for kids" or "for beginners" | Cultural-shift explainer: working pros now use short-scale as a primary instrument; separates ergonomics from skill level | Free: try a friend's/shop's short-scale before buying · £5–20: N/A · £25–100: budget short-scale (Harley Benton tier) · £100+: signature-tier short-scale |
+| **The Cordless Practice Amp Test: Is Cutting the Cable Worth It?** | Cable clutter and outlet-hunting are a real barrier to a 15-minute practice sprint, especially in shared or small spaces | Gear comparison; ties directly to the 15-minute sprint constraint — removing setup friction, not just sound friction | Free: existing amp, headphones only · £5–20: passive headphone splitter · £25–100: budget cordless practice amp · £100+: cordless amp + amp-capture pedal combo |
+| **Buying Secondhand On Purpose: The Guitar Version of Not Buying New** | Budget DIYers already buy secondhand out of necessity but don't have language for it as a deliberate choice, which affects how confidently they shop | Reframes the existing Budget Guitar Rescue series through a 2026 consumer-behaviour lens; strengthens rather than replaces it | Free: inspection checklist (cross-ref existing pawn shop video) · £5–20: consumables to bring to a viewing · £25–100: setup budget to reserve · £100+: N/A by design |
+| **The 30-Second Adaptive Playing Clips Nobody's Making Calmly** | Adaptive/disability guitar content that exists online is either inspiration-focused or clinical — little of it is calm, peer-to-peer, and setup-first | Format idea, not a single video: a recurring Shorts strand cut from existing PTI footage, framed as "what this unlocks," no face required | N/A — format/distribution idea, not a Fix Ladder video |
+
+---
+
+## Content Gaps Identified This Round
+
+1. **Reactive/news-hook content is entirely absent from the channel.** Every existing idea is evergreen. A small, occasional strand reacting to public moments (a well-known player discussing hand health, a product launch) could pull in search traffic the evergreen library can't reach — as long as it's still routed through the channel's own PM/Fix Ladder lens rather than becoming celebrity commentary for its own sake.
+2. **Named adaptive devices (ChordBuddy, EZ-Fret, and similar) have no coverage.** The channel discusses adaptive *approaches* extensively but hasn't reviewed adaptive *products* against the Mode 2 checklist. This is a gap between philosophy and the Fix Ladder's product tiers.
+3. **Cordless/battery practice gear is a genuine 2026 product shift** the June silent-practice comparison predates. Worth a refresh rather than a rewrite of that series.
+4. **No content currently reframes "slowing down" for aging players as a deliberate scope decision** rather than a loss to manage. This sits precisely on the channel's PM-lens strength and nothing in the backlog claims it yet.
+
+---
+
+## High-Potential Titles, Hooks & Thumbnails (New)
+
+### 1. "What Keith Richards and Joe Perry Are Actually Saying About Arthritis"
+- **Hook:** "They didn't quit. They changed the setup."
+- **Thumbnail:** Weathered guitar neck close-up, no faces used; small "PLAYING THROUGH IT" series bar
+
+### 2. "ChordBuddy and EZ-Fret: Honest Review for Adult Hands"
+- **Hook:** "Is it a shortcut, or is it just the right tool?"
+- **Thumbnail:** Both devices side by side on a fretboard; plain price callouts, no red arrows or shock-face framing
+
+### 3. "Short Scale Isn't a Beginner Guitar Anymore"
+- **Hook:** "The pros stopped pretending scale length was about skill."
+- **Thumbnail:** Two guitars, same finish quality, scale-length measurement overlay only — no price disparity implied
+
+### 4. "The Cordless Practice Amp Test: Is Cutting the Cable Worth It?"
+- **Hook:** "One less thing between you and fifteen minutes of playing."
+- **Thumbnail:** Amp with visibly absent power cable; small clock showing a short window
+
+---
+
+## Format Note (This Round)
+
+No new format is proposed beyond what's already in the Format Notes section above — the "30-Second Adaptive Playing Clips" idea is a distribution strand for existing footage, not a new production commitment, and should be tested cheaply before it becomes a standing series.
+

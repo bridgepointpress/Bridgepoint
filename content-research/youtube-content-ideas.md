@@ -184,3 +184,99 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — August 17, 2026
+
+**Backlog cross-check:** Reviewed `Bridge_and_Baseline_Final_v7.xlsx` (Google Drive) before drafting. Already planned and excluded from the ideas below: The $10 Setup, Arthritis and the Guitar: What Actually Helps, $50 Pawn Shop Guitar Rescue, Why Barre Chords Hurt, The $4,000 Mistake, Light Guitar Strings for Sore Hands, Guitar Ergonomics for Older Players, and the PM identity/intro video. A v10 spreadsheet was not found in Drive — v7 is the most current backlog version on file; worth confirming with the creator whether a newer version exists elsewhere.
+
+---
+
+## Trending Topics & Keywords (current sweep)
+
+- **"How to play guitar with arthritis"** — still climbing; several new guides published March–July 2026, meaning search volume is active but competitor content is now denser. Differentiation still needed on the setup-vs-condition framing this channel already leads with.
+- **Scale length as a specific, numeric fix** — current guidance circulating online points to a 24–24.75" scale range for reduced hand strain. This channel has covered short-scale guitars generally but not the *numbers behind why* — a data-first angle is now open.
+- **Ergonomic / shape-changing guitar bodies** (Strandberg-style contoured designs) — described in current coverage as "guitars that change shape to fit the player." Existing channel content addresses posture and strap height, not the guitar body itself — that's a distinct angle, not a duplicate.
+- **Adaptive playing hardware** (Strumling palm strap, ChordBuddy, Robo-Tar-type chord-forming devices) — these products exist and have dedicated coverage elsewhere, but not through a Fix Ladder / ROI lens. Clear channel fit.
+- **Prosthetic arm + guitar playing** — small but real body of content (prosthetics blogs, clinics). No project-management-style, ROI-based treatment of it exists yet.
+- **YouTube Shorts, 2026 algorithm shift** — the platform is now weighting *viewer satisfaction* (post-watch, not just watch time or completion) and demoting generic/recycled hook formats. Practical implication for this channel: the existing plan to cut 30-second before/after measurement moments from long-form videos is still sound, but hooks need to preview the specific *result*, not just tease "wait for it."
+- **"Guitar for beginners over 50"** — still rising, still underserved with dedicated setup-first content (most results are generic lesson-channel roundups, not friction/setup content).
+
+---
+
+## New Video Ideas
+
+### 1. The Exact Scale Length That Reduces Hand Strain
+- **Friction:** Players assume "short scale" is a vague marketing term and don't know if it's worth switching.
+- **Fix angle:** Data-first explainer — measure fret-to-fret stretch across 25.5", 24.75", and 24" scale guitars on camera, tie the numbers to specific chord shapes that get easier.
+- **Fix Ladder:** Free — capo up two frets on a full-scale guitar to simulate the effect / Affordable — none at this tier, this is a body-of-instrument question / Quality upgrade — used 24.75" scale guitar (~£120–200 secondhand) / Premium — new short-scale model built for the range (£250+)
+- **Audience appeal:** High — pairs a concrete number with a purchase decision; strong search overlap with "short scale guitar benefits" and "guitar for small hands."
+
+### 2. Adaptive Playing Tools, Compared by ROI
+- **Friction:** A player with a limb difference, amputation, or one very limited hand assumes strumming and chording are permanently out of reach.
+- **Fix angle:** Hands-on comparison of adaptive hardware — a palm strap, a chord-forming aid, a DIY approach — assessed the same way every Fix Ladder is: what does each actually unlock, and at what cost.
+- **Fix Ladder:** Free — thumb-pick technique and rethought strum pattern / Affordable — palm-strap pick holder (~£15–20) / Quality upgrade — chord-forming learning aid (~£40–60) / Premium — custom prosthetic attachment fitted for guitar (£100+)
+- **Audience appeal:** High shareability outside the core niche — this is the kind of video that gets picked up by disability and adaptive-music communities well beyond guitar audiences. Directly extends the "One-Handed Playing" Playing Through It entry already in the backlog without duplicating it — that entry is technique-first (Django-style partial shapes), this one is hardware-first.
+
+### 3. Playing Guitar With a Prosthetic: What's Actually Possible
+- **Friction:** Assumption that a prosthetic limb and guitar are simply incompatible, full stop.
+- **Fix angle:** Interview or collaboration format — what attachments and adjustments exist, what a realistic setup looks like, framed the same neutral way as every other fix on the channel.
+- **Fix Ladder:** Free — grip and strap adjustments to existing prosthetic / Affordable — off-the-shelf pick-holding attachment / Quality upgrade — adapted terminal device (varies, often insurance-supported) / Premium — custom-fitted musician's attachment
+- **Audience appeal:** Small dedicated audience, very high goodwill and shareability; reinforces the channel's stated commitment to treating physical difference as core, not edge case. Best suited to a collaboration rather than a solo demo.
+
+### 4. Are Shape-Changing Ergonomic Guitars Worth It?
+- **Friction:** Players in pain assume the guitar's body shape itself is the problem and start pricing expensive ergonomic-body instruments before checking anything else.
+- **Fix angle:** Test whether a contoured/ergonomic body design changes comfort more than a proper setup does on a standard-shaped guitar — isolates body design as one variable against everything already covered (nut, action, strap).
+- **Fix Ladder:** Free — rib/forearm contour check and strap angle on your current guitar / Affordable — foam contour pad (~£10–15) / Quality upgrade — secondhand chambered or contoured-body guitar / Premium — ergonomic-body guitar built around the contour (£400+, no ceiling)
+- **Audience appeal:** Medium-high — rides a real 2026 gear trend, gives the channel a chance to say plainly whether the expensive option is worth it before the setup basics are exhausted, which is very on-brand.
+
+### 5. Nut Lubricant Compared: Does It Actually Stop Tuning Problems?
+- **Friction:** Guitar won't stay in tune, especially after bends or with a tremolo, and players don't know if the cheap fix (pencil graphite) actually works versus paid products.
+- **Fix angle:** Side-by-side tuning-stability test across a few lubricant options.
+- **Fix Ladder:** Free — soft pencil graphite in the nut slot / Affordable — Big Bends Nut Sauce (~£8) / Quality upgrade — Graph Tech pre-slotted self-lubricating nut (~£25) / Premium — full locking tuner + roller nut system (£80+)
+- **Audience appeal:** Medium — strong search term ("guitar won't stay in tune"), quick to film, natural affiliate fit, complements the existing budget-fix cluster without repeating it.
+
+### 6. Guitar for Beginners Over 50: What Actually Matters
+- **Friction:** Returning or brand-new adult players get buying advice built for teenagers chasing tone, not for someone prioritising comfort and a realistic first six months.
+- **Fix angle:** Reframe the "first guitar" buying decision entirely around setup potential and physical fit rather than brand or tone — a direct entry point video for a rising, underserved search demographic.
+- **Fix Ladder:** Free — what to check before buying anything (the same three-point setup check from Video 1) / Affordable — budget guitar + basic setup spend (~£15–20) / Quality upgrade — better-specced beginner instrument with easier factory setup / Premium — a guitar bought new and professionally set up before it's ever played
+- **Audience appeal:** High — this is a top-of-funnel video that can become a channel entry point; strong search match, no direct backlog equivalent yet.
+
+### 7. Guitar Hook Rewrite: What Actually Keeps People Watching in 2026
+*(Format/strategy note, not a video topic)* — Not a video idea but worth flagging: the current Shorts algorithm is rewarding hooks that preview a specific, concrete result (a measurement, a before/after number) over generic curiosity hooks. Every planned before/after Shorts cut-down should lead with the number or the visible change in the first second, not a teased question.
+
+---
+
+## Content Gaps and Underexplored Angles
+
+1. **Hardware-first adaptive tools** (Strumling, ChordBuddy, prosthetic attachments) — the backlog's one-handed content is technique-first; nobody on the channel has evaluated the actual adaptive hardware market yet. Highest-priority gap — strong differentiation, strong goodwill, low competition.
+2. **Guitar body design as its own variable** — every ergonomics video in the backlog is about posture, strap, and setup. The body shape of the guitar itself (contoured, chambered, ergonomic-brand designs) hasn't been isolated and tested against those cheaper fixes.
+3. **A dedicated "first guitar after 50" entry point** — the channel has strong depth content but no single video built to catch a brand-new searcher in this exact demographic at the top of the funnel.
+4. **Numeric, data-led explainers** — most planned videos are framed around a fix; scale-length-and-strain is an opportunity to lead with a specific number instead, which tends to perform well as a citable, shareable claim.
+5. **Shorts hook strategy** — not a content gap so much as a format gap: the channel has a plan for what to clip, but no explicit hook-writing standard tied to the current (2026) algorithm signal.
+
+---
+
+## High-Potential Titles, Hooks & Thumbnail Concepts
+
+### 1. "The Exact Scale Length That Reduces Hand Strain"
+- **Hook:** "It's not your hands. It's 0.75 inches of neck."
+- **Thumbnail:** Two necks stacked with a ruler overlay marking the scale-length difference; no text beyond a measurement callout.
+
+### 2. "I Tested Every Adaptive Tool for One-Handed Guitar Playing"
+- **Thumbnail:** Three adaptive tools laid out side by side on a guitar body; each with a small price tag.
+- **Hook:** "One hand is enough. Here's what actually helps it do the work."
+
+### 3. "Are Ergonomic Guitars Worth the Price? Testing Body Shape vs. Setup"
+- **Hook:** "Before you spend £400 on the shape, spend £0 on the setup."
+- **Thumbnail:** Standard-body guitar and contoured-body guitar side by side, same price sticker crossed out on one.
+
+### 4. "Guitar for Beginners Over 50: What Actually Matters"
+- **Hook:** "Ignore the tone chase. Here's what actually decides whether you keep playing."
+- **Thumbnail:** A single guitar with the three-point check callouts from Video 1, aimed at a first-time buyer framing.
+
+### 5. "Nut Lubricant Compared: Pencil vs. Nut Sauce vs. Graph Tech"
+- **Hook:** "One of these costs nothing. One costs twenty-five pounds. Here's what each one buys you."
+- **Thumbnail:** Three lubricant options lined up next to a guitar nut in close-up, price labels beneath each.

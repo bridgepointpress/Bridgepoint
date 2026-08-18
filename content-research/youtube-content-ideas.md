@@ -184,3 +184,64 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — August 18, 2026
+
+**Sources consulted:** `Bridge_and_Baseline_Final_v7.xlsx` (51-video backlog, all "Strong Fit," Playing Through It series mapped), this file's June 2026 research, and fresh web research (see below). Everything in this section was checked against the backlog first — nothing here duplicates a planned or already-noted video.
+
+## Trending Topics & Keywords (new since June)
+
+- **Keith Richards and Joe Perry talking publicly about arthritis and guitar** — both have given 2026 interviews (Guitar World, others) about adapting their playing and gear to arthritis. This is a live news hook the channel has never used — everything on the backlog is evergreen, none of it reactive.
+- **Multi-scale / fanned-fret guitars marketed on ergonomics** — Strandberg, Kiesel, Abasi Concepts, Aristides are all pushing "reduced wrist strain" as a 2026 selling point, alongside a widely-quoted stat that over 60% of professional musicians report some form of repetitive strain injury. All of this coverage is aimed at players who can spend £1,500+ — nobody is translating the ergonomic argument for a budget or mid-tier buyer.
+- **Martin's 5-28 Terz** — a new-for-2026 short-scale (21.38") model, alongside a wider wave of 3/4 and short-scale acoustic releases from Taylor, Martin, and Faith. Confirms the Short Scale Guitars doc's thesis is now a live market trend, not a niche prediction.
+- **Adult beginners 40+ / "retirement hobby" guitarists** — market data continues to show this as a growing, named segment (not just "adults" broadly), with online lesson platforms specifically courting it.
+- **YouTube's 2026 Shorts push** — the platform is treating Shorts as its primary discovery engine this year, and recommended posting mix has shifted toward heavier Shorts volume early in a channel's life. This isn't a video topic, but it's a gap worth flagging (see below).
+
+## New Video Ideas (checked against the 51-video backlog — no duplicates)
+
+| Working Title | Friction / Angle | Why it's not already covered |
+|---|---|---|
+| **"Keith Richards, Joe Perry, and What They're Not Telling You About Arthritis Gear"** | React to the specific adaptations both have named in 2026 press (string changes, technique shifts) and translate them into the Fix Ladder ordinary players can actually use | Backlog's arthritis videos (#2, #9, #13, #48) are all evergreen/personal-experience; this is the channel's first reactive, news-hooked video — different traffic source, same message |
+| **"Carpal Tunnel and Guitar: The Fixes That Aren't the Same as Arthritis"** | Carpal tunnel is compression, not inflammation — wrist angle and strap height matter more than string gauge alone | Confirmed still absent from the 51-video backlog; flagged as a gap in June and still true in August |
+| **"The Guitar Injury Statistic Nobody in Gear Content Mentions"** | Opens on the >60%-of-musicians-report-RSI figure, then reframes it as a setup and posture problem, not an inevitability | Authority/stat-led framing distinct from the channel's usual personal-experience opener; positions the channel against generic gear content directly |
+| **"Fanned-Fret Guitars Without the £1,500 Price Tag"** | Multi-scale design is being sold as an ergonomic upgrade by premium brands only; test whether a budget multi-scale model delivers the same wrist-angle benefit | Backlog has no multi-scale/fanned-fret coverage at all; closes the specific gap the June doc flagged about Strandberg-type coverage ignoring the casual player |
+| **"The Martin 5-28 Terz, Six Months Late: Is a Short-Scale Guitar Actually Right for You?"** | Timely product angle on the new 2026 short-scale release, used as the hook into the channel's existing short-scale-for-comfort thesis | No product-reaction format exists on the backlog yet; low production cost (research + demo, not a full build) |
+| **"Starting Guitar at 55: What the First 90 Days Actually Feel Like"** | Retirement-hobby beginners are a named, growing segment; most beginner content assumes a teenager's timeline and frustration tolerance | Backlog's identity and onboarding videos (#8, #14) speak to this audience but don't document a real first-90-days arc; different, more concrete promise |
+
+## Content Gaps and Underexplored Angles
+
+1. **Reactive/news-hooked content is entirely absent.** All 51 backlog videos and every idea in this file to date are evergreen. A small, occasional reactive slot (a public figure's arthritis comments, a new short-scale release) could pull in search and suggested-video traffic the evergreen catalogue can't reach, without changing the channel's tone.
+2. **Carpal tunnel remains the single clearest content gap**, unchanged from June. Worth prioritising now that the backlog's other impairment content (arthritis, flare-ups, small-fret problem, one-handed playing) is fully mapped — carpal tunnel is the obvious next Playing Through It candidate but isn't in the 51-video list.
+3. **Budget-tier ergonomic guitar design** (multi-scale/fanned-fret) is a real 2026 trend with zero coverage aimed at this channel's audience — every existing resource assumes a premium-guitar budget.
+4. **Shorts strategy** — not a video topic, but worth flagging to the creator directly: YouTube's 2026 algorithm is weighted toward Shorts as a discovery engine, and the "before/after measurement" moments already identified in this doc's Format Notes are sitting unused as a growth lever.
+
+## Titles, Hooks, Thumbnail Concepts
+
+**1. "Keith Richards, Joe Perry, and What They're Not Telling You About Arthritis Gear"**
+- Hook: "Two of the most famous hands in rock and roll are quietly changing their setup. Here's what they're not saying out loud."
+- Thumbnail: split image feel (guitar neck close-up, no faces used per channel identity rules); text-free, amber PLAYING THROUGH IT bar
+
+**2. "Carpal Tunnel and Guitar: The Fixes That Aren't the Same as Arthritis"**
+- Hook: "If arthritis advice hasn't helped, that's because this isn't arthritis."
+- Thumbnail: wrist at a neutral vs. bent angle against the guitar neck, no text
+
+**3. "Fanned-Fret Guitars Without the £1,500 Price Tag"**
+- Hook: "The ergonomic argument is real. The price tag doesn't have to be."
+- Thumbnail: close-up of angled frets, price callout at the low end of the Fix Ladder
+
+**4. "The Martin 5-28 Terz, Six Months Late: Is a Short-Scale Guitar Actually Right for You?"**
+- Hook: "Everyone's reviewed the guitar. Nobody's asked who it's actually for."
+- Thumbnail: scale-length comparison overlay on two guitar necks
+
+**5. "Starting Guitar at 55: What the First 90 Days Actually Feel Like"**
+- Hook: "Not the highlight reel. The actual first ninety days."
+- Thumbnail: simple calendar/day-count visual, no gear, no hype
+
+---
+
+**No-opportunity note:** this update surfaced genuine new material — none of it is filler. If a future scheduled run turns up nothing beyond what's already logged here and in the backlog spreadsheet, that run should say so briefly rather than padding the list.
+
+Sources: [How Joe Perry is adapting to his guitar to battle arthritis](https://www.guitarworld.com/artists/guitarists/joe-perry-guitar-changes-arthritis) · ['Well, Let's See What We Can Do Today' - Keith Richards](https://ultimateclassicrock.com/keith-richards-arthritis-guitar-playing/) · [Exciting Design Trends in Boutique Guitars for 2026](https://mythicguitars.com/blogs/articles/boutique-guitar-design-trends-2026) · [10 Top Ergonomic Guitar Brands (2026)](https://www.guitarbrands.org/ergonomic-guitar-brands-for-physical-comfort/) · [New Models for 2026 — Martin Guitar](https://www.martinguitar.com/new-models-2026.html) · [Best 3/4 acoustic guitars 2026 — Guitar World](https://www.guitarworld.com/features/best-three-quarter-acoustic-guitars) · [Carpal Tunnel in Guitar Players: Key Strategies](https://carpaltunnelpros.com/2026/04/06/carpal-tunnel-in-guitar-players-manage-carpal-tunnel-with-these-strategies/) · [How to Play Guitar with Carpal Tunnel Syndrome — Midlife Guitar](https://midlifeguitar.com/can-i-play-guitar-with-carpal-tunnel-syndrome/) · [Latest Guitar Industry Statistics 2026](https://sandymusiclab.com/latest-guitar-industry-statistics-year-trends-market-size-and-sales/) · [YouTube Trends 2026 — Mediacube](https://mediacube.io/en-US/blog/youtube-trends-2026)

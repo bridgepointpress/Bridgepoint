@@ -184,3 +184,66 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 19 August 2026
+
+**Method note:** Cross-checked against `Bridge_and_Baseline_Final_v7.xlsx` (51-video backlog, Phases 1–10, "Playing Through It" series) and `Bridge_and_Baseline_Channel_Ops.docx` before adding anything below, so nothing here duplicates an already-planned video. Ideas that reinforce or sharpen an existing backlog entry are marked accordingly rather than proposed as new videos.
+
+## Trending Topics & Keywords (web-checked)
+
+- **Hand exercisers for musicians (Xtensor and similar reverse-grip devices)** — active debate in guitar/hand-health content right now: strengtheners speed progress but can stiffen hands if used wrong. No one in the niche has covered this with a calm, evidence-aware, non-hype tone. **Gap — not in current backlog.**
+- **Nylon strings as an arthritis-specific choice** — search results consistently pair lower string tension with arthritis relief, distinct from the "light gauge steel strings" angle the backlog already covers (Videos 6, 9, 13). The nylon-vs-steel *decision*, not just gauge, is underexplored.
+- **DADGAD / open tunings for chord simplification** — referenced as a top adaptive strategy in current arthritis content elsewhere on YouTube; touched on in Video 9's Fix Ladder but never given its own explainer.
+- **Slide/bottleneck guitar as a permanent fretting-free technique** — shows up repeatedly in current arthritis-and-guitar coverage as a legitimate playing path, not a novelty. Backlog Video 35 mentions EBow/slide as one Fix Ladder rung; it hasn't been built out as its own video.
+- **Short-scale budget models refreshed for 2026** — Harley Benton has released new short-scale entries this year (ST-Shorty, ST-Junior HSS, ~19–19.4" scale, sub-$100). This is a concrete, current product hook for the ergonomic short-scale angle already flagged in Video 43 ("The Small Fret Problem").
+- **"Easy guitar songs for beginners over 50"** — confirmed as an active, recognized YouTube search category with dedicated channels serving it. The backlog has no song-learning format at all — every video ends with "play something," never a *named* song.
+
+## Competitive Note
+
+A well-established general guitar-lesson channel already has a published "arthritis advice" video with real reach. This doesn't argue against Video 2 (still the right move) — it argues for leading harder with what's actually different: the Fix Ladder structure, the PM framing, and treating adaptive technique as permanent rather than a workaround. Worth a line in the script for Video 2 acknowledging other arthritis content exists and naming why this one is structured differently.
+
+## New Ideas (not in the 51-video backlog)
+
+| Working Title | Friction | Fix Ladder sketch | Audience appeal |
+|---|---|---|---|
+| **Do Hand Exercisers Help or Hurt Your Guitar Playing?** | Players with arthritis or reduced grip are told to "strengthen" their hands, but some grippers make hands stiffer and more painful. | $0 passive range-of-motion warm-up → $12 stress ball → $25 Gripmaster (adjustable tension) → $60 Xtensor. Insight: strengthening and flexibility are different problems; know which one you have before buying a device. | High — active, unresolved debate; strong Playing Through It fit; low production cost. |
+| **Nylon vs. Light Steel: Which Actually Hurts Less?** | Arthritic and reduced-grip players are told to go lighter, but no one explains the nylon-vs-steel tension/feel tradeoff. | $0 retune existing steel to a lower tuning → $10 D'Addario Pro-Arte nylon set on a spare guitar → $25 half-tension classical set → $150+ dedicated nylon-string guitar. | Medium-high — direct decision-support content, fills a real information gap. |
+| **DADGAD in 5 Minutes: The Tuning That Removes Barre Chords** | Barre chords are the single most common pain trigger; most players don't know retuning removes the need for them entirely on many songs. | $0 retune with a tuner app → $15 clip-on tuner → $30 partial capo to layer on top → $0 (a song list of DADGAD-friendly tracks, no cost). | High — quick win, highly shareable, complements Video 4 (barre chord pain). |
+| **Slide Guitar Without Fretting: A Real Option, Not a Novelty** | Some players reach a point where fretting itself is the barrier, not just barre chords. | $0 any bottle/tube as an improvised slide → $12 glass or brass slide → $30 raised nut extender for true slide setup → $150+ dedicated resonator or lap-style conversion. | Medium — niche but high loyalty; deepens Playing Through It series credibility. |
+| **The New $89 Short-Scale Strat: Worth It for Small Hands?** | Players with small hands, joint pain, or short reach assume short-scale means compromise. | Single-product review framed on the Fix Ladder logic already used elsewhere — priced at $89, this *is* the affordable tier. Pairs directly with Video 43. | High — timely (2026 release), concrete product, strong affiliate/search fit. |
+| **Learn This Song in 15 Minutes (Fix Ladder Edition)** | The channel never targets song-specific search traffic, which is some of the highest-volume beginner search there is. | Not a Fix Ladder video in the traditional sense — proof-of-concept for a recurring format: pick one high-search "easy song for beginners" per month, apply one setup fix first, then teach the song in a 15-minute sprint. | High — opens an entirely new, high-volume search category the channel currently leaves untouched. |
+
+## Underexplored Angles (new since June)
+
+1. **Hand-strengthening tools as a topic, not just fixes** — the channel has covered removing friction from the guitar, but never addressed the player's own hand-conditioning devices, which this audience is actively buying and asking about.
+2. **Named-song content** — the entire "easy songs for beginners over 50" search category is currently unclaimed by this channel. Even one recurring monthly slot would open new discovery traffic without diluting the Fix Ladder format (fix first, song second).
+3. **Direct product timeliness** — the backlog's product references (Graph Tech, StewMac, D'Addario) are evergreen; nothing currently hooks into a 2026 product release cycle. The short-scale Harley Benton refresh is a rare chance to be topical without chasing hype.
+
+## Suggested Titles, Hooks & Thumbnails
+
+**1. "Do Hand Exercisers Help or Hurt Your Guitar Playing?"**
+- Hook: "The device that's supposed to help your hands can make them worse. Here's how to tell which one you need."
+- Thumbnail: Hand exerciser next to guitar neck, neutral framing (no red X, no alarm) — genuine before/after grip comparison.
+
+**2. "DADGAD in 5 Minutes: The Tuning That Removes Barre Chords"**
+- Hook: "You don't need a stronger hand. You need a different tuning."
+- Thumbnail: Tuner display next to a barre-chord hand shape crossed out gently — replaced by an open-hand shape.
+
+**3. "The New $89 Short-Scale Strat: Worth It for Small Hands?"**
+- Hook: "Scale length changed more for my hands than any string gauge ever did."
+- Thumbnail: Two guitar necks side by side with a ruler overlay; price tag visible.
+
+**4. "Slide Guitar Without Fretting: A Real Option, Not a Novelty"**
+- Hook: "Some days fretting isn't the answer. Here's what still is."
+- Thumbnail: Close-up of slide on strings, PTI series bar, calm framing — no "inspirational" music-video tropes.
+
+**5. "Learn 'Easy Love' in 15 Minutes (Fix Ladder Edition)"** *(swap in whatever song is trending closer to filming date)*
+- Hook: "One small setup fix, then the whole song — in the time you'd spend scrolling."
+- Thumbnail: Song title + "15 min" timer overlay + hands on guitar, no face required.
+
+## If Nothing Else
+
+The core backlog (51 videos) remains strong and mostly untouched by these findings — this update adds six new ideas that fill genuine gaps (hand-conditioning tools, nylon-vs-steel decision content, a named-song format) rather than replacing anything already planned. No changes recommended to the existing First 10 publication sequence.

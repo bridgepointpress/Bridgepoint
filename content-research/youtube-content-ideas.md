@@ -184,3 +184,62 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 20 August 2026
+
+*Note: the Charter, Arthritis Checklist, Short Scale Guitars doc, Easier Play Guitars doc, and v10 backlog spreadsheet were not available in this repository at the time of this research pass — findings below are cross-checked only against the existing ideas in this file, to avoid duplicating anything already logged above. Recommend confirming against the v10 spreadsheet before scheduling any of these.*
+
+## Trending Topics & Keywords (new since last pass)
+
+- **"getting back into guitar after years off"** — comeback-narrative searches are rising across instrument YouTube generally (guitar, piano, violin); high emotional engagement, strong watch-time format
+- **"essential tremor guitar"** — distinct from arthritis (involuntary movement vs. joint pain/stiffness); recurring forum question, effectively no dedicated video content
+- **"menopause joint pain guitar" / "menopause tendon pain hands"** — hormonal links to tendon and joint stiffness are increasingly discussed in general health content but never connected to instrument playing; the 45–65 female segment of the audience is currently unaddressed as its own topic
+- **"compound radius neck explained"** — recurring buying-guide search; almost all existing content is spec-sheet technical rather than comfort-framed
+- **"fret dressing vs refret cost"** — high-intent, high-anxiety search (feels expensive/scary); same cost-anxiety pattern the luthier-vs-DIY video already proved works for this channel
+- **"left handed guitar setup without buying left handed"** — steady niche search volume; almost no content treats restringing/reordering as a legitimate permanent option rather than a workaround
+- **"satisfying guitar setup video" / "guitar restoration ASMR"** — format trend, not a topic: slow, tactile, low-narration repair and setup footage is over-performing across the wider guitar-content ecosystem in 2025–2026
+- **"AI practice app for guitar" / "adaptive metronome"** — emerging tool category; relevant to the Practice Systems series but not yet covered from a hands-that-don't-cooperate angle
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **The Comeback Guitarist: Picking It Back Up After 10, 20, 30 Years** | Guitar's been in the closet; hands and calluses are gone, confidence is lower than it was | Approach/mindset + a realistic re-setup, not a return-to-form challenge | £0 re-tune and re-assess · £10 new strings · £30 professional re-setup · £100+ replacing a guitar that was never right to begin with |
+| **Essential Tremor and Guitar: What Actually Helps** | Involuntary movement makes fretting and picking harder to control — different mechanism from arthritis, often confused with it | Distinguish tremor from stiffness on camera; string gauge, pick weight, and stabilising technique as the first fixes | £0 grip and pick-angle adjustment · £8 heavier pick / different gauge · £35 wrist support · £120+ tremor-specific adaptive accessories |
+| **Menopause, Hormones, and Why Your Hands Changed** | Joint and tendon stiffness that shows up or worsens in midlife, rarely connected to hormonal change, often misread as "getting worse at guitar" | Explain the physiological link plainly; route into the same fixes as the Arthritis and Tendinitis episodes | £0 warm-up timing change · £10 string gauge drop · £40 wrist support · £100+ setup revisit timed to how hands feel *now*, not how they felt a decade ago |
+| **Compound Radius Necks Explained (Why Some Guitars Feel Easier Under the Hand)** | Confusing spec-sheet term; player doesn't know why one neck feels easier than another | Plain explainer connecting neck shape to comfort, not to shredding speed | £0 test-play comparison method at a shop · — · £60–90 aftermarket neck shim/adjustment · £150+ guitar with compound radius as a buying criterion |
+| **Fret Dressing: The Upgrade Most Players Skip (And When It's Worth It)** | High frets or uneven fret wire force more finger pressure than necessary; players assume this is normal | Cost-anxiety explainer, same format that worked for luthier-vs-DIY | £0 diagnose with a straightedge · — · £45–70 partial fret dress · £120+ full refret on a guitar worth keeping |
+| **Left-Handed Setup Without Buying a Left-Handed Guitar** | Left-hand-dominant or asymmetric-mobility players are told a left-handed guitar is the only real option | Restringing and nut/saddle reordering as a permanent, legitimate approach | £0 restring and reassess · £15 new nut · £40 saddle and setup adjustment · £150+ dedicated left-handed instrument, framed as one option among several, not the "correct" one |
+| **The 30-Second Fix (Shorts series)** | Viewers on Shorts want the payoff immediately, not the full ROI walkthrough | Cut-down format: one fix, one before/after, no narration build-up | Each Short names its own single tier — pulls directly from fixes already demonstrated in long-form videos |
+
+## Content Gaps and Underexplored Angles
+
+1. **Hormonal and midlife physiological change** — the channel has strong coverage of arthritis, carpal tunnel, and tendinitis, but nothing yet connects hand changes to menopause or general midlife hormonal shifts. Given the audience skews 35–65, this is a meaningful, currently empty gap.
+2. **Involuntary movement conditions (tremor)** — everything in Playing Through It so far addresses pain or restricted movement; tremor is a control problem, not a pain problem, and needs its own distinct treatment rather than folding into an existing episode.
+3. **Comeback/return narrative as its own format** — the channel has "keep playing when life gets busy," but nothing yet speaks directly to someone starting again after a long total gap. This is a different emotional entry point and a strong shareability angle.
+4. **Fret condition as a Fix Ladder topic** — setup content so far covers action, relief, intonation, and buzzing, but not fret height or fret dressing, which is often the actual ceiling on how low action can safely go.
+5. **Left-hand dominance and asymmetric mobility as a standing setup topic** — referenced conceptually in the channel's adaptive-approaches philosophy but not yet built out as its own video.
+6. **Shorts-first ideation** — the format notes above mention cut-downs of existing long-form footage, but there's no ideation yet for Shorts conceived as their own unit, which may matter for discovery given current platform trends toward short-form.
+
+## High-Potential Titles, Hooks & Thumbnail Concepts
+
+### 1. "The Comeback Guitarist: What Changes After 10 Years Off"
+- **Hook:** "Your hands aren't what they were. Neither is your guitar. Here's what to check before you play a single note."
+- **Thumbnail:** Dusty guitar case opening; re-tune tuner readout overlay; no text beyond a small "10 YEARS" callout
+
+### 2. "Essential Tremor and Guitar: What Actually Helps"
+- **Hook:** "This isn't stiffness. It's a different problem, and it needs a different fix."
+- **Thumbnail:** Hand on strings mid-motion (slight blur to suggest tremor, not staged); PTI series card with episode number
+
+### 3. "Fret Dressing: The Upgrade Most Players Skip"
+- **Hook:** "Your action might already be as low as it can safely go. The fret wire is why."
+- **Thumbnail:** Straightedge laid across frets showing a high spot; price callout £45–70
+
+## Format Notes (update)
+
+- **Comeback narrative videos** could open a new low-physical-load entry point for viewers currently intimidated by the channel's more technical setup content — worth testing as a top-of-funnel format
+- **Slow, tactile setup footage** ("satisfying repair" trend) is over-performing elsewhere in the guitar niche; the channel's existing before/after demos may already fit this without any format change, just an edit-pacing test
+- **Shorts conceived as standalone units** (not only cut-downs) may be worth a small trial batch before the next planning cycle

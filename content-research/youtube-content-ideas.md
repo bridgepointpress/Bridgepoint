@@ -184,3 +184,55 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 21 August 2026
+
+Research pass against current search and trend data, checked against the June 2026 list above to avoid duplicating already-scripted or already-listed ideas.
+
+## Trending Topics & Keywords (new since the June pass)
+
+- **"Aging guitarists and arthritis" mindset coverage** — mainstream guitar press (Guitar World and others) is now covering how veteran players manage arthritis, framing it as an ongoing management problem rather than a career-ending decline. The framing lines up closely with the channel's own non-negative language and gives a timely hook: this audience is starting to see itself reflected in guitar media for the first time.
+- **Slide guitar as an accessibility technique** — search and forum interest in slide guitar as a way to remove fretting-hand precision demands entirely (not just lower action or lighter strings) is a distinct, growing thread. Not yet covered on the channel.
+- **Essential tremor** — an estimated 10 million people in the US alone have essential tremor, making it the most common movement disorder and several times more prevalent than Parkinson's. Guitar-specific content addressing it directly, and distinguishing it from arthritis or Parkinson's tremor, is essentially absent. This is the strongest new content gap found in this pass.
+- **Ergonomics entering mainstream gear coverage** — 2026 boutique guitar trend pieces are now listing "improved body ergonomics" and "enhanced playability" as defining industry trends, not niche accessibility language. The vocabulary the channel has used since day one is starting to appear in general gear press — an opening to meet a wider audience arriving through that search language.
+- **Precise numeric setup targets ranking well** — searches and articles citing specific reference numbers (roughly 0.25mm neck relief, 1.5–2mm action at the 12th fret) are performing well, suggesting appetite for a concrete reference rather than "adjust until it feels right" guidance.
+
+## Content Gaps and Underexplored Angles
+
+1. **Essential tremor as its own episode** — distinct from arthritis, carpal tunnel, and neuropathy already planned in the Playing Through It series; large affected population, near-zero direct guitar coverage anywhere. Highest-priority gap found.
+2. **Slide guitar as a primary technique**, not a genre detour — framed as a legitimate first-class adaptive approach for players whose fretting-hand precision is unreliable or painful, alongside (not instead of) the setup fixes already covered.
+3. **A reference-numbers companion piece** — the channel currently teaches setup by feel and demonstration; a short video giving the actual measurable targets would serve viewers who want to self-verify a fix without waiting to build feel for it.
+4. **"Aging out of shred" as an emotional entry point** — distinct from the existing beginner-focused "over 50" framing, this speaks to players who grew up idolizing fast technical playing and now feel the gap between what they used to do and what their hands do today. Strong PM-insight fit (baseline shift, not decline).
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Essential Tremor and the Guitar** (PTI Ep 9) | Hands shake at rest or under sustained position, making fretting and picking precision inconsistent | Technique adaptation plus setup, distinguishing tremor from arthritis-driven friction | Free: play during personal lower-tremor windows, capo to shorten required reach · £5–20: arm/wrist rest, lighter string gauge · £25–100: nut or spacing adjustment for more string clearance · £100+: guitar with wider string spacing |
+| **Slide Guitar as a Primary Technique, Not a Detour** | Fretting precision is unreliable or painful even after lighter strings and lower action | Technique — reposition slide as a legitimate adaptive approach, not a genre novelty | Free: bottleneck already on hand · £8–15: dedicated metal or glass slide · £30–60: raised nut extender · £150+: dedicated resonator or lap-style guitar |
+| **The Numbers Behind a Good Setup** | Viewers can't confirm a DIY fix actually worked because no one gives them the target numbers | Setup — reference/explainer video with printable measurements | Free: phone notes reference card · £8: feeler gauge · £25–40: relief and radius gauge set · £100+: professional gauge kit |
+| **What Aging Out of Shred Actually Feels Like** | The gap between past technical ability and current hands, more emotional than mechanical | PM insight — baseline shift, not decline; paired with capo-assisted lead lines and alternate tunings that reduce hand travel | Free: alternate tuning, capo placement · £5–20: lighter strings · £25–100: partial re-fret or setup for reduced stretch · £100+: shorter-scale guitar for the same riffs |
+| **Wide Nut, Narrow Nut: Which Neck Actually Works for Painful Hands** | Confusion over neck width and profile — wider isn't automatically worse, narrower isn't automatically easier | Hardware/instrument selection, myth-correction | Free: test necks at a local shop before buying · £15: nut file to widen slot spacing · £60–90: professional nut replacement · £150+: guitar swap to a different neck profile |
+| **Guitar Ergonomics Is Going Mainstream (Here's What That Means for You)** | None directly — a positioning video for new viewers arriving via ergonomics search terms as the wider industry catches up to accessibility-first language | Insight/positioning, channel thesis explainer | N/A — insight-led; closes with a short walkthrough of one existing Fix Ladder example rather than a new fix |
+
+## Titles, Hooks & Thumbnail Concepts for the Top Three
+
+### 1. "Essential Tremor and the Guitar"
+- **Hook:** "It's not arthritis, and it's not Parkinson's. Here's what actually helps."
+- **Thumbnail:** Close hand-on-neck shot, steady framing (no shake effects or gimmicks); PTI series card, episode number
+
+### 2. "Slide Guitar as a Primary Technique, Not a Detour"
+- **Hook:** "This isn't a genre. It's a fix."
+- **Thumbnail:** Slide on strings, close crop; small Fix Ladder price callout starting at £8
+
+### 3. "The Numbers Behind a Good Setup"
+- **Hook:** "Stop guessing whether it worked. Here's what to measure."
+- **Thumbnail:** Feeler gauge on strings with a clean numeric overlay (relief / action figures), no clutter
+
+## Notes
+
+- No v10 backlog spreadsheet, channel charter, arthritis checklist, or short-scale guitar doc was found in this repository — this pass was checked only against the existing content in this file. Cross-check against those documents directly before finalising the production schedule.
+- All ideas above are additive to, not replacements for, the June 2026 list — nothing above duplicates a working title already listed.

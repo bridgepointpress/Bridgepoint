@@ -184,3 +184,57 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — August 2026
+
+Ran a fresh trending-topics pass (web research on guitar/YouTube search behaviour, adaptive gear, and short-scale market positioning) and cross-checked against the sections above to avoid repeats. The Bridge and Baseline v10 spreadsheet was not found in this repo, so this pass was cross-checked against this file only, not the live backlog — worth reconciling against the spreadsheet before scheduling.
+
+### What's Trending Now
+
+- **Adaptive gear is having a quiet market moment.** Silicone finger caps and Velcro-strap picks are showing up more in general guitar-help content (used for arthritis, muscular dystrophy, and carpal tunnel alike), but almost no one is reviewing them with a calm, price-tiered lens instead of a "life hack" tone. Clear gap this channel is positioned to fill.
+- **Lapsed/returning players are a named, sizeable segment.** Industry data puts roughly 20% of lapsed players aged 40–60 as actively returning to guitar. The channel already speaks to "keep playing when life gets busy" (staying consistent) but hasn't yet addressed the distinct entry point of "picking it back up after years away."
+- **Short-scale is shedding its "beginner toy" stigma industry-wide** — coverage now shows working pros using short-scale electrics and basses as first-choice instruments, not compromises. The channel already treats short scale as a legitimate ergonomic choice; this is a chance to ride the credibility shift explicitly, ahead of it becoming a saturated talking point.
+- **AI-driven practice/coaching apps are the current gear-hype wave** (real-time playing analysis via phone camera, "virtual coach" framing). No-hype, plain-price evaluation of these fits the channel's editorial stance and would stand out against hype-heavy coverage elsewhere.
+- **Shorts performance still rewards a near-instant hook** (attention lost inside ~2 seconds if it doesn't land) — a format note for cutting existing before/after clips, not a new video topic.
+
+### New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Adaptive Gear Tested: Finger Caps and Velcro Picks** | Fingertip pain or weak grip makes fretting or picking painful enough that a session gets cut short | Gear evaluation, adaptive | Free: reposition grip, rest between phrases · Affordable (£5–20): drugstore finger cots, basic Velcro-strap pick · Quality upgrade (£25–100): purpose-made silicone finger caps, adaptive pick brands · Premium (£100+): occupational-therapy-guided custom grip support |
+| **Coming Back to Guitar After Years Off** | The guitar feels harder than it used to — but the guitar drifted, the skill didn't disappear | Setup audit / baseline reset | Free: tuning and neck-relief eyeball check · Affordable: fresh strings, nut lubricant · Quality upgrade: professional setup or a feeler-gauge kit to do it yourself · Premium: refret or nut replacement if it's genuinely drifted that far |
+| **Short-Scale Guitars Aren't Beginner Guitars Anymore** | Adult players assume short scale signals "starter," so they stay on a full-scale instrument that doesn't fit them | Perception explainer + gear | Free: measure your own reach against what you already own · Affordable: budget short-scale models (see Short Scale doc) · Quality upgrade: branded short-scale electric or 3/4 acoustic · Premium: pro-spec short-scale instrument |
+| **The Partial Capo: One Tool, a Dozen Songs You Thought Were Off-Limits** | A specific chord shape is physically inaccessible, and that gets read as "this song is off-limits" | Adaptive technique + tool | Free: open-tuning experiments with a regular capo · Affordable (£8–15): dedicated partial capo · Quality upgrade: a small set for different keys · Premium: luthier nut modification for permanent partial-capo-style access |
+| **AI Guitar Coaching Apps: Useful, or Just Another Screen?** | New "AI coach" apps promise real-time correction; unclear if they help or add friction between player and instrument | No-hype tech evaluation | Free: free tier of an app / phone camera self-review · Affordable: low-cost app subscription · Quality upgrade: paid pro tier with structured feedback · Premium: hardware-based real-time pitch/timing tracker |
+| **Small Hands, Short Scale: The Reach Problem Nobody Names** | Standard scale length assumes a hand span not everyone has; reaching frets 1–4 causes wrist strain regardless of skill level | Ergonomics / hardware | Free: reposition thumb and wrist angle · Affordable: lighter strings to ease left-hand tension · Quality upgrade: short-scale instrument swap · Premium: custom-scale build |
+
+### Gaps and Underexplored Angles (New)
+
+1. **Adaptive gear reviews** — finger caps, Velcro picks, and similar products are being discussed elsewhere in "life hack" tone, not evaluated in a calm, priced, Fix Ladder format. Direct fit, currently unfilled.
+2. **The "returning after years away" entry point** — distinct from "staying consistent despite a busy life," and backed by a named, sizeable audience segment (lapsed 40–60 players). Currently unaddressed.
+3. **Riding the short-scale credibility shift** — the "toy" stigma is fading channel-wide across the industry right now; an explicit explainer video has a shrinking window before this becomes common talking-point content.
+4. **AI practice tools as an editorial evaluation, not a demo** — the channel's no-hype stance is well suited to being the calm counter-voice to a wave of AI-coach hype content.
+
+### Titles, Hooks & Thumbnails
+
+**"The Adaptive Gear Nobody Tells You About: Finger Caps and Velcro Picks Tested"**
+- Hook: "None of this costs more than a single setup appointment."
+- Thumbnail: close-up hand mid-chord wearing a finger cap, small price callout
+
+**"Coming Back to Guitar After Years Off? Start Here."**
+- Hook: "It's not your hands. It's what the guitar did while you were gone."
+- Thumbnail: guitar case opening, dust visible, no hype framing
+
+**"Short-Scale Guitars Aren't Beginner Guitars Anymore"**
+- Hook: "The pros stopped treating short scale as a downgrade."
+- Thumbnail: full-scale vs. short-scale side by side, plain comparison
+
+**"The Partial Capo: One Tool, a Dozen Songs You Thought Were Off-Limits"**
+- Hook: "If a chord shape hurts, change the shape — not the ambition."
+- Thumbnail: capo on two strings only, hand mid-chord
+
+### If No New Opportunities Had Emerged
+
+Not applicable this pass — four distinct, previously uncovered angles surfaced (adaptive gear reviews, the returning-player entry point, the short-scale credibility shift, and AI coaching tool evaluation), none of which duplicate the ideas already logged above.

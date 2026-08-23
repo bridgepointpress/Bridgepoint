@@ -184,3 +184,60 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 23 August 2026
+
+*This section is additive. Nothing above has been changed. Ideas below avoid duplicating topics already logged (carpal tunnel, silent practice, humidity/seasonal drift, luthier vs. DIY, one-handed/Django, short-scale sizing) and instead extend into adjacent, currently underexplored territory.*
+
+## Trending Topics & Keywords (new findings)
+
+- **"90% of beginners quit within the first year"** — a hard, citable stat with a strong emotional hook for this audience; nobody in the guitar-YouTube space frames setup as the retention fix
+- **Slide / open-tuning as a fretting-free approach** — open D or open G tuning with a slide removes fretting-hand joint load almost entirely; well-documented in guitar-health writing but essentially absent from mainstream setup channels
+- **Thumb-over-neck positioning for thumb-joint pain** — a small, specific adjustment (resting the thumb over the top of the neck rather than behind it) that changes mechanical load; niche but exactly the kind of "no one else covers this precisely" content this channel is built for
+- **"Getting back into guitar after years off"** — steady, evergreen search category; existing content is generic ("practice a little every day") with no setup-first angle
+- **NAMM 2026 budget-tier releases** — Harley Benton's 2026 drop includes new colourways and sub-£250 all-solid acoustics; worth a look for Fix Ladder premium-tier alternatives, though nothing yet warrants a dedicated review on its own
+- **YouTube Shorts algorithm note (2026):** Shorts now reach almost exclusively viewers who already watch Shorts, and staggering releases 10–14 days apart outperforms batch-posting — relevant to how the before/after Shorts clips already planned should be scheduled, not just filmed
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Why 90% of Beginners Quit (And It's Not What You Think)** | New and returning players assume they lack discipline when they stop playing | Reframes drop-off as friction accumulation, not a willpower failure; positions setup as the retention lever | Free: 5-min self-check for the top 3 friction points · £5–20: nut lubricant + fresh strings · £25–100: professional setup · £100+: instrument better matched to the player |
+| **Slide Guitar Without the Fretting: An Open-Tuning Starting Point** | Fretting-hand joint pain makes standard chord shapes unsustainable on bad days | Introduces open D/G tuning and slide technique as a legitimate, permanent playing approach — not a fallback | Free: retune to open G, use a kitchen knife or lighter as a test slide · £5–20: glass or brass slide · £25–100: dedicated slide guitar setup (raised nut/action) · £100+: a second guitar kept permanently in open tuning |
+| **The Thumb Position Nobody Shows You** | Thumb-joint pain from the standard behind-the-neck grip | One specific mechanical adjustment (thumb resting over the top of the neck) demonstrated close-up, with the load change explained | Free: reposition and reassess in one session · £5–20: nothing needed · £25–100: neck profile / action tweak to support the new position · £100+: guitar with a slimmer or flatter neck profile |
+| **Coming Back to Guitar After 10, 20, 30 Years** | Returning players assume their old guitar (and old setup standards) still fit them | Baseline-and-measure applied to a returning player: reassess the instrument against the player's current hands, not who they were decades ago | Free: full re-baseline of action, relief, intonation on the existing guitar · £5–20: fresh strings, lighter gauge · £25–100: setup adjustment for current hand strength · £100+: replacement instrument if the gap is too large to close |
+| **The Guitar You Put Down and Never Picked Back Up** | A guitar sitting unplayed in a case or corner, associated with guilt rather than opportunity | Companion piece to the returning-player video; walks through triaging a long-idle instrument before judging whether the player "failed" at guitar | Free: dust off, retune, inspect for warping/humidity damage · £5–20: strings, cloth, capo · £25–100: setup reset · £100+: decide whether to restore or replace |
+| **What Changes in Your Hands Actually Do to Your Playing** | Vague sense that "guitar got harder" without knowing why | Explainer connecting specific physical changes (grip strength, joint flexibility, dexterity) to specific guitar symptoms (buzz tolerance, barre difficulty, fatigue) — diagnostic, not medical | Free: self-assessment checklist · £5–20: lighter strings · £25–100: setup matched to current grip strength · £100+: short-scale or lighter-bodied instrument |
+| **Shorts Playlist: 30-Second Before/Afters, Properly Spaced** | Not a viewer-facing video — a production/scheduling note | Applies the 2026 Shorts algorithm finding (stagger releases 10–14 days apart rather than batch-posting) to the existing library of before/after clips already planned across other videos | N/A — internal planning note, not a Fix Ladder video |
+
+## Content Gaps and Underexplored Angles (new)
+
+1. **Retention framing** — no existing video explicitly addresses *why players quit* and reframes it as a friction problem rather than a discipline problem. The "90% quit in year one" stat is a strong, citable anchor and fits the channel's thesis exactly.
+2. **Slide/open-tuning as a first-class adaptive strategy** — currently absent from the backlog entirely, despite being one of the most complete fretting-free approaches available. Complements the existing one-handed/Django material without overlapping it.
+3. **Returning players as a distinct segment** — distinct from both "beginners" and "arthritis" framing; these are players whose hands and life circumstances changed since they last played, and whose old assumptions about their guitar no longer hold. No existing video speaks to this specifically.
+4. **Micro-adjustments to hand position** (thumb-over-neck and similar) — smaller and more specific than a Fix Ladder hardware change, but exactly the kind of precise, rarely-covered detail that builds credibility with this audience.
+
+## Titles, Hooks & Thumbnail Concepts (new)
+
+**1. "Why 90% of Beginners Quit Guitar (It's Not Discipline)"**
+- Hook: "Nobody quits because they're lazy. They quit because something never stopped hurting or never stopped being hard."
+- Thumbnail: Simple stat callout — "90%" — over a guitar in a case with dust on it
+
+**2. "Slide Guitar: The Fretting-Free Way to Keep Playing"**
+- Hook: "No fretting hand pressure. No barre chords. Still real guitar."
+- Thumbnail: Close-up of slide on strings, open tuning label overlay
+
+**3. "The One Thumb Adjustment That Changed Everything"**
+- Hook: "Same guitar, same chord, different thumb position."
+- Thumbnail: Split close-up — thumb behind neck vs. thumb over neck
+
+**4. "I Hadn't Played in 20 Years. Here's What Had Actually Changed."**
+- Hook: "It wasn't the guitar that changed. It was me — and the guitar needed to catch up."
+- Thumbnail: Older guitar case being opened; dated sticker or tag visible
+
+## Confirmation
+
+New opportunities did emerge this cycle — four video concepts and four content-gap notes above, none overlapping the existing backlog. No changes were made to any content logged before this section.

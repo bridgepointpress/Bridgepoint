@@ -184,3 +184,51 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 24 August 2026
+
+This update checks current search and trend signals against the June 2026 research above and adds only what's new. Ideas already listed above (fret buzz, neck relief, carpal tunnel, silent practice, luthier-vs-DIY, humidity, one-handed playing) are not repeated here — see that section for Fix Ladder detail on those.
+
+## New Trending Signals Since Last Pass
+
+- **Fingerboard/neck width, not just scale length** — coverage of high-profile players (e.g. Keith Richards moving to a wider fingerboard for arthritis) is surfacing width as a separate variable from scale length. The June research covered short-scale bodies thoroughly but treated neck width as part of that same conversation. It isn't — a short-scale guitar can still have a narrow, cramped neck. This is a clean, previously-unaddressed gap.
+- **Alternate tunings as a pain-reduction fix** — DADGAD, open G, and similar tunings that reduce the finger stretch needed for common chord shapes are getting search and forum traffic as an arthritis-adjacent topic, but always framed as a "sound" choice, never as an ergonomic one. No existing channel content frames tuning choice as a Fix Ladder item (free — it costs nothing but a retune).
+- **Slide/bottleneck playing as an adaptive strategy** — for players whose finger joints can no longer manage fretting pressure at all, slide eliminates fretting hand strain entirely. This sits at the far end of "Playing Through It" and hasn't been scripted.
+- **Thumb-over-neck technique and thumb-base arthritis** — thumb CMC joint arthritis is common and mechanically distinct from finger-joint arthritis; adjusting thumb position changes the load path. Underexplored even in the existing Playing Through It backlog, which is finger- and wrist-focused (carpal tunnel, trigger finger, neuropathy) but hasn't addressed the thumb joint specifically.
+- **AI-driven practice/posture coaching apps** — real-time phone-camera feedback tools are a 2026 trend in general guitar content. Relevant to this channel only if evaluated through the Mode 2 checklist (does it reduce friction, or is it gear-hype?) — flagged here as a candidate for evaluation, not yet a video.
+- **Smaller-bodied guitars for smaller-framed adults** — search and retailer content increasingly frames compact bodies (e.g. Yamaha JR2-class instruments) as a fit solution for adults under roughly 5'2", not just as scale-length shorthand. Body depth and lower bout width are the actual variables, distinct from scale length or neck width. A body-fit angle the channel hasn't taken directly.
+
+## New Video Ideas
+
+| # | Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|---|
+| 1 | **Neck Width Is Not Scale Length (And Nobody Explains the Difference)** | Players chase short-scale guitars for arthritis relief and still find the neck cramped, because width — not length — was the actual problem | Explainer + measurement comparison | Free: measure your current neck width with a ruler / £15: nut width gauge / £60–90: aftermarket neck or width-focused used guitar shopping / £150+: custom or boutique wide-neck build |
+| 2 | **Retune, Don't Reach: Alternate Tunings as a Pain Fix** | Standard-tuning chord shapes demand stretches that hurt on a bad hand day | Technique/approach — reframes tuning as ergonomics, not genre | Free: DADGAD or Open G by ear / £0–5: printable chord chart for the new tuning / £15: dedicated tuner pedal to make retuning fast / £30+: second guitar kept permanently in an easier tuning |
+| 3 | **Slide Guitar for Hands That Can't Fret Anymore** | Some players reach a point where fretting pressure itself is the barrier, not just difficulty | Technique — zero-fretting-pressure adaptive strategy, Playing Through It extension | Free: finger-position slide technique with existing guitar / £10–15: budget glass or brass slide / £30: raised-nut slide setup or dedicated slide nut / £100+: dedicated resonator or lap-style instrument |
+| 4 | **Thumb Pain and the Guitar: Why It's Different From Finger Arthritis** | Thumb-base (CMC joint) arthritis changes how the fretting hand should grip, and it's mechanically distinct from the finger-joint content already in Playing Through It | Technique + setup — thumb-over vs. thumb-behind-neck load comparison | Free: thumb position experiment, filmed before/after / £10: thumb brace or taping method / £25: lower-tension string set to reduce required grip force / £60–90: neck profile change (guitar swap or professional reshaping) |
+| 5 | **Is Your Guitar Just Too Big? The Body-Fit Check Nobody Does** | Smaller-framed adults are told to buy a "beginner" guitar, not a "properly sized" one, and end up fighting the lower bout and reach to the strap button | Setup/fit — extends the existing short-scale conversation into body depth and lower-bout width specifically | Free: seated-position self-check (does your strumming elbow clear the bout?) / £0: adjust strap length and seating angle first / £25: parlour or travel-size rental/trial before buying / £150+: right-sized guitar purchase, framed as a fit decision not a "beginner" downgrade |
+| 6 | **AI Practice Apps: Do They Actually Reduce Friction? (Honest Test)** | New AI-coached practice apps promise real-time correction, but it's unclear whether they solve a real friction point for this audience or just add screen time | Evaluation piece — run through Mode 2-style scrutiny on camera | Free tier app trial / £5–10/mo subscription tier / comparison against a £0 mirror-and-metronome baseline — the video's honest answer may be "the free method wins," which is itself on-brand |
+
+## Content Gaps Confirmed by This Pass
+
+1. **Neck/fingerboard width as its own variable** — highest-priority new gap. The channel has strong short-scale and body-size content but has never isolated width from length, and outside content conflates the two constantly.
+2. **Tuning choice as an ergonomic decision** — a genuinely free fix that's never been framed as one; low production cost, high relevance.
+3. **Thumb-specific joint pain** — Playing Through It has covered carpal tunnel, tendinitis, trigger finger, one-handed playing, neuropathy, and posture, but not the thumb base specifically, despite it being one of the most common arthritis sites.
+4. **Slide guitar as a last-resort adaptive strategy** — a natural, high-empathy endpoint for the Playing Through It series that hasn't been scripted.
+
+## Titles, Hooks, and Thumbnail Concepts for the Top Two
+
+**"Neck Width Is Not Scale Length (And Nobody Explains the Difference)"**
+- Hook: "You bought the short-scale guitar. Your hand still hurts. Here's what you actually needed to measure."
+- Thumbnail: two guitar necks laid side by side, calipers on the nut, no faces, a single measurement callout
+
+**"Retune, Don't Reach: Alternate Tunings as a Pain Fix"**
+- Hook: "The easiest fix for a hard stretch isn't a stronger hand. It's a different tuning."
+- Thumbnail: standard chord shape vs. DADGAD shape for the same chord, hand visibly more relaxed in the second frame, £0 callout
+
+## Confirmation
+
+New opportunities did emerge this pass — six ideas above, anchored by two genuinely new gaps (neck width as distinct from scale length, and tuning choice as an ergonomic fix) that the June research didn't surface. Recommend sequencing the neck-width video first: it's a £0–15 production, extends an already-planned topic area (short-scale guitars) without duplicating it, and closes the highest-confidence gap.

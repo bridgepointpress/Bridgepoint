@@ -184,3 +184,106 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 25 August 2026
+
+*Builds on the June 2026 report above rather than repeating it. Cross-checked against the existing PTI, Setup Basics, Silent Practice, Ergonomics, Budget Rescue, Practice Systems, and PM Player lists — every idea below is a new angle, not a restatement.*
+
+---
+
+## Trending Topics & Keywords (What's Moved Since June)
+
+- **"Guitar tuning pegs hard to turn"** — steady forum and search presence, entirely unaddressed by the channel so far; distinct friction point from fretting-hand content
+- **"Reading guitar tab, eyes getting worse"** — presbyopia-adjacent search language rising alongside the channel's core 35–65 demographic; near-zero dedicated guitar content
+- **"Guitar for menopause joint pain"** — emerging wellness-adjacent search term; distinct hormonal mechanism from arthritis, currently unaddressed anywhere in guitar content
+- **"Guitar strap hurts shoulder putting it on"** — search language distinct from "strap height while playing" (already covered in June); this is about the lift/sling motion, not the playing position
+- **"Returning to guitar after 20 years"** — comeback-specific search phrasing trending steadily; different emotional hook than general beginner-over-50 content
+- **"Left handed guitar restring right handed"** — small but consistent search volume; a persistently underserved niche-within-niche
+- **"Best fret size for arthritis"** — jumbo vs. vintage fret wire discussion growing in forums; almost no beginner-accessible video content connects fret size to fretting pressure
+
+---
+
+## New Video Ideas
+
+### Right Hand & Grip (Unaddressed gap — everything scripted or planned so far is fretting-hand focused)
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **Why Turning Your Tuning Pegs Hurts (And What to Change)** | Stiff geared tuners demand pinch-and-twist force that's disproportionate to the task | Free: lubricate the gear with a drop of tuner oil · £8–15: swap to a lower-ratio or wider-knob tuner · £30–60: locking tuners, fewer winds needed · £100+: full tuner set upgrade |
+| **Holding the Pick Without Holding On Tight** | Grip fatigue or reduced pinch strength makes standard flatpicking exhausting | Free: adjust pick angle and grip point · £5–10: try a wider or textured pick · £20–40: thumb pick as a permanent alternative, not a stopgap · £80+: adaptive pick-holding accessories |
+
+### Vision & Reading (New — ties the channel's PM "clarity of information" thread to a physical-comfort angle)
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **Tab You Can Actually Read: Fixing Guitar Content for Aging Eyes** | Standard tab and chord charts assume younger eyesight; players strain or give up before the music does anything wrong | Free: change app font size and contrast settings · £0–10: large-print chord chart printouts · £15–30: a basic music stand light · £30+: tablet-based practice with adjustable display |
+
+### Seated Ergonomics (New — distinct from June's strap-height-while-playing content)
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **The Lift, Not the Playing: Why Putting the Guitar On Hurts** | The sling-on motion loads the shoulder differently than sustained playing position; often the real source of "playing hurts my shoulder" complaints | Free: change the lift sequence (seated sling-on vs. standing swing-on) · £10–20: wider, padded strap · £25–50: strap locks positioned for an easier angle · £80+: guitar stand placed to remove the lift entirely for practice sessions |
+
+### Hardware & Fret Fixes (New — Quality/Premium tier content, currently thin in the backlog)
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **Fret Size and Fretting Pressure: The Upgrade Nobody Explains** | Low, narrow vintage-style frets need more finger pressure for a clean note than taller, wider fret wire | Free: identify current fret size, no cost to know where you stand · £0: technique adjustment (finger placement closer to the fret) · £150–300: a professional refret with jumbo wire · Premium: a second guitar built with fretting ease as the starting spec |
+
+### Life-Stage Angles (New — currently the channel's demographic language is broad; these narrow it usefully)
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **Picking the Guitar Back Up After 20 Years** | The comeback player's hands, hearing, and expectations have all changed since they last played, and nothing about the instrument has caught up | Free: reset expectations against the current baseline, not the old one · £10–20: fresh strings, the guitar has aged too · £40–80: a setup check, most stored guitars have drifted · £100+: consider whether the original guitar still fits, or whether a shorter scale suits present-day hands |
+| **Guitar and Joint Changes That Aren't Arthritis** | Hormonal joint and tendon changes (documented in perimenopause and menopause) produce similar friction to arthritis but from a different mechanism, and get lumped in incorrectly or ignored | Free: the same neck-relief and action checks as Episode 1, the fix doesn't care about the cause · £10–20: lighter strings · £30–60: a proper setup · Premium: capo systems and shorter scale, same options as PTI Ep 1, reframed for a distinct audience segment |
+| **Restringing a Right-Handed Guitar for Left-Handed Play** | Left-handed players are often sold a right-handed instrument by default, then told to just adapt | Free: string order and nut slot reality check, not everything needs a physical change · £15–25: a nut file or replacement nut cut for reversed string gauge · £50+: a proper left-handed setup at a luthier · Premium: a purpose-built left-handed instrument |
+
+### Shorts-First Ideas (New — the June report noted before/after moments make good Shorts cut-downs; these are built as standalone Shorts rather than cut-downs)
+
+- **"The 10-second tuning peg fix"** — one drop of oil, audible/visual difference in turning resistance
+- **"This is not a compromise" series** — single-shot, no narration beyond one line, showing a partial capo, thumb pick, or lighter strings in use, closing on the channel's core thesis line
+- **"Guess the fret size" — a 15-second visual quiz** cutting to the pressure difference, driving curiosity toward the full fret-size video
+
+---
+
+## Content Gaps and Underexplored Angles (New, Beyond the June List)
+
+1. **Right-hand and picking-hand friction** — the entire existing backlog (June list and PTI series) addresses fretting-hand and whole-hand conditions; picking-hand grip, pick control, and strumming-hand fatigue have no dedicated coverage. Meaningful gap given how much playing time is picking-hand work.
+2. **Vision changes** — a 35–65 audience is, by definition, moving through presbyopia onset. No guitar content connects reading friction to the channel's core "friction is solvable" thesis.
+3. **Hormonal joint change as distinct from arthritis** — currently the channel's only joint-health framing is arthritis (PTI Ep 1). Naming the distinction (without diagnosing) opens a segment of the audience who don't currently see themselves in existing content.
+4. **The comeback player specifically** — the channel speaks broadly to "adult guitarists 35–65," but the returning-after-a-long-gap player has a distinct emotional entry point (nostalgia, self-judgment about lost skill) that a dedicated video could serve better than general framing.
+5. **Left-handed players** — a persistent, if smaller, underserved segment; currently absent from the backlog entirely.
+6. **Hardware-level fixes (fret size, tuner mechanism)** — most Quality/Premium tier content so far clusters around setup and strings; fret wire and tuner mechanism upgrades are unexplored Premium-tier territory that would round out the Fix Ladder at the top end.
+
+---
+
+## High-Potential Titles, Hooks & Thumbnails
+
+### 1. "Why Turning Your Tuning Pegs Hurts (And What to Change)"
+- **Hook:** "You checked your action and your strings. You didn't check the one part you touch every single time you tune up."
+- **Thumbnail:** Close-up hand on tuning peg, subtle strain visible; £0 callout for the oil fix
+
+### 2. "Tab You Can Actually Read: Fixing Guitar Content for Aging Eyes"
+- **Hook:** "The chord chart isn't the problem. The eight-point font is."
+- **Thumbnail:** Split screen, standard tiny tab vs. enlarged version; no on-camera text needed
+
+### 3. "Guitar and Joint Changes That Aren't Arthritis"
+- **Hook:** "Same fix. Different cause. Here's why that distinction matters."
+- **Thumbnail:** Hands on neck, PTI series card styling, new episode number
+
+### 4. "Picking the Guitar Back Up After 20 Years"
+- **Hook:** "Your hands have changed. Your ear hasn't. Here's where to actually start."
+- **Thumbnail:** Dusty guitar case opening; warm, unhurried framing, no dramatic music implied
+
+### 5. "Fret Size and Fretting Pressure: The Upgrade Nobody Explains"
+- **Hook:** "Two guitars, same action, same strings. One takes half the effort. Here's why."
+- **Thumbnail:** Macro shot comparing fret heights side by side with a pressure-gauge overlay
+
+---
+
+## Confirmation Note
+
+No net-new trending topic emerged this cycle that overturns the channel's existing priorities — the June backlog (PTI series expansion, setup basics, silent practice) remains the highest-leverage work in progress. This update's contribution is filling structural gaps (right hand, vision, hardware-tier fixes, left-handed players, comeback and hormonal-joint audience segments) rather than replacing anything already planned.

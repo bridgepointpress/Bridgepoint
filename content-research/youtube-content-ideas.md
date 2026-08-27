@@ -184,3 +184,70 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 27 August 2026
+
+**Backlog cross-check:** Reviewed `Bridge_and_Baseline_Final_v7.xlsx`. Videos 1–8 (three-point setup, arthritis PTI, pawn shop rescue, barre chords, the $4,000 mistake, light strings, ergonomics for older players, PM identity video) are already planned or scripted — none of the ideas below repeat them. No v10 spreadsheet, Arthritis Checklist, Short Scale Guitars 2026, or Easier Play Guitars file was found in Drive under the Bridge and Baseline folder; this update relies on the v7 backlog and the June research file above. Flagging this so it can be corrected if those files live somewhere else.
+
+## Trending Topics & Keywords (new signal since June)
+
+- **Ergonomic-contour guitars going mainstream** — deep cutaways, arm/belly bevels, and headless designs (Strandberg, Kiesel, Aristides) are being framed industry-wide as comfort necessities, not boutique luxuries. Search interest is climbing but almost all coverage targets players who can spend £1,500+. Nobody is translating the *principle* (bevels and contours reduce strain) down to the Fix Ladder's budget and mid tiers.
+- **Headless and lightweight designs** — reduced neck-dive and overall weight are being marketed as ergonomic wins. Directly relevant to shoulder/back strain content already flagged as a gap in June.
+- **"Return to guitar after a break" / re-entry content** — steady, under-served search pattern distinct from "beginner" — this audience already knows how to play and doesn't want beginner framing.
+- **Long-form resurgence alongside Shorts-as-discovery** — 2026 platform data shows Shorts driving new-viewer discovery but long-form (15+ min) driving deeper loyalty and conversion; most channels in this growth stage run roughly 70/30 Shorts-to-long-form. Relevant to sequencing, not just topics (see Format Notes below).
+- **AI tuning / practice apps** — rising search volume around AI-assisted practice tools; largely unaddressed from a "does this actually reduce friction, or is it another thing to manage" angle, which is exactly this channel's lens.
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| **Ergonomic Guitars Cost £1,500. Here's What Actually Transfers to a £200 Guitar** | Boutique ergonomic guitars (Strandberg, Aristides) are marketed as the comfort answer, but most players can't justify the price | Explainer + demo: which specific ergonomic features (bevels, weight, neck profile) can be approximated on a budget instrument | £0 playing-position adjustment to mimic a bevel → £15 arm rest pad → £40–60 lighter tuners/weight reduction → £150+ pre-owned ergonomic-contour guitar | High — rides a real 2026 trend, budget-DIYer anchor, contrarian "you don't need £1,500" hook |
+| **Coming Back to Guitar After 10 Years: What's Actually Different** | Returning players get lumped in with beginners; the friction is re-entry, not learning from zero | Reframe: hands, calluses, and expectations have all changed — assess the new baseline before assuming old technique still applies | £0 re-baseline check (no purchase, just measurement) → £6 fresh strings → £25 nut/saddle check → £80 full setup | High — distinct emotional hook, underserved search term, strong PM "reassess the baseline" tie-in |
+| **Does an AI Tuning App Actually Help, or Is It One More Thing to Manage?** | Players are told to adopt new practice tech but nobody evaluates it against the channel's actual thesis: does it remove friction or add it | Honest trial across 2–3 apps against the "does this reduce friction" test, not a feature comparison | £0 free tier apps → £5–10 one-time app purchase → £30–50 dedicated hardware tuner/metronome → £100+ hardware practice rig | Medium-High — timely, differentiated angle (most tech reviews are feature lists, not friction audits) |
+| **The Bevel Test: Does Arm Comfort Actually Change How Long You Play?** | Boutique guitars sell arm/belly bevels as a comfort feature; nobody has measured whether it changes actual playing time or fatigue for an average player | Self-experiment format: measure playing session length and reported comfort with and without an armrest accessory | £0 towel/cushion under the arm → £12 clip-on armrest → £35 padded strap+rest combo → £150+ bevel-body guitar | Medium — novel experiment format, shareable, works well as a comparison/data video |
+| **Trigger Thumb and Guitar: The Condition Nobody in the PTI Series Has Covered Yet** | Trigger thumb (stenosing tenosynovitis) directly affects thumb-over-neck and pick grip but has zero dedicated guitar content | PTI-format: separate what the condition limits from what the setup can still fix | £0 grip/pick angle adjustment → £8 softer-gauge pick assortment → £25 thumb-friendly neck profile check/shim → £100+ guitar swap to slimmer neck | High — clear content gap, forum demand exists, extends PTI series with minimal new research |
+| **One Guitar for the Rest of Your Life: The Downsizing Video** | Players accumulate guitars trying to solve friction by buying, not fixing; nobody addresses the moment of choosing to consolidate | PM-lens video: sunk cost, ROI per instrument, and how to pick the one guitar that serves every context (comfort, portability, sound) | Applies PM/decision-framework tools, not a Fix Ladder — cost is time spent evaluating, not money spent buying | Medium-High — strong shareability in PM communities, contrarian ("stop buying guitars") hook, low production cost |
+| **Shoulder Strain and Headless Guitars: Is the Hype Deserved?** | Headless/lightweight guitars are marketed as an ergonomic fix for shoulder and back strain; no one has tested this against a simple strap adjustment | Comparative test: strap-height fix vs. a genuinely lighter/headless instrument, same player, same session length | £0 strap height adjustment (revisit June's Strap Height Experiment) → £20 lighter strap/padding → £60 weight-reduction mods (locking tuners, lighter pickguard) → £400+ headless guitar | Medium — connects to existing June idea (Strap Height Experiment), tests a trending claim rather than repeating the strap video |
+
+## Content Gaps and Underexplored Angles (new this update)
+
+1. **Translating boutique ergonomic trends downward.** The whole 2026 guitar industry is talking about ergonomic contours and headless designs at premium prices. Nobody is asking "what of this actually matters, and can a budget player get any of it?" — this is squarely the channel's territory and nobody else is standing in it.
+2. **Re-entry players as a distinct persona from beginners.** Current channel framing (per the June doc) covers arthritis, budget DIY, and comfortable players, but not the specific friction of *returning* after years away — different calluses, different expectations, different emotional relationship to "I used to be better at this."
+3. **Trigger thumb / stenosing tenosynovitis.** A clear, near-zero-competition PTI gap alongside the carpal tunnel and neuropathy episodes already planned in June.
+4. **Consolidation / "stop buying guitars" content.** The channel has covered budget rescue and premium-vs-budget comparisons, but never addressed the PM instinct to simplify rather than acquire — a natural, low-cost, high-shareability video.
+5. **Claim-testing format.** Several ideas above (the bevel test, headless-vs-strap) test marketed claims empirically rather than just explaining a fix — this is a new format variant worth testing once, not a wholesale pivot.
+
+## Titles, Hooks & Thumbnail Concepts
+
+**1. "Ergonomic Guitars Cost £1,500. Here's What Transfers to Yours for £20."**
+- Hook: "The comfort isn't in the price tag. It's in about three specific things."
+- Thumbnail: £1,500 boutique guitar next to a budget guitar, red circle on the one shared feature (arm bevel/rest)
+
+**2. "Coming Back to Guitar After 10 Years"**
+- Hook: "Your hands aren't the same. Neither is your guitar. Start there."
+- Thumbnail: Dusty guitar case being opened; no text needed beyond title
+
+**3. "Trigger Thumb and Guitar: What Actually Helps"**
+- Hook: "It's not your grip. It's the angle you're asking your thumb to hold."
+- Thumbnail: Close-up thumb position on neck, PTI series card with episode number
+
+**4. "I Tested Whether an Armrest Actually Changes How Long You Play"**
+- Hook: "Same guitar. Same me. One variable changed."
+- Thumbnail: Stopwatch overlay on two identical playing setups, one with armrest
+
+**5. "Why I Stopped Buying Guitars"**
+- Hook: "Twenty years of managing projects taught me the sunk-cost trap. It applies here too."
+- Thumbnail: Row of guitar cases with one circled; simple, text-light
+
+**6. "Is a Headless Guitar Actually Better for Your Shoulder? I Tested It Against a £15 Strap Fix."**
+- Hook: "One of these costs £400. One costs £15. Only one of them is necessary for most players."
+- Thumbnail: Headless guitar vs. strap pad, price callouts on each
+
+## Format Notes (new this update)
+
+- 2026 platform data favours a roughly 70% Shorts / 30% long-form mix for channels at this growth stage, shifting toward 50/50 as the audience establishes — worth factoring into how new ideas above get sequenced and cut down, not just what gets filmed.
+- The "claim-testing" format (bevel test, headless-vs-strap) is new to the channel; if it performs well it's a repeatable template for future trend-translation videos without becoming the whole channel identity.
+- No major new opportunities emerged this update beyond the ergonomic-trend and re-entry-player angles above — the June research file's backlog (carpal tunnel, humidity/seasonal, silent practice, PM series) remains the primary well and should still be worked through before reaching for these newer ideas.

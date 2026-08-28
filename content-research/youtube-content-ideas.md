@@ -184,3 +184,65 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 28 August 2026
+
+**Sources checked this pass:** the June research above, the production spreadsheet (`Bridge_and_Baseline_Final_v7.xlsx`, 51 videos across 10 phases including the 7-episode "Playing Through It" series), and fresh web research on guitar/arthritis search trends, adaptive accessories, and 2026 YouTube algorithm behaviour.
+
+## Progress Check: June Ideas vs. Current Backlog
+
+Good news first — several June proposals have since been formalised into the production plan, so they're no longer gaps:
+- Luthier vs. DIY decision → now Video 33, *"Guitar Setup: When to DIY and When to Pay Someone Else"*
+- One-handed/limb-different playing (Django, etc.) → now Video 35/50, *"One-Handed and Adaptive Guitar: What's Actually Possible"*
+- Guitar/hand-size mismatch → now Video 43, *"The Small Fret Problem"*
+- Flare-day playing → now Videos 10 and 45, both scripted into the series
+- Cross-training (mandolin, banjo) → Phase 8, four videos
+
+**Still an open gap, unchanged since June:** the *Playing Through It* series as currently scoped (7 episodes) never gives carpal tunnel, tendinitis, trigger finger, neuropathy, or shoulder/neck strain their own dedicated episode — they're only named in passing in the series-intro mission copy. This is the single highest-priority gap carried forward. Arthritis has two full episodes; these five conditions, each with real search demand and a genuinely different mechanism, have zero.
+
+## New Trending Signals (since June)
+
+- **Adaptive grips and picks** are getting renewed attention in accessibility/music-therapy coverage this year — thumb-loop picks, Velcro-strap picks, and contoured grips for reduced hand mobility. No channel treats these as a proper Fix Ladder comparison; most coverage is clinical/therapy-adjacent, not guitarist-to-guitarist.
+- **Assisted one-handed playing tech** (e.g. exoskeleton/automated chord-forming attachments) is showing up in disability-tech press. Too niche and unproven for a Fix Ladder tier on its own, but worth a 30-second mention in the one-handed episode as "here's where this is headed" — keeps the channel current without chasing a gadget review.
+- **Algorithm/format note:** 2026 YouTube guidance leans harder on retention and repeat-view signals over raw length, and rewards channels with a consistent, recognisable visual identity. This supports the channel's existing Shorts-cutdown plan — the before/after measurement clips are exactly the retention-friendly, low-production format the algorithm favours right now. No format change needed, just a reason to keep cutting them consistently.
+- No major new competitor or search trend emerged that isn't already reflected in the June list (fret buzz, action height, and arthritis remain the dominant high-volume queries; nothing displaced them this cycle).
+
+## New Video Ideas Not Yet in the Backlog
+
+| Working Title | Friction | Fix Ladder Sketch |
+|---|---|---|
+| **Carpal Tunnel and Guitar: What Actually Helps** | Numbness/tingling from compression, not joint inflammation — needs different fixes than arthritis (wrist angle and strap height matter more than string gauge alone) | $0 wrist-neutral strap adjustment → $6 lighter strings → $25 nut/saddle comfort setup → $80+ ergonomic strap system |
+| **Tendinitis: Playing Without Making It Worse** | Fear of playing at all vs. active management | $0 warm-up protocol + shorter sprints → $6 lighter strings → $30 partial capo → $80 setup kit to cut required finger pressure |
+| **Trigger Finger and the Guitar** | Near-zero existing YouTube content; high forum signal | $0 technique/angle adjustment → $15 thumb-loop or Velcro pick → $25 nut comfort setup |
+| **Neuropathy: When Fingers Go Numb** | Reduced feedback from the strings, not reduced desire to play | $0 lower action check → $6 heavier-gauge strings for more tactile feedback (inverse of the usual advice — worth flagging as a deliberate exception) → $30 partial capo |
+| **Shoulder and Neck Pain from Playing** | Often read as a technique failure when it's a strap-height/setup problem | $0 strap height experiment → $15 wider strap → $80 guitar support system (Ergoplay-type) |
+| **Adaptive Picks and Grips, Compared** | Reduced grip strength or dexterity makes standard picks a source of drops and fatigue, not just imprecision | $0 technique adjustment (thumb-over grip) → $5 thumb-loop pick → $12 Velcro strap pick → $25 contoured ergonomic set |
+
+## Content Gaps (Updated Priority Order)
+
+1. **The five named-but-unscripted conditions** (carpal tunnel, tendinitis, trigger finger, neuropathy, shoulder/neck) — highest priority; the series mission promises this coverage and hasn't delivered it yet.
+2. **Adaptive picks/grips as their own Fix Ladder video** — sits at the intersection of the budget and arthritis/limited-mobility audiences; nobody in the niche treats it as a proper comparison.
+3. Everything flagged as a gap in June (humidity/seasonal drift, intonation, guitar support systems, heavy-guitar back strain, parlour vs. dreadnought fit, viewer-rescue format) remains open and still worth scheduling — see June list above for detail.
+
+## Titles, Hooks & Thumbnails for the Highest-Potential New Ideas
+
+**"Carpal Tunnel and Guitar: What Actually Helps"**
+- Hook: "This isn't arthritis, and it isn't fixed the same way."
+- Thumbnail: wrist at guitar-playing angle with a simple neutral-vs-bent overlay; PTI series card
+
+**"Trigger Finger and the Guitar"**
+- Hook: "Almost nobody talks about this one — so here's what actually helps."
+- Thumbnail: close-up of a finger mid-catch on a string; PTI series card, episode number prominent
+
+**"Adaptive Picks and Grips, Compared"**
+- Hook: "The pick is the smallest part of your setup and the easiest one to get wrong."
+- Thumbnail: four picks laid out in a row with price tags; hand holding the winner
+
+**"Shoulder and Neck Pain from Playing (It's Probably Your Strap)"**
+- Hook: "Before you blame your technique, check your strap height."
+- Thumbnail: two side-by-side playing postures, strap height marked with a measurement line
+
+If no genuinely new opportunities had turned up this cycle, this section would say so directly — but the five-condition gap in the *Playing Through It* series and the adaptive-picks angle are both concrete, unscripted, and ready to move into the backlog.

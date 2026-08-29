@@ -184,3 +184,83 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 29 August 2026
+
+**Method:** Cross-checked against the Video List spreadsheet (46 scripted/planned videos across Phases 1–10) and the guitar_arthritis_script.docx already in the project drive, plus fresh web research, to avoid resurfacing ideas already in the backlog. The June 2026 research above still holds — carpal tunnel, tendinitis, trigger finger, and neuropathy remain unproduced and are still the single highest-priority gap on the channel (see Gaps, below). This update focuses on angles that weren't yet surfaced anywhere in the project.
+
+## Trending Topics & Keywords (new since June)
+
+- **Menopause and hand pain** — a distinct, hormonally-driven cause of joint stiffness and reduced grip in women 45–65 (falling oestrogen affects connective tissue and inflammation). Medical and lifestyle sites are actively publishing on this in 2026; guitar-specific content on it does not exist yet.
+- **Essential tremor and Parkinson's** — small but consistent volume in guitar forums ("can I still play with a tremor") going back years, with no dedicated, calm, non-clinical video answering it. Anchoring techniques (e.g. resting the little finger on the body while picking) and nylon-string/weighted-pick approaches surface repeatedly in patient forums but never in one place.
+- **YouTube's 2026 algorithm shift** — 2026 trend coverage confirms Shorts and long-form are scored separately, and Shorts success now depends almost entirely on the first three seconds and viewer satisfaction rather than raw watch time. This is a format note more than a video idea (see Format Notes).
+- **AI setup-diagnosis apps** — phone-camera and mic-based apps claiming to measure action, detect fret buzz, or suggest truss rod adjustments are a live 2026 trend. No independent, skeptical review exists from a setup-literate creator.
+- Carpal tunnel remains the top unaddressed search term from the June research — worth flagging again here because it is still not in the 46-video backlog under any title.
+
+## New Video Ideas
+
+### 1. Guitar and Menopause: The Hand Pain Nobody Warns You About
+- **Friction:** Grip strength and joint comfort change in perimenopause and menopause, but the guitar rarely gets mentioned in that conversation — women assume it's "just arthritis" or don't connect the two at all.
+- **Fix angle:** Naming the mechanism (hormonal, not just age or overuse), then applying the same low-friction setup package as the arthritis video, with the framing adjusted so it isn't just "the arthritis video again."
+- **Fix Ladder:** Free — check neck relief and nut slot depth, since morning stiffness makes small setup faults feel much larger; Affordable (£6–15) — lighter strings; Quality upgrade (£25–60) — professional nut/saddle setup; Premium (£100+) — short-scale or lower-tension guitar if hand strength is trending down over time.
+- **Adaptive relevance:** Fills a persona gap — this is the first idea in the project that names a hormonal, female-specific driver of hand friction rather than treating "aging hands" as gender-neutral by default.
+
+### 2. Can You Still Play Guitar With a Tremor?
+- **Friction:** Essential tremor or Parkinson's-related tremor makes fretting and picking harder to control, and players often assume this means stopping altogether.
+- **Fix angle:** Anchoring technique (resting the picking-hand pinky on the body), heavier/weighted picks for more predictable feedback, nylon strings for softer attack tolerance, and open tunings to reduce the number of moving parts per chord.
+- **Fix Ladder:** Free — anchor point technique + open tuning; Affordable (£5–15) — heavier or textured picks, a set of nylon or silk-and-steel strings; Quality upgrade (£25–60) — partial capo to simplify chord shapes; Premium (£100+) — short-scale nylon-string instrument.
+- **Adaptive relevance:** Extends the "One-Handed and Adaptive Guitar" video's philosophy (Video #35 in the backlog) into a condition that video doesn't cover. Same non-inspirational, proof-of-concept tone.
+
+### 3. Weighted and Textured Picks: A Fix Ladder for Grip, Not Tone
+- **Friction:** Standard thin picks are easy to drop or lose control of when grip strength or fine motor control is reduced — usually blamed on technique rather than the pick itself.
+- **Fix angle:** A short comparison video treating pick choice as an ergonomics decision, not a tone decision — directly counter-programmes the "best pick for tone" content that dominates this search.
+- **Fix Ladder:** Free — try a thicker pick you already own; Affordable (£3–10) — Dunlop Max-Grip or similar textured picks; Quality upgrade (£15–25) — weighted picks (e.g. Wedgie, Dunlop Primetone); Premium (£30+) — a pick-grip adaptive aid for players who can't maintain a standard three-finger hold at all.
+
+### 4. Best Capo for Reduced Grip or Tremor (2026 Comparison)
+- **Friction:** Standard capos require a pinch-and-clamp motion that's difficult with reduced grip strength, arthritis, or tremor — and most capo comparison content is about tone and tuning stability, not usability.
+- **Fix angle:** Comparison video scored specifically on one-handed clamp force and ease of placement: Kyser, G7th Performance, Shubb, Thalia. Genuinely affiliate-ready.
+- **Fix Ladder:** Free — none (this is a comparison of paid tools, so note that the Free tier here is "don't use a capo — retune instead," which is a legitimate answer); Affordable (£15–20) — Kyser Quick-Change; Quality upgrade (£25–40) — G7th Performance 3; Premium (£45+) — Thalia partial capo system for chord-shape simplification rather than full-neck clamping.
+
+### 5. I Tried the AI Guitar Setup App So You Don't Have To
+- **Friction:** New phone apps claim to detect fret buzz or measure action from the microphone or camera, and viewers researching setup naturally encounter these claims.
+- **Fix angle:** An honest, skeptical test against the feeler-gauge method already established as the channel's baseline tool — where the app is useful (a first-pass buzz check) versus where it isn't (it can't replace a physical measurement).
+- **Fix Ladder:** Frame as "what's actually worth paying for" rather than a traditional Fix Ladder — free app tier vs. £5–10/month subscription tier vs. the £12 feeler gauge that still does the core job better.
+- **Note:** Fits the Phase 7 (AI) slot in the backlog alongside "How I Use AI to Practice" and "Tabs vs AI" — same skeptical, friction-reduction lens rather than tech-hype framing.
+
+## Gaps and Underexplored Angles (confirmed and new)
+
+1. **Carpal tunnel, tendinitis, trigger finger, neuropathy** — still the single largest gap. All four were identified in June, none has been scripted or entered the 46-video backlog. Given how close these sit to the channel's highest-performing existing content (the arthritis video), this is the highest-ROI unproduced content on the channel.
+2. **Menopause-driven hand pain** — new gap. No existing script or backlog entry addresses a hormonal, gender-specific cause of hand friction; everything current is framed as age-neutral.
+3. **Tremor conditions (essential tremor, Parkinson's)** — new gap. The adaptive-playing philosophy already exists in the backlog (Video #35) but has never been applied to tremor specifically.
+4. **Grip-and-control accessories (picks, capos) evaluated for ergonomics rather than tone** — new gap. The backlog's gear content is either setup-tool-focused (feeler gauges, nut files) or absent on picks/capos as a comfort category.
+5. **Independent AI-tool skepticism** — new gap, time-sensitive to 2026. The backlog's AI videos (Phase 7) are about practice coaching; none addresses the new claim that AI can replace physical setup measurement, which the channel is well positioned to fact-check credibly.
+
+## Titles, Hooks & Thumbnail Concepts
+
+### "Guitar and Menopause: The Hand Pain Nobody Warns You About"
+- **Hook:** "If your hands feel different than they used to, and no one's mentioned menopause, this is that conversation."
+- **Thumbnail:** Hands on a guitar neck at a kitchen table, morning light, no text overlay beyond a small "PLAYING THROUGH IT" series bar.
+
+### "Can You Still Play Guitar With a Tremor?"
+- **Hook:** "The answer is yes. Here's what actually changes."
+- **Thumbnail:** Close-up of a picking hand anchored against the guitar body; PTI series card with episode number.
+
+### "Weighted Picks: A Fix Ladder for Grip, Not Tone"
+- **Hook:** "This isn't about your tone. It's about not dropping the pick."
+- **Thumbnail:** Four picks lined up by weight with a simple price callout under each.
+
+### "Best Capo for Reduced Grip or Tremor (2026 Comparison)"
+- **Hook:** "Most capo reviews are about tuning stability. This one's about whether you can actually clamp it on."
+- **Thumbnail:** Four capos side by side, one hand demonstrating one-handed placement.
+
+### "I Tried the AI Guitar Setup App So You Don't Have To"
+- **Hook:** "It got the buzz right. It got the fix wrong. Here's the difference."
+- **Thumbnail:** Phone propped against a guitar next to the feeler gauge, both mid-measurement.
+
+## Format Notes (new)
+
+- 2026 trend data confirms Shorts distribution now depends on the first three seconds and on-Shorts satisfaction more than watch time. The existing plan to cut before/after measurement moments into Shorts (noted in the June research) is well matched to this — no format change needed, but the cut should lead with the after-state or the felt difference in the first second, not a wind-up.
+- If no new opportunities had emerged this cycle the right move would have been to say so plainly — that wasn't the case here: menopause, tremor conditions, and ergonomic grip accessories were all confirmed as genuine, currently-empty gaps with real search and forum activity behind them.

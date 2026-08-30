@@ -184,3 +184,55 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 30 August 2026
+
+**Note:** The v10 backlog spreadsheet and the Charter, Arthritis Checklist, Short Scale Guitars, and Easier Play Guitars reference docs were not available in this environment, so the ideas below were checked against the June 2026 research above only (to avoid duplicating the "Playing Through It," Silent Practice, Setup Basics, and Budget Rescue lists already logged) and against current external search signal. Cross-check against the spreadsheet before scheduling.
+
+## Trending Topics & Keywords (external signal, August 2026)
+
+- **Ergonomic guitar brands** (Strandberg-type designs) — coverage volume is rising, but existing content skews toward professional/touring players; almost nothing addresses the 45–65 casual player with joint or comfort limitations. Confirmed gap from the June research is now backed by fresh search volume.
+- **Guitar chairs and stools** — "Best Guitar Chair" content is actively trending; current channel doc has this as an idea but not yet a fleshed-out comparison video.
+- **Nut width and neck profile as a distinct spec** — search results increasingly separate "scale length" from "nut width/neck profile" as the real driver of hand comfort. This is a sharper, more specific angle than the channel's existing "short scale benefits" framing.
+- **Budget short-scale models by name** (e.g. Taylor GS Mini-e, budget imports with sub-22" scales) — buyers are searching model-to-model comparisons, not just "short scale vs standard."
+- **Adaptive chord voicings** (first-inversion shapes, capo placed higher up the neck to shrink fret spacing) — external sources frame these as legitimate technique-level fixes, not just hardware fixes. The channel's backlog is currently hardware-heavy; this is a technique-first gap.
+- **Locking tuners / tuning stability upgrades** — distinct from the existing "why does my guitar go out of tune" diagnostic video; this is the hardware-upgrade follow-on once the diagnosis is done.
+
+## New Video Ideas
+
+| Working Title | Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Ergonomic Guitars: Worth It for a 50-Year-Old's Hands?** | Player has seen Strandberg-style guitars online but every review is aimed at shredders, not someone managing joint stiffness | Honest, non-hype test of an ergonomic body/neck design against a standard guitar, measuring reach and wrist angle | Free: adjust strap angle on current guitar to mimic ergonomic tilt · £15: wrist rest/guitar support · £80: used ergonomic-profile neck guitar · £400+: Strandberg-type model |
+| **Nut Width vs. Scale Length: Which One Actually Matters for Your Hands?** | Player has been told to buy "short scale" but the fret-reach problem doesn't fully go away | Explainer separating two specs that get conflated; measurable comparison across two guitars with same scale but different nut width | Free: measure your current nut width in 30 seconds · £0: try open chords on a borrowed narrow-neck guitar first · £25–100: aftermarket narrower nut (luthier work) · £100+: buy for nut width, not scale length |
+| **Three Budget Short-Scale Guitars, Measured Side by Side** | Budget DIYer wants a specific model recommendation, not a general "go shorter" rule | Named-model comparison video (e.g. a sub-£150 short-scale import vs. a GS Mini-class instrument), measured on action, nut width, and out-of-box setup quality | Free: n/a (comparison format) · £5–20: setup consumables needed out of the box · £25–100: budget short-scale model · £100+: quality-upgrade short-scale model |
+| **The Capo Trick Nobody Explains: Shrinking the Fretboard for Free** | Player finds open-position chords painful but doesn't know the fret spacing itself is the variable | Technique-first fix: placing a capo higher up the neck narrows fret spacing without touching the guitar | Free: capo you already own, placed at fret 5–7 · £10: dedicated partial capo · n/a for higher tiers — this is a technique fix, not a purchase ladder |
+| **First-Inversion Chords: Same Sound, Less Stretch** | Standard open-chord shapes demand a stretch some hands don't have on a given day | Technique video teaching first-inversion voicings as a permanent alternate vocabulary, not a fallback | Free: fingering charts, no purchase needed · optional: chord-shape reference card as a channel resource |
+| **Why Your Guitar Won't Stay in Tune (Hardware Edition)** | Player already knows about string age and nut binding (covered in the June setup-basics list) but the problem persists after those fixes | Follow-on hardware-upgrade video: locking tuners and their real-world impact, measured in cents of drift over a practice session | Free: check tuner post tightness · £8: graphite on the nut slots · £30–60: locking tuner set · £100+: full tuning-machine + nut replacement |
+| **The Guitar Chair Test: Kitchen Chair vs. Guitar Stool vs. Posture Stool** | Player has never questioned what they sit on, but posture affects both hand angle and session length | Comparison video measuring wrist angle and reported comfort across three seating options over a 15-minute session | Free: cushion + posture check on existing chair · £20–40: dedicated guitar stool · £80+: adjustable posture/ergonomic stool |
+
+## Gaps and Underexplored Angles (new, not previously logged)
+
+1. **Ergonomic guitar brands have no honest, non-touring-player review on the channel's radar.** The June doc flagged this as an emerging trend but never converted it into a concrete brief — now backed by rising outside search volume.
+2. **Nut width is conflated with scale length everywhere online.** No channel content yet separates the two specs, even though the channel is well positioned to make this distinction clearly.
+3. **Technique-only fixes are underrepresented in the backlog.** Nearly every logged idea so far is a setup or hardware fix; capo placement and first-inversion voicings are free, technique-level fixes that fit the Fix Ladder's £0 tier and haven't been explored.
+4. **Named-model comparisons are missing.** The channel has general "short scale vs standard" content planned but no video comparing specific budget models side by side, which is how this audience is actually searching.
+5. **The tuning-stability topic stops at diagnosis.** The existing "why does my guitar go out of tune" video explains causes; there's no planned follow-on that walks through the hardware-upgrade fix.
+
+## Titles, Hooks & Thumbnail Concepts for the Highest-Potential Ideas
+
+**1. "Ergonomic Guitars: Worth It for a 50-Year-Old's Hands?"**
+- Hook: "Every ergonomic guitar review is aimed at someone half your age. Here's what it's actually like."
+- Thumbnail: standard guitar and ergonomic-profile guitar side by side, wrist angle marked on each
+
+**2. "Nut Width vs. Scale Length: Which One Actually Matters for Your Hands?"**
+- Hook: "You bought short scale. Your hand still hurts. Here's the spec nobody mentioned."
+- Thumbnail: two guitar necks stacked with nut width measurement overlay
+
+**3. "The Capo Trick Nobody Explains: Shrinking the Fretboard for Free"**
+- Hook: "Nothing to buy, nothing to adjust — just move the capo and the stretch disappears."
+- Thumbnail: capo placed at fret 6 with a measurement arrow showing narrowed fret spacing
+
+If nothing here clears the bar once checked against the v10 backlog, the standing recommendation is to prioritise the **ergonomic guitar review** and **nut width explainer** — both fill confirmed content gaps and match rising external search interest, and both are money-tier-neutral, respecting the Fix Ladder principle that all four tiers are equally valid.

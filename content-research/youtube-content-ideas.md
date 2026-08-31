@@ -184,3 +184,63 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 31 August 2026
+
+*This section preserves everything above and adds new findings from a fresh trending-topics pass. Ideas here avoid duplicating the "Playing Through It," Silent Practice, Budget Rescue, and PM Player series already logged above — see Content Gaps for how these connect to existing series.*
+
+## Trending Topics & Keywords (New Since Last Pass)
+
+- **Adaptive playing devices entering mainstream awareness** — ChordBuddy, the Robo-Tar (one-handed chord-cycling device), and the LOLO (tabletop adaptive guitar) are getting renewed coverage in accessibility and music-therapy press. None of this coverage is guitar-YouTube-native; it lives in disability and assistive-tech outlets. Clear gap for a guitar channel to bridge the two audiences.
+- **Short-scale guitars losing their "beginner instrument" stigma** — 2026 gear press (Guitar World, Guitar Lobby) is framing short-scale as a legitimate professional choice (Macca, Jack Bruce, Mike Kerr), not just a starter or small-hands option. This is a useful reframe for the channel: short-scale as an ergonomics *upgrade*, not a compromise, for players of any skill level.
+- **Adaptive Radius Technology (ART) capos** — G7th Performance 3 and similar capos that auto-adjust to fretboard curvature are a 2026 gear trend. Relevant less as a hardware review and more because it validates "the tool should adapt to the guitar/player, not the other way round" — directly on-thesis.
+- **AI-driven playing-analysis apps** — coverage anticipates phone-camera apps that watch your playing and suggest corrections in real time. Early enough that there's no dominant player yet. Fits a skeptical, practical "does this replace a proper setup?" treatment rather than a hype piece.
+- **"Returning to guitar as an adult" as a named phenomenon** — trade press is starting to describe adult re-entry to guitar as a trend in its own right, not just an audience segment. Useful validation for positioning, less useful as a single video topic (too broad already covered by the identity video).
+- **Celebrity arthritis-and-setup stories surfacing in mainstream guitar press** (e.g. Joe Perry discussing setup changes to manage early arthritis) — a recognisable, non-clinical entry point that could soften the "Playing Through It" series for viewers who haven't searched arthritis content directly.
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| **Adaptive Guitar Devices, Honestly Reviewed: ChordBuddy, Robo-Tar, LOLO** | Players with significant dexterity loss don't know these tools exist, or dismiss them as gimmicks/toys | Hardware evaluation, PTI-adjacent | Free: technique alternatives already covered in PTI · £20s: ChordBuddy · £100s: Robo-Tar/LOLO tier devices | High — near-zero existing coverage from a guitar-literate, non-clinical source; strong share potential into disability communities |
+| **Short-Scale Isn't a Starter Guitar Anymore (Here's the Case)** | Comfortable, capable players assume short-scale is something to graduate away from | Reframing/explainer, ties to Short Scale Guitars doc | Free: try a friend's/shop's short-scale before buying · £5–20: n/a (mostly instrument-level) · £25–100: used short-scale entry · £100+: named models from the doc | Medium-high — corrects a widely-held misconception, good for both personas |
+| **I Tried an Adaptive Capo So You Don't Have To** | Players don't know whether radius-adjusting capos solve a real problem or just cost more | Gear evaluation, honest tone | Free: standard capo check first · £5–20: standard capo · £25–100: mid-tier partial capo · £100+: ART-style capo | Medium — niche but affiliate-ready, low production complexity |
+| **Does an AI Guitar Coach Replace a Setup?** | Players are being marketed AI apps as a fix for playing problems that are actually setup problems | Skeptical explainer, on-thesis myth-busting | Free: the setup check that most AI apps can't diagnose · rest of ladder n/a — this is a "check your guitar first" video | High — timely, contrarian without being negative, reinforces the whole channel thesis in one video |
+| **The Guitar Press Finally Noticed: Joe Perry, Arthritis, and Setup** | Viewers who'd never search "arthritis guitar" might recognise this story and click | News-hook entry point into the PTI series | N/A — framing device that funnels into existing PTI Fix Ladder content | Medium — short shelf life as a hook, but useful as a discovery on-ramp for PTI Ep 1 |
+| **Partial Capos: The Adaptive Tool Nobody Files Under "Adaptive"** | Partial capos are marketed as creative/tuning tools, never as accessibility tools, so players who'd benefit don't find them | Reframing existing gear as adaptive strategy | Free: technique alone (open positions) · £10–20: basic partial capo · £25–60: named quality option · £100+: n/a, ceiling is low for this category | Medium — genuinely new angle, low cost to produce, good crossover with PTI series |
+
+## Content Gaps and Underexplored Angles (New)
+
+1. **Adaptive hardware devices (ChordBuddy, Robo-Tar, LOLO) are undiscussed by any guitar-literate, non-clinical channel.** This is the single highest-priority gap found this pass — the audience exists (disability/assistive-tech communities) but isn't being reached by anyone speaking guitar fluently and without a sales agenda.
+2. **Short-scale-as-upgrade framing is absent everywhere**, including in general gear press, which still treats it as beginner/compromise gear even while covering professional players who use it. The channel is unusually well positioned to make this argument because ergonomics, not genre or skill level, is already the channel's whole lens.
+3. **No one is doing a calm, non-hype take on AI playing-analysis tools.** Coverage so far is speculative gear press. A grounded "check the guitar before you check the software" video would be early to the topic and hard to compete with once produced.
+4. **Partial capos are never framed as adaptive equipment** despite fitting the definition exactly (reduces required stretch/fretting complexity). This is a reframe of existing, cheap, widely available gear — low production cost, genuinely new angle.
+
+## High-Potential Titles, Hooks & Thumbnail Concepts (New)
+
+### 1. "I Tried the Devices Marketed to Guitarists Who Can't Fret Chords"
+- **Hook:** "These exist. Almost nobody who plays guitar talks about them."
+- **Thumbnail:** ChordBuddy/adaptive device on a guitar neck, hand visible, no dramatic framing — matter-of-fact, not inspirational-story tone
+
+### 2. "Short-Scale Guitars Aren't Starter Guitars (Stop Treating Them Like One)"
+- **Hook:** "The 'small guitar for small hands' story is wrong, and it's costing comfortable players a better instrument."
+- **Thumbnail:** Full-scale and short-scale neck side by side, no price callout — this one leads on the reframe, not the ladder
+
+### 3. "Does an AI Guitar Coach Fix What's Actually Wrong?"
+- **Hook:** "The app is watching your technique. It can't see your action height."
+- **Thumbnail:** Phone propped against amp filming a guitar neck; feeler gauge sitting next to the phone, untouched
+
+### 4. "The Adaptive Tool You Already Own and Didn't Know It"
+- **Hook:** "It's sold as a tuning gadget. For some players, it's the reason a song becomes playable at all."
+- **Thumbnail:** Partial capo on the neck, close, no other text — let the object be the hook
+
+---
+
+## Format Notes (New)
+
+- The adaptive-devices video is a strong candidate for a short "viewer rescue"-style follow-up once the channel has audience members who use these tools — invite them to demonstrate rather than reviewing solo.
+- The short-scale reframe pairs naturally with a Shorts cut-down: side-by-side neck comparison needs no voiceover to land.
+- If no new opportunities emerge in a future pass, say so briefly rather than padding the list — this file should stay a working backlog, not an archive of repeated ideas.

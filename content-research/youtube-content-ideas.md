@@ -184,3 +184,55 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — September 2026
+
+*This section is additive. Nothing above has been changed or removed.*
+
+## Trending Topics & Keywords (New Since Last Pass)
+
+- **Adaptive pick and strap systems** — a cluster of dedicated products (grip-free sleeves, palm straps, thumb picks shaped for CMC-joint relief) has grown steadily across Etsy and independent sellers; almost none of them appear in mainstream guitar review content, which leaves the comparison video wide open
+- **Ergonomic guitar brands entering the mainstream conversation** — contoured bodies, weight-relief chambers, and fanned frets are increasingly framed as comfort features rather than niche or "shred" features; coverage still skews toward touring musicians, not the 35–65 casual player
+- **Thumb-over-neck technique for thumb-joint pain** — resting the thumb over the top of the neck rather than behind it changes the mechanical load on the CMC joint; discussed in passing by working guitarists managing arthritis, but not framed as a deliberate, teachable technique anywhere accessible
+- **Hybrid string gauge setups** — lighter treble strings paired with standard-gauge bass strings, adopted informally by several well-known players managing reduced finger pliability; an underused entry point for a Fix Ladder video since it's a same-day, low-cost change
+- **YouTube Shorts retention mechanics have tightened** — 2026 guidance points to a sub-1-second visual hook and a 20–25 second loopable structure as the format that performs best; the channel's existing before/after measurement clips are naturally suited to this, but the hook needs to land in the first frame, not after a lead-in
+
+## New Video Ideas
+
+| # | Working Title | The Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|---|
+| 1 | **Adaptive Pick Systems Compared: What Actually Holds a Pick When Your Fingers Won't** | Pinch-grip picking becomes unreliable or painful with reduced grip strength | Hardware comparison across grip-free and strap-based pick systems | Free: rubber band wrap · £5–20: Gripless sleeve or Cling Pro thumb pick · £25–100: Strumling palm strap · £100+: none needed — ceiling is low for this fix | High — direct search match, affiliate-ready, fills a gap no channel currently covers well |
+| 2 | **The Thumb-Over Grip: A Technique Fix for Thumb Joint Pain** | Thumb (CMC) joint pain from gripping the neck in standard position | Technique adjustment, not a purchase | Free: reposition thumb and reassess chord shapes · £5–20: thinner neck profile via nut/action tweak to make the position easier · £25–100: professionally reshaped nut · £100+: guitar with a slimmer neck profile | High — technique-only Free-tier video, strong for the Arthritis Checklist audience, easy to demonstrate on camera |
+| 3 | **Hybrid String Gauges: The Same-Day Fix for Tired Fingers** | Standard string gauge asks more of the fretting hand than it can comfortably give by the end of a session | Setup/hardware change, single string swap | Free: none — this is a materials change · £5–20: mixed-gauge set (light treble, standard bass) · £25–100: branded hybrid set plus a proper setup pass to match · £100+: custom-gauge set from a specialist string maker | Medium-high — clear before/after (fatigue, not just sound), easy to film, low production complexity |
+| 4 | **Ergonomic Guitars in 2026: What's Actually New (And What's Marketing)** | Ergonomic-brand guitars are increasingly visible but reviewed almost exclusively for touring players, not for comfort-first buyers | Landscape/comparison video, ties into Short Scale Guitars doc | Free: n/a — awareness video · £5–20: n/a · £25–100: aftermarket contour/weight-relief modification on an existing guitar · £100+: purpose-built ergonomic model | Medium — strong watch time potential as a "state of the market" video, natural premium-tier anchor |
+| 5 | **The 20-Second Fix: Building Shorts From the Before/After Moment** | Not a viewer-facing friction — a production/format gap in how existing footage is being used | Format/workflow, not a Fix Ladder video | N/A — internal production note | N/A — supports discoverability of every other video on this list |
+| 6 | **Why Your Pick Keeps Flying Out of Your Hand (And It's Not You)** | Picks slipping or dropping mid-song, often blamed on the player rather than the pick-hand interface | Hardware fix, narrower framing than #1 | Free: textured grip tape wrap · £5–20: textured or grip-coated pick · £25–100: Gripz Sher-hold or similar molded holder · £100+: none needed | Medium-high — reframes a common frustration as solvable rather than a skill failure, strong hook potential |
+| 7 | **Neck Profile Explained: Why "C" vs "V" Isn't Just a Feel Preference** | Neck shape is usually discussed as player preference, rarely connected to joint strain or thumb position | Explainer, sets up the thumb-over technique video (#2) and ergonomic guitars video (#4) | Free: identify current neck profile and thumb position · £5–20: n/a · £25–100: professional neck shave/reshape · £100+: guitar with a specific documented profile | Medium — foundational/explainer content, less viral on its own but strengthens the series it links to |
+
+## Content Gaps and Underexplored Angles
+
+1. **Adaptive pick hardware has no comparison content anywhere on YouTube at channel-relevant production quality.** This is the single clearest gap found this pass — the products exist, the audience searches for them, and no one has filmed a fair, calm, multi-tier comparison.
+2. **Technique-as-fix videos are underrepresented relative to hardware-as-fix videos.** The thumb-over grip and neck-profile explainer are both Free-tier or near-Free-tier ideas that don't currently exist in the backlog shown here — worth weighting the next few shoots toward technique to balance the ladder.
+3. **The channel doesn't yet have a Shorts strategy that matches current retention mechanics.** Existing before/after clips are well-suited to the format but may need re-cutting so the visual payoff lands in the first frame rather than after a verbal lead-in.
+4. **Ergonomic guitar brands are moving into mainstream visibility but the coverage gap for the 35–65 casual player persists** — the existing Short Scale Guitars 2026 doc gives this channel a head start that outlets covering only touring-musician gear don't have.
+
+## Titles, Hooks & Thumbnail Concepts for High-Potential Ideas
+
+**"Adaptive Pick Systems Compared: What Actually Holds a Pick When Your Fingers Won't"**
+- Hook: "Four ways to hold a pick that don't rely on a pinch grip. One of them might already be sitting in a drawer."
+- Thumbnail: four pick systems laid out in a row, one circled; no text beyond a small price range in the corner
+
+**"The Thumb-Over Grip: A Technique Fix for Thumb Joint Pain"**
+- Hook: "Where your thumb sits changes how much work your thumb joint is doing. Here's the difference, measured."
+- Thumbnail: split shot of thumb position behind vs. over the neck, same chord, same guitar
+
+**"Why Your Pick Keeps Flying Out of Your Hand (And It's Not You)"**
+- Hook: "It's not your grip. It's the interface between your hand and a flat piece of plastic."
+- Thumbnail: pick mid-drop, freeze-frame; no dramatic arrows or red circles, just the moment
+
+## Confirmation
+
+No indication this pass that the channel's existing pipeline (Playing Through It series, Silent & Stealth Practice, Budget Guitar Rescue) needs reprioritising — the gaps found here (adaptive pick hardware, technique-forward Free-tier content) slot in alongside what's already planned rather than replacing it.

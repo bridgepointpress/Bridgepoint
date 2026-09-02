@@ -184,3 +184,84 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — September 2026
+
+Web research this round focused on what's moved since the June pass: ergonomic seating, adaptive pick hardware, the "returning player" narrative, and current thumbnail/CTR practice. Nothing here duplicates the June list — see that section above for carpal tunnel, silent practice, luthier-vs-DIY, humidity, and one-handed playing, which remain the priority backlog.
+
+## Trending Topics & Keywords (new this round)
+
+- **Ergonomic guitar chairs/stools** — "Best Guitar Chair 2026"-style content is actively publishing and getting traction; physical comfort framed as "necessity, not luxury" across gear press
+- **Adaptive pick hardware** — a small but real product category (no-grip pick systems, thumb-loop picks, Velcro strap picks, silicone finger caps) that guitar YouTube almost never reviews on camera; mostly surfaced on Etsy/forums, not video
+- **"Coming back to guitar after years away"** — distinct search and emotional territory from "beginner"; returning players have muscle memory and ear training beginners don't, but also face a changed hand and a changed gear market
+- **Ergonomic guitar design as an industry story** — brands (Strandberg and others) pitching ergonomic bodies as mainstream, not niche; an opening to cover this from the affordable/DIY side rather than the £1000+ boutique side
+- **Short-scale basses shedding "beginner instrument" stigma** — reinforces prioritising existing scale-length content; worth a line acknowledging short scale is a legitimate permanent choice, not a stepping stone
+
+## New Video Ideas
+
+### 1. The Adaptive Pick Roundup
+- **Friction:** Gripping a standard pick is painful or unreliable with joint pain, reduced grip strength, or finger differences — and almost nobody demonstrates the alternatives on camera.
+- **Fix angle:** Hardware comparison — Fix Ladder built entirely from small adaptive tools rather than one big purchase.
+- **Fix Ladder:**
+  - Free: technique adjustment (flatter angle, thumb-only strumming)
+  - Affordable (£5–20): thumb-loop picks, Velcro strap picks
+  - Quality upgrade (£25–100): silicone finger caps, a proper adaptive holder set
+  - Premium (£100+): only if a custom/3D-printed adaptive device genuinely earns its place — no forced premium tier
+- **Adaptive relevance:** Core to the video, not a footnote — this is the whole premise.
+
+### 2. Coming Back After Years Away
+- **Friction:** A returning player's hands, guitar, and the gear market have all changed since they last played — and most "getting back into guitar" content is really beginner content with different marketing.
+- **Fix angle:** Reframes the PM baseline concept explicitly — you're not starting from zero, you're re-baselining from wherever you actually are now, including a hand or body that may have changed.
+- **Fix Ladder:** Free (re-baseline check: action, string age, your own hands) / Affordable (fresh strings, a setup check) / Quality upgrade (a professional setup if the guitar has drifted for years) / Premium (only if the old guitar no longer fits — replacement, not obligation).
+
+### 3. The Ergonomic Chair Nobody Needed Until They Tried One
+- **Friction:** Sitting position is treated as a technique issue when it's often a furniture issue — and this is a live trend right now, not evergreen-only content.
+- **Fix angle:** Setup, applied to the player's environment rather than the instrument.
+- **Fix Ladder:** Free (cushion/rolled towel, posture check) / Affordable (a £15–20 footstool or wedge) / Quality upgrade (a proper ergonomic guitar stool) / Premium (a dedicated adjustable chair).
+
+### 4. Should You Play Through It? (Pain That Improves vs. Pain That Worsens)
+- **Friction:** Players in pain don't have a clear, calm way to tell "keep going gently" pain from "stop now" pain, and most content either says "push through" or "stop entirely" with no nuance.
+- **Fix angle:** Insight-forward video built on the movement-response distinction — an assessment framework, not a hardware fix.
+- **Fix Ladder:** This one leans on approach over purchase — Free (self-check framework, warm-up adjustment) / Affordable (a wrist/thumb support) / Quality upgrade (lighter strings, lower action as a physical-load reduction) / Premium (a professional setup pass focused entirely on reducing physical effort).
+- **Adaptive relevance:** Directly usable alongside the Arthritis Checklist as a companion video; a strong candidate to pair with a future free PDF lead magnet.
+
+### 5. Ergonomic Guitars Without the £1,000 Price Tag
+- **Friction:** Ergonomic-body guitars are covered almost exclusively as premium/boutique gear, leaving the Budget DIYer persona with the impression that ergonomic comfort is unaffordable.
+- **Fix angle:** Counter-programming — what actually makes a guitar body ergonomic (weight, contour, balance) and which of those factors can be approximated on a standard or budget instrument.
+- **Fix Ladder:** Free (strap adjustment, playing position) / Affordable (a padded/wide strap, chamfered pick-up-side awareness when buying used) / Quality upgrade (a lighter-weight budget body, arm-bevel model) / Premium (a purpose-built ergonomic guitar, positioned honestly as one valid option among several, not the only real fix).
+
+## Content Gaps and Underexplored Angles (new this round)
+
+1. **Adaptive pick hardware has almost no video coverage.** It exists on Etsy listings and in forum threads, not on camera, demonstrated, and priced. This is a clean, low-competition gap that fits the Fix Ladder format exactly.
+2. **"Returning after a break" is being treated as a subset of "beginner" everywhere else.** Separating it out matches this channel's core audience (35–65, often lapsed players) better than most existing coverage does.
+3. **Ergonomic seating is trending in gear press right now** but not yet connected to the arthritis/friction framing this channel already owns — a timely crossover rather than a new topic.
+4. **The "push through vs. stop" pain-assessment question is a real, recurring search behind arthritis and tendinitis queries**, but it's usually answered by medical content, not guitar content specifically. This channel is positioned to answer it from the instrument side.
+
+## Titles, Hooks & Thumbnail Concepts
+
+### "The Guitar Picks Nobody Shows You"
+- **Hook:** "If gripping a pick hurts, the pick is the problem — not your hand."
+- **Thumbnail:** Four adaptive picks laid out in ascending price order; no face, high-contrast product shot per current thumbnail practice (2–3 words max, one dominant subject).
+
+### "I Came Back to Guitar After Years Away — Here's What Actually Changed"
+- **Hook:** "Your hands changed. So did the guitar market. Here's how to re-baseline both."
+- **Thumbnail:** Old guitar case next to a feeler gauge and fresh strings; central-left subject, minimal text.
+
+### "Do You Need an Ergonomic Chair to Play Guitar?"
+- **Hook:** "Twenty minutes in the wrong chair undoes a good guitar setup."
+- **Thumbnail:** Side-by-side sitting posture, hunched vs. supported; price callout on the affordable option, not the premium one, to keep the DIY framing honest.
+
+### "Should You Play Through the Pain?"
+- **Hook:** "There's a real difference between pain that eases and pain that warns you — here's how to tell."
+- **Thumbnail:** Simple two-path visual (not medical, not alarming); calm framing consistent with channel tone, no shocked-face thumbnail trend adopted here — that style reads off-brand for this audience.
+
+## Production Note
+
+Current YouTube thumbnail practice (per 2026 CTR guidance) favours a single dominant subject, 0–3 words of text, and high-contrast subject-on-background separation, with the main visual placed center-left. This fits the channel's existing no-text-on-camera, before/after visual style well and needs no format change — just keep thumbnail text (when used at all) to a short price or price-range callout rather than a full headline.
+
+## Bottom Line
+
+No radical redirection needed. The highest-leverage net-new addition this round is the adaptive pick roundup — it's a genuine, low-competition content gap that fits the Fix Ladder format exactly and reinforces the channel's core differentiation (treating adaptive approaches as legitimate, permanent choices, not workarounds). The "returning after a break" reframe is the second priority — it speaks directly to the core 35–65 audience in language the rest of guitar YouTube isn't using.

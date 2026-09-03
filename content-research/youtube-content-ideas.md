@@ -184,3 +184,53 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — September 2026
+
+**Cross-checked against:** Pre-Launch Guide, Channel Ops Guide, Arthritis script draft, and the Final_v7 video order spreadsheet (Videos 1–8 already planned/scripted: $10 Setup, Arthritis, Pawn Shop Rescue, Barre Chords, $4,000 Mistake, Light Strings, Ergonomics for Older Players, PM Identity video). Everything below is additive — it does not restate the June 2026 research above.
+
+## What's Changed Since June
+
+- **YouTube's 2026 algorithm now weights post-watch satisfaction and micro-niche clustering over raw watch time or breadth.** A tight, focused video with a clear payoff outperforms a padded one, and the algorithm is actively rewarding creators who stay narrow rather than broaden their topic range. This is a structural tailwind for this channel specifically — the one-friction-one-fix format is exactly the "tight payoff" shape the algorithm now favours. **Implication:** don't dilute the format to chase breadth; if anything, tighten runtimes further and lean harder into Shorts (3–5/week is now cited as a baseline cadence for niche growth, not an aspirational one).
+- **AI-assisted practice apps (Yousician, Gibson App, Fretello) are a genuine 2026 trend** — real-time pitch/technique feedback via phone mic, adaptive difficulty. None of the marketing around them addresses players whose hand shapes or fingerings don't match the "correct technique" the app is scoring against. That's a clean, unclaimed angle for this channel.
+- **Ergonomic seating for guitar ("best guitar chair 2026"-style content) is showing up as its own trending cluster.** Distinct from strap/posture content already in the backlog — this is about the chair/stool itself, which nobody in this niche treats as a Fix Ladder item.
+- Carpal tunnel remains confirmed underserved on YouTube specifically (per June note) — search turned up clinical/forum sources and one 2019 surgery vlog, nothing current in the channel's format. Still the single highest-priority gap.
+
+## New Video Ideas
+
+| Working Title | Friction | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|
+| **"I Ran a Guitar App's 'Correct Technique' Score Against My Own Hands"** | AI practice apps grade fingering against one standard hand shape; players with arthritis, limited reach, or asymmetric mobility get marked "wrong" for playing the only way that works for them | Free: ignore the app's technique score, keep its rhythm/pitch feedback only · £0–5: reposition phone mic/angle so the app reads note accuracy, not hand form · £25+: pair app practice with a partial capo so fingerings match what the app expects · Premium: none needed — this is a mindset fix, not a gear one | High — rides the AI-app trend wave while making the channel's core point (there's no one correct way to play) concrete and current |
+| **"Does a Better Chair Fix More Than a Better Guitar?"** | Wrist and shoulder strain often traced to guitar setup is sometimes actually seating height/angle | Free: adjust existing chair height so forearm sits level with the bridge · £15–20: footstool or guitar wedge · £30–80: dedicated ergonomic guitar stool · £100+: adjustable-height stool with back support | Medium-high — taps the emerging "guitar chair" search cluster nobody in this niche has claimed yet |
+| **Carpal Tunnel and the Guitar (companion to the planned Arthritis video)** | Distinct compression mechanism from arthritis; most existing content is generic hand-health advice, not guitar-specific | Free: wrist angle check + neck relief (same free check as arthritis video, different why) · £5–15: lighter strings · £25–60: professional setup, same as arthritis tier · £80+: partial capo / shorter scale | High — still the single most-requested, least-served "Playing Through It" topic per the June research; natural next episode after Arthritis (V2) |
+| **"Recovering From Hand Surgery: Getting Back to Guitar"** | No content addresses the specific return-to-playing period after carpal tunnel release, trigger finger surgery, or joint replacement | Free: reduced-tension tuning while healing · £5–15: extra-light strings for the comeback period · £25–60: setup revisit once grip strength changes · £80+: capo system to reduce reach during recovery | Medium — smaller search volume but very high loyalty/shareability; natural extension of Playing Through It once Carpal Tunnel episode exists |
+| **"Short Scale Isn't a Beginner Guitar — Here's Who Actually Plays One"** | Stigma that short-scale = starter instrument discourages adult players from switching even when it would remove real friction | Free: measure your own reach/stretch on current guitar vs. a short-scale to see the actual difference · £5–20: n/a (this is a decision video, not a parts video) · £150–300: budget short-scale (Squier Mini tier) · £300+: quality short-scale electric/acoustic | Medium-high — counters a real objection the channel's own audience likely has; pairs with the existing "Guitar I Wish I'd Bought at 50" idea from June but reframes it as credibility-building rather than nostalgia |
+| **"The 4-Second Reset: A Shorts Series for the Fix Ladder"** | Not a single video — a format gap. Every existing Fix Ladder video already contains a natural before/after cutdown, but none are being repurposed as a recurring, titled Shorts series | Free format — repurposes existing footage | High — directly answers the algorithm shift toward niche-focused Shorts cadence; lowest production cost of anything on this list since it reuses footage already being filmed |
+
+## Content Gaps Confirmed Still Open
+
+1. **Carpal tunnel** — reconfirmed via fresh search; still the top gap, now with a natural surgery/recovery follow-on episode identified above.
+2. **AI practice-app compatibility with non-standard hands** — new gap, didn't exist as a searchable topic in June; time-sensitive while the AI-app trend is fresh.
+3. **Seating/chair ergonomics as a distinct Fix Ladder item** — previously folded into general "ergonomics," but the search trend suggests it deserves its own video rather than a mention inside the strap-height video.
+4. **A titled, recurring Shorts series** — the June notes mention Shorts as a format opportunity but nothing has been named or scheduled; this is now a format gap, not just a tactic.
+
+## Titles, Hooks, Thumbnails for the Highest-Potential New Ideas
+
+**"I Ran a Guitar App's 'Correct Technique' Score Against My Own Hands"**
+- Hook: "The app said my fingering was wrong. My hands disagreed."
+- Thumbnail: phone showing app's technique score overlaid on a close-up of a hand playing a non-standard chord shape; no text needed beyond a score number
+
+**Carpal Tunnel and the Guitar**
+- Hook: "Different condition, different mechanism — same honest answer: it's mostly the setup."
+- Thumbnail: matches existing "Playing Through It" template (navy bottom bar, amber series label, hands on neck) for series consistency
+
+**"Does a Better Chair Fix More Than a Better Guitar?"**
+- Hook: "You changed the strings. You changed the action. Did you change the chair?"
+- Thumbnail: Type 3 template (product + result) — stool on the left, relaxed shoulder/wrist angle on the right
+
+## Note on Format
+
+All ideas above fit within the existing Fix Ladder / cold-open / play-out structure with no departures from house style. Nothing here requires new visual identity work — the AI-app and chair videos slot into the existing Type 2/Type 3 thumbnail templates, and Carpal Tunnel slots directly into the Type 4 "Playing Through It" template already defined in the Pre-Launch Guide.

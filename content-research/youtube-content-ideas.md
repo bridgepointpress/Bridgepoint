@@ -184,3 +184,58 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Research Update — 4 September 2026
+
+Note: the Bridge and Baseline v10 spreadsheet, Charter, Arthritis Checklist, Short Scale Guitars 2026, and Easier Play Guitars docs were not accessible from this environment, so this pass could not cross-check the live backlog. Treat the ideas below as candidates to slot into the spreadsheet rather than a confirmed sequence — check for overlap with anything already scripted or filmed since June before greenlighting.
+
+### Trending Topics & Keywords (new since the June pass)
+
+- **Keith Richards and Joe Perry on adapting their playing for arthritis** — both gave press interviews in March 2026 (Guitar World) describing concrete adaptations: Richards resting his thumb over the neck to change the joint's load, Perry moving to a hybrid .09/.08 string set. High-authority, name-recognisable hook the channel doesn't currently reference.
+- **Purpose-built adaptive guitar devices** — ChordBuddy, Arcana Strum, and one-handed attachments like Robo-Tar are getting renewed coverage in accessibility/music-therapy press. These sit at the extreme premium end of the Fix Ladder and the channel hasn't evaluated any of them on camera.
+- **New 2026 short-scale releases** — the Squier Sonic Mustang (24" scale, ~£180, shipped July 2026) is a timely, in-budget product that fits the channel's existing short-scale coverage and hasn't been reviewed yet.
+- **"Senior health content" flagged as a fast-growing, low-competition YouTube niche for 2026** — general creator-economy reporting is now naming this as a trend, not just a guitar-specific one. The channel already lives here but hasn't made a video that addresses the "why keep playing at all" health/identity angle directly.
+- **YouTube's Shorts algorithm fully decoupled from long-form in 2026** — Shorts now only surface to viewers who already watch Shorts, and satisfaction (not watch time alone) is the ranking signal. This changes how the existing "before/after clip" Shorts strategy should be planned, not just executed.
+
+### New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **The One-Handed Guitar Toolkit in 2026** | Players assume single-hand or limited dexterity rules out guitar entirely | Survey technique and hardware adaptations together, from free technique changes to purpose-built devices | Free: percussive/tapping right-hand technique, open tunings · Affordable: capo variations · Quality upgrade: partial capo systems (£40–70) · Premium: ChordBuddy or Arcana Strum (£100+, evaluated honestly, not oversold) |
+| **Does Playing Guitar Actually Help Arthritis? What Richards, Perry, and the Evidence Say** | Players worry playing will worsen arthritis, or don't know whether continuing helps | Combine the Arthritis Checklist's pain-pattern framework with the recent Richards/Perry press as a relatable hook — informational, not medical advice | Free: thumb-over-neck grip change, warm-up protocol · Affordable: fingerless compression gloves (£10–15) · Quality upgrade: light hybrid string set (£20–25) · Premium: full ergonomic setup at a luthier (£100+) |
+| **Squier's New Short-Scale Mustang: Does It Actually Solve Reach Problems?** | Budget buyers can't tell whether a trending short-scale model solves real friction or is just gear-hype | Hands-on review filtered entirely through playability/reach, not tone or hype | Free: how to check reach/scale fit before buying anything · Affordable: aftermarket nut work · Quality upgrade: professional setup on the stock guitar · Premium: the Mustang itself, priced honestly |
+| **The 2-Minute Grip Test: A Baseline Before You Buy Anything** | Players buy gear to solve a problem they haven't actually measured | Simple on-camera self-assessment that produces a personal baseline, tied back to the Arthritis Checklist as a future lead magnet | Free: the test itself · Affordable: a cheap grip strengthener if the test flags weak grip · Quality upgrade: n/a — this is a diagnostic video, not a purchase-driving one · Premium: n/a |
+| **ChordBuddy and Chord-Assist Devices: Permanent Tool, Not a Training Wheel** | Devices like this are usually framed as beginner scaffolding to be outgrown, which contradicts how the channel treats adaptive approaches | Evaluate honestly against the Mode 2 brand checklist and present as a legitimate permanent option for players who want it | Affordable: n/a · Quality upgrade: ChordBuddy (£30–40) · Premium: motorized chord-assist attachments (£100+) — note the price jump clearly so viewers can judge ROI themselves |
+| **What Actually Changes When You Keep Playing After 50** | Players quietly wonder if it's "worth it" to keep going, especially after a long gap | A wellness/identity angle for the growing senior-content audience, kept anecdotal and grounded — no overclaiming health benefits | This is a reflection/identity video, not a Fix Ladder video — pairs well as a season opener or anniversary piece |
+
+### Content Gaps and Underexplored Angles
+
+1. **Purpose-built adaptive devices are entirely unaddressed.** Every existing Fix Ladder video assumes setup or technique changes; the channel has never evaluated a device (ChordBuddy, Arcana Strum, Robo-Tar) built specifically for players who need more than a setup fix. This is a natural premium-tier expansion of the ladder and reinforces the "adaptive approaches are legitimate, not workarounds" guardrail.
+2. **No timely product coverage.** The channel's gear references are evergreen rather than tied to specific 2026 releases (e.g. the Sonic Mustang). A small amount of timely coverage could catch search traffic the evergreen library can't.
+3. **The "why keep playing" identity/wellness angle is implied but never stated directly.** Existing videos solve friction; none speaks to the motivational gap for players wondering if it's worth continuing after a long break or a diagnosis.
+4. **Shorts are treated as a byproduct, not planned separately.** With Shorts and long-form now fully separate discovery systems, the existing "cut the before/after moment" approach may not be enough — Shorts may need their own hook-first structure rather than being trimmed from long-form.
+
+### High-Potential Titles, Hooks & Thumbnail Concepts
+
+**1. "Keith Richards Changed His Grip for Arthritis. Here's the Guitar Version for the Rest of Us."**
+- Hook: "A 6-time Grammy winner and a £65 pawn shop guitar have the same problem."
+- Thumbnail: Split image — iconic hand-on-neck pose silhouette vs. viewer's own hand; no faces, no likeness used, just the grip concept
+
+**2. "I Tried the Devices Built for Players Who Can't Fret Chords"**
+- Hook: "These aren't training wheels. For some players, they're the whole point."
+- Thumbnail: Device on guitar neck, close crop, price tag callout
+
+**3. "The New Squier Everyone's Talking About: Does It Fix Reach, or Just Look Like It Does?"**
+- Hook: "Scale length is doing more work than the marketing says."
+- Thumbnail: Ruler across the neck, measurement overlay, price callout
+
+**4. "The 2-Minute Test That Tells You What to Fix First"**
+- Hook: "Before you buy anything, measure this."
+- Thumbnail: Hand mid-grip-test, stopwatch overlay, no product in frame
+
+### Format Notes
+
+- With Shorts and long-form fully decoupled in 2026, consider a short pilot run of Shorts written as standalone hooks (not trims) — the grip test and the Richards/Perry hook both lend themselves to a cold open under 60 seconds.
+- The adaptive-device videos (#1 and #5 above) are natural candidates for the Mode 2 brand evaluation checklist if any manufacturer relationship is considered — run them through the checklist before any sponsored language is drafted.

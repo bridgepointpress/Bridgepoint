@@ -184,3 +184,81 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — September 2026
+
+## Trending Topics & Keywords (new signal since last pass)
+
+- **Joe Perry (Aerosmith) publicly changing his rig for early-onset arthritis** (April 2026 coverage) — a mainstream guitar-press story that validates the channel's entire premise from an unexpected, high-credibility source. No search-volume data, but strong timely-hook potential.
+- **Guitar practice-tracking apps are having a real growth moment** — market reporting puts the practice-software category at ~$315M in 2026, with newer entrants (OpenFret, Riff Quest, AxeLog) adding AI session summaries and CSV export. Coverage explicitly frames the smart move as a small *stack* of single-purpose tools plus a way to see whether practice is compounding — which is PM language almost verbatim.
+- **Adaptive guitar devices continue to surface in mainstream coverage** — ChordBuddy (Shark Tank-known) and Robo-Tar (one-handed play, built after a stroke) both have active 2026 press. Confirms real, ongoing search interest in one-handed and limited-mobility playing beyond what channel content currently covers.
+- **Short-scale/3/4 guitar model lineup has shifted** — 2026 "best of" roundups now lead with Yamaha JR1/JR2, Squier Mini Stratocaster (~$199) and Squier Sonic Mustang, and a newer entrant, the Enya NOVA GO SP1 (weatherproof build, built-in effects/recording). Worth reconciling against the Short Scale Guitars 2026 doc — the SP1 in particular looks like a gap.
+- **Evergreen searches confirmed still strong, unchanged in priority:** fret buzz, "guitar action too high," neck relief, intonation. No new competitor has claimed the beginner-accessible angle on any of these — still open ground.
+- **Audience composition data point:** industry reporting now puts new learners at roughly 48% female / 52% male — worth keeping in mind for on-camera language and thumbnail casting, not a video topic itself.
+
+## New Video Ideas (Mode 1 format)
+
+1. **"Even Aerosmith's Guitarist Is Doing This Now"**
+   - *Friction:* Viewers assume arthritis-driven setup changes are a sign of decline, something to hide or feel behind about.
+   - *Fix angle:* Use the Joe Perry story as a news hook to reframe hybrid string sets and setup changes as what working guitarists actually do — not a concession.
+   - *Fix Ladder:* Free (string gauge mix using strings already owned) / £5–20 (hybrid set, e.g. heavier wound + lighter plain strings) / £25–100 (professional setup for the new gauge) / £100+ (guitar tech relationship for ongoing adjustment).
+
+2. **"I Tried the Guitarist's Practice App Stack So You Don't Have To"**
+   - *Friction:* Viewers know they should track practice but the apps feel like one more thing to manage, or they can't tell if any of it is working.
+   - *Fix angle:* Apply the PM lens directly — evaluate 2–3 current tracking apps (or a paper log) purely on whether they show compounding improvement, not on features.
+   - *Fix Ladder:* Free (paper log or notes app) / £5–20 (single-purpose tracker app) / £25–100 (paid tier with session history/export) / £100+ (not applicable — flag that this is a tier where more spend adds little, which is itself an honest PM finding).
+
+3. **"The One-Handed Guitar Question I Keep Getting Asked"**
+   - *Friction:* Viewers with limited use of one hand assume adaptive playing means a specialised (and possibly expensive) device, and don't know where to start.
+   - *Fix angle:* Survey the real range — from technique-only adaptations (fretting-hand taps, partial capo) through to purpose-built devices — evaluated the same neutral way as any other fix, not as a last resort.
+   - *Fix Ladder:* Free (technique adaptation, right/left hand role swap) / £5–20 (partial capo) / £25–100 (adaptive pick or strap system) / £100+ (purpose-built adaptive device, evaluated honestly on what it actually adds).
+   - *Adaptive relevance:* Core to this idea, not incidental — this is the direct expansion of the one-handed/partial-limb gap already flagged.
+
+4. **"Short-Scale Guitars: What Changed in 2026"**
+   - *Friction:* Viewers researching short-scale options are working from outdated "best of" lists or gear-channel hype rather than a playability-first comparison.
+   - *Fix angle:* Update the channel's own short-scale recommendations against current models, evaluated strictly on scale length, neck profile, and action-out-of-the-box — not on tone or brand.
+   - *Fix Ladder:* one bullet per model tier already in the Short Scale Guitars 2026 doc, reconciled with any new entrants.
+
+5. **"The Practice Tracking Nobody Needs (And What to Track Instead)"**
+   - *Friction:* Viewers feel guilty for not tracking practice "properly," then abandon tracking altogether.
+   - *Fix angle:* Counter-programme the app trend directly — most of what the tracking-app market sells (streaks, gamification) doesn't map to this audience's constraints; identify the two or three data points actually worth recording in a 15-minute sprint.
+   - *Fix Ladder:* Free (single line in a notes app per session) through £100+ (full app stack), with an explicit note that free is very often sufficient here — a case where the channel gets to demonstrate it doesn't steer toward spending.
+
+6. **"Why Your Hybrid String Set Might Be the Fix (Not a Full Setup)"**
+   - *Friction:* Viewers assume any playability problem needs a professional setup appointment, when sometimes a string change alone closes most of the gap.
+   - *Fix angle:* Demonstrate a hybrid gauge swap (heavier wound strings for tone/intonation stability, lighter plain strings for fretting ease) as a distinct, cheaper rung on the ladder below a full setup — directly building on idea #1's news hook but as a standalone evergreen video.
+   - *Fix Ladder:* Free (n/a — requires new strings) / £5–20 (hybrid set) / £25–100 (hybrid set + professional setup for the new tension) / £100+ (custom-gauge order from a string maker).
+
+7. **"ChordBuddy, Capo Tricks, or Neither: What Actually Helps Early On"**
+   - *Friction:* New or returning adult players see ChordBuddy-style devices marketed as a shortcut and don't know whether it's a legitimate tool or something to be embarrassed about using.
+   - *Fix angle:* Run it through the same honest, non-judgmental Fix Ladder lens as any other product — legitimate aid for some constraints, unnecessary for others, no shame framing either way.
+   - *Fix Ladder:* Free (open chord voicings / partial capo technique) / £5–20 (basic partial capo) / £25–100 (ChordBuddy-type device) / £100+ (not typically applicable at this friction point — note the ladder tops out early, which is itself useful information for the viewer).
+
+## Gaps and Underexplored Angles (additions)
+
+- **A dedicated adaptive-device evaluation video** (ChordBuddy, Robo-Tar, and similar) has never been done on the channel and now has real, current press attention — high-priority gap, directly extends the flagged one-handed/partial-limb opportunity.
+- **Practice-tracking content is a live trend the channel hasn't touched at all** — "The PM Player" series has practice-logging ideas queued but nothing addressing the current app landscape specifically. Timely window while the category is getting press.
+- **News-hook / reaction format is entirely unused.** The Joe Perry story shows there's a viable format here: react to a mainstream guitar-press story through the channel's PM/friction lens. Worth testing once as a format, not just a one-off topic.
+- **Short-scale doc needs a refresh, not a new doc** — the underlying content gap (guitar size/body fit as ergonomics, not gear-hype) was already identified last pass; the new gap is currency — the reference doc and any related video content should be checked against 2026 model lineups before being cited on camera.
+
+## Titles, Hooks & Thumbnail Concepts (high-potential from this pass)
+
+**"Even Aerosmith's Guitarist Is Doing This Now"**
+- Hook: "A £50 string swap did what a £75 setup couldn't."
+- Thumbnail: Two string packets (heavy wound / light plain) crossed over a guitar neck, no faces, no text beyond a small price callout.
+
+**"I Tried the Guitarist's Practice App Stack So You Don't Have To"**
+- Hook: "None of these apps make you practice. Here's what actually does."
+- Thumbnail: Phone showing a practice log next to a simple paper notebook — deliberately unglamorous, signals honesty over hype.
+
+**"The One-Handed Guitar Question I Keep Getting Asked"**
+- Hook: "There's more than one right way to answer this, and most videos only give you one."
+- Thumbnail: Close-up on a single fretting hand mid-chord, calm framing, no dramatic music-sting styling implied.
+
+## Confirmation
+
+New opportunities did emerge this pass — see ideas above — so this is not a "nothing new" update. The core content strategy from the June 2026 research remains valid; this update layers in three timely hooks (Joe Perry story, practice-app trend, adaptive-device press) and one maintenance item (short-scale model currency) rather than replacing prior direction.
+

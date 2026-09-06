@@ -184,3 +184,87 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — September 2026
+
+**Date:** 6 September 2026
+**Scope:** Fresh trending-topic scan and new video ideas layered on top of the June 2026 research above. Nothing below duplicates an idea already listed — see cross-check note at the end of each section.
+
+---
+
+## Trending Topics & Keywords (New This Pass)
+
+- **Veteran guitarists speaking publicly about arthritis** — music press (Guitar World, Ultimate Classic Rock) ran coverage in early 2026 of well-known older guitarists describing how arthritis has changed their playing. One clinician quoted in that coverage framed the mindset shift as "think of yourself as an athlete, not just a musician" — a strong, on-thesis line for the channel to build around, since it reframes hand care as preventive maintenance rather than damage control.
+- **"Guitarist as athlete" / prehab framing** — search and press coverage is shifting toward *preventing* hand strain before it starts, not just adapting after pain shows up. This is a genuinely different angle from anything currently in the backlog, which is entirely reactive (fix the pain that's already there).
+- **All-in-one / built-in-effects guitars** (e.g. instruments with onboard modelling and recording, no separate amp or interface needed) — an emerging product category aimed at reducing setup steps, which maps directly onto the channel's friction lens even though it's being marketed as a tone/convenience feature elsewhere.
+- **2026 short-scale and budget guitar roundups** — the gear press has published fresh short-scale comparisons this year (new entries at the sub-£200 and sub-£500 tiers). The channel's own Short Scale doc is due for a refresh against what's actually current.
+- **Practice-amp category refresh** — 2026 gear coverage centres on USB-C rechargeable, Bluetooth-enabled headphone amps and modelling units, an incremental update on the headphone-amp comparison already planned in the backlog.
+- **Headphones as the overlooked variable in silent practice** — most silent-practice coverage (including the channel's own planned content) focuses on the amp or the guitar. Almost nothing addresses closed-back vs. open-back headphone bleed as its own decision point.
+
+---
+
+## New Video Ideas
+
+### Prehab, Not Rehab (proposed new mini-series — sits alongside Playing Through It)
+
+| # | Working Title | Key Angle |
+|---|---|---|
+| 1 | **Prehab, Not Rehab: Preventing Guitar Hand Strain Before It Starts** | Series anchor/insight video. PM concept: risk mitigation vs. incident response. Reframes hand care as maintenance, not damage control. |
+| 2 | **The Five-Minute Warm-Up: What to Do Before You Play** | Practical companion to the anchor video. Fix Ladder of stretches → grip tools → hand-exerciser sets → OT/physio consult. |
+| 3 | **Adapting Isn't Decline: What Experienced Players Actually Do Differently** | Uses recent music-press coverage of veteran guitarists discussing arthritis as a timely entry point — reframed around the channel's thesis that adapting is a sign of solving the instrument for the player, not a step down. Insight-only video; no product fix required. |
+
+*Cross-check: distinct from existing PTI episodes (carpal tunnel, tendinitis, trigger finger, neuropathy, shoulder/neck, flare-up), which are all reactive/condition-specific. This series is preventive and applies before any diagnosis is in the picture.*
+
+### Time as a Fix Ladder Currency (new framing angle)
+
+- **"One Guitar, No Setup: For the Night You Only Have Ten Minutes"** — treats "steps between picking up the guitar and hearing sound" as its own friction category, separate from action or string gauge. Fix Ladder runs on *time cost*, not just money: unplugged in the room (free) → phone amp-sim app with a basic cable (affordable) → one-knob headphone amp (quality) → guitar with built-in modelling, no separate amp (premium).
+- **"Headphones Matter More Than the Amp: Closed-Back vs. Open-Back for Silent Practice"** — fills the headphones-as-variable gap noted above. Comparison format, affiliate-ready, complements the already-planned headphone-amp comparison rather than repeating it.
+
+*Cross-check: the existing "Silent & Stealth Practice" section covers amps and full rigs; neither existing idea addresses headphones themselves or reframes gear consolidation as a time-based Fix Ladder.*
+
+### Format Refresh
+
+- **"Short-Scale Roundup 2026: What's Actually New"** — annual/semi-annual refresh format tied to the channel's Short Scale doc, evaluating this year's new entries at each price tier against the Fix Ladder rather than repeating a spec sheet. Establishes a recurring, datable format the channel can reuse every year.
+
+*Cross-check: existing backlog has "The Guitar I Wish I'd Bought at 50" (a single comparison), not a recurring dated-roundup format.*
+
+---
+
+## Content Gaps and Underexplored Angles (New This Pass)
+
+1. **Prevention before pain** — every existing hand-health video in the backlog is reactive (fix it once it hurts). No video currently addresses prehab/prevention as its own category. High-priority gap given this is also where current press coverage is heading.
+2. **Time as a constraint, not just money** — the Fix Ladder is currently framed entirely around price. A "time cost" framing (steps and setup time between wanting to play and actually playing) is an unused variant of the same structure and fits the 15-minute-sprint philosophy directly.
+3. **Headphones as their own decision point** — silent-practice content stops at the amp or the guitar; the headphones themselves (bleed, comfort over long sessions, compatibility with glasses or hearing aids) are unaddressed.
+4. **A recurring, dated gear-refresh format** — nothing in the current backlog is built to be reshot annually the way seasonal/humidity content is. A yearly short-scale or budget-guitar roundup would give the channel a repeatable, evergreen structure.
+5. **Adaptation reframed as expertise, not decline** — current press coverage of veteran players and arthritis risks a "sad decline" narrative if picked up carelessly. The channel is well positioned to counter-programme that directly: adapting is what a player who understands their instrument does, framed the same way the channel frames every other fix.
+
+---
+
+## High-Potential Titles, Hooks & Thumbnail Concepts (New This Pass)
+
+### 1. "Prehab, Not Rehab: Preventing Guitar Hand Strain Before It Starts"
+- **Hook:** "Most hand advice waits until it hurts. This is what to do before that."
+- **Thumbnail:** Hands mid-stretch beside a guitar, no pain cues — calm, proactive visual, not clinical
+
+### 2. "The Five-Minute Warm-Up: What to Do Before You Play"
+- **Thumbnail:** Simple split-timer graphic (0:00–5:00) over hands doing a stretch sequence; £0 callout
+
+### 3. "One Guitar, No Setup: For the Night You Only Have Ten Minutes"
+- **Hook:** "Some nights the barrier isn't the guitar. It's everything between you and the guitar."
+- **Thumbnail:** Guitar straight into headphones, no pedals or amp in frame; clock showing a short window
+
+### 4. "Headphones Matter More Than the Amp: Closed-Back vs. Open-Back"
+- **Hook:** "You bought the quiet amp. The sound is still leaking. Here's why."
+- **Thumbnail:** Two headphone types side by side with a simple sound-leak diagram
+
+### 5. "Short-Scale Roundup 2026: What's Actually New"
+- **Thumbnail:** Row of short-scale guitars with price tags; "2026" as a dated callout to anchor the annual format
+
+---
+
+## Note on Confirmed Coverage
+
+No content gaps identified this pass required flagging as "nothing new" — this scan surfaced five genuinely new angles (prehab/prevention, time-as-currency, headphones-as-variable, a recurring dated format, and the adaptation-as-expertise reframe) that sit alongside, rather than duplicate, the June 2026 research above.

@@ -184,3 +184,112 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — September 2026
+
+**Date:** 7 September 2026
+**Sources consulted:** existing content-research doc (above), backlog spreadsheet (`Bridge_and_Baseline_Final_v7.xlsx` — Videos 1–8+ already planned/scripted), arthritis setup script, current web search on guitar/adult-learner/ergonomics trends
+
+This update checks the backlog before proposing anything, so none of the ideas below duplicate what's already planned: the $10 Setup, Arthritis and the Guitar, Pawn Shop Rescue, Barre Chords, the $4,000 Mistake, Light Strings, Ergonomics for Older Players, and the PM identity video are all already in production and are not repeated here.
+
+---
+
+## Trending Topics & Keywords (new since last research pass)
+
+- **"Is it too late to start guitar at 40/50/60?"** — one of the single highest-emotion search clusters for this exact age band; multiple dedicated blogs and forums answer it, but almost none pair the reassurance with a concrete Fix Ladder. Strong, underserved fit.
+- **Crossover / hybrid nylon-string guitars** — 2026 gear coverage is actively pushing nylon guitars with slimmer, steel-string-style necks as a low-tension option for adult beginners and sensitive hands. Directly relevant to the Easier Play Guitars doc but not yet turned into a video.
+- **"Ergonomic guitar" brands (Strandberg-style necks, Aristides-style composite bodies)** — heavily marketed in 2026, but aimed at technical/metal players, not this channel's audience. Nobody is testing the claims against a 50-something casual player's hands.
+- **Retirement / empty-nest as a hobby trigger** — search and forum activity shows a distinct wave of people picking up guitar specifically because they've retired or the kids have left, separate from the "returning after injury" or "returning after a gap" framings already in the backlog.
+- **"How much fret buzz is actually normal?"** — a more nuanced companion query to "fret buzz fix," showing up on gear sites (Sweetwater) as its own distinct question; current backlog has the £0 fix video but not the "how do I know when to stop chasing it" companion.
+- **YouTube Shorts as a native format, not just a cut-down** — Shorts volume continues to climb; satisfying, hands-only craft footage (filing, sanding, restringing) is a strong organic fit for the channel's existing visual style, but the channel's current Shorts plan is cut-downs only, not purpose-built Shorts.
+
+---
+
+## New Video Ideas
+
+### 1. Is It Too Late to Start Guitar at 50? (or 60, or 70)
+- **Friction:** The doubt shows up before the guitar is even out of the case.
+- **Fix angle:** Reframing + a genuinely easy first setup, so the answer isn't just reassurance, it's a guitar that's actually easy to start on.
+- **Fix Ladder:** £0 lower expectations to "ten focused minutes a day" / £10–15 lighter strings from day one / £30–60 a proper beginner setup before lesson one / £100+ a crossover nylon or short-scale guitar sized to the player
+- **Audience appeal:** Very high — this is a top-of-funnel search query that brings in people who haven't found the channel yet, and it converts straight into the Fix Ladder format once they arrive.
+
+### 2. Crossover Nylon Guitars: The In-Between Instrument Nobody Mentions
+- **Friction:** Steel strings hurt; classical guitars feel like "someone else's instrument."
+- **Fix angle:** Instrument category explainer — slim neck, steel-string-style body, nylon tension.
+- **Fix Ladder:** £0 knowing the category exists / £15 trying a friend's or shop's nylon guitar before buying / £150–250 entry crossover models / £400+ higher-end crossover builds
+- **Audience appeal:** High, especially Comfortable Player persona — a genuine gap versus what's currently in the Easier Play Guitars doc and unaddressed on the channel.
+
+### 3. Do "Ergonomic" Guitars Actually Help Older Hands?
+- **Friction:** Marketing claims sound good; nobody's tested them against this audience's actual hands.
+- **Fix angle:** Honest evaluation, not a hype review — what carries over from a metal-player-designed neck to a 55-year-old's grip, and what doesn't.
+- **Fix Ladder:** £0 checking whether a standard neck profile is really the problem first / £20–40 neck profile sanding or a slimmer aftermarket nut / £150+ trying an ergonomic-neck guitar / £600+ premium ergonomic builds, with an honest note on whether the price is justified for this use case
+- **Audience appeal:** Medium-high — strong shareability into gear-forum spaces, positions the channel as the neutral voice in a market full of hype.
+
+### 4. Picking the Guitar Back Up After 20 Years
+- **Friction:** Hands don't move the way they used to; the guitar itself may have drifted out of setup sitting in a case or closet for two decades.
+- **Fix angle:** A "guitar reunion" narrative — check the instrument's condition first, separate rust on the player from rust on the guitar.
+- **Fix Ladder:** £0 full visual and playability check before touching a chord / £10–15 fresh strings, since old ones alone can explain most of the difficulty / £40–60 a full setup to undo years of drift / £100+ replacing tuners, nut, or saddle if parts have genuinely failed
+- **Audience appeal:** High emotional resonance with the 35–65 audience; strong candidate for a "viewer rescue" format down the line if it lands well.
+
+### 5. Guitar in Retirement: Starting (or Restarting) When the Schedule Finally Opens Up
+- **Friction:** Time is no longer the constraint; knowing where to start is.
+- **Fix angle:** Distinct from "returning after a gap" — this is a first real deep-dive for people with time now, not people recovering time.
+- **Fix Ladder:** £0 the 15-minute sprint applied to genuinely open schedules / £15 a practice log / £60 a setup that removes friction from day one / £150+ a guitar properly sized and set up for a long-term daily habit
+- **Audience appeal:** Medium — narrower than other ideas, but a clean persona fit and a natural home for affiliate-ready gear mentions.
+
+### 6. How Much Fret Buzz Is Actually a Problem?
+- **Friction:** The £0 buzz-fix video tells players how to fix buzz; this one tells them when to stop chasing it.
+- **Fix angle:** Companion/nuance piece — some buzz is inaudible through the amp or the body and isn't worth pursuing further.
+- **Fix Ladder:** £0 the "can you hear it unplugged, standing up, playing normally" test / £10 fret marker pencil test to isolate the fret / £40–60 a partial or full re-fret assessment from a luthier / £150+ a full fret level and crown
+- **Audience appeal:** Medium — smaller search volume than the main buzz video but reduces unnecessary spending, which fits the channel's honesty-first positioning well.
+
+### 7. 60-Second Fixes (new Shorts-native series, not a cut-down)
+- **Friction:** None per episode — this is a format play, not a friction-first video.
+- **Fix angle:** Purpose-built vertical Shorts of single satisfying actions: filing a nut slot, folding sandpaper for a fast nut adjustment, swapping to a lighter string set, seating a partial capo. Hands only, no talking, captioned.
+- **Fix Ladder:** N/A — feeds the full-length Fix Ladder videos they're drawn from.
+- **Audience appeal:** High reach potential, low production cost — reuses existing footage setups already planned for other videos.
+
+---
+
+## Content Gaps and Underexplored Angles
+
+1. **The "is it too late" anxiety cluster is untouched.** It's arguably the single highest-volume, highest-emotion search query adjacent to this channel's audience, and there's currently no video that meets it head-on.
+2. **Nylon/crossover guitars are documented internally (Easier Play Guitars doc) but not on the channel.** Clear doc-to-video gap — the research already exists.
+3. **No content evaluates the "ergonomic guitar" trend for this specific audience.** The market is being marketed at a different player entirely; the channel is well positioned to be the neutral, non-hype voice here.
+4. **Shorts are currently planned only as cut-downs**, not as a purpose-built native format, despite the channel's visual style (hands, close-ups, before/after) being a strong organic fit for Shorts.
+5. **Retirement as a distinct entry trigger** is not yet separated from "returning after a gap" — they're different emotional starting points and probably deserve different videos.
+
+---
+
+## High-Potential Titles, Hooks & Thumbnail Concepts
+
+### 1. "Is It Too Late to Start Guitar at 50?"
+- **Hook:** "Fifty is a start date. Here's the setup that makes it an easy one."
+- **Thumbnail:** Hands opening a guitar case for the first time; no text overlay beyond a simple price callout.
+
+### 2. "The Guitar That Isn't Quite Classical, Isn't Quite Acoustic"
+- **Hook:** "Nylon strings need less force than steel. Here's what that actually buys you."
+- **Thumbnail:** Close-up, same hand pressing a nylon string then a steel string side by side.
+
+### 3. "Do 'Ergonomic' Guitars Actually Help Older Hands?"
+- **Hook:** "This guitar wasn't designed with your hands in mind. Here's what still carries over."
+- **Thumbnail:** Two guitar necks side by side, standard profile vs. ergonomic profile, hand resting on each.
+
+### 4. "Picking the Guitar Back Up After 20 Years"
+- **Hook:** "The guitar drifted out of setup sitting in that case. So did some of the difficulty."
+- **Thumbnail:** Case lid opening, dust visible, guitar inside, warm light.
+
+### 5. "60-Second Fixes: Filing a Nut Slot"
+- **Hook:** None — native Shorts, captioned, no spoken hook needed.
+- **Thumbnail:** Extreme close-up of the file mid-stroke on the nut slot.
+
+---
+
+## Format Notes (update)
+
+- The "is it too late" video is a strong candidate for the next scripted video after the current backlog clears — it's top-of-funnel in a way nothing currently planned is.
+- The 60-Second Fixes series can be filmed opportunistically during full-length shoots already on the schedule — no separate production slot required, which fits the 15-minute sprint constraint on the creator's side too.
+- No genuinely new opportunities emerged in the "silent practice" or "PM Player" categories this pass — last update's ideas there still stand and don't need re-covering.

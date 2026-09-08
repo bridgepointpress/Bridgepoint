@@ -184,3 +184,79 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 8 September 2026
+
+## Note on Source Files
+
+Four docs referenced in the channel's planning material — the v10 backlog spreadsheet, Arthritis Checklist, Short Scale Guitars 2026, and Easier Play Guitars — could not be located under those names in Drive. What exists there instead: **`Bridge_and_Baseline_Final_v7.xlsx`** (a 52-video backlog across 10 phases, Videos 1–4 fully scripted) and **`guitar_arthritis_script.docx`**, an earlier draft covering some of the same ground as the scripted arthritis video, with a few ideas (partial capo systems, parlour/¾-scale guitars) that never made it into the final cut. This section is cross-checked against those files rather than the four named docs. Worth confirming whether those four are simply filed under different names, or still to be created — recommend attaching them directly next time so recommendations can cite them precisely.
+
+The v7 backlog already covers a lot of the ground a general trend scan would otherwise surface: general arthritis, one-handed/adaptive playing (technique-based), flare management, hand-size/limb-difference ("Small Fret Problem"), silent/stealth practice, headphone amps, DIY vs. luthier, and the full PM/practice-systems arc. The ideas below are new angles that sit next to those planned videos rather than repeating them.
+
+## Trending Topics & Keywords (new since June)
+
+- **Thumb base / CMC joint pain** — distinct from general arthritis and from carpal tunnel; guitar and hand-therapy sources are increasingly specific about this as its own mechanism (barre-chord counter-pressure, arm/elbow/shoulder loading rather than grip strength). Currently underserved as its own topic.
+- **Adaptive grip and strum devices** — Strumling, ChordBuddy, and Robo-Tar all show up in current accessibility coverage, spanning free-to-try through premium price points. No channel appears to be testing them side by side for guitarists specifically.
+- **DIY guitar kit builds** — steady, active niche (kit sellers reporting builder communities in the thousands) with a natural ergonomics angle that's currently framed around hobbyist assembly rather than fit-to-player customisation.
+- **AI camera-based playing analysis** — phone-camera apps that read form in real time are gaining coverage. The backlog's own "AI Practice Coach" entry frames this for skill-building; there's a distinct, still-open angle in using the same camera check for strain and posture rather than technique.
+
+## New Video Ideas
+
+**1. Thumb Pain When You Play? It's Probably a Different Joint Than You Think**
+- Friction: general arthritis content doesn't distinguish thumb-base (CMC) pain from finger-joint pain, so players apply the wrong fix
+- Fix angle: reframes the mechanical cause (barre-chord counter-pressure, arm/elbow/shoulder positioning) rather than treating it as generic arthritis
+- Fix Ladder: Free — thumb-over-neck repositioning and elbow height check · £5–20 — lighter strings / soft thumb support · £25–100 — professional setup lowering the force needed to fret · £100+ — guitar swap to a lower-tension scale length
+- Audience appeal: high — a precise, differentiated answer to a question the general arthritis video can't fully cover on its own
+
+**2. Three Grip and Strum Devices, Tried Side by Side**
+- Friction: players with limited grip or one working hand are told to "adapt" but rarely shown what the actual tools look or feel like
+- Fix angle: hands-on comparison across price tiers, framed as legitimate long-term equipment, not a stopgap
+- Fix Ladder: Free — pick-free thumb/finger strumming technique · £5–20 — Strumling-type pick-holding aid · £25–100 — ChordBuddy-type chord-forming aid · £100+ — Robo-Tar-type automated chord device
+- Audience appeal: high with the one-handed/limited-grip audience specifically; complements the backlog's technique-focused one-handed video rather than duplicating it — that one is about approach, this one is about hardware
+
+**3. Building a Guitar That Already Fits, Before It's Ever Played**
+- Friction: budget/DIY players assemble a kit for the build experience, then discover the same ergonomics problems a stock guitar would have had
+- Fix angle: choosing nut, scale length, and neck profile at build time instead of correcting them afterward
+- Fix Ladder: Free — n/a (build cost is the entry point) · £5–20 — nut blank and files added to a kit · £25–100 — mid-tier short-scale kit · £100+ — kit with premium hardware substituted in
+- Audience appeal: strong Budget DIYer fit; genuinely new territory, not in the current backlog
+- Flag for planning: higher physical and time load than a typical 15-minute-sprint video — schedule as a multi-session build, not a single sprint
+
+**4. Partial Capos: A Different Way to Shape a Chord**
+- Friction: standard chord shapes assume a stretch or grip some players don't have comfortably available
+- Fix angle: partial capo systems (e.g. Thalia, SpiderCapo — material already drafted for the arthritis script but unused) as a permanent way of reshaping which strings need fretting, not a workaround
+- Fix Ladder: Free — improvised partial-capo technique with a standard capo · £5–20 — basic partial capo · £25–100 — adjustable multi-position partial capo · £100+ — n/a, ceiling reached below £100
+- Audience appeal: moderate but loyal — a genuinely underexplored adaptive approach with existing unused script material to draw from
+
+**5. The Autumn Setup Check: What Changes When the Heating Comes On**
+- Friction: the shift from summer humidity to indoor heating moves action and relief without the player changing anything
+- Fix angle: seasonal-drift explainer, timed to publish now rather than held for winter
+- Fix Ladder: Free — relief and action recheck with what's already in the toolkit · £5–20 — humidifier for the case · £25–100 — in-case humidity monitor · £100+ — professional seasonal setup
+- Audience appeal: moderate; strong recurring/returning-viewer value if it becomes an annual anchor
+
+## Content Gaps and Underexplored Angles
+
+1. **CMC/thumb joint pain as its own topic** — sits between the general arthritis video and the carpal-tunnel gap already flagged in June; currently none of the three is fully separated from the others.
+2. **Hardware-first adaptive device coverage** — the backlog's one-handed video is technique-led; nobody in this space is doing a plain, comparative, price-tiered look at the physical devices themselves.
+3. **Ergonomics decided at build time, not fixed afterward** — DIY kit building is active online but almost never framed as a playability decision rather than a hobby project.
+4. **Unused script material** — the partial-capo and parlour/¾-scale content drafted for the arthritis script never shipped; low-effort to revisit as its own video rather than left stranded in a superseded draft.
+
+## Titles, Hooks & Thumbnail Concepts
+
+**"Thumb Pain When You Play? It's Probably Not Your Arthritis (It's This Joint)"**
+- Hook: "Same word, different joint, different fix."
+- Thumbnail: hand outline with the base-of-thumb joint highlighted; no text overlay beyond a simple arrow
+
+**"Three Grip Devices for One-Handed Players, Tried Side by Side"**
+- Hook: "Same friction, three different price points."
+- Thumbnail: the three devices laid out in a row with visible price tags, PTI series card
+
+**"Building a Guitar That Fits Before You Ever Play It"**
+- Hook: "The setup starts at the kit box, not after."
+- Thumbnail: unassembled kit parts next to the finished, ergonomically-set neck
+
+## Summary
+
+No shortage of fresh angles this cycle — the five ideas above sit alongside the existing 52-video backlog without overlapping it, and two (CMC joint pain, hardware-device comparison) look like strong near-term candidates given how clearly underserved they are elsewhere on YouTube. The main actionable gap isn't content — it's confirming where the Charter, Arthritis Checklist, Short Scale Guitars, and Easier Play Guitars docs actually live so future research can cite them directly.

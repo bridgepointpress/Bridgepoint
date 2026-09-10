@@ -184,3 +184,108 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+# Content Research Update — September 2026
+
+Builds on the June 2026 research above without replacing it. Focus this round: what's shifted in the last three months across adaptive playing, AI practice tools, and the returning-player segment.
+
+---
+
+## Trending Topics & Keywords (New or Shifted Since June)
+
+- **AI guitar coaching apps** (Yousician, Gibson App, SoundGate, Chordie AI) — real-time technique feedback, one app now tracks ~270 discrete skills per session. Rising search and install volume. Gap for this channel: these apps score technique, not instrument setup, and none of them distinguish "you played that wrong" from "your guitar made that harder than it needed to be."
+- **Adaptive strumming devices** — lever/pedal-actuated strumming attachments (e.g. Armstrum-type devices) and loop-style adaptive picks (e.g. ZeroGravity Orbit Pick) are getting renewed attention. Existing PTI content leans on fretting-hand adaptation (partial capos, Django-style approaches); the strumming side is comparatively unaddressed.
+- **Slide and open-tuning playing as a thumb-joint approach** — growing search interest connects CMC (thumb base) joint pain specifically to slide guitar as a fretting-free approach, distinct from the general arthritis conversation already covered.
+- **Short-scale credibility shift** — coverage increasingly treats short-scale as a mainstream choice rather than a starter instrument, pointing to bass guitar's own precedent (Paul McCartney, Jack Bruce, Mike Kerr). Useful for reframing the channel's existing short-scale content away from any lingering "beginner" association.
+- **Returning player as a distinct entry point** — content and search are increasingly separating "coming back after years away" from "starting for the first time." Returning players carry ear training and muscle memory but face a different physical and time-constraint profile than either beginners or continuous players.
+- **Headphone amp refresh** — Fender Mustang Micro Plus remains the reference point in comparison content; this stays a stable, evergreen comparison topic rather than a new trend.
+
+---
+
+## New Video Ideas
+
+### 1. Slide Guitar for Thumb Joint Pain
+- **Friction:** Fretting puts direct load through the thumb-base (CMC) joint, which is often the first place pain shows up.
+- **Fix angle:** Open tuning plus slide as a full alternative playing approach, not a fallback.
+- **Fix Ladder:** Free (open tuning on strings already installed, socket or pipe as an improvised slide) / Affordable — £8 glass slide / Quality upgrade — £25 brass or steel slide plus a lighter string set / Premium — £100+ resonator or dedicated lap-style setup
+- **Audience appeal:** Strong fit for Playing Through It; distinct mechanism from existing Ep 2–8 outline, so no overlap with planned backlog.
+
+### 2. What Your AI Guitar Coach Can't See
+- **Friction:** A practice app scores timing and accuracy but has no way to detect that the nut slots or action are what's actually making a passage hard.
+- **Fix angle:** Separating a technique problem from a setup problem before assuming the app's score is the whole picture.
+- **Fix Ladder:** Free (the manual checks the channel already teaches) / Affordable — feeler gauge kit / Quality upgrade — professional setup consult / Premium — full luthier setup
+- **Audience appeal:** Timely hook for a tech-literate audience segment; reinforces the channel's non-hype identity by contrast rather than criticism of the apps themselves.
+
+### 3. One-Handed Strumming: The Other Half of Adaptive Playing
+- **Friction:** Adaptive content for one-handed and limb-different players tends to focus on fretting-hand solutions; strumming-side mechanics are rarely addressed.
+- **Fix angle:** Comparing adaptive strumming devices and loop-style picks as legitimate, permanent approaches.
+- **Fix Ladder:** Free (strap and body positioning adjustments) / Affordable — loop-style adaptive pick, ~£10–15 / Quality upgrade — adjustable pick-holder hardware / Premium — dedicated strumming-assist device
+- **Audience appeal:** Fills a real gap next to the existing Django-framework episode; high shareability outside the guitar niche, similar to that video.
+
+### 4. The Guitar That's Been in the Case for Three Years
+- **Friction:** A returning player's ear and muscle memory are intact, but the instrument has drifted — old strings, seasonal neck movement, a setup baseline that's no longer valid.
+- **Fix angle:** A setup check framed specifically for the returning player, not the first-time buyer.
+- **Fix Ladder:** Free (retune, check relief and action) / Affordable — new strings, £8–15 / Quality upgrade — full re-setup / Premium — professional setup plus fresh accessories
+- **Audience appeal:** Speaks directly to a persona the channel currently folds into general audience language without a dedicated entry point.
+
+### 5. Short Scale Isn't the Beginner Guitar Anymore
+- **Friction:** Stigma around short-scale as a "starter" instrument keeps experienced and returning players from choosing what actually fits them.
+- **Fix angle:** Reframing short scale as a comfort decision at any skill level, using the mainstream/pro adoption precedent from short-scale bass.
+- **Fix Ladder:** Free (test scale length at a local shop before buying anything) / Affordable / Quality upgrade / Premium — full range of short-scale options already covered in the Short Scale Guitars doc.
+- **Audience appeal:** Direct extension of existing short-scale content; the reframe angle is new and timely.
+
+### 6. The Adaptive Pick Drawer
+- **Friction:** Reduced grip strength or dexterity makes a standard flat pick unreliable to hold, and most players don't know alternatives exist.
+- **Fix angle:** A comparison of loop picks, thumb picks, and grip-assist tools as a category, not a single product review.
+- **Fix Ladder:** Free (technique adjustment, bare-thumb or fingerstyle as an alternative) / Affordable — thumb pick or loop pick, £3–10 / Quality upgrade — ergonomic grip pick set / Premium — custom-molded pick
+- **Audience appeal:** Bridges arthritis-adjacent content and general ergonomics content; natural cross-link video.
+
+### 7. Why Returning Players Fix the Wrong Thing First
+- **Friction:** A returning player assumes the guitar is exactly as they left it and blames their own rustiness for problems that are actually setup drift.
+- **Fix angle:** PM insight — checking the baseline before diagnosing the variance, rather than assuming the starting conditions haven't changed.
+- **Fix Ladder:** Same structure as #4, but framed around the insight/diagnosis rather than the mechanical steps — natural companion piece to "The Guitar That's Been in the Case for Three Years."
+- **Audience appeal:** Strong fit for The PM Player series; pairs the returning-player persona with the channel's core project-management lens.
+
+---
+
+## Content Gaps and Underexplored Angles
+
+1. **Adaptive strumming devices and picks** — the existing backlog addresses fretting-hand adaptation (Django episode) but has no equivalent for the strumming hand. Clear, specific gap.
+2. **Slide guitar as a thumb-joint-specific approach** — distinct from the general arthritis conversation already planned; fits directly into the Playing Through It series without duplicating Ep 2–8.
+3. **Returning players as their own persona** — currently implied but not addressed head-on; a natural two-video pair (mechanical checklist + PM insight) would give this segment a proper entry point.
+4. **AI practice tools, addressed directly** — the channel hasn't yet positioned itself relative to the AI-coaching-app trend; one video here lets the channel state its distinction (setup vs. technique) without disparaging the tools themselves.
+5. **Grip and pick adaptation as a standalone category** — currently absent from the backlog entirely, despite being a natural bridge between the Playing Through It series and general ergonomics content.
+
+---
+
+## Titles, Hooks & Thumbnail Concepts
+
+### 1. "Slide Guitar: A Different Way In, Not a Consolation Prize"
+- **Hook:** "This isn't a workaround. It's a different way of getting the same music out."
+- **Thumbnail:** Slide resting across strings in open tuning, relaxed hand position, PTI series card.
+
+### 2. "What Your AI Guitar Coach Can't See"
+- **Hook:** "It can score your rhythm. It can't measure your nut slots."
+- **Thumbnail:** Phone screen showing a skill-percentage readout next to a feeler gauge on the fretboard.
+
+### 3. "The Guitar That's Been in the Case for Three Years"
+- **Hook:** "Your ear remembers everything. Your guitar has moved on without you."
+- **Thumbnail:** Case opening on a dusty guitar, feeler gauge and tuner laid out beside it.
+
+### 4. "Short Scale Isn't the Beginner Guitar Anymore"
+- **Hook:** "The guitar that actually fits you was there the whole time."
+- **Thumbnail:** Two guitars side by side with a scale-length measurement callout.
+
+### 5. "One-Handed Strumming: The Devices Nobody Talks About"
+- **Hook:** "Fretting-hand adaptations get all the attention. Here's the other half."
+- **Thumbnail:** Close-up of an adaptive strumming device mid-motion.
+
+---
+
+## Format Notes (September Update)
+
+- The AI-coaching-app video is a rare opportunity for the channel to state its own distinction (setup vs. technique) in direct contrast to a well-known trend — worth positioning carefully so it reads as clarifying, not critical of the apps or their users.
+- The returning-player pair (#4 and #7) works as a two-part release: mechanical checklist first, PM insight second — consistent with how other series pairs a demonstration video with a framing video.
+- No new gaps identified around sponsorship or Fix Ladder tier balance this round; existing brand doc and spreadsheet remain the reference for those decisions.

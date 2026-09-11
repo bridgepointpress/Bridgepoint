@@ -184,3 +184,115 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 11 September 2026
+
+Research refresh since the June 2026 pass. Focus: what's changed in the last quarter, and one significant news hook that's opened up since the last review.
+
+### Trending Topics & Keywords (new or shifted since June)
+
+- **Keith Richards' arthritis, in the open.** The Rolling Stones cancelled their 2026 tour in December 2025 over his arthritis, and in a March 2026 Guitar World interview he spoke plainly about it — fewer notes, large knuckles getting in the way, and a stated interest in "a wider fingerboard" to compensate. This is the single biggest news-adjacent opportunity the channel has had: a globally recognised guitarist describing, in his own words, the exact friction-and-adaptation loop this channel is built around. High-priority, time-sensitive.
+- **"Returning to guitar after a break"** is showing up across guitar media as its own content category, distinct from true-beginner content — muscle memory, chord shapes, and ear training return faster than they were learned the first time. The channel has referenced returning players implicitly but has no video that addresses the return-to-playing arc directly.
+- **Guitar ergonomics is going mainstream in gear press**, not just niche adaptive content — mid-2026 trend pieces are covering ergonomic contours and comfort as a primary design consideration rather than an afterthought. Useful signal that the channel's framing is ahead of, not behind, the wider conversation.
+- **Silent practice gear has a new budget entrant:** the Boss Katana:GO Mini, launched at $99, positioned as a direct headphone-amp competitor to the Vox Amplug and Fender Mustang Micro. Worth folding into the existing headphone amp comparison rather than a standalone video.
+- **New short-scale releases worth tracking:** the Martin 5-28 Terz (21.38" scale, 12-fret, smallest guitar Martin makes) and the Martin 0-17 (24.9" scale, full-size body). Both give the short-scale series fresh, specific, name-checkable examples instead of relying on older stock.
+- **AI-driven practice tools** (phone-camera playing analysis, real-time correction) are being framed by gear media as a 2026 trend. Fits the channel's "baseline and measure" language surprisingly well if evaluated honestly rather than hyped — an open question worth one evaluation video rather than an assumption either way.
+
+### New Video Ideas
+
+1. **Working title:** "What Keith Richards Just Said About His Hands"
+   **The friction:** A famous player naming, in public, the exact adaptation this channel already teaches — and viewers wondering if that means it's "too late" for their own hands.
+   **The fix angle:** Neck and nut width as an ergonomics fix, using Richards' own "wider fingerboard" comment as the entry point rather than the whole video.
+   **Fix Ladder sketch:**
+   - Free: test wider chord voicings and finger assignments before touching the guitar
+   - Affordable (£5–20): compensated or wider-radius nut assessment, string spacing check
+   - Quality upgrade (£25–100): aftermarket nut cut for wider string spacing
+   - Premium (£100+): neck swap or guitar chosen specifically for wider fingerboard/string spacing
+
+2. **Working title:** "Coming Back to Guitar After a Long Break"
+   **The friction:** A player who used to play, stopped for years, and doesn't know what's actually going to come back versus what needs relearning from zero.
+   **The fix angle:** Reframes "starting over" as a baseline-and-measure problem — assess what's still there before assuming a rebuild is needed.
+   **Fix Ladder sketch:**
+   - Free: a 10-minute self-assessment routine to find what's retained
+   - Affordable (£5–20): fresh strings, since old ones are usually the real reason it "feels wrong"
+   - Quality upgrade (£25–100): a setup check, since the guitar has likely drifted as much as the player has
+   - Premium (£100+): a properly fitted instrument if the original guitar was never right to begin with
+
+3. **Working title:** "The £99 Headphone Amp Update"
+   **The friction:** The existing silent-practice comparison is a few months old and a genuinely relevant budget option has entered the market since.
+   **The fix angle:** Short, focused update video rather than a full re-shoot — folds the Boss Katana:GO Mini into the existing Fix Ladder framing.
+   **Fix Ladder sketch:**
+   - Free: phone speaker/acoustic muting recap (link back to original video)
+   - Affordable (£5–20): n/a at this tier for headphone amps — note honestly rather than force a slot
+   - Quality upgrade (£25–100): Boss Katana:GO Mini, Vox Amplug 3
+   - Premium (£100+): Fender Mustang Micro Plus, Boss Waza Air
+
+4. **Working title:** "Two New Short-Scale Guitars Worth Knowing About"
+   **The friction:** Short-scale recommendations tend to rely on the same handful of older, well-known models; players researching in 2026 want to know what's actually current.
+   **The fix angle:** Named, specific update to the short-scale series using the Martin 5-28 Terz and 0-17 as concrete new examples.
+   **Fix Ladder sketch:**
+   - Free: scale-length self-check against existing guitar (nut-to-12th-fret measurement)
+   - Affordable (£5–20): n/a — this is an instrument-selection video, not a modification one
+   - Quality upgrade (£25–100): budget short-scale options for comparison context
+   - Premium (£100+): Martin 5-28 Terz, Martin 0-17
+
+5. **Working title:** "Do AI Practice Apps Actually Help, or Just Measure?"
+   **The friction:** Players seeing camera-based AI coaching apps advertised and not knowing whether they're a genuine aid or another thing to feel behind on.
+   **The fix angle:** An honest, PM-lens evaluation — treat the app as a measurement tool against the channel's existing baseline-and-measure philosophy, not as a verdict on the player.
+   **Fix Ladder sketch:**
+   - Free: manual self-recording and review, the low-tech version of the same idea
+   - Affordable (£5–20): budget tuner/metronome apps with basic feedback
+   - Quality upgrade (£25–100): mid-tier AI practice app subscription, tested honestly
+   - Premium (£100+): full AI coaching platforms, evaluated the same way
+
+6. **Working title:** "Why Your Guitar Feels Different in September Than It Did in June"
+   **The friction:** Seasonal changeover from summer humidity to indoor heating start; a natural, recurring companion to the existing winter-drift video, timed for when it's actually relevant.
+   **The fix angle:** Same seasonal-drift insight as the existing "What Happens to Your Guitar in Winter" idea, but positioned as the early-autumn version so the channel has a seasonal pair rather than one video.
+   **Fix Ladder sketch:**
+   - Free: humidity awareness check, where the guitar is stored
+   - Affordable (£5–20): basic humidity monitor
+   - Quality upgrade (£25–100): soundhole humidifier
+   - Premium (£100+): case or room humidity control system
+
+### Content Gaps and Underexplored Angles (this pass)
+
+1. **No content has capitalised on a high-profile, timely hook.** The Richards story is time-sensitive — the interview and tour cancellation are recent news, and relevance fades. This is the one gap worth prioritising ahead of the others.
+2. **The "returning player" arc has never been addressed head-on.** It's implicit throughout the channel (pawn shop rescue, identity video) but no video owns the specific emotional territory of "I used to play and stopped."
+3. **The silent-practice and short-scale series are both due for a refresh cycle**, not because the original videos were wrong, but because named product landscapes date quickly and specific, current examples build more trust than general advice.
+4. **AI practice tools are an open question the channel hasn't weighed in on.** Silence here reads as either unawareness or avoidance; an honest evaluation fits the channel's existing scepticism-without-cynicism tone.
+
+### Titles, Hooks & Thumbnail Concepts
+
+**1. "What Keith Richards Just Said About His Hands"**
+- Hook: "He's been playing for sixty years. He still had to change his setup."
+- Thumbnail: Richards press photo alongside a wide-nut close-up; no text overlay beyond a small "wider fingerboard" callout
+
+**2. "Coming Back to Guitar After a Long Break"**
+- Hook: "Before you assume you have to start over, find out what's actually still there."
+- Thumbnail: Dusty guitar case being opened; simple before/after "still know this / relearning this" split
+
+**3. "The £99 Headphone Amp That Changes the Silent Practice Math"**
+- Hook: "The comparison video needed an update. Here's what's new."
+- Thumbnail: Three headphone amps in a row with price tags, newest one highlighted
+
+**4. "Two New Short-Scale Guitars Worth Knowing About"**
+- Hook: "Martin's smallest guitar yet, and the one built for full-size hands on a short scale."
+- Thumbnail: Two guitars side by side with scale-length measurement overlay
+
+**5. "Do AI Practice Apps Actually Help?"**
+- Hook: "Measured honestly, against the same baseline as everything else on this channel."
+- Thumbnail: Phone propped against guitar case, simple UI overlay, no hype graphics
+
+### Sources Consulted
+
+- [How Keith Richards Has Adapted His Guitar Playing Due to Arthritis — Ultimate Classic Rock](https://ultimateclassicrock.com/keith-richards-arthritis-guitar-playing/)
+- [Keith Richards on how arthritis has changed his playing — Guitar World](https://www.guitarworld.com/artists/guitarists/keith-richards-arthritis-impact)
+- [Rolling Stones cancel 2026 tour due to Keith Richards' arthritis — Anchorage Daily News](https://www.adn.com/arts/music/2025/12/18/rolling-stones-cancel-2026-tour-due-to-keith-richards-arthritis/)
+- [Best headphone amps for guitar 2026: silent practice — Guitar World](https://www.guitarworld.com/features/best-headphone-amp-for-guitar)
+- [New Models for 2026 — Martin Guitar](https://www.martinguitar.com/new-models-2026.html)
+- [Best short-scale basses 2026 — Guitar World](https://www.guitarworld.com/features/best-short-scale-basses)
+- [Coming Back to Guitar: The Best Guitars for Returning Players — MyGuitarMatch](https://www.myguitarmatch.com/blog/best-guitars-for-returning-players/)
+- [Tips For Returning To The Guitar After A Break — LickLibrary](https://www.licklibrary.com/news/tips-for-returning-to-the-guitar-after-a-break)
+- [2026 Custom Guitar Trends: What US Players Are Actually Searching For — Custom Guitar Atelier](https://customguitaratelier.com/2026/06/24/2026-custom-guitar-trends-what-us-players-are-actually-searching-for/)

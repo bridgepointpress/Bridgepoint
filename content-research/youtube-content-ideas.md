@@ -184,3 +184,61 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — September 2026
+
+Cross-checked against `Bridge_and_Baseline_Final_v7.xlsx` (51-video master backlog, all Strong Fit, fully scripted through the "First 10") and the June 2026 research above before adding anything below. Most high-volume searches (action, buzzing, arthritis, silent practice, ergonomics, budget rescue) are already well covered by the backlog or the June list — this update focuses on angles neither one currently owns.
+
+### Trending Topics & Keywords (new since June)
+
+- **"Guitarist as an athlete" framing** — 2026 guitar-press coverage (GuitarWorld) is reframing long-term hand health as athletic maintenance rather than a decline story: warm-up, load management, prevention. Distinct from the channel's existing reactive "my hands hurt today" content.
+- **The aging "shred generation"** — players who played hard in their teens/20s are now hitting their 50s–60s and feeling decades of repetitive strain for the first time. A nostalgia-plus-friction hook that's under-served relative to how large that cohort is.
+- **Adaptive picks** — thicker grips, ergonomic pick shapes, and pick alternatives are being named specifically for arthritis, carpal tunnel, and muscular dystrophy in current adaptive-guitar coverage. The channel has never covered picks as a Fix Ladder category — everything so far is strings, nut, saddle, strap.
+- **Fingertip protection / silicone finger caps** — recurring search alternative to "just build calluses," which is exactly the kind of unhelpful non-answer this channel exists to replace.
+- **Compression / copper gloves** — a specific, searched, low-cost product category for arthritic hands that hasn't appeared on the ladder yet.
+- **Self-tuning / motorized tuning pegs** (Tronical, D'Addario) — reframed here not as gadgetry but as an accessibility fix for players whose hands can't manage fine tuning-peg turns.
+- **Guitar and mental health for returning adults** — 2026 market coverage ties instrument sales growth partly to wellbeing motivations. A useful top-of-funnel emotional hook distinct from the channel's usual mechanical-fix entry points.
+- **Muscular dystrophy** — named alongside arthritis and carpal tunnel in current adaptive-guitar sources; not yet claimed as its own Playing Through It episode (the June list covers carpal tunnel, tendinitis, trigger finger, neuropathy, but not this).
+
+### New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Guitar Picks for Painful Fingers: The Fix Ladder Nobody Talks About** | Standard picks require pinch grip and precision that hurts or isn't possible for some hands | Hardware swap — the cheapest, most overlooked tier on the whole channel | $0: thumb-and-finger fingerpicking, no pick → $5: Wegen/Dunlop ergonomic grip picks → $15: thumb pick + fingerpicks combo → $30+: adaptive strap-on pick devices |
+| **Compression Gloves for Guitar: Do They Actually Help?** | Morning stiffness and swelling make the first ten minutes of playing the hardest part of the session | Honest, unhyped product test with a real before/after grip and comfort check | $0: hand massage/warm water before playing → $12: budget copper compression gloves → $25: fingerless arthritis gloves designed for dexterity work → $50+: medical-grade compression wear |
+| **Muscular Dystrophy and the Guitar: What's Actually Possible** | An underserved Playing Through It condition; players assume reduced strength rules out playing entirely | Load-reduction setup + adaptive technique, same lens as the arthritis and one-handed episodes | $0: open tuning to remove fretting-hand load → $6: lightest strings available → $30: partial capo → $150+: short-scale, lightweight-body guitar |
+| **Self-Tuning Guitars: Gimmick or Genuine Accessibility Fix?** | Fine tuning-peg adjustments are one of the least-discussed daily friction points for stiff or weak hands | Tests a "smart" product against the channel's usual skepticism of gear-hype, keeps it in playability terms | $0: a clip-on tuner and slower, more careful hand technique → $20: geared tuning pegs → $80: partial motorized retrofit → $200+: full Tronical PowerTune-style system |
+| **Playing Guitar Like an Athlete: Why Warm-Up Isn't Optional at 50** | Frames long-term hand health as prevention, not damage control — different from the existing reactive "warmup when it hurts" video | Off-guitar routine: a repeatable, timed warm-up that fits inside the 15-minute sprint rather than stealing from it | $0: a 2-minute hand/wrist mobility routine before every sprint → $8: stress ball or hand exerciser → $20: therapy putty set → $40: full grip-strength kit |
+| **I Played Hard in My 20s. Here's What 30 Years of Guitar Did to My Hands.** | Speaks directly to the "shred generation" — players feeling decades of repetitive strain for the first time, often before any arthritis diagnosis | Personal-history framing into the channel's usual setup-and-load-management fixes; strong identity/shareability video | $0: technique audit — grip force, pick angle, thumb position → $15: lighter strings → $30: partial capo for high-friction songs → $80: professional setup to reduce required force |
+| **Why Guitar Is Having a Moment for Adults Right Now** | Not a friction video — a top-of-funnel "why bother restarting" video for lapsed players drawn back by wellbeing/mental-health motivations | Channel-thesis video: connects the emotional pull back to guitar with the practical reason most restarts fail (friction, not willpower) | Framed as a "starting kit," not a ladder: $0 open the case tonight → $6 fresh strings → $25 comfort setup → the 15-minute sprint as the practice system that makes it stick |
+
+### Content Gaps and Underexplored Angles
+
+1. **Picks and grip are entirely absent from the Fix Ladder so far.** Every existing video's ladder runs through strings, nut, saddle, and strap — picks are a cheap, high-relevance tier the channel hasn't touched.
+2. **Gloves and off-guitar hand-comfort products** (compression, therapy putty, hand exercisers) are a natural low-cost tier that's never appeared, despite being exactly what the arthritis-focused audience already searches for.
+3. **Muscular dystrophy** is a named adaptive-guitar condition in current coverage that Playing Through It hasn't claimed, unlike arthritis, carpal tunnel, tendinitis, trigger finger, and neuropathy, which the backlog and June list already own.
+4. **Preventive, athlete-style hand care** is a different video from the existing reactive "warm-up when it hurts" idea — worth keeping distinct rather than merging, since it targets viewers who don't yet have pain but want to avoid it.
+5. **The "aging shred generation" persona** — distinct from "arthritis" and from "returning after a break" — is a nostalgia-driven identity angle the backlog hasn's used yet, and it's a natural bridge from the channel's PM-identity video (Video 8) to the Playing Through It series.
+6. **A single "why now" motivational video** — the backlog is dense with mechanical fixes but light on one clear emotional on-ramp for a lapsed player who hasn't yet decided to pick the guitar back up at all.
+
+### Titles, Hooks & Thumbnail Concepts
+
+**1. "Guitar Picks for Painful Fingers: The Fix Ladder Nobody Talks About"**
+- Hook: "You've fixed the nut. You've fixed the strings. Nobody ever fixes the pick."
+- Thumbnail: close-up of a hand struggling to hold a standard pick next to an ergonomic grip pick, no faces
+
+**2. "Muscular Dystrophy and the Guitar: What's Actually Possible"**
+- Hook: "Reduced strength doesn't mean no guitar. It means a different Fix Ladder."
+- Thumbnail: hands on a short-scale guitar; amber "PLAYING THROUGH IT" series bar, consistent with the arthritis episode's visual identity
+
+**3. "I Played Hard in My 20s. Here's What 30 Years of Guitar Did to My Hands."**
+- Hook: "Nobody warned the shred generation about this part."
+- Thumbnail: old show/band photo corner-inset against a present-day close-up of hands mid-setup
+
+**4. "Self-Tuning Guitars: Gimmick or Genuine Accessibility Fix?"**
+- Hook: "I was ready to dismiss this. Then I tried tuning with stiff hands."
+- Thumbnail: motorized tuning peg close-up with a stopwatch overlay comparing tuning time
+
+If a future review turns up nothing beyond what's already logged here and in the backlog, that will be noted directly rather than padded with repeats.

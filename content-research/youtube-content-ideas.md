@@ -184,3 +184,76 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — September 2026
+
+*Scheduled research run. Builds on the June 2026 report above rather than replacing it — cross-checked against it to avoid duplicating ideas already logged (PTI Eps 2–8, silent practice series, budget rescue series, practice systems, PM Player series).*
+
+## Trending Topics & Keywords (new since last pass)
+
+- **Keith Richards' arthritis interview (March 2026)** — widely covered guitar-press story; Richards described "compensating" for reduced nimbleness rather than fighting through it. Direct overlap with the channel's adaptive-playing thesis and a rare moment a mainstream figure normalises adaptation.
+- **Boutique ergonomic contour bodies** — 2026 guitar-press coverage (Custom Guitar Atelier and others) shows a real trend toward ergonomic-contour boutique builds. Mostly priced and marketed toward serious players, not this audience — a gap and an opportunity to translate it.
+- **AI-driven real-time playing-correction apps** — phone-camera apps that flag "technique" issues are being promoted heavily for 2026. Search interest is rising, but this sits outside the channel's setup-first lens; worth a myth-busting angle rather than a gear review (see gaps below).
+- **Adaptive attachment devices (ChordBuddy, Robo-Tar and similar)** — ongoing disability-press coverage of chord-assist and one-handed playing devices. These aren't setup fixes, but viewers asking about arthritis or limited mobility will find them via search — the channel currently has no video that helps a viewer decide between "fix the setup first" and "try a device."
+- **Tuning stability / hardware reliability searches** — trending among home-recording players; tone-adjacent and not a strong fit for this channel's playability lens. Flagged and set aside rather than pursued.
+
+## Output A — New Video Ideas
+
+**1. Working title: "What Keith Richards Actually Changed"**
+- Friction: Older players see a guitar hero described as "compensating" for arthritis in the press and don't know what that means in practical terms, or where their own equivalent starting point is.
+- Fix angle: Newsjack format — use the interview as a hook into concrete PTI-style setup and technique adaptations.
+- Fix Ladder: Free — grip and warm-up adjustment · £5–20 — lighter-gauge strings · £25–100 — partial capo or thumb pick · £100+ — short-scale guitar swap.
+- Adaptive relevance: high — this is a PTI-series episode in disguise, anchored to a moment the audience has likely already seen discussed elsewhere.
+
+**2. Working title: "Setup Fix or Adaptive Device? A Decision Framework"**
+- Friction: A viewer with significant grip or mobility limits sees an ad for a chord-assist gadget and doesn't know whether to try that first or get the guitar itself sorted out.
+- Fix angle: ROI-based decision framework, evaluating device-based aids (ChordBuddy-type products, one-handed playing attachments) against setup fixes using the same Fix Ladder logic the channel already applies to hardware.
+- Fix Ladder: Free — confirm the setup baseline before spending anything · £5–20 — adaptive pick or grip aid · £25–100 — used chord-assist device · £100+ — dedicated adaptive attachment.
+- Adaptive relevance: high — directly extends the Playing Through It series into a category (assistive devices) the channel hasn't evaluated yet.
+
+**3. Working title: "Ergonomic Contour Guitars: Worth It, or Just a Setup Fix in a Fancier Shape?"**
+- Friction: Boutique ergonomic-body guitars are getting press coverage and a price tag to match; a comfortable-tier viewer wonders whether the body shape is solving a problem their current guitar's setup already could.
+- Fix angle: Tests whether a standard-body guitar plus a proper setup and strap adjustment closes most of the comfort gap that a premium contour body claims to solve.
+- Fix Ladder: Free — strap height and playing position check · £5–20 — foam body contour pad · £25–100 — secondhand ergonomic-body guitar · £100+ — new boutique contour build.
+- Adaptive relevance: moderate — relevant to shoulder/back strain and asymmetric mobility, not specific to hand conditions.
+
+**4. Working title: "Can an App Tell You Your Guitar Is the Problem?"**
+- Friction: Players using the new wave of AI coaching apps get told their "technique" is off, when the real cause is buzz, high action, or poor intonation the app can't detect.
+- Fix angle: Runs an AI coaching app against a guitar with a known, deliberately introduced setup fault, showing what the app flags versus what a five-minute setup check actually finds.
+- Fix Ladder: Free — the setup check itself · £5–20 — feeler gauge · £25–100 — quality upgrade if the check finds a real fault · £100+ — not required for this video, noted as such rather than forced in.
+- Adaptive relevance: low, but strong channel-positioning value — reinforces that difficulty is diagnosed at the instrument first, not assumed to be the player.
+
+**5. Working title: "Starting Guitar After 50: The First Six Setup Checks"**
+- Friction: Rising number of first-time adult learners starting later in life; most beginner content assumes young hands and no prior injuries, and doesn't address what to check on a first guitar before blaming yourself for slow progress.
+- Fix angle: Evergreen entry-point video — the channel's core setup checklist reframed explicitly for a first-time older beginner.
+- Fix Ladder: Free — nut slot and relief check · £5–20 — string gauge swap · £25–100 — professional setup if self-check finds a real fault · £100+ — not required for this video.
+- Adaptive relevance: high — natural on-ramp video for new subscribers who haven't seen the Playing Through It series yet.
+
+## Gaps and Underexplored Angles (new)
+
+1. **No video yet addresses adaptive attachment devices at all** — the channel has covered setup and technique adaptation extensively but never evaluated the device category (ChordBuddy, Robo-Tar-type products) that viewers searching "guitar with arthritis" or "one-handed guitar" will also encounter. Idea 2 above addresses this directly; worth prioritising given how directly it extends the Playing Through It series.
+2. **No newsjack format used yet** — every existing idea is evergreen or seasonal. A timely hook (Idea 1) is a different discovery lever than the channel has tried and worth testing once.
+3. **AI coaching apps are a trend the channel should address by contrast, not adoption** — the format doesn't fit the Fix Ladder or the setup-first philosophy as a gear review, but ignoring it entirely leaves a positioning gap when viewers are actively being told technique apps will fix problems that are often mechanical. Idea 4 turns this into a myth-busting video rather than a product endorsement.
+4. **Ergonomic-contour trend is currently priced and marketed above this audience** — no one is translating it downward into "what does this actually buy you over a standard body plus a real setup." Idea 3 fills that.
+5. **Tuning stability / hardware-reliability search trend intentionally not pursued** — it's tone- and recording-adjacent rather than playability-adjacent, and doesn't pass the channel's editorial lens. Noted so it isn't re-surfaced as a "missed opportunity" next pass.
+
+## Titles, Hooks & Thumbnails for High-Potential Ideas
+
+**"What Keith Richards Actually Changed"**
+- Hook: "He didn't push through it. He changed what he was doing. Here's the version of that anyone can use."
+- Thumbnail: Close-up of a hand on a guitar neck, aged and steady, no text — PTI series card with episode number.
+
+**"Setup Fix or Adaptive Device? A Decision Framework"**
+- Hook: "Before you buy the gadget, check whether the guitar even needs it."
+- Thumbnail: A standard guitar and a chord-assist device side by side, both plainly priced, no judgment implied by placement.
+
+**"Starting Guitar After 50: The First Six Setup Checks"**
+- Hook: "Nobody told you to check the guitar before you blamed your hands."
+- Thumbnail: Feeler gauge against a fretboard, simple and literal — no face, consistent with existing Shorts-ready identity rules.
+
+## Confirmation
+
+New opportunities did emerge this pass — five video ideas above, none duplicating the existing backlog, plus one format gap (newsjacking) and one device-category gap (adaptive attachments) not previously logged. The AI-coaching-app and tuning-stability trends were evaluated and are noted above rather than turned into ideas, since they sit outside the channel's setup-first, playability-focused lens.

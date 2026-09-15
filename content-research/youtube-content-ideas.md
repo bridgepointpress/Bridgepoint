@@ -184,3 +184,78 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — 15 September 2026
+
+Cross-checked against the existing ideas above and the Drive backlog (`Bridge_and_Baseline_Final_v7.xlsx`, videos 1–52+) to avoid duplication. Everything below is new since the June research pass.
+
+## Trending Topics & Keywords (new signal since June)
+
+- **"Guitarists as athletes" / hand pre-hab** — a July 2026 Guitar World piece reframes ageing players' hand care as athletic maintenance rather than damage control. Fits the channel's PM lens (preventive, not just reactive) but no channel has claimed this framing yet.
+- **AI real-time practice coaching (camera/mic feedback)** — a wave of 2026 apps (Yousician's "June" AI coach, SoundGate, Chordie AI, Gibson App, FretPractice) now score pitch/timing live and correct posture via phone camera. High search volume, zero coverage of whether these tools help or add friction for players with reduced dexterity or slower processing.
+- **Slide guitar / thumb-over-neck as adaptive technique** — recurring recommendation in arthritis-and-guitar coverage (especially for thumb/CMC joint pain) that the channel hasn't touched. Fretting-free and low-force by design.
+- **24–24.75" scale length as the specific "arthritis-friendly" range** — coverage is converging on a concrete spec rather than "get a smaller guitar." Sharper, more measurable angle than the channel's existing short-scale content.
+- **Nut width and neck profile as separate specs from scale length** — small-hands content is starting to separate "shorter" from "narrower/slimmer," which the channel's current short-scale angle doesn't yet distinguish.
+- **"Returning to guitar after a break" / guitar revival** — strong, growing search and YouTube volume in 2026, but almost all existing coverage is motivational/technique-focused, not setup-focused. No one is addressing what actually happens to a guitar that's sat in a case for years (dead strings, truss rod drift, dried-out humidity) before the player picks it back up.
+- **Factory setups reportedly improving in 2026** — several buying guides now claim mid-tier factory setups are more consistent than a few years ago. Worth a skeptical, measured on-camera test rather than taking the claim at face value.
+
+## New Video Ideas (Output A)
+
+1. **Working title:** "Should You Trust an AI Guitar Coach? I Tested One Against My Own Setup Checklist"
+   **Friction:** Players are being sold real-time AI feedback apps but don't know if the correction they're getting is about technique or about a guitar that isn't set up for them yet.
+   **Fix angle:** Evaluation format — does the app's feedback change once the guitar is properly set up? Separates "AI says fix your technique" from "the guitar was the problem all along."
+   **Fix Ladder sketch:** Free — a free-tier app plus the channel's existing 3-point setup check / Affordable — a paid app tier (~£8–12/mo) / Quality upgrade — app plus a proper Fix Ladder setup pass (~£25–35 in parts) / Premium — app plus a professional setup (~£75–100), for comparison only.
+
+2. **Working title:** "Slide Guitar: The Adaptive Technique Nobody Mentions for Thumb Pain"
+   **Friction:** CMC joint / thumb-base arthritis makes standard fretting painful, and most arthritis content still centres on optimising the fretting hand rather than offering a genuinely different approach.
+   **Fix angle:** Introduces slide and thumb-over-neck playing as permanent, legitimate techniques — not a workaround, not a lesser version of "real" playing.
+   **Fix Ladder sketch:** Free — technique demo with existing guitar and a household glass/bottleneck test / Affordable — a proper glass or brass slide (£8–15) / Quality upgrade — raised nut extender or dedicated slide setup (£25–40) / Premium — a guitar set up specifically for slide (£100+, open tuning + higher relief).
+
+3. **Working title:** "The Guitar You Put Down Ten Years Ago: What Actually Changed"
+   **Friction:** A returning player picks up a stored guitar expecting it to feel like it used to — and it doesn't, which they read as their own skill having declined rather than the instrument having drifted.
+   **Fix angle:** Diagnostic walkthrough of what happens to a guitar in storage — dead strings, truss rod movement from humidity swings, nut and saddle wear — reframing "this feels harder" as a baseline that moved, not a player who got worse.
+   **Fix Ladder sketch:** Free — truss rod and action check against factory baseline / Affordable — fresh strings (£6–10) / Quality upgrade — nut and saddle refresh (£25–35) / Premium — full setup service (£75–100) for a guitar that's been stored a long time.
+
+4. **Working title:** "24.75 Inches: The One Number That Might Matter More Than Guitar Size"
+   **Friction:** Players told to "get a smaller guitar" for comfort don't know which spec is actually doing the work — body size, scale length, and neck width all get conflated.
+   **Fix angle:** Explainer that isolates scale length specifically, with a hands-on fret-stretch comparison across two guitars at different scale lengths but similar body size.
+   **Fix Ladder sketch:** Free — measure your current guitar's scale length and compare to the 24–24.75" range / Affordable — capo-based partial-stretch test before buying anything / Quality upgrade — a short-scale conversion where feasible (~£40–60 in setup work) / Premium — a dedicated short-scale instrument (£150+).
+
+5. **Working title:** "Nut Width vs. Scale Length: Two Different Comfort Problems"
+   **Friction:** A player buys a shorter-scale guitar expecting relief and finds the neck still feels too wide or too narrow — because scale length and nut width solve different problems.
+   **Fix angle:** Side-by-side explainer separating "reach between frets" (scale length) from "spacing between strings" (nut width/neck profile), so viewers know which spec to chase for their specific friction.
+   **Fix Ladder sketch:** Free — measure your nut width with a ruler and compare to two reference guitars / Affordable — try a different string gauge to change perceived spacing (£6–10) / Quality upgrade — a nut swap to a different width where feasible (£25–40) / Premium — a neck or guitar chosen specifically for nut width and profile (£150+).
+
+6. **Working title:** "Hand Pre-Hab: Treating Your Hands Like an Athlete Would (Without the Gym Talk)"
+   **Friction:** Most hand-health content for guitarists is reactive — what to do once something already hurts — leaving no content on maintenance before pain shows up.
+   **Fix angle:** Applies the channel's baseline/measure PM logic to physical maintenance: a short, repeatable warm-up and load-management routine framed as project maintenance, not fitness culture.
+   **Fix Ladder sketch:** Free — a 90-second warm-up routine before every session / Affordable — a stress ball or hand exerciser (£5–12) / Quality upgrade — lighter strings as a standing load-reduction measure (£8–15) / Premium — an occupational therapy consult for a personalised routine (£100+, one-off).
+
+## Content Gaps and Underexplored Angles (new)
+
+1. **AI practice-coaching apps evaluated through the friction lens** — genuinely new in 2026, currently un-covered by any channel from a setup-first angle. High differentiation potential and a natural Mode 2 sponsorship/affiliate candidate once a specific app is trialled.
+2. **Slide and thumb-over-neck as permanent adaptive techniques** — the channel's Playing Through It series has covered setup fixes for arthritis extensively but not alternative playing approaches that sidestep standard fretting altogether.
+3. **Preventive hand maintenance ("pre-hab")** — everything scripted so far responds to friction that already exists; nothing yet addresses maintaining hand health before pain appears, which fits the PM "baseline and measure" logic particularly well.
+4. **Dormant/returning-guitar diagnostics** — distinct from the existing "Keep Playing When Life Gets Busy" practice-systems idea; this is about the instrument's physical drift during storage, tied to the strong "returning to guitar" search trend.
+5. **Nut width and neck profile as their own spec**, separate from the channel's existing scale-length content — sharpens an already-planned angle rather than replacing it.
+
+## Titles, Hooks & Thumbnail Concepts (new, high-potential)
+
+### 1. "Should You Trust an AI Guitar Coach?"
+- **Hook:** "It told me to fix my technique. My guitar hadn't been set up in four years."
+- **Thumbnail:** Phone showing an app's feedback screen next to a feeler gauge on the fretboard; no on-screen text beyond the app UI itself.
+
+### 2. "Slide Guitar for Thumb Pain: A Different Way In"
+- **Hook:** "Fretting isn't the only way to play. For some hands, it's not even the best way."
+- **Thumbnail:** Slide resting on strings, PTI series card, close framing on the hand.
+
+### 3. "The Guitar You Put Down Ten Years Ago"
+- **Hook:** "It's not that you got worse. The guitar moved without you."
+- **Thumbnail:** Dusty case opening to reveal the guitar inside; truss rod tool laid beside it.
+
+## Confirmation
+
+New opportunities did emerge this cycle — six video ideas above, none overlapping the existing 50+ item backlog. The AI-coaching-app angle and the slide/thumb-over-neck adaptive technique are the two strongest candidates for near-term scheduling: both are genuinely uncovered gaps with clear channel fit and no equivalent planned in the v7 spreadsheet.

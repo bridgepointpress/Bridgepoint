@@ -184,3 +184,77 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Research Update — September 16, 2026
+
+**Backlog check first:** Cross-referenced against the 52-video plan in `Bridge_and_Baseline_Final_v7.xlsx` (Videos 1–52, including the 7-episode Playing Through It arc) and the ideas already logged above. Coverage is already deep — arthritis, tendinitis, carpal tunnel, one-handed/adaptive playing, partial capos as a technique, nut/action fixes, AI practice tools, and budget rescue are all planned or logged. The ideas below are angles that genuinely aren't covered anywhere yet, several prompted by things that only exist as of 2026.
+
+### New Video Ideas (not duplicated elsewhere)
+
+**1. Ergonomic Picks Compared: Does Grip Shape Change How Long You Can Play?**
+- **Friction:** A standard flat pick needs a sustained pinch grip — for players with joint pain or reduced grip strength, that pinch is often the first thing to give out, before the fretting hand even gets tired.
+- **Fix angle:** Hardware comparison, timed on camera (minutes of comfortable strumming before fatigue).
+- **Fix Ladder:** Free — adjust the angle and grip point on a pick already owned · Affordable £5–20 — Dunlop Stubby / Wegen-style thicker grip picks, thumb picks · Quality upgrade £25–100 — patented ergonomic-grip plectrums, a small multi-shape test pack · Premium £100+ — a custom-molded pick fitted to the player's own hand.
+- **Audience appeal:** High — picks are the one point of hand contact the channel has never covered, despite being central to the whole thesis.
+
+**2. ChordBuddy and the Chord-Assist Gadgets: Do They Actually Help?**
+- **Friction:** Players with arthritis or limited finger independence want to play open chords now, and can't tell from marketing alone whether colour-coded chord-assist devices are a legitimate bridge or an expensive gimmick.
+- **Fix angle:** Honest, tested product verdict — distinct from the existing "One-Handed and Adaptive Guitar" video, which is technique-only (open tuning, capo, EBow) and never touches assistive hardware.
+- **Fix Ladder:** Free — partial capo technique as the no-purchase baseline to compare against · Affordable £5–20 — none genuinely fits this category, and the video should say so plainly · Quality upgrade £25–45 — ChordBuddy · Premium £100+ — an automated one-hand device such as Robo-Tar, framed for stroke recovery and severe mobility contexts specifically.
+- **Adaptive relevance:** Direct and central — this is Playing Through It territory, but as a gear-verdict episode rather than a technique episode.
+
+**3. Which AI Guitar App Actually Helps a Returning Player? (2026 Test)**
+- **Friction:** Returning or older players want feedback at 10pm with no teacher available, and the AI app category has moved fast enough in 2026 that nobody's told them plainly which one is worth the subscription.
+- **Fix angle:** Named, dated comparison — sharpens the backlog's existing AI concept videos (currently written without specific products) with what's actually on the market now: SoundGate Guitar, FretPractice, the Gibson App, and Yousician.
+- **Fix Ladder:** Free — each app's free tier · Affordable £5–20/month — a single app's paid tier · Quality upgrade £25–100 — an annual subscription · Premium — deliberately none; worth saying on camera that this ladder tops out lower than the physical one, which is an honest, channel-appropriate note.
+- **Audience appeal:** High and timely — this ages well as an annual refresh format.
+
+**4. The Under-£250 All-Solid Acoustic: Is Harley Benton's 2026 Drop Actually Good for Sore Hands?**
+- **Friction:** Budget DIYers assume all-solid-wood construction only exists at premium prices; comfortable players assume a sub-£250 acoustic can't be set up properly either way.
+- **Fix angle:** Budget gear rescue and review, extending the Budget Guitar Rescue playlist with a genuinely new 2026 release rather than a hypothetical.
+- **Fix Ladder:** Free — as-shipped setup check · Affordable £5–20 — fresh light strings · Quality upgrade £25–100 — nut and saddle swap · Premium £100+ — side-by-side against a £600+ all-solid acoustic to answer "does the price gap actually show up in your hands."
+- **Audience appeal:** High — timely, specific, and serves the Budget DIYer persona directly.
+
+**5. Partial Capos Compared: Which One Actually Removes Barre Chords From Your Life?**
+- **Friction:** Partial capos are already a recommended Fix Ladder line in several existing and planned videos, but no video lets a viewer choose between models — most people default to whichever one they see first, if any.
+- **Fix angle:** Affiliate-ready comparison format, the same shape as the planned headphone-amp comparison video.
+- **Fix Ladder:** Free — open/drop tuning as the $0 comparator · Affordable £5–20 — Kyser partial capo · Quality upgrade £25–100 — G7th with partial-capo attachment · Premium £100+ — a full multi-guitar capo kit for players who keep more than one instrument set up differently.
+- **Audience appeal:** Medium-high, strong long-tail search and repeat-reference value.
+
+**6. Baritone Short-Scale: A Lower-Tension Option Worth Knowing About**
+- **Friction:** Players assume lower string tension only comes from lighter gauges; a baritone-tuned short-scale instrument is a real but unfamiliar way to drop tension further, and 2026 brought a genuinely new option to the category (Harley Benton's SC-Custom III Baritone, 712mm scale).
+- **Fix angle:** Explainer / gear literacy — needs a careful, comfort-first frame so it doesn't drift into tone-chasing territory.
+- **Fix Ladder:** Free — try a standard-tuned short-scale first, to isolate the variable · Affordable £5–20 — retune an existing short-scale down a fourth or fifth · Quality upgrade £25–100 — a proper baritone string set · Premium £100+ — a dedicated baritone short-scale instrument.
+- **Audience appeal:** Lower/niche — flagged as a caution rather than a priority; keep the framing strictly on tension and comfort, not tone, or it stops fitting the channel.
+
+### Gaps and Underexplored Angles
+
+- **Assistive hardware has never been reviewed on camera.** ChordBuddy and similar chord-assist devices sit outside the existing adaptive-playing video, which is technique-only. A rigorous, non-patronising verdict on these products is likely the channel's most shareable and most differentiated gap right now.
+- **Picks/plectrums are entirely absent from the 52-video plan.** Given the channel's whole thesis is about the point of contact between hand and instrument, this is a surprising and easy-to-fill gap.
+- **The AI-app videos in the backlog were written before 2026's specific products existed.** A named, dated comparison will out-search a generic "AI guitar coach" video and can become an annual refresh format.
+- **Partial capos are recommended constantly but never compared.** Same affiliate-ready shape as the already-planned headphone amp video — an easy adaptation of a format the channel already trusts.
+- **The 2026 Harley Benton all-solid sub-£250 acoustic is new inventory** the backlog couldn't have included when it was written, and it fits the Budget Guitar Rescue series directly.
+
+### Titles, Hooks, Thumbnail Concepts for the Top Ideas
+
+**"ChordBuddy and the Chord-Assist Gadgets: Do They Actually Help?"**
+- Hook: "Nobody's told you plainly whether this actually works. So I tried it."
+- Thumbnail: Split frame, bare fretboard vs. chord-assist device attached, no text overlay needed — the visual contrast carries it.
+
+**"Ergonomic Picks Compared: Does Grip Shape Change How Long You Can Play?"**
+- Hook: "The first thing to hurt usually isn't your fretting hand. It's this."
+- Thumbnail: Five picks fanned out by shape, one circled with a stopwatch overlay.
+
+**"Which AI Guitar App Actually Helps a Returning Player? (2026 Test)"**
+- Hook: "Four apps. One question: does this get you playing faster, or just get you subscribed."
+- Thumbnail: Phone showing app feedback screen, guitar neck in foreground, no logos needed in the frame itself.
+
+**"The Under-£250 All-Solid Acoustic: Is Harley Benton's 2026 Drop Actually Good for Sore Hands?"**
+- Hook: "All-solid wood used to mean a different price tag entirely."
+- Thumbnail: Price tag and guitar top wood grain in close focus, side-by-side with a premium instrument's top.
+
+**"Partial Capos Compared: Which One Actually Removes Barre Chords From Your Life?"**
+- Hook: "You already know you should try one of these. Here's which one."
+- Thumbnail: Three capo styles laid across a fretboard, one already clamped mid-neck.

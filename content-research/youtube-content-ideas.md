@@ -184,3 +184,78 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — September 2026
+
+Research pass covering trending topics, gaps, and new ideas since the June 2026 entry above. New items only — see prior section for the existing backlog (Playing Through It series, silent practice, budget rescue, etc.), which this update does not duplicate.
+
+### Trending Topics & Keywords (new since last pass)
+
+- **Adjustable-neck acoustics going mainstream** — Taylor's shimless Action Control Neck (Gold Label Collection, launched NAMM 2026) lets a player micro-adjust string height through the soundhole with a nut driver, no re-string or luthier visit needed. This is a genuinely new premium-tier category worth covering on its own terms.
+- **High-profile players talking openly about arthritis** — Joe Perry has been public in 2026 about changing string gauge and setup to manage early arthritis symptoms. Useful, credible hook: even touring professionals are doing exactly what this channel teaches.
+- **Ergonomic neck profiles entering the mainstream spec sheet** — manufacturers (Taylor's EndurNeck and others) are now marketing sculpted, fatigue-reducing neck shapes as a headline feature, not a niche accessory. Signals the market catching up to what this channel already covers.
+- **Small hardware, big friction** — reporting on short-scale guitars surfaced a specific, recurring complaint: knurled tuning pegs on budget short-scale models are hard to grip for players with reduced dexterity. Specific, searchable, and currently addressed nowhere.
+- **"Learning guitar over 40/50/60" is a crowded but shallow space** — high search volume, lots of YouTube results, almost all generic motivational content ("you can still learn!"). None of it addresses setup, ergonomics, or physical friction directly. This is a positioning gap, not a single video — the channel's PM/Fix Ladder angle has no real competitor in this exact search space.
+- **Cutaway and offset body acoustic designs** — increasingly marketed for full fretboard reach and a "feels like an electric" transition, relevant to the existing Ergonomics & Comfort series.
+
+### New Video Ideas
+
+**1. "Even Rock Stars Adjust Their Setup: What Joe Perry's Arthritis Story Teaches the Rest of Us"**
+- Friction: the belief that setup changes are an admission of decline, or only for "serious" players
+- Fix angle: reframing setup adjustment as standard practice at every level, using a credible public example
+- Fix Ladder: Free (string gauge experiment with what's already on hand) / £5–20 (lighter gauge set) / £25–100 (professional light-gauge setup) / £100+ (hybrid string sets, as referenced in Perry's own reported approach)
+
+**2. "Are Adjustable-Neck Guitars Worth It? Taylor's Action Control Neck, Explained"**
+- Friction: not knowing whether a built-in adjustable neck is a genuine playability upgrade or a gimmick worth the premium
+- Fix angle: honest evaluation of a real new product category against the Fix Ladder logic — does it replace a £75 luthier setup, or complement one?
+- Fix Ladder: Free (traditional truss rod check, for comparison) / £5–20 (feeler gauge + basic saddle shim, DIY route) / £25–100 (professional setup on a standard neck) / £100+ (guitar with built-in adjustable neck)
+- Note: this is an editorial product evaluation, not a purchase recommendation — frame as "should you care about this feature," not "you should buy this"
+
+**3. "The Short-Scale Tuning Peg Problem Nobody Mentions"**
+- Friction: small, hard-to-grip knurled tuning pegs on budget short-scale guitars, especially for players with reduced grip strength or dexterity
+- Fix angle: a specific, previously unaddressed hardware friction point, directly tied to the existing Short Scale Guitars documentation
+- Fix Ladder: Free (grip technique adjustment) / £5–20 (peg winder with wider grip) / £25–100 (locking tuner swap) / £100+ (full tuner set upgrade on a keeper guitar)
+- Adaptive relevance: high — direct arthritis/dexterity crossover with the existing Playing Through It series
+
+**4. "Ergonomic Neck Profiles: Do They Actually Reduce Hand Fatigue?"**
+- Friction: manufacturers now marketing "ergonomic" neck shapes as a premium feature, with no independent, friction-focused explanation of what that means or who benefits
+- Fix angle: explainer plus hands-on comparison of standard vs. sculpted neck profiles, tied back to the channel's core ergonomics thesis
+- Fix Ladder: Free (grip and thumb position adjustment on existing neck) / £5–20 (neck-shaping grip tape, informal comparison) / £25–100 (aftermarket neck contouring, where applicable) / £100+ (guitar with factory ergonomic neck profile)
+
+**5. "Cutaway and Offset Acoustics: Comfort Fix or Just a Look?"**
+- Friction: uncertainty about whether cutaway/offset acoustic body shapes genuinely improve reach and comfort, or are primarily cosmetic
+- Fix angle: extends the existing Parlour vs. Dreadnought comfort content into a newer, currently-trending body style
+- Fix Ladder: Free (playing position adjustment to improve upper-fret reach on a standard body) / £5–20 (n/a — this is primarily a body-shape comparison, not a retrofit) / £25–100 (used cutaway acoustic) / £100+ (new cutaway/offset model)
+
+**6. "Why 'Learning Guitar After 40' Videos Never Mention Your Guitar"**
+- Friction: the entire "learn guitar later in life" YouTube category is motivational, not mechanical — it never asks whether the instrument itself is part of the problem
+- Fix angle: a direct, channel-positioning video that names the gap and redirects viewers from generic motivation to setup-first thinking
+- Fix Ladder: Free (the £0 setup check from the existing Setup Basics series) / £5–20 / £25–100 / £100+ — reuse and cross-link the existing Fix Ladder anchor content rather than inventing new tiers
+- Note: strong candidate for a channel-identity or "start here" video; consider for a pinned/intro slot rather than mid-schedule
+
+### Content Gaps and Underexplored Angles (new)
+
+1. **The "over 40/50/60" motivational space has no setup-first competitor.** High search volume, generic content, zero overlap with this channel's actual thesis. Worth a positioning video (Idea 6) rather than just organic discovery.
+2. **Built-in adjustable-neck guitars are new enough that no channel has evaluated them from a playability-for-older-hands angle.** Early-mover opportunity while the Taylor Action Control Neck is still fresh news.
+3. **Small hardware friction (tuning pegs, string trees, tight control knobs) is undercovered** relative to the large-fix content (action, intonation, nut slots) the channel already does well. These are lower-cost, higher-frequency videos.
+4. **No current video connects a specific public figure's real, reported adaptation story to the channel's Fix Ladder framework.** Idea 1 fills this without drifting into gear-hype or celebrity-chasing — the hook is the adaptation, not the celebrity.
+
+### Titles, Hooks & Thumbnail Concepts
+
+**"Even Rock Stars Adjust Their Setup"**
+- Hook: "If a working touring guitarist changes his setup for his hands, that's not a sign you're doing something wrong. It's the process working."
+- Thumbnail: string gauge packets side by side, no face, understated
+
+**"Are Adjustable-Neck Guitars Worth It?"**
+- Hook: "A nut driver through the soundhole instead of a trip to the shop. Here's what that's actually worth."
+- Thumbnail: close-up of the neck joint/adjustment point, £ price callout for context against a standard setup
+
+**"The Short-Scale Tuning Peg Problem Nobody Mentions"**
+- Hook: "The guitar got easier to hold. Nobody fixed the tuning pegs."
+- Thumbnail: close-up hand gripping a small knurled peg, £0 and £25 callouts side by side
+
+---
+
+*If no new opportunities emerge in a future pass, this file will note that briefly rather than padding the list.*

@@ -184,3 +184,57 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Content Research Update — September 18, 2026
+
+**Method:** Cross-checked against `Bridge_and_Baseline_Final_v7.xlsx` (51-video backlog, all phases) and the June 2026 research pass above before generating anything new, so nothing below duplicates a planned or previously-suggested video.
+
+---
+
+## New Trending Signals Since June
+
+- **Essential tremor** is a distinct, common condition in the 50+ demographic that no guitar content — including this channel's own backlog — currently separates from arthritis or neuropathy. Search behaviour treats it as its own topic, not a subset of "shaky hands."
+- **Adaptive/ergonomic guitar design** is having a visible 2026 moment — coverage is shifting from "buy a Strandberg" to "the guitar should change shape for the player," which is the channel's thesis stated back to it by the wider market. Worth tracking as a recurring gear-watch beat, not a one-off.
+- **Phone-camera AI practice tools** (real-time form/posture feedback via the phone's camera) are a growing 2026 category. Existing backlog items (#39, #42) treat AI as a coaching/tab-reading shortcut; none test it specifically as an ergonomics or posture-check tool, which is a cleaner fit for this channel's lens.
+- **Stem-separation apps** (e.g. Moises-style isolation, now integrating directly into practice amps) are trending as a way to jam along to real recordings without a backing band — a practice-friction fix, not a gear-hype topic.
+- **Assistive chord devices** (e.g. ChordBuddy) are gaining occupational-therapy recognition as legitimate fine-motor tools, not just beginner training wheels — worth an honest comparative look rather than an assumption either way.
+
+---
+
+## New Video Ideas (none overlap the 51-video backlog)
+
+### Playing Through It — further expansion
+
+| Working Title | The Friction | Fix Angle |
+|---|---|---|
+| **Essential Tremor and the Guitar: What Actually Helps** | Shaking hands make sustained fretting and pick accuracy unpredictable — a different mechanism from arthritis stiffness or neuropathy numbness, and rarely separated out in guitar content | Pick weight, string spacing, and anchoring technique, not "just play through it" |
+| **Perimenopause, Joint Stiffness, and Guitar: A Setup Response** | New joint stiffness or trigger-finger-like symptoms during perimenopause are common, often dismissed, and rarely connected to a hormonal cause even in general health content — let alone guitar content | Same low-friction setup package as the arthritis episode, but naming the actual cause so viewers stop assuming it's arthritis or "just getting old" |
+| **Playing Guitar After a Stroke: Relearning One Side** | Distinct from the channel's existing one-handed/adaptive content (which covers total limb difference) — stroke often leaves partial weakness or spasticity on one side, needing grip aids and simplified strumming rather than a full adaptive rebuild | Grip aids, pick alternatives, partial capo, strap adjustments |
+| **Slide Guitar as a Permanent Fix, Not a Genre Choice** | Players with joint fusion, severe arthritis, or finger loss assume melodic playing requires fretting force | Reframe slide/bottleneck as a legitimate permanent playing strategy, same status as open tuning or a partial capo |
+| **Thumb-Over-Neck: A Real Fix for Thumb-Base Pain** | CMC/thumb-joint pain makes the standard thumb-behind-neck position hard, and most technique content treats "proper" thumb position as non-negotiable | Reposition the thumb over the top for open chords; note honestly that the free fix may be all that's needed here |
+
+### Gear & Practice Tech Watch
+
+- **"Chord-Assist Devices Compared: What They Actually Do"** — honest side-by-side of a device like ChordBuddy against a partial capo and against no device at all; frames it as a legitimate fine-motor tool for some players, not a beginner crutch for everyone.
+- **"Can Your Phone Watch Your Posture? Testing Camera Feedback Apps"** — tests 2026-era phone-camera practice apps specifically for wrist angle and posture, not skill-building; honest note that the free option (prop the phone up, compare weekly clips) may outperform the paid tier for this specific use.
+- **"Play Along to Any Song Without a Band"** — tests stem-separation apps for creating a personal play-along track; flags plainly if the premium tier doesn't add much over the free one, since that's useful information in itself.
+- **"The Shape-Shifting Guitar: Is Adaptive Design Actually Here?"** — a gear-watch check-in on 2026 ergonomic guitar design claims, evaluated strictly against whether they reduce friction for this audience or just look different.
+
+---
+
+## Content Gaps and Underexplored Angles (new this pass)
+
+1. **Essential tremor** — a genuinely separate condition from everything currently in the Playing Through It series; highest-priority new gap.
+2. **Perimenopause/menopause-related joint stiffness** — affects a real share of the audience, connects to an existing physiological pattern the channel already knows how to film (the arthritis setup package), and is addressed almost nowhere in guitar content.
+3. **Stroke-specific technique** — the backlog's one-handed/adaptive content (Django, Iommi, EBow, lap steel) is built for total limb difference; partial post-stroke weakness needs its own, gentler answer.
+4. **Assistive chord device evaluation** — an honest Fix Ladder comparison rather than either dismissing or endorsing these devices sight unseen.
+5. **AI tools evaluated for posture/ergonomics specifically** — the backlog's AI videos (#39, #42) are about coaching and tabs; nothing tests AI as a form-check tool, which is a more natural fit for this channel than "AI as guitar teacher."
+
+---
+
+## Style/QA Note
+
+- The June 2026 draft's hook lines "Your guitar is probably fighting you" and "the neck that was perfect in August is fighting you by December" (titles #1 and #9 in that section) predate the channel's finalised guardrail against framing the guitar as hostile toward the player. Left as-is here per instruction to preserve existing content — flagging for whoever scripts those two so the hook gets reworded before filming, not because the video ideas themselves are wrong.

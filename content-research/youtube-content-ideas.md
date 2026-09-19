@@ -184,3 +184,54 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — September 2026
+
+*Scheduled content research run. Prior sections above are preserved unchanged. This section covers what's newly trending since the June 2026 pass and flags a few real content gaps — most core search terms (fret buzz, action, neck relief) haven't shifted and are already well covered above.*
+
+## What's New in the Trend Data
+
+- **Before/after transformation remains the single strongest Shorts format going into late 2026** — algorithm data shows a 30-second clip with high completion now beats longer clips with more raw views. This validates the channel's existing Shorts strategy; no format change needed, but it's worth treating before/after cutdowns as mandatory for every long-form video, not optional.
+- **Arthritis content has picked up specific gear detail worth incorporating:** silicone finger caps (pain relief for fretting-hand pressure) and simplified alternate tunings (DADGAD, open G) as chord-shape-reduction strategies are both showing up across current arthritis-and-guitar resources but aren't yet framed through a Fix Ladder anywhere on YouTube. This is a gap the channel is well positioned to fill (see below).
+- **Short-scale guitar coverage has gotten more specific.** Adult-hand-focused searches now converge on a fairly narrow band (22"–24.75" scale) and a short list of recurring named models (Taylor GS Mini, Fender Player II Mustang, Ibanez Mikro). The channel's existing "guitar I wish I'd bought at 50" idea could be sharpened into a direct comparison using this exact band — see title suggestions below.
+- **Silent practice gear has new 2026 entrants worth refreshing the existing comparison video against:** Boss Katana:Go Mini (~$99, positioned as new value leader), Fender Mustang Micro Plus, and a cordless/wireless practice amp category (e.g. Flatsons FBA-10) that didn't exist when the original headphone-amp comparison idea was scoped. Worth a refreshed or updated comparison rather than a net-new video.
+- **"Returning to guitar after a break" is a crowded search term**, but nearly all existing coverage is skill/practice-focused (how to regain speed, rebuild calluses). None of it treats the guitar's own setup drift during the inactive period as part of the problem — a clean, differentiated angle for this channel specifically.
+
+## New Video Ideas (Raw List)
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **"Silicone Finger Caps: Do They Actually Help Arthritic Hands?"** | Fretting pressure causes joint pain before a song is finished | Gear evaluation, honest before/after pain-and-tone tradeoff | Free: felt/tape wrap · £5–20: silicone caps · £25–100: lighter strings + lower action combo · £100+: partial-capo + custom setup |
+| **"Alternate Tunings as an Arthritis Fix, Not Just a Sound Choice"** | Standard chord shapes demand stretches some hands can't do repeatedly | Reframes DADGAD/open G as a setup-tier fix, not a stylistic detour | Free: retune, same strings · £5–20: capo · £25–100: dedicated altered-tuning string set · £100+: second guitar kept permanently retuned |
+| **"The Guitar Setup Drift Nobody Warns You About (Coming Back After a Break)"** | Player returns after months/years and assumes their hands or skill are the problem — it's often the guitar | Setup-first reframe of a saturated "returning to guitar" search category | Free: relief/action recheck · £5–20: fresh strings · £25–100: full setup service · £100+: replace an instrument that was never right |
+| **"Best Short-Scale Guitars for Adult Hands: The 22–24.75\" Sweet Spot"** | Overwhelming, contradictory buying advice when searching for a smaller guitar | Direct, narrow comparison using the specific scale band and named models now converging in search | Free: measure your current guitar's scale first · £5–20: n/a (comparison video) · £25–100: budget short-scale pick · £100+: GS Mini / Player II Mustang tier |
+| **"Silent Practice Amps in 2026: What's Actually New"** | Existing headphone-amp advice is going stale as new budget and cordless options land | Refresh of the planned comparison video with Katana:Go Mini, Mustang Micro Plus, and cordless entrants | Free: phone + interface you already own · £5–20: n/a · £25–100: Katana:Go Mini · £100+: Mustang Micro Plus / cordless unit |
+
+## Content Gaps Confirmed by This Pass
+
+1. **Finger caps and alternate tunings as Fix Ladder items** — currently discussed across guitar-and-arthritis content only as isolated tips, never organized by cost/effort tradeoff the way this channel does. Clear differentiation opportunity.
+2. **Setup drift as the hidden cause behind "I feel worse than I remember" returns** — the returning-player search category is saturated but entirely skill-focused; no competitor is naming the guitar itself as a variable.
+3. **A living, periodically refreshed gear-comparison format** — silent practice gear specifically turns over fast enough (new sub-$100 options appearing through 2026) that a single evergreen comparison video will age out. Worth flagging for the backlog as a "refresh cadence" item rather than a one-off.
+
+## Titles, Hooks & Thumbnail Concepts
+
+**"Silicone Finger Caps: Do They Actually Help?"**
+- Hook: "I tried the £8 fix before the £80 one. Here's what actually changed."
+- Thumbnail: close-up fretting hand, caps on two fingers only, plain price tag overlay
+
+**"The Guitar Setup Drift Nobody Warns You About"**
+- Hook: "You didn't get worse. Your guitar moved without you."
+- Thumbnail: neck relief measurement tool mid-check, calendar showing a gap in dates
+
+**"Best Short-Scale Guitars for Adult Hands (22\"–24.75\" Compared)"**
+- Hook: "Same reach problem, four different guitars, one clear answer."
+- Thumbnail: four guitar necks lined up by scale length with a ruler overlay
+
+## Confirmation
+
+No entirely new *niche* has emerged since the June pass — the core search terms and formats already logged above remain accurate. This update mainly sharpens two existing ideas (arthritis gear, short-scale comparison) with current specifics and surfaces one clearly differentiated angle (setup drift after a break) worth prioritizing.
+
+Sources consulted: [Roadie Music – Tools & Tips for Arthritis](https://www.roadiemusic.com/blog/tips-for-playing-guitar-with-arthritis/), [Folkstrings – Practical Adaptations](https://folkstrings.com/playing-guitar-with-arthritis/), [Music Mentor – Guitars for Small Hands 2026](https://musicmentor.ai/guitars-for-small-hands/), [Guitar Lobby – Best Short Scale Electric Guitars 2026](https://www.guitarlobby.com/best-short-scale-electric-guitars/), [Equipboard – Top Headphone Amps 2026](https://equipboard.com/posts/best-guitar-headphone-amps), [Guitar World – Best Headphone Amps 2026](https://www.guitarworld.com/features/best-headphone-amp-for-guitar), [Guitar Gear Finder – Getting Back Into Guitar](https://guitargearfinder.com/guides/get-back-into-guitar/), [Anijam – YouTube Shorts Trends 2026](https://www.anijam.ai/blog/youtube-shorts-trends/)

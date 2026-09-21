@@ -184,3 +184,57 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 21 September 2026
+
+Research pass focused on angles not already covered above (June 2026 pass covered arthritis series, silent practice, humidity, luthier-vs-DIY, barre chords). This pass surfaced one clear priority gap — pick/grip solutions — plus a format note on Shorts that affects how existing ideas get cut down, not new topics.
+
+### Trending Topics & Keywords (new signal since June)
+
+- **Adaptive/wearable pick systems** — "guitar pick for arthritis," "pick that won't drop," Flip Pick, Gripless, Cling Pro Picks all show sustained product-level search; almost no channel evaluates them side by side against the Fix Ladder
+- **Ergonomic guitar chairs/stools** — "best guitar chair 2026" is an active YouTube search trend; existing coverage is gear-list format, none framed around measurable posture/pain outcomes
+- **"No setup needed" myth** — a specific piece of misinformation beginners are running into (marketed cheap guitars claiming to be play-ready out of the box); high frustration-to-content-gap ratio
+- **Guitar and cognitive health for returning/older players** — search and press interest in music training + neuroplasticity/dementia-delay research is rising; an emotional "why start again at 50+" hook the channel hasn't used
+- **Ergonomic guitar brands (Strandberg-type) vs. the casual 45+ player** — confirms the gap flagged in June; still no content evaluating these designs against the Fix Ladder rather than the metal/prog audience they're usually marketed to
+
+### New Video Ideas
+
+**1. "I Tried Every Arthritis-Friendly Pick So You Don't Have To"**
+- Friction: a strummed or picked pick slips, pinches, or has to be constantly repositioned when grip strength is reduced
+- Fix angle: hardware — pick selection and grip method, not technique
+- Fix Ladder: Free (thicker pick, different angle/grip) → £5–20 (Dunlop Max Grip textured picks, thumb picks) → £25–100 (Flip Pick wearable system, multi-pack trial) → £100+ (not applicable — flag as a rare "this friction tops out around £20" video, which is itself an honest, useful data point)
+- Audience appeal: high — directly answers an active, specific, underserved search query; strong thumbnail contrast (5+ picks laid out)
+
+**2. "Does a Guitar Chair Actually Change How Your Hands Feel?"**
+- Friction: shoulder/back/wrist strain traced to seating position, not the guitar itself
+- Fix angle: setup/posture, using seating as the variable rather than the instrument
+- Fix Ladder: Free (cushion + footstool improvised from what's already home) → £5–20 (adjustable footstool) → £25–100 (dedicated guitar stool) → £100+ (ergonomic chair with back support)
+- Audience appeal: medium-high — rides an active YouTube search trend the channel hasn't touched; measurable before/after (posture photos, pain self-report) fits the format well
+
+**3. "The Guitar Was Never 'No Setup Needed' — Here's the Test"**
+- Friction: a beginner buys a guitar marketed as play-ready, still finds it hard to play, and assumes it's their own fault
+- Fix angle: setup — a five-minute test any beginner can run to check whether "play-ready" claims hold up
+- Fix Ladder: Free (the test itself, plus the £0 truss-rod/action checks already scripted) → £5–20 (feeler gauge) → £25–100 (professional setup) → £100+ (n/a, same honest-gap note as idea 1)
+- Audience appeal: high — corrects a specific piece of active misinformation; strong "wait, is that me?" hook for anyone who bought a budget guitar recently
+
+**4. "Why Start Guitar Again at 50? The Case Nobody Makes With Numbers"**
+- Friction: emotional, not physical — the player has the time and the guitar but talks themselves out of starting or restarting
+- Fix angle: approach — reframes practice as a return on a different kind of investment (cognitive, not just musical)
+- Fix Ladder: not a hardware video — could note that removing physical friction (the channel's usual fixes) is what makes this case credible rather than motivational-poster hype
+- Audience appeal: medium — different register from the rest of the channel (less demo, more essay); best used sparingly, but strong candidate for a pinned/evergreen "start here" video for new subscribers
+
+**5. "Ergonomic Guitars Aren't Just for Prog Players: A Casual Player's Test"**
+- Friction: multi-scale/fanned-fret ergonomic designs (Strandberg-type) are marketed almost exclusively to shredders, so the 45+ casual player assumes they're not for them
+- Fix angle: hardware — evaluating an ergonomic-design instrument purely on comfort and playability, stripped of the genre context it's usually sold in
+- Fix Ladder: Free (adjust existing guitar's strap/position to mimic some of the benefit) → £5–20 (n/a) → £25–100 (used/budget ergonomic-adjacent option) → £100+ (a genuine ergonomic-design instrument)
+- Audience appeal: medium — smaller search volume than the other ideas, but closes a gap the June research already flagged and hasn't been made yet
+
+### Content Gaps and Underexplored Angles (additions)
+
+1. **Pick and grip solutions as their own Fix Ladder** — the single clearest gap this pass found. Every other friction point in the backlog (setup, strings, straps, seating) has at least partial coverage somewhere on YouTube; wearable/adaptive pick systems evaluated head-to-head do not.
+2. **"No setup needed" as active misinformation** — worth treating as a mini-series hook (ties directly into the existing "guitar setup basics" cluster) rather than a one-off.
+3. **Shorts strategy** — not a topic gap but a format gap: 2026 Shorts performance rewards a tight loop and a clear visual in the first three seconds. The existing before/after measurement moments already flagged for Reels/Shorts cut-downs should be edited to loop (end frame matches start frame) rather than just trimmed, since replay rate is now a ranking factor separate from long-form.
+
+### If nothing new: N/A — five new video ideas, one high-priority gap (adaptive picks), and one format adjustment surfaced this pass.

@@ -184,3 +184,68 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 22 September 2026
+
+Cross-checked against the `Bridge_and_Baseline_Final_v7.xlsx` backlog (51 videos across 10 phases, including the 7-episode Playing Through It arc) so nothing below duplicates a planned title. Two spreadsheet copies exist in Drive under the same filename (Final_v7) — worth confirming which is current before scheduling off it, since a v10 wasn't found in Drive.
+
+### Trending Topics & Keywords (refresh)
+
+- **AI camera-based form/posture feedback** — 2026 beginner threads are picking up real-time playing analysis via phone camera; distinct from the backlog's existing "AI practice coach" video (#39, framed around chord/timing feedback, not posture)
+- **Fender Mustang Micro Plus** — getting fresh attention in 2026 beginner and silent-practice discussions; the backlog's headphone amp comparison (#32) predates this model
+- **Squier Mini Stratocaster ($199) and Cordoba Mini II M** — current-generation budget short-scale models worth naming specifically in any short-scale/ergonomic-fit video
+- **Cold hands / joint stiffness before playing** — distinct from general warm-up content; search interest sits at the intersection of arthritis and seasonal temperature drop
+- **Guitar humidity and seasonal setup drift** — recurring, searchable, not present anywhere in the 51-video backlog
+
+### New Video Ideas (not in the v7 backlog)
+
+**1. Trigger Finger and the Guitar**
+- Friction: a finger catches or locks mid-motion, unrelated to general arthritis or grip strength
+- Fix angle: distinguishing trigger finger from arthritis/tendinitis; technique and setup adjustments that reduce the specific catching motion
+- Fix Ladder: $0 — retune to reduce repetitive finger-curl motion → $6 lightest available strings → $25 Graph Tech nut & saddle to cut required finger force → $100+ hand-therapy-informed setup consult
+- Note: the Playing Through It expansion notes already flagged this as a near-total content gap on guitar YouTube; it's absent from the official 51-video backlog, so it's still open
+
+**2. Carpal Tunnel and Guitar: A Different Mechanism Than Arthritis**
+- Friction: numbness/tingling from nerve compression, often confused with arthritis pain by players trying to self-diagnose
+- Fix angle: clear, calm explainer separating the two mechanisms, then setup changes that reduce wrist extension (the compression driver) rather than joint load
+- Fix Ladder: $0 — wrist angle and strap height adjustment → $15 Kyser partial capo to reduce reach → $25 Graph Tech nut/saddle → $150+ short-scale guitar to shorten reach overall
+- Adaptive relevance: pairs naturally with the Arthritis Checklist's pain-that-worsens-vs-improves-with-movement framing, applied to a different condition
+
+**3. Guitar Humidity and Seasonal Setup Drift**
+- Friction: a guitar that played easily in summer develops fret buzz or stiff action by winter, and the player assumes something is wrong with their technique
+- Fix angle: explain the seasonal drift, show the same guitar measured in two conditions
+- Fix Ladder: $0 — relief check with a feeler gauge → $8 Kyser/Oasis humidifier → $25 case humidity kit → $80 setup kit for seasonal relief adjustment
+- Unlocks: recurring, reshootable seasonal content — a natural returning-viewer anchor not present in the current backlog
+
+**4. Nylon, Steel, or Electric: Which String Tension Actually Suits Your Hands**
+- Friction: players assume classical guitar is the "easy" option for sore hands and are sometimes wrong — tension and neck width vary more than string material alone suggests
+- Fix angle: side-by-side comparison across the three formats, measured tension and neck width, not general reputation
+- Fix Ladder: $0 — test tension on a guitar already owned → $6 lighter-tension strings on the existing format → $25 comfort setup on the existing guitar → $150+ switching format entirely if the mismatch is structural
+- Note: this is the Easier Play Guitars doc's core comparison, not yet turned into its own video per the v7 backlog
+
+**5. The Cold-Hands Warm-Up: Why Winter Mornings Feel Harder**
+- Friction: the same guitar, the same hands, feel stiffer and more painful in a cold room, and players read that as a bad day rather than a temperature effect
+- Fix angle: a short warm-up routine plus practical room-temperature/hand-temperature fixes
+- Fix Ladder: $0 — hand-warming routine before picking up the guitar → $8 fingerless gloves for the non-playing hand → $20 hand warmers for a cold practice space → no premium tier needed — this is a technique/environment fix, not a purchase problem
+- Adaptive relevance: directly extends the Arthritis Checklist's movement-based pain assessment into a seasonal, situational trigger
+
+### Content Gaps Confirmed Still Open
+
+1. **Trigger finger and carpal tunnel** — both remain outside the official 51-video plan despite being flagged as a gap; highest-priority additions for the Playing Through It arc if the series expands past its current 7 episodes
+2. **Seasonal/humidity drift** — no video anywhere in the backlog addresses this despite it being a recurring, searchable, low-production-cost topic
+3. **Nylon vs. steel vs. electric tension comparison** — the Easier Play Guitars doc's content hasn't yet been turned into a video
+4. **"Viewer rescue" format** — still unscheduled; worth revisiting once a video crosses the 50–100 comment threshold noted previously
+
+### Titles, Hooks & Thumbnail Concepts for the Above
+
+- **"Trigger Finger and the Guitar"** — Hook: "It's not arthritis, and it's not weak fingers. It's something else." Thumbnail: close-up of a finger mid-motion, small labelled diagram overlay, no dramatic framing
+- **"Carpal Tunnel and Guitar: A Different Mechanism Than Arthritis"** — Hook: "Same hands, different problem — and a different fix." Thumbnail: side-by-side wrist angle comparison, Playing Through It series card
+- **"Guitar Humidity and Seasonal Setup Drift"** — Hook: "The neck that played easily in July isn't the same neck in January." Thumbnail: single guitar, two seasonal backdrops split-screen, feeler gauge overlay
+- **"Nylon, Steel, or Electric: Which Tension Actually Suits Your Hands"** — Hook: "Classical isn't automatically the easy option. Here's what the tension numbers actually say." Thumbnail: three guitars in a row, tension figures labelled plainly
+- **"The Cold-Hands Warm-Up"** — Hook: "Same hands, same guitar, colder room — here's what actually changes." Thumbnail: hands mid warm-up routine, simple temperature icon, no text gimmicks
+
+### If No New Opportunities Had Emerged
+
+Not applicable this cycle — five distinct, backlog-clear ideas surfaced, all traceable to confirmed gaps in either the v7 spreadsheet or the project's own reference docs.

@@ -184,3 +184,56 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+# Research Update — 23 September 2026
+
+*Note: the v10 backlog spreadsheet and other project docs (Charter, Arthritis Checklist, Short Scale Guitars, Easier Play Guitars) referenced by the channel skill were not accessible from this session — this update was cross-checked against the existing ideas above only, to avoid duplicating anything already listed. Recommend a manual pass against the spreadsheet before locking these into the schedule.*
+
+## Trending / Search Signals Since Last Pass
+
+- **Stroke and neurological rehab + guitar** is an active, growing search and research space (music therapy studies, occupational-therapy content, apps like "KeyStroke") but has almost no accessible YouTube content aimed at guitarists specifically — distinct audience from the existing arthritis/carpal-tunnel/neuropathy coverage.
+- **Chord-assist devices** (ChordBuddy and similar) keep surfacing in arthritis- and disability-adjacent searches. They're polarizing — praised as an on-ramp, dismissed elsewhere as a gimmick or "training wheels." No neutral, Fix-Ladder-style evaluation exists.
+- **Adult beginners over 40–50** continue to be a confirmed, rising demographic (multiple 2026 industry stat roundups), and this "is it too late to start" framing is a well-worn but still high-performing hook — the channel doesn't currently have a pure identity/reassurance video of this kind.
+- **Ergonomic strap hardware** (double-shoulder harnesses, hip/waist-support straps) is a distinct product category from strap height/positioning, which the channel has already covered. Search interest is steady, supply of good comparison content is thin.
+- **Adaptive pick hardware** (Velcro strap-on picks, thumb picks, grip-assist picks) shows up consistently in arthritis and grip-strength discussions but the channel's picking-hand coverage is thin relative to its fretting-hand coverage.
+- **Martin's 2026 Size 5 Terz reissue** (24.9" scale) is a timely, on-brand news hook for the Short Scale Guitars angle — a real product launch the channel can react to rather than only doing evergreen comparisons.
+
+## New Video Ideas
+
+| # | Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|---|
+| 1 | **Guitar and Stroke Recovery: What Actually Helps a Recovering Hand** | Players recovering from stroke or similar neurological events don't know if playing again is realistic, or where to responsibly start | Approach — progressive, OT-informed technique; distinct condition from the existing PTI lineup | Free: single-string melody work, open tunings, guitar flat on lap · Affordable (£5–20): thumb pick, capo to reduce fretting reach · Quality upgrade (£25–100): lighter-gauge strings, professional low-action setup · Premium (£100+): short-scale/parlour body sized for limited reach |
+| 2 | **Do Chord-Assist Devices Actually Help? A Fair Look at ChordBuddy-Style Tools** | Players with arthritis or limited grip see chord-assist gadgets advertised as a shortcut and can't tell if they're legitimate or a gimmick | Hardware evaluation — tests the channel's "adaptive is legitimate, not a workaround" thesis against a genuinely divisive product | Free: simplified/partial chord shapes with no device · Affordable: capo + two-finger substitutions · Quality upgrade: dedicated chord-assist device (~£30–50) · Premium: custom-fitted adaptive modification |
+| 3 | **The Hip Strap and Harness Test: Does Weight Distribution Actually Reduce Shoulder Pain?** | A standard single-shoulder strap concentrates a heavy guitar's weight on one side, and the resulting pain gets blamed on posture instead of hardware | Hardware — comparative test of strap *type*, not strap height (already covered) | Free: reposition existing strap higher/shorter · Affordable: padded comfort strap (~£15) · Quality upgrade: double-shoulder harness strap (~£30–40) · Premium: hip/waist support strap system (~£100+) |
+| 4 | **Why 2026 Is a Genuinely Good Year to Start Guitar Over 50** | Prospective or returning players assume they've "missed the window" and never start or restart | Identity/mindset — data-backed reassurance; top-of-funnel subscribe-trigger content rather than a hardware fix | n/a — identity video; positions the channel itself as the entry point rather than a specific Fix Ladder |
+| 5 | **Adaptive Picks Compared: Velcro, Thumb, and Grip-Assist Picks** | Standard flatpicks need a sustained pinch grip that's painful or impossible with arthritis or weak grip, and most players don't know alternatives exist | Hardware comparison — picking-hand friction, an underexplored counterpart to the channel's mostly fretting-hand content | Free: bare-thumb strumming/fingerstyle · Affordable: felt or thumb pick (~£3–8) · Quality upgrade: Velcro strap-on pick (~£10–15) · Premium: custom-molded grip-assist pick (~£30+) |
+| 6 | **The Martin Terz Is Back: Is a "Real" Short-Scale Guitar Worth It?** | Players assume a smaller-scale guitar is a toy or compromise, so they stay on a guitar that doesn't fit their reach or hand size | News-hook — timely reaction to a real 2026 product launch, tied to the Short Scale Guitars doc | Free: capo higher up the neck to simulate reduced reach · Affordable: budget in-house-brand short scale (~£120–150) · Quality upgrade: mid-tier branded short scale (~£250–350) · Premium: Martin 5-28 Terz (~£2,000+) |
+
+## Content Gaps and Underexplored Angles
+
+1. **Stroke and neurological rehab** — a large, active adjacent community (music therapy, OT) that the channel's existing "Playing Through It" conditions (arthritis, carpal tunnel, tendinitis, trigger finger, neuropathy, shoulder/neck) don't cover. High-priority gap.
+2. **Adaptive gadgets as an editorial category** — the channel has never run a named product (like ChordBuddy) through a neutral Fix-Ladder evaluation. This is also a natural Mode 2 sponsor-evaluation candidate if approached.
+3. **Strap hardware type vs. strap height** — the existing "Strap Height Experiment" video addresses positioning; nobody on the channel has tested harness/hip-strap *hardware* against a standard strap.
+4. **Picking-hand friction** — the backlog is weighted toward fretting-hand fixes (nut slots, action, neck relief); grip and pick friction on the strumming/picking hand is comparatively unexplored.
+5. **Top-of-funnel identity content** — almost everything in the backlog assumes the viewer already plays. A "should I start/restart" video is missing and is a natural subscribe-driver.
+6. **Reactive/news-hook format** — the channel currently only does evergreen comparisons; it has no format for responding to an actual new product release in real time (Martin Terz reissue is a ready-made first instance).
+
+## Titles, Hooks & Thumbnail Concepts
+
+### "The Guitar Adjustment Nobody Tells Stroke Survivors About"
+- **Hook:** "This isn't about getting back to where you were. It's about finding where you are now."
+- **Thumbnail:** Hand resting on guitar body, guitar flat across lap; calm, clinical framing — no dramatic "recovery journey" music-video aesthetic
+
+### "Chord-Assist Devices: Shortcut or Legitimate Tool?"
+- **Hook:** "One of these lets you play a song today. Here's what it actually costs you — and what it doesn't."
+- **Thumbnail:** Device mounted on a guitar neck, split-screen with bare fretboard; no judgment implied in either frame
+
+### "Is It Too Late to Start Guitar at 50? (Here's What the Data Actually Says)"
+- **Hook:** "The average new guitar player isn't who you think."
+- **Thumbnail:** Guitar with a birthday-candle-style age callout crossed out; plain, confident, no stock-photo smiling senior
+
+### "Your Strap Isn't the Problem. Where It Puts the Weight Is."
+- **Hook:** "Same guitar, same weight, completely different shoulder — here's the £30 part that changed it."
+- **Thumbnail:** Two strap types side by side with a simple weight-distribution diagram overlay, £30 callout

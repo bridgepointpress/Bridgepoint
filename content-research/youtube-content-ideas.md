@@ -184,3 +184,87 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — September 24, 2026
+
+**Method note:** Cross-checked against `Bridge_and_Baseline_Final_v7.xlsx` (the 46-video production backlog) and the June 2026 research above before adding anything below — items already scripted, planned, or logged as a gap up there are not repeated. This pass focuses on what's genuinely new: fresh angles surfaced by current search/ergonomics coverage, and gaps neither list has turned into a concrete video yet.
+
+## Trending Topics & Keywords (new since June)
+
+- **"Ergonomic guitar" as a mainstream search term** — 2026 coverage of Strandberg (EndurNeck), Aristides (Arium material), and Taylor's slimmer necks/GS Mini is pushing "ergonomic guitar" into general search, not just niche forums. Currently framed for professional/touring players — nobody is translating it for a 50-something comfort player. Strong open lane.
+- **Repetitive strain injury (RSI) awareness is climbing** — recent coverage cites roughly 60% of professional musicians reporting some form of RSI. This sits next to a broader 2026 cultural conversation about phone/screen-driven hand and thumb strain ("tech neck," "texting thumb"). Nobody has connected that everyday strain conversation to guitar setup.
+- **Adult-beginner content keeps growing** — kid-focused brands (Loog) launching teen/adult-sized models via Fender/Gibson partnerships signals the "returning or new adult player" audience is being actively courted at the manufacturer level, which should widen top-of-funnel search volume for "beginner guitar for adults."
+- **Neck profile/shape (C, D, V, U)** — distinct from "neck relief" (already covered as a truss-rod topic) and not addressed anywhere in the backlog; a real point of confusion with direct comfort implications for smaller or stiffer hands.
+- **Capo and tuner mechanism comparisons** — partial capos and locking tuners are referenced repeatedly across existing videos as Fix Ladder line items but have never been the subject of their own comparison video.
+
+## New Video Ideas
+
+1. **"Ergonomic Guitars for the Rest of Us: Strandberg, Aristides, and Taylor Mini on a Comfort Budget"**
+   - *Friction:* Ergonomic guitar coverage online is aimed at touring musicians shredding for three hours a night — not a 55-year-old who wants 20 comfortable minutes after work.
+   - *Fix angle:* Translate premium ergonomic design features into plain comfort terms, then show that some of the same principles (neck profile, weight distribution, scale length) show up in cheaper instruments too.
+   - *Fix Ladder:* Free — try before you buy, checking these features on any guitar you already own · £5–20 — neck profile comparison using guitars in-store · £25–100 — Taylor GS Mini or similar-spec budget short-scale · £100+ — Strandberg or Aristides entry model.
+   - *Audience appeal:* High — rides a genuinely rising search trend, serves the Comfortable Player persona directly, strong thumbnail draw (unusual-looking guitars).
+
+2. **"Text Neck, Guitar Neck: What Your Phone Already Taught Your Hands About Pain"**
+   - *Friction:* Players already manage thumb and wrist strain from phones every day without thinking about it — but don't connect that same strain logic to why their guitar hurts to hold.
+   - *Fix angle:* Use the familiar "tech neck"/texting-thumb framing as the entry point into guitar hand position and grip load, making an unfamiliar setup conversation feel already-understood.
+   - *Fix Ladder:* Free — thumb position and grip-pressure awareness check · £5–20 — lighter strings · £25–100 — nut/saddle comfort pass · £100+ — professional ergonomic assessment or custom setup.
+   - *Audience appeal:* Medium-high — timely hook, easy shareability outside the guitar niche (RSI/tech-health audiences), reinforces the channel's "friction is solvable" thesis in an unexpected way.
+
+3. **"Guitar Neck Shapes Explained: C, D, V, U — and Which One Stops Hurting Your Hand"**
+   - *Friction:* "Neck profile" is a spec players see in every listing and understand in none of them, and the wrong shape for a smaller or stiffer hand adds fatigue nobody diagnoses correctly.
+   - *Fix angle:* Plain-language explainer with hands-on comparison across shapes, tied directly to grip fatigue rather than tone or playing style.
+   - *Fix Ladder:* Free — feel-test neck shapes on guitars already owned or in a shop · £5–20 — neck profile gauge/string action ruler · £25–100 — aftermarket neck-shim or setup adjustment · £100+ — guitar swap to a better-matched profile.
+   - *Audience appeal:* High — clear search gap, low production complexity, evergreen reference video people will rewatch before a purchase.
+
+4. **"Guitar After a Stroke: Rebuilding One Chord at a Time"**
+   - *Friction:* Stroke recovery is named in the Playing Through It series mission but has never had its own episode — players rebuilding fine motor control have nowhere on the channel that speaks directly to them.
+   - *Fix angle:* Partner the PM "iterative improvement" insight with occupational-therapy-adjacent guidance: smallest viable chord shape, progressive loading, patience with non-linear recovery.
+   - *Fix Ladder:* Free — single-note and open-string exercises, no chord required to start · £5–20 — lightest available strings · £25–100 — partial capo to remove chord-shape complexity · £100+ — short-scale or adaptive instrument.
+   - *Audience appeal:* Medium reach, high loyalty — smaller search volume than arthritis but very high goodwill and shareability within recovery/OT communities; strengthens the series' claim to be the most differentiated content on the channel.
+   - *Adaptive relevance:* Central to the video, not a note-in-passing — this is exactly the underserved context the series exists for.
+
+5. **"Grip-Friendly Picks and Capos: What Actually Helps When Your Hands Won't Cooperate"**
+   - *Friction:* Standard picks and capos assume full grip strength and fine pinch control; nobody has done a plain comparison of the adaptive options (thumb picks, wide-grip picks, spring vs. trigger vs. screw capos) against each other.
+   - *Fix angle:* Side-by-side comparison video — genuinely useful buying guide, not a novelty piece.
+   - *Fix Ladder:* Free — technique adjustment (flat-thumb strumming, no pick) · £5–20 — wide-grip or thumb pick · £25–100 — quality spring-tension partial capo · £100+ — not applicable; this friction point tops out in the quality tier, which is worth saying plainly on camera.
+   - *Audience appeal:* High — affiliate-ready comparison format, directly serves arthritis/reduced-grip viewers, natural Shorts material (multiple quick before/after grip demos).
+
+6. **"Locking Tuners and Stiff Pegs: The Small Fix Nobody Mentions"**
+   - *Friction:* Turning a stiff, cheap tuning peg is a genuine grip-strength barrier that gets filed under "just tune it" instead of being recognised as a setup problem.
+   - *Fix angle:* Compare stock geared tuners against locking tuners and geared-ratio upgrades for ease of turning, not tuning stability (the usual sales pitch).
+   - *Fix Ladder:* Free — technique (using a tuner clip app to reduce fine adjustment) · £5–20 — tuning peg lubricant · £25–100 — mid-tier locking tuner set · £100+ — premium geared tuners with finer ratio control.
+   - *Audience appeal:* Medium — small search volume but near-zero competition; strong "nobody else is saying this" differentiator and cheap to produce.
+
+## Content Gaps and Underexplored Angles (new)
+
+1. **Ergonomic-guitar coverage has no comfort-budget translation.** All current 2026 coverage speaks to touring musicians; the channel is well positioned to be the first calm, plain-language voice at the £100–400 tier.
+2. **Stroke recovery has a mission statement but no episode.** Named once in the series identity, never built out — the clearest single gap in the entire Playing Through It arc.
+3. **Grip mechanics (picks, capos, tuning pegs) are treated as accessories, not as their own friction category.** Every existing mention is a Fix Ladder line item inside another video; none of them has been given the dedicated comparison treatment a genuine buying decision deserves.
+4. **No video connects everyday device-driven hand strain (phones, keyboards) to guitar setup**, despite that being the exact mental model most of the audience already has from daily life. Low production cost, high shareability outside the niche.
+5. **Neck profile/shape remains unexplained anywhere on the channel or in the backlog**, despite being one of the most common spec-sheet confusions for buyers in the target age range.
+
+## Titles, Hooks & Thumbnail Concepts (highest-potential from this batch)
+
+### "Ergonomic Guitars for the Rest of Us"
+- **Hook:** "The guitars built for arena tours have a lot to teach a Tuesday-night player."
+- **Thumbnail:** Strandberg-style headless guitar next to a standard dreadnought, comfort callout arrows on neck and body contact points.
+
+### "Text Neck, Guitar Neck"
+- **Hook:** "You already know what strain feels like. You just didn't know your guitar was doing it too."
+- **Thumbnail:** Split image — hand holding a phone, hand on a guitar neck, identical highlighted strain point on the thumb.
+
+### "Guitar After a Stroke"
+- **Hook:** "One finger. One string. That's where it starts again."
+- **Thumbnail:** Close, calm shot of a single finger on a single fret; PLAYING THROUGH IT series bar, no dramatic framing.
+
+### "Guitar Neck Shapes Explained"
+- **Hook:** "C, D, V, U — the four letters on every spec sheet nobody explains."
+- **Thumbnail:** Cross-section silhouettes of the four neck profiles side by side with a hand-fit overlay.
+
+### "Grip-Friendly Picks and Capos"
+- **Hook:** "The right two-dollar part can matter more than the guitar it's attached to."
+- **Thumbnail:** Row of picks and capos laid out by price with a hand-grip difficulty icon on each.

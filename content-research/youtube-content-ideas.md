@@ -184,3 +184,68 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — September 2026
+
+*New material only. Everything above this line is preserved from the June 2026 research pass — cross-check before scripting so nothing here duplicates an idea already logged above.*
+
+## Trending Topics & Keywords (new this pass)
+
+- **"guitar tuning pegs hard to turn"** — steady forum/search presence, almost never framed as an arthritis/grip issue rather than a "broken guitar" issue
+- **"essential tremor guitar" / "Parkinson's guitar"** — small but real and completely underserved; a 2026 pilot study (GuitarPD) links guitar instruction to functional-movement benefits in Parkinson's, which gives this credible framing beyond anecdote
+- **"returning to guitar after a break"** — rising 2026 search trend; players are quantifying the comeback ("60–70% of ability back in 4–6 weeks") which opens a baseline-and-measure angle the channel is built for
+- **"ergonomic guitar" (Strandberg-style, multi-scale)** — 2026 marketing pitch has shifted to "the guitar adapts to you," aimed at a broad audience rather than just metal players; ripe for a skeptical, ROI-driven take
+- **"AI guitar coaching apps"** — 2026 buzz around phone-camera-based real-time playing correction; no one is asking whether an app can fix a friction problem that's actually in the setup
+- **"grip-assist guitar picks"** — search interest exists (Flip Pick and similar) but coverage is thin and rarely tied to arthritis/reduced-grip framing specifically
+- **"slim C neck profile arthritis"** — scale length is a solved topic in existing coverage; neck *profile/thickness* is a distinct, still-open variable
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **The Tuning Peg Problem Nobody Fixes** | Turning small, stiff tuning pegs hurts or is impossible with reduced grip — often misread as "the guitar won't stay in tune" | Hardware + tool adaptation | Free: peg lubrication + two-handed turning technique · Affordable (£8–15): wide-grip peg winder / silicone grip sleeve · Quality (£30–60): geared tuner upgrade (e.g. 18:1 ratio) · Premium (£80+): full locking tuner set with oversized buttons |
+| **Playing Guitar With a Tremor** *(Playing Through It, Ep 9)* | Unpredictable hand movement makes fretting and picking inconsistent — a distinct mechanism from arthritis or grip weakness | Anchoring technique + hardware that adds predictability | Free: pinky-anchor picking, thumb-pick technique · Affordable (£5–10): thumb picks / fingerpicks · Quality (£25–40): heavier string gauge or different string material for a more predictable feel · Premium (£100+): wider string spacing / custom nut work |
+| **The Neck Shape Nobody Told You About** | Two guitars with the same scale length can feel completely different in an arthritic hand — profile and thickness are the unmeasured variable | Comparison + in-shop test method | Free: the "OK sign" thumb-strain test before buying · Affordable (£10): grip-shaping tape/sleeve on an existing neck · Quality (£0 extra): choosing a slim-C-profile model at the same price point · Premium (£150+): luthier neck reshape or refret |
+| **Do You Actually Need an Ergonomic Guitar?** | 2026 marketing frames pricey ergonomic/multi-scale guitars as the universal comfort fix, before cheaper variables are ruled out | Build-vs-buy evaluation, PM framing | Free: strap height + posture check · Affordable (£15): padded strap and guitar rest · Quality (£40–80): a proper setup on the guitar already owned · Premium (£400+): an ergonomic guitar purchase, presented neutrally, only once the cheaper tiers are ruled out |
+| **Coming Back After Years Away: Is It You or the Guitar?** | Returning players assume rustiness is entirely their own fault, when a guitar left untouched for years has drifted out of setup | Baseline re-assessment as the first step of any comeback | Free: re-check action/relief/intonation before judging your own progress · Affordable (£8–12): fresh strings, since dead strings get misread as "I've gotten worse" · Quality (£40–80): a full setup service after long storage · Premium (£60+): a case humidification system to prevent drift next time |
+| **Grip-Assist Picks: Do They Actually Help?** | Standard picks slip or require squeezing that reduced-grip hands can't sustain, and most players don't know alternatives exist | Comparative test of adaptive pick designs | Free: bare-finger or thumb-pick technique · Affordable (£3–8): grip-textured or wide picks · Quality (£15–25): adaptive pick systems (e.g. Flip Pick) · Premium (£50+): custom-molded or splint-integrated pick |
+| **What AI Guitar Coaching Apps Can't Fix** | 2026's phone-camera AI coaching apps promise to correct technique in real time, but can't diagnose a guitar that's fighting the player through bad setup | Editorial piece distinguishing technique feedback from hardware friction | Free: a setup check before trusting any technique feedback · Affordable (£0–10/mo): the app itself, on a guitar already confirmed to be set up well · Quality (£40–80): pairing an app with a professional setup · Premium (£100+): in-person lesson plus full setup, layered together |
+
+## Content Gaps and Underexplored Angles (new this pass)
+
+1. **Tremor and Parkinson's-related playing** — sits naturally alongside the existing Playing Through It series (arthritis, carpal tunnel, neuropathy already planned) but nobody in the niche is covering it with practical setup fixes rather than just personal anecdotes. High-priority addition to that series.
+2. **Tuning pegs as a distinct grip-strength friction point** — currently invisible in the channel's coverage; players experience it constantly but file it under "guitar problem" rather than "setup/ergonomics problem," which is exactly the reframe this channel exists to make.
+3. **The "is it me or the guitar" comeback moment** — the returning-player search trend is growing and nobody is applying a baseline-and-measure lens to it; strong fit for both personas and an easy tie-in to the existing setup-basics content.
+4. **Skeptical, editorial takes on 2026 gear/tech hype** — the ergonomic-guitar marketing push and the new wave of AI coaching apps are both being sold as one-fix solutions; the channel's independence and ROI framing are well suited to a "before you spend on this, check that" video, and this reinforces the non-sponsored, editorial-first positioning.
+5. **Grip-assist picks as their own topic** — currently only touched in passing as an adaptive strategy, not treated as a Fix Ladder in its own right despite real search interest.
+
+## High-Potential Titles, Hooks & Thumbnails (new this pass)
+
+### 1. "The Tuning Peg Problem Nobody Fixes"
+- **Hook:** "It's not out of tune. It's just hard to turn."
+- **Thumbnail:** Close-up of fingers straining on a tuning peg; £8 callout for the grip-sleeve fix
+
+### 2. "Playing Guitar With a Tremor" *(Playing Through It, Ep 9)*
+- **Hook:** "Unpredictable hands don't mean unpredictable playing."
+- **Thumbnail:** Hand anchored on guitar body mid-pick; amber PTI series bar, episode number
+
+### 3. "Do You Actually Need an Ergonomic Guitar?"
+- **Hook:** "Before you spend £400 on comfort, check these first."
+- **Thumbnail:** Standard guitar and ergonomic guitar side by side; strap-height measurement overlay
+
+### 4. "Coming Back After Years Away: Is It You or the Guitar?"
+- **Hook:** "Your hands might be fine. Your guitar has been sitting in a case."
+- **Thumbnail:** Dusty guitar case opening; before/after action measurement overlay
+
+### 5. "What AI Guitar Coaching Apps Can't Fix"
+- **Hook:** "The app can hear your timing. It can't feel your action height."
+- **Thumbnail:** Phone propped against amp filming a guitar; red circle on the guitar's nut, not the screen
+
+## Format Notes (new this pass)
+
+- The tremor and comeback-baseline ideas both extend existing formats (Playing Through It, setup basics) rather than opening new series — lower production risk, direct backlog fit
+- The ergonomic-guitar and AI-app videos are the channel's first explicit "here's what the 2026 hype cycle is selling you" pieces — worth sequencing carefully so they read as editorial confidence, not contrarianism for its own sake
+- No genuinely new opportunities emerged on the silent-practice or budget-rescue fronts already covered in June — those series remain well served by the existing list

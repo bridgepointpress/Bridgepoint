@@ -184,3 +184,66 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — September 2026
+
+Scan of current search and publication trends (Guitar World, Guitar Lobby, Guitar Player, and adjacent forums/TikTok) against the existing backlog above. Most high-volume queries in this niche (fret buzz, action, arthritis, short-scale) are already covered by planned or scripted videos — this update focuses on what's shifted since June and where the backlog still has open ground.
+
+### What's Trending Right Now
+
+- **Arthritis content is moving from niche to mainstream guitar press.** Guitar World published a 2026 feature framing arthritis and aging hands as a mainstream player concern ("guitarists should think of themselves as athletes"), not a fringe topic. This validates the Playing Through It series and suggests room for a *prevention*-angled entry, not just pain-relief.
+- **TikTok is surfacing strong emotional engagement** around clips like "I am finally able to play guitar with my arthritis hands" — short, high-emotion, comment-heavy. This is a format signal more than a topic signal: short vertical clips built from a single emotional beat are outperforming longer explainers in this specific sub-niche right now.
+- **The short-scale market has moved since the last scan.** Named budget models now shipping or newly reviewed include the Yamaha JR1, Fender FA-15/FA-25N, Ibanez miKro PGMM21, Enya NOVA GO SP1 (built-in effects and recording, weatherproof body), and the Grote LPS-01 (short-scale Les Paul-style, ~$149). The channel's short-scale content was written against an older model list and would benefit from a refresh with current, price-tagged options.
+- **Fret buzz / action / intonation content remains high-volume and evergreen** — no material shift, and the backlog's existing coverage (Setup Basics series) is already well-matched. No new idea needed here beyond what's planned.
+- **"Smart" practice guitars with built-in effects/recording (e.g. Enya NOVA GO)** are a small but growing product category worth a look — potentially relevant to Silent & Stealth Practice content and, later, a Mode 2 sponsorship evaluation if the creator gets hands-on time with one.
+
+### New Video Ideas
+
+**1. Working title:** *Guitarists Are Aging Athletes Now — Here's What That Actually Means*
+- **The friction:** Players without pain yet don't think of hand care as something to start early — they wait until something already hurts.
+- **The fix angle:** Reframes warm-up and hand care as prevention, not treatment; distinct from the existing "Warmup Problem" video, which is written for players already in pain.
+- **Fix Ladder sketch:**
+  - Free — a 90-second warm-up routine before every session
+  - Affordable (£5–20) — a hand exerciser or stress ball used consistently
+  - Quality upgrade (£25–100) — a proper finger/grip strengthener with a program
+  - Premium (£100+) — an occupational therapy or physio consult focused on playing longevity
+
+**2. Working title:** *The 2026 Short-Scale Guitar Guide (What's Actually New)*
+- **The friction:** The channel's existing short-scale guidance is dated; new, specific, budget-tagged models exist that viewers researching right now won't find mentioned.
+- **The fix angle:** Refresh of the size/comfort-fit angle with named current models across price points.
+- **Fix Ladder sketch:**
+  - Free — measuring your own reach/comfort against scale length before buying anything
+  - Affordable (£5–20) — n/a for this topic; note honestly that this tier doesn't apply to instrument purchase decisions
+  - Quality upgrade (£25–100) — Yamaha JR1 / Fender FA-15 range
+  - Premium (£100+) — Grote LPS-01, Ibanez miKro PGMM21, Enya NOVA GO SP1
+
+**3. Working title:** *What Your Comments Are Telling Me*
+- **The friction:** Viewers describing relief or renewed ability in comments are a strong trust signal the channel hasn't used on camera yet.
+- **The fix angle:** A short-form, low-production format built from real (permission-granted) viewer comments read and responded to, ending in playing — mirrors the emotional-clip trend seen on TikTok without copying its device-fixation packaging.
+- **Fix Ladder sketch:** Not fix-ladder-driven — a community/trust format rather than a friction-fix format; still ends in playing per the standard structure.
+- **Note:** Requires viewer permission before quoting; low physical/production load, fits a 15-minute sprint.
+
+**4. Working title:** *Do Built-In Effects Guitars Actually Help Silent Practice?*
+- **The friction:** New all-in-one instruments (onboard effects, recording, headphone out) are being marketed at exactly this audience, and viewers researching silent practice will encounter them without a neutral, playability-first opinion available.
+- **The fix angle:** Evaluates the category against the existing Silent & Stealth Practice series, from a playability (not tone-chase) lens.
+- **Fix Ladder sketch:**
+  - Free — phone voice memo + foam mute (existing baseline from prior video)
+  - Affordable (£5–20) — n/a directly; cross-reference to headphone amp comparison video
+  - Quality upgrade (£25–100) — entry-level all-in-one acoustic-electric
+  - Premium (£100+) — Enya NOVA GO SP1 or equivalent, evaluated on genuine friction removed vs. novelty
+
+### Gaps Confirmed Still Open
+
+- **Prevention framing is missing.** Everything in the current backlog addresses pain or limitation already present. Nothing yet speaks to the player who wants to avoid future friction — a meaningful segment given the aging-athlete framing now appearing in mainstream guitar press.
+- **The short-scale/adaptive-instrument content is time-sensitive.** It references specific products that will keep shifting; worth flagging for a recurring "yearly refresh" slot rather than a one-off, so it doesn't go stale again.
+- **No format yet built purely around viewer trust/testimony**, despite this being the highest-engagement content type observed elsewhere in the niche right now.
+
+### Suggested Titles, Hooks & Thumbnails for the Above
+
+- **"Guitarists Are Aging Athletes Now"** — Hook: "Nobody told you to warm up before it hurt. Here's why that's changing." Thumbnail: hands mid-stretch over strings, no pain implied, clean daylight setting.
+- **"The 2026 Short-Scale Guide (What's Actually New)"** — Hook: "The guitar I'd point you to has changed since I last covered this." Thumbnail: three guitars in a row, price tags visible, no other text.
+- **"What Your Comments Are Telling Me"** — Hook: "I read every one of these. Here's what they have in common." Thumbnail: a single comment screenshot, guitar softly out of focus behind it.
+
+If no further action is needed on this update, the existing backlog already covers the bulk of current search demand — this pass mainly surfaces the prevention gap and a data refresh, both worth a slot in the next planning pass.

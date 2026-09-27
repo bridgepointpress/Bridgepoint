@@ -184,3 +184,63 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+## Update — 27 September 2026
+
+**Source note:** This pass cross-checked the existing ideas above against the actual production backlog found in Drive (`Bridge_and_Baseline_Final_v7.xlsx`, 51 videos across 10 phases, plus `Bridge_and_Baseline_Channel_Ops.docx`) — the skill's brief expects a "v10" backlog file, but only v7 exists in Drive; the Charter, Arthritis Checklist, Short Scale Guitars, and Easier Play Guitars reference docs also weren't found there. Ideas below are checked against both this file's June list and the v7 backlog to avoid duplication. Two things worth flagging to the creator directly, not just noting here:
+- The v7 backlog already covers several ideas listed above as "new" in June — one-handed/adaptive playing (backlog #35), arthritis flare-ups (backlog #10 and #45, two separate episodes), and the used-guitar checklist (backlog #17). Worth a pass to reconcile this doc with v7 before filming so nothing gets shot twice.
+- Two hooks in the "High-Potential Titles" section above ("Your guitar is probably fighting you," "98% of barre chord pain is a setup problem" framed via a fighting metaphor) use the "guitar fighting you" framing the channel guardrails explicitly rule out. Not rewriting them here since existing content is being preserved as-is, but flag before scripting.
+
+### Trending Topics & Keywords (new signals since June)
+
+- **Silicone finger caps / adaptive picks** — visible uptick in coverage of arthritis-specific accessories (Roadie Music, MyGuitarMatch, Folkstrings all published guides in 2026). No B&B video owns this yet.
+- **Short-scale tuning peg friction** — 2026 short-scale coverage (Guitar Player, Tone Authority) flags that the small knurled tuning keys on short-scale/travel guitars are hard for older or arthritic hands to turn — a specific friction point inside a fix the channel already recommends (short-scale as an ergonomic solution), and nobody has closed the loop on it.
+- **AI real-time technique/posture feedback apps** — 2026 coverage describes phone-camera apps that analyse playing form live, distinct from the "AI as practice coach" angle already planned in backlog #39 (chord/timing feedback). The posture/ergonomics angle is unclaimed.
+- **Custom/boutique guitar trend** — 2026 market coverage shows a swing toward custom builds as the "serious player" signal. This cuts against the channel's Fix Ladder thesis and is a strong contrarian-editorial opportunity, not a gap to fill.
+
+### New Video Ideas (not present in this doc or the v7 backlog)
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch |
+|---|---|---|---|
+| **Reading the Fretboard When Your Eyes Have Changed** | Chord charts, tab, and fret markers get harder to read from your mid-40s on — presbyopia is universal, but no guitar content treats it as a setup problem | Lighting, fret marker visibility, chart/tab format, glasses | £0: move practice lamp to a raised side angle → £8: glow-in-the-dark fret marker stickers → £20–30: guitar-specific reading glasses / clip-on lamp → £100+: LED fretboard marker inlay retrofit |
+| **Left-Handed and Adult: Buying, Restringing, and the Guitar That Wasn't Built for You** | Left-handed adult players face friction the channel has never addressed — mirrored ergonomics, restricted stock, and restringing a right-handed guitar as a stopgap | Setup, buying guidance, technique adaptation | £0: restring a right-handed guitar upside-down (Hendrix method) and adjust nut slot angle → £15: left-handed strap and nut/saddle reslotting → £60–100: left-handed conversion parts kit → £150+: dedicated left-handed short-scale model |
+| **The Tuning Peg Problem: Why Short-Scale Guitars Are Harder to Tune Than They Should Be** | Short-scale and travel guitars are recommended throughout the channel as a comfort fix, but their small knurled tuners are genuinely hard to turn with stiff or weak hands — closes a loop the channel itself opened | Hardware swap | £0: technique — turn from the side, not the top, to reduce grip load → £12: rubber tuner grip sleeves → £35–50: geared locking tuner upgrade → £80+: full tuner replacement with oversized butterfly buttons |
+| **Finger Caps, Adaptive Picks, and Grip Aids: What's Actually Worth Buying** | Arthritis-specific accessories are trending in 2026 coverage but nobody has tested them against the Fix Ladder honestly | Accessory review/comparison | £0: technique adjustment (thumb-lead fretting) → £6–10: silicone finger caps → £15–20: ergonomic-grip picks (BluGuitar/Ergo Grip type) → £30+: custom-molded grip aid |
+| **Capo Spring Tension Compared: Which One Actually Needs the Least Grip Strength** | Partial capos appear throughout the channel as a fix, but no video has compared clamping force across brands for someone with reduced grip | Hardware comparison | £0: technique — capo placement angle to reduce required force → £15: Kyser Quick-Change → £25–35: G7th Performance 3 (adjustable tension) → £40+: Spider capo for partial-chord work |
+| **Practicing Quietly When Your Ears Are the Problem, Not the Neighbours** | The channel's silent-practice content solves for noise leaving the room — nothing addresses tinnitus or hearing sensitivity as the reason to play quietly | Reframe of existing silent-practice cluster through a hearing-health lens | £0: play at lower dynamic level and use a soundhole cover → £10: foam earplugs (ER20-type) for the player, not the neighbours → £30–50: isolating headphones for headphone-amp practice → £100+: in-ear monitors for comfortable low-volume detail |
+| **Is a Custom Guitar Actually More Comfortable? (Or Just More Expensive)** | 2026 gear media is pushing custom/boutique builds as the "serious player" move — direct contrarian opportunity against the channel's core thesis | Editorial/myth-busting, no physical fix — makes the case that setup beats spec | £0: the three-point comfort check from Video 1, run on a stock budget guitar → £25: Graph Tech nut/saddle upgrade on the same guitar → £150+: what a custom build actually buys you (fit, not comfort, unless setup is included) → closing insight: comfort is a setup decision at any price point |
+
+### Content Gaps and Underexplored Angles (new)
+
+1. **Presbyopia / aging eyesight** — a friction point that affects nearly the entire target demographic by their late 40s, currently absent from the channel entirely. Highest-priority gap found this pass.
+2. **Left-handed adult players** — a whole audience segment with zero channel coverage; strong fit with the "no default body" philosophy.
+3. **Hearing health as a reason for quiet practice** — reframes an existing content cluster rather than requiring new production infrastructure; cheap to add.
+4. **The tuning-peg-on-short-scale problem** — a self-inflicted gap: the channel recommends short-scale guitars as a fix elsewhere in the backlog without acknowledging this specific downside, which weakens trust with a well-informed viewer.
+
+### Titles, Hooks, Thumbnail Concepts for the Highest-Potential New Ideas
+
+**1. "Reading the Fretboard When Your Eyes Have Changed"**
+- Hook: "Nobody tells you the hardest part of learning guitar at 50 might be reading it."
+- Thumbnail: Close-up of a chord chart slightly out of focus next to the same chart sharp under a raised lamp; no text overlay needed.
+
+**2. "Left-Handed and Adult: The Guitar That Wasn't Built for You"**
+- Hook: "Every guitar shop assumes you're right-handed. Here's what to actually do about it."
+- Thumbnail: A right-handed guitar flipped upside-down mid-restring, strings half-changed.
+
+**3. "The Tuning Peg Problem Nobody Mentions About Short-Scale Guitars"**
+- Hook: "I've told you to buy a short-scale guitar. Here's the one thing about them I didn't mention."
+- Thumbnail: Close-up of fingers struggling to turn a small knurled tuner; before/after with a geared locking tuner.
+
+**4. "Finger Caps and Grip Picks: What's Actually Worth Buying"**
+- Hook: "Arthritis accessories are everywhere right now. Most of them are £8. Here's which ones earn a place on the Fix Ladder."
+- Thumbnail: Four products lined up on the workbench with price tags visible, one circled.
+
+**5. "Is a Custom Guitar Actually More Comfortable — Or Just More Expensive?"**
+- Hook: "The custom guitar world says spec is everything. My workbench says otherwise."
+- Thumbnail: A budget guitar and a custom-build guitar side by side with identical action-height measurement overlays.
+
+### Format Note
+
+Several of these ideas (tuning peg fix, capo comparison, finger caps review) are short, low-physical-load sprints — bench-only, no full setup teardown — and could slot into weeks where a heavier video (like the custom guitar comparison) isn't realistic. Worth sequencing a light one next to a heavy one rather than batching all the heavy ergonomics videos together.

@@ -184,3 +184,49 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — September 28, 2026
+
+Scheduled research pass. Cross-checked the June 2026 list above before adding anything new — carpal tunnel, humidity/seasonal drift, silent practice, one-handed/Django, and general arthritis are already logged (several as scripted or planned PTI episodes) and are not repeated here. This pass focused on angles the June list hasn't touched yet.
+
+## What's Trending Right Now
+
+- **"Guitarist as athlete" framing** — Guitar World (Sept 2026) ran a piece on arthritis and aging guitarists built around the line "guitarists should think of themselves as athletes." Warm-up, conditioning, and recovery framing for hand health is gaining press attention outside the usual gear-review channels — a mindset entry point the channel hasn't used yet.
+- **Ergonomic/contoured guitar bodies** — renewed interest in guitars designed to change shape to the player (contoured bodies, adjustable neck angle) rather than the player adapting to a standard body. Mostly covered by gear-hype channels; almost no one runs it through a Fix Ladder or asks whether it's worth it versus a cheaper setup change.
+- **DIY guitar kit builds** — a genuine 2026 trend (BexGears, Guitar Kit World, etc.), positioned as budget-friendly and beginner-accessible. Adjacent to the channel's DNA but is a *build* trend, not a *fix* trend — flagged below as a gap the channel should probably NOT chase directly, to avoid drifting into gear-build content.
+- **Specific joint conditions still under-covered by name** — the general "arthritis" search is crowded; searches for the specific mechanisms (thumb joint / basal joint arthritis, focal dystonia, tennis elbow from playing) are far less crowded and match the channel's "name the actual mechanism" approach used for carpal tunnel.
+
+## New Video Ideas
+
+| Working Title | The Friction | Fix Angle | Fix Ladder Sketch | Audience Appeal |
+|---|---|---|---|---|
+| **Thumb Joint Arthritis and the Thumb-Over Grip** | Basal/thumb-joint pain makes standard thumb-behind-neck fretting hand position painful | Technique + setup: thumb-over hand position changes mechanical load; neck profile and action work with it, not against it | Free: thumb-over positioning + strap height check · £5–20: thinner neck-friendly string set · £25–100: partial capo for reduced-reach voicings · £100+: shorter-scale or slimmer-neck guitar swap | High — thumb-joint (basal) arthritis is common, specific, and almost nobody addresses it by name rather than lumping it under general "arthritis" |
+| **Slide Guitar: The Adaptive Technique Nobody Frames as Adaptive** | Fretting demands are the friction, not playing itself | Approach: open tuning + slide removes fretting-hand precision demands entirely | Free: open tuning on existing strings + any hard, smooth object · £5–20: glass or brass slide · £25–100: raised nut/action adjustment for slide clearance · £100+: dedicated resonator or lap-style setup | Medium-high — strong PTI-series fit; distinct from Django episode (removes fretting demand rather than working around missing digits) |
+| **Tennis Elbow From Playing: The Setup Variable Nobody Checks** | Forearm/elbow pain often blamed on "bad technique," rarely traced to string tension or pick grip | Setup: string gauge and pick weight as the overlooked variable in repetitive strain | Free: pick angle + grip check · £5–20: lighter gauge strings or softer pick · £25–100: locking tuners to reduce tuning-related repetitive motion · £100+: professional ergonomic assessment/setup | Medium — smaller search volume than arthritis/carpal tunnel but very low existing competition |
+| **Are Ergonomic Guitars Worth It? A Fix Ladder Look at Contoured Bodies** | Marketing says a contoured/adjustable body solves comfort; player has no way to know if it's worth the price over a setup fix | Assess ROI: compare body-shape investment against cheaper setup-level fixes for the same friction | Free: playing position + strap length audit · £5–20: contoured strap pad · £25–100: used ergonomic-body guitar · £100+: new ergonomic-body model | High — rides a real 2026 trend, but only if it stays evaluative (does this replace a £0 fix or genuinely add something) rather than gear-hype |
+| **The Warm-Up Protocol: Playing Guitar Like an Athlete Trains** | Players either skip warm-up entirely or don't know what a hand-health warm-up looks like versus a technique warm-up | Approach: reframes warm-up as injury-prevention, not skill drilling | Free: 3-minute joint-mobility routine before playing · £5–20: hand exercise ball/putty · £25–100: compression gloves · £100+: n/a — this one tops out at Quality tier, and that's fine | Medium-high — piggybacks on the "guitarist as athlete" framing getting press attention; strong evergreen/returning-viewer potential |
+| **Focal Dystonia: When the Hand Won't Do What You Tell It** | Involuntary curling or freezing of fingers during playing — distinct from pain-based conditions already in the PTI series | Approach: retraining and adaptive fingerings rather than a hardware fix | Free: alternate fingering approach + rest scheduling · £5–20: n/a — mostly technique-led · £25–100: instructional consultation · £100+: specialist retraining program | Lower volume but near-zero existing content; strong differentiator for the PTI series if the creator has (or can find) credible grounding for it |
+
+## Gaps and Underexplored Angles
+
+1. **Named joint conditions beyond arthritis/carpal tunnel** — thumb-joint arthritis, tennis elbow, and focal dystonia are all searched by name with little quality content addressing guitar specifically. Same playbook that worked for the carpal tunnel gap identified in June.
+2. **"Athlete" framing for hand health** — warm-up, conditioning, recovery. Distinct content pillar from "Playing Through It" (which is condition-specific) — this one is preventive and applies to every viewer, not just those with a diagnosed condition.
+3. **Evaluative gear content is thin** — the channel has strong fix-tier content but hasn't yet run a trending product category (ergonomic/contoured guitars) through the Fix Ladder to answer "is this worth it." Good opportunity to apply the existing framework to a topic currently owned by gear-hype channels.
+4. **DIY guitar kit builds — flagged as a probable non-fit.** It's a genuine 2026 trend and shares the audience's hands-on, budget-conscious instincts, but it's a *build* activity rather than a *fix* to an existing friction point, and risks pulling the channel toward gear-build content it has deliberately avoided. Worth a deliberate call before pursuing rather than adding by default.
+
+## Titles, Hooks, Thumbnail Concepts for the Strongest New Ideas
+
+**"Thumb Joint Arthritis and the Grip Nobody Shows You"**
+- Hook: "The pain isn't in your fingers. It's in the joint you're not thinking about."
+- Thumbnail: close-up of thumb-over hand position against neck, small joint-location diagram overlay
+
+**"Are Ergonomic Guitars Worth It? I Ran the Numbers"**
+- Hook: "Before you spend £400 on a contoured body, here's what a £0 fix already does."
+- Thumbnail: standard body vs. contoured body side by side, Fix Ladder price bar beneath
+
+**"Warm Up Like an Athlete, Not a Guitarist"**
+- Hook: "You wouldn't sprint cold. Why play cold?"
+- Thumbnail: hands mid-stretch over guitar neck, stopwatch showing "3 min" overlay

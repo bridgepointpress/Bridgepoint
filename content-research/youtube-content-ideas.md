@@ -184,3 +184,92 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 29 September 2026
+
+**Method:** Web search of current guitar/arthritis/adult-player coverage, cross-checked against everything already listed above so only new angles appear here. Search tooling returned mostly evergreen articles rather than hard trend data, so "appeal" ratings are estimates from search-intent signals, not measured volume.
+
+## What the Current Landscape Shows
+
+- **Arthritis coverage is still mostly text/blog and exercise-led.** Results centre on hand exercises, "pick a smaller guitar" and "lower your action". Very few sources show a measured before/after on one player's guitar. The channel's baseline-and-measure format remains distinctive.
+- **Lighter strings and low action are a standard recommendation** (.010–.047 acoustic sets, .009 electric). Coverage stops at "use lighter strings" with no ROI comparison across price tiers. Fix Ladder framing fits the gap.
+- **Coated strings now cost more but last roughly 3x longer** in current guides. Suits players who pick up the guitar a few times a week rather than daily.
+- **Short-scale as an accessibility fix** (Taylor GS Mini, short-scale neck conversions on a Strat) is getting attention through client stories. Little of it compares budget options side by side.
+- **Seasonal timing:** October–December is when humidity and heating changes drive setup searches. A winter series published in October fits the calendar.
+
+## New Video Ideas (not already in the list above)
+
+Appeal: High / Medium / Low, estimated. Physical load: 15-min-sprint friendly unless noted.
+
+| # | Working title | Friction | Fix angle | Appeal | Load |
+|---|---|---|---|---|---|
+| 1 | **Coated vs Uncoated Strings: Cost Per Playing Hour** | Strings go dull between sessions when playing is irregular | ROI maths: price divided by hours played. Ladder: £0 wipe-down routine / £5–8 uncoated / £12–18 coated / £25+ bulk coated | High | Low |
+| 2 | **Nut Slot Height: Measuring the First Fret Gap** | First-position chords need more pressure than they should | Feeler gauge baseline at fret 1, then graphite or file. Ladder: £0 check / £5 gauge / £25–40 nut files / £100+ luthier nut | High | Low–Med |
+| 3 | **The Same Guitar, Three String Gauges: Measured Finger Pressure** | Unclear how much each gauge step changes effort | Side-by-side with a simple pressure/fret-hand-fatigue log | High | Low |
+| 4 | **Short-Scale Neck vs Short-Scale Guitar: Which Fix Fits Which Budget** | Full-scale reach strains the fretting hand | Compare converting an existing guitar with buying short-scale (see Short Scale Guitars 2026 doc). Ladder: £0 capo higher + retune / £5–20 capo + lighter set / £130–300 Harley Benton or Sire short-scale / £700+ premium | High | Low |
+| 5 | **Heated Rooms and Guitars: An October Setup Check** | Neck relief and action move when heating starts | Seasonal baseline log. Extends the existing winter/humidity idea into a repeatable checklist | Med–High | Low |
+| 6 | **Guitar Left Out on a Stand vs in a Case: What Changes Playing Frequency** | Guitar in the case means fewer sessions | Habit-friction video: stand, wall hanger, chair-side placement. Ladder: £0 chairside / £10 wall hook / £30 stand / £60+ display mount | Med–High | Low |
+| 7 | **Tuning Down a Half Step: Slacker Strings, Same Songs** | High tension at standard pitch tires the hand | Eb tuning as a permanent adaptive strategy; capo to match backing tracks. No-cost first tier | Med–High | Low |
+| 8 | **Picks and Grip: Thicker, Thinner, Textured** | Pick grip fatigue is separate from fretting fatigue | Pick size/grip comparison for reduced grip strength. Ladder: £0 grip position / £5 assorted pack / £15–25 grip picks / £40+ custom | Med | Low |
+| 9 | **Fretting-Hand Rest Points: Stops in a Song That Cost Nothing** | Long passages without a release | Mark natural rest bars in a familiar song. PM concept: scheduled buffers | Med | Low |
+| 10 | **A Guitar Setup Log Template: Baseline Once, Compare Every Season** | No record of what was measured before | Lead-magnet candidate alongside the Arthritis Checklist PDF | Med | Low |
+
+## Gaps and Underexplored Angles (new this pass)
+
+1. **Cost-per-hour maths for consumables.** Nobody applies simple ROI to strings, picks, or setups for irregular players. Direct PM-lens fit.
+2. **Measured finger pressure.** Guides repeat "lighter strings help" without numbers. A basic repeatable measurement (kitchen scale at the 12th fret, fret-1 gap) gives the channel evidence others lack.
+3. **Habit friction, not just physical friction.** Where the guitar lives, how long to first note. Ties to the 15-minute sprint and would broaden reach past hand-health viewers.
+4. **Conversion vs replacement decision.** Short-scale neck conversions are appearing as client stories; a neutral "convert or buy" comparison is open.
+5. **Tuning and capo as adaptive strategy.** Half-step-down and higher-capo approaches are usually presented as tone choices, rarely as ergonomic ones.
+6. **Backlog note:** Carpal tunnel (PTI Ep 2) remains the highest-priority gap from the June pass and is still unproduced in this file. Consider scheduling it before the new ideas.
+
+## Top Picks: Titles, Hooks, Thumbnail Concepts
+
+### A. "Coated vs Uncoated Strings: What Each Hour of Playing Costs"
+- **Alt titles:** "Are Expensive Strings Worth It If You Only Play Twice a Week?" / "Strings for Irregular Players"
+- **Hook:** "One set costs £6. One costs £16. Which costs less per hour depends on how you play."
+- **Thumbnail:** Two string packets with a per-hour price on each; dull string vs bright string close-up.
+- **Insight:** Unit cost vs total cost of ownership.
+
+### B. "The Nut Slot Gap: Measure It in Two Minutes"
+- **Alt titles:** "Why the First Frets Take More Pressure" / "The £5 Tool That Shows Your Baseline"
+- **Hook:** "Here is a number that decides how hard your first-position chords are. Let's measure yours."
+- **Thumbnail:** Feeler gauge sliding under a string at fret 1, gap in millimetres overlaid; before/after numbers.
+- **Insight:** Baseline vs variance, measure before touching anything.
+
+### C. "Three String Gauges, One Guitar, One Kitchen Scale"
+- **Alt titles:** "How Much Easier Is a Lighter Set? Measured" / "The Numbers Behind Light Strings"
+- **Hook:** "Everyone says lighter strings are easier. Here is how much easier, in grams."
+- **Thumbnail:** Three string packets in a row with pressure figures; scale under the string.
+- **Insight:** Quantifying a felt improvement.
+
+### D. "Where Your Guitar Lives Decides How Often You Play"
+- **Alt titles:** "The Two-Second Fix for Playing More" / "Stand, Hook, or Case: A Habit Experiment"
+- **Hook:** "The guitar in the case is two minutes from your hands. The one on the stand is two seconds."
+- **Thumbnail:** Guitar on a stand beside a favourite chair, soft evening light; time-to-first-note overlay.
+- **Insight:** Removing setup time from a 15-minute sprint.
+
+### E. "Converting to Short Scale, or Buying One: The Honest Comparison"
+- **Alt titles:** "Short Scale on a Budget" / "Which Route Costs Less Per Comfortable Hour"
+- **Hook:** "There are two routes to a shorter reach. One starts at £0 and one starts at £130."
+- **Thumbnail:** Full-scale and short-scale necks side by side with scale lengths marked.
+- **Insight:** Build vs buy, value engineering.
+
+## Format & Scheduling Notes
+
+- **Series option:** "Baseline Numbers" — short measured episodes (fret-1 gap, action at 12th fret, finger pressure, relief). Each ends with playing, each feeds the setup log lead magnet (idea 10).
+- **Shorts:** ideas 2, 3 and 1 have natural 30–45 second measurement clips, no face needed.
+- **Seasonal timing:** idea 5 is time-sensitive; publish October. Ideas 1–4 are evergreen.
+- **Fix Ladder balance:** ideas 3, 4, 8 have strong Free/Affordable tiers for the Budget DIYer; 1, 4, 6 give the Comfortable Player clear quality and premium options.
+- **Not checked:** the v10 backlog spreadsheet was not available in this environment. Compare these ideas against it before scheduling to avoid overlap.
+
+**Sources:**
+- [How to Pick an Acoustic Guitar for Arthritic Hands – Premier Guitar](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands)
+- [Easiest Guitar to Play with Arthritis – Gentle Octaves](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [Playing Guitar with Arthritis: Practical Adaptations – Folkstrings](https://folkstrings.com/playing-guitar-with-arthritis/)
+- [Short scale neck for Fender Strat (YouTube Short)](https://www.youtube.com/shorts/CJ61caUO548)
+- [Best acoustic guitars for beginners 2026 – Guitar World](https://www.guitarworld.com/features/best-acoustic-guitars-for-beginners-beginner-acoustic-guitars)
+- [Beginner Acoustic Guitars with Low Action – Chord Crest](https://chordcrest.com/beginner-acoustic-guitars-low-action/)

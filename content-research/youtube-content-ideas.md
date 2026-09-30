@@ -184,3 +184,77 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+
+---
+---
+
+# Research Update — 30 September 2026
+
+**Method:** Web search (arthritis-friendly setup; short-scale guitars 2026) plus a check of the Drive project folder (v7 spreadsheet and Video 1 script located; v10 backlog not read this run, so sequencing below is provisional). Search data is qualitative, not volume figures. Nothing here replaces the June list; these are additions and refinements.
+
+## What the Research Shows
+
+- **Lower action + lighter gauges remain the headline advice** for arthritic players (.010 → .009/.008 electric; .013 → .012 acoustic). Well covered by text sites; on-camera measured before/after is still thin.
+- **Joe Perry adapting his setup** (fat frets, hybrid .08/.09 strings) gives a mainstream, credible peg for "adaptive is legitimate at every level."
+- **Nylon-string / wide-nut comparisons** (approx. 52mm vs 43–44mm) appear in most "best guitar for arthritis" articles. Fits the Easier Play Guitars doc.
+- **ChordBuddy-type aids** are getting attention; an honest, non-hype look at simplified-fretting aids is an open lane.
+- **Short-scale 2026 roundups** consistently name: Fender Player II Mustang, Ibanez miKro (22" scale), Yamaha JR1, Fender FA-15 / Redondo Mini 3/4. Roundups list specs but rarely frame scale length as an ergonomic fix or show measured tension/reach differences.
+- **TikTok arthritis-and-guitar content** is active but tip-fragment style; a calm, structured long-form answer is the gap.
+
+## New Video Ideas (not in June list)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Nut Width and Finger Spacing: Does 52mm Change Anything?** | Fingers crowd on a narrow neck | Free: check current nut width, try open voicings / Affordable: string spacing check £0–5 / Quality: nylon-string or wide-nut used guitar £100–250 / Premium: wide-nut steel or classical £300+ | High (Comfortable Player, arthritis) |
+| 2 | **Hybrid String Sets: The Joe Perry Approach at Any Budget** | Bends and barres cost too much grip effort | Free: swap gauge down one step already owned / £5–20: hybrid set / £25–100: fret-level or dress for lower action / £100+: refret with wider frets | High, mainstream hook |
+| 3 | **Scale Length, Measured: 25.5" vs 24.75" vs 22"** | Long reaches and high tension | Free: capo placement to shorten reach / £5–20: lighter strings tuned to suit / £100–250: Mustang, miKro, JR1-class short scale / £400+: premium short-scale | High; short-scale interest is growing |
+| 4 | **Simplified-Fretting Aids: An Honest Look** | Grip strength limits chord playing | Free: partial chords, drop tunings / £20–50: aid device / £100+: adaptive setup plus short scale | Medium, controversial, high comment potential |
+| 5 | **Fret Edges and Rolled Fingerboards: The Comfort Detail Nobody Lists** | Sharp fret ends and sore fingertips | Free: identify and note / £5–20: fret-end file, polish / £25–100: professional dress / £100+: refret | Medium; low physical load to film |
+| 6 | **The Two-Week Baseline: Measure Your Guitar Before Changing Anything** | Changes made without knowing the starting point | Free: notebook and a ruler / £5–20: feeler gauges, string-action ruler / £25–100: capo-and-gauge kit / £100+: digital calipers plus relief gauge | High; core channel concept, strong evergreen |
+| 7 | **Playing Guitar in a 15-Minute Window: A Sprint Setup** | Setup time eats the practice time | Free: guitar on a stand, always ready / £5–20: wall hanger / £25–100: stand plus tuner / £100+: dedicated corner | High; matches the 15-minute sprint constraint |
+| 8 | **Seasonal Check: Autumn Humidity Drop** | Neck moves as heating comes on (Oct–Nov timing) | Free: measure relief now / £5–20: hygrometer / £25–100: room humidifier / £100+: case humidification | High, timely for Q4 |
+
+## Gaps and Underexplored Angles (additions)
+
+1. **Measured comparison content.** Most competitors list specs; few show a ruler, a feeler gauge and a before/after. That is the channel's differentiator.
+2. **Scale length as ergonomics.** Still framed as "for small hands" in roundups. Reframing it as an option for anyone who wants less reach and tension is unclaimed.
+3. **Nut width across guitar types.** Widely quoted numbers, very little demonstration.
+4. **Professionals adapting.** Using artists like Joe Perry as proof that adapting is standard practice, not a compromise.
+5. **Autumn/winter timing.** A humidity/relief video published in October catches the seasonal search bump; worth scheduling now.
+6. **Gaps in the June list:** it leans heavily on premium-adjacent "Comfortable Player" tiers in a few places; ideas 6 and 7 above serve the Budget DIYer at Free/£5–20 first.
+
+## Top Picks: Titles, Hooks, Thumbnails
+
+**1. "Measure Your Guitar Before You Change Anything" (idea 6)**
+- Alt titles: "The Two-Week Baseline" / "Start Here Before Any Guitar Upgrade"
+- Hook: "Before I change a single thing, I want a number to compare it to."
+- Thumbnail: feeler gauge in the gap at the first fret next to a notebook with a measurement; no text on camera.
+
+**2. "Scale Length, Measured" (idea 3)**
+- Alt titles: "Why This Guitar Feels Smaller Than It Is" / "25.5 vs 22 Inches"
+- Hook: "Same chord, same hand. Three guitars. Here is how far each finger has to travel."
+- Thumbnail: three necks side by side with a hand span marked on each.
+
+**3. "Hybrid Strings, the Joe Perry Approach" (idea 2)**
+- Alt titles: "Lighter on the Fretting Hand, Full on the Bend"
+- Hook: "A rock guitarist adjusted his strings so he could keep playing. Here is how to do the same at any budget."
+- Thumbnail: two string packs, one clear price on each.
+
+**4. "Autumn Humidity Check" (idea 8)**
+- Alt titles: "Your Guitar Changes When the Heating Comes On"
+- Hook: "Check this in October and January and you will know exactly what moved."
+- Thumbnail: relief gauge reading at two dates, split image.
+
+## Note on Existing Copy
+
+A few hooks in the June list ("your guitar is probably fighting you", "fighting you by December") use hostile-guitar framing that conflicts with the channel guardrails. Suggested rewording: "your guitar may not yet be set up for how you play" and "the neck moves with the seasons; here is how to check it."
+Also, the June Fix Ladder prices are given in $ in the header but £ elsewhere; £ is used here for consistency.
+
+## Sequencing Suggestion (provisional, pending v10 backlog check)
+
+1. **Measure Your Guitar Before You Change Anything.** Low physical load, feeds every later video, evergreen.
+2. **Autumn Humidity Check.** Time-sensitive; publish October.
+3. **Scale Length, Measured.** Higher production cost, high growth potential; film across two short sessions.
+
+Sources: [Guitar World, Joe Perry](https://www.guitarworld.com/artists/guitarists/joe-perry-guitar-changes-arthritis) · [My Guitar Match](https://www.myguitarmatch.com/blog/how-to-play-guitar-with-arthritis/) · [Premier Guitar](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands) · [Guitar Player, 3/4 acoustics 2026](https://www.guitarplayer.com/gear/best-three-quarter-acoustic-guitars) · [Guitar Lobby, short scale electrics](https://www.guitarlobby.com/best-short-scale-electric-guitars/)

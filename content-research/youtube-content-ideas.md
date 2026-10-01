@@ -184,3 +184,71 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+
+---
+---
+
+# Research Update — 1 October 2026
+
+*Scope: new angles only. Nothing above has been changed. Backlog check against the v10 spreadsheet was not possible in this run (file not in the repo), so please cross-check before scheduling.*
+
+## What the Search Signals Say
+
+- **Lower action is the most-cited single fix for reduced grip strength.** A professional setup is quoted at roughly $40–75, which maps cleanly onto the Fix Ladder (free check, then feeler gauges, then a tech visit).
+- **Short-scale is being framed as an arthritis fix** in current coverage (lower tension at the same pitch). 2026 "best short scale" roundups and shop-built short-scale neck swaps for arthritic clients are circulating. Interest is rising, but the ergonomic framing is still thin.
+- **Capo at the 2nd or 3rd fret to reduce action** is a recurring forum tip. It is adaptive, free to try, and rarely explained properly.
+- **String gauge and tendinitis** threads are active on the major guitar forums, with players asking about dropping gauge. Light strings are described as respected, not a compromise.
+- **Nut height and "action" explainers** are circulating as short-form clips (TikTok and Shorts). Short-form demand is high; long-form, measured, before/after versions are scarcer.
+- **Typical numbers people quote:** about 1.8–2.0 mm (high E) and 2.2–2.5 mm (low E) on electrics; nut slot about 1–1.5 mm over the first fret. These are usable as on-screen measurement baselines.
+
+## New Video Ideas (not duplicating the June list)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **The Capo-as-Action-Reducer: Try It Before You Spend Anything** | Fretting takes more pressure than it should | Free: capo at fret 2–3 test / £5–20: basic capo / £25–100: Shubb-style lite capo / £100+: tech sets action permanently | High. Free, fast, demonstrable. |
+| 2 | **Scale Length, Measured: 25.5" vs 24.75" vs 22.5" Tension** | Same chord, different effort | Free: measure your scale / £5–20: lighter set / £25–100: short-scale budget model (Harley Benton, Sire, Mitchell, Indio per the 2026 doc) / £100+: Ibanez, Taylor GS Mini class | High. Strong comparison format, affiliate-ready. |
+| 3 | **Nut Height Check With a Feeler Gauge (Measured Baseline)** | Open-position chords feel stiff | Free: eyeball + business card / £5–20: feeler gauges / £25–100: nut files / £100+: tech nut recut or replace | High. Measured long-form is underserved. |
+| 4 | **Heavier Strings, Lighter Touch? Gauge Ladder for Sore Hands** | Fingertip and joint ache after short sessions | Free: re-check current action / £5–20: extra-light set / £25–100: set plus setup adjustment / £100+: setup plus short-scale | High. Ties to tendinitis search. |
+| 5 | **The Return-to-Guitar Baseline: Week 1 Setup Audit** | Picking up an old guitar after years | Free: audit checklist / £5–20: strings / £25–100: tech visit / £100+: replacement guitar | High. Broad, emotional, evergreen. |
+| 6 | **Zero Fret and Low-Friction Nuts: Do They Matter?** | Open strings feel different from fretted ones | Explainer; free check, nut lube, nut file, tech work | Medium. Niche but loyal. |
+| 7 | **The Bad Hand Day Setlist (15-Minute Sprint)** | Hands are not cooperating today | Free: open-string pieces and partial shapes / £5–20: lighter strings / £25–100: capo / £100+: short-scale | High emotional value. Extends PTI Ep 8. |
+
+## Gaps and Underexplored Angles
+
+1. **Measured long-form on action and nut height.** Short clips abound; before/after with a baseline and a number is the channel's differentiator.
+2. **Short-scale as a measured ergonomic change**, not a gear review. Pair with the Easier Play Guitars doc for nylon/steel/electric comparison.
+3. **Capo as a permanent adaptive tool**, not a trick.
+4. **Returning players.** The audit format (baseline first) fits the PM lens directly.
+5. **Shop-built adaptive instruments** (e.g. neck swaps made for arthritic clients) suggest a possible interview or case-study format.
+
+## Top Picks: Titles, Hooks, Thumbnails
+
+**1. "Try This Before You Spend Anything: The Capo Action Test"**
+- Hook: "Two minutes, one capo, and a before-and-after you can feel."
+- Thumbnail: Hand fretting with a capo at fret 2; measurement overlay showing action in mm.
+
+**2. "Scale Length Explained: Why 24.75 Feels Different"**
+- Hook: "Same chord. Less effort. Here is the measurement."
+- Thumbnail: Two necks side by side with scale lengths marked.
+
+**3. "I Measured My Nut Height. Here Is What Changed."**
+- Hook: "A one-millimetre difference, and open chords play lighter."
+- Thumbnail: Feeler gauge in the first-fret gap; before/after numbers.
+
+**4. "Coming Back to Guitar? Start With a Baseline"**
+- Hook: "Before you buy anything, here is a fifteen-minute audit."
+- Thumbnail: Old case opening; checklist on the lid.
+
+## Recommended Order (production load)
+
+1. **Capo Action Test**: low physical load, 15-minute sprint, free tier, easy Short.
+2. **Nut Height with Feeler Gauge**: fits the existing "£0 setup check" cluster.
+3. **Scale Length Measured**: higher production effort; schedule on a good-hands day.
+
+## Notes
+
+- **Language check on the June list:** several hooks use "your guitar is fighting you" (e.g. Titles 1 and 9). Channel guidelines say the guitar is never framed as hostile; consider rewording to "not yet matched to how you play."
+- Figures above come from web search summaries (setup cost, action ranges); verify on camera before quoting.
+
+**Sources:** [Best Short Scale Electric Guitars 2026](https://powersof10.com/best-short-scale-electric-guitars/) · [How to Play Guitar with Arthritis](https://www.myguitarmatch.com/blog/how-to-play-guitar-with-arthritis/) · [Short-scale neck for arthritis (YouTube)](https://www.youtube.com/shorts/CJ61caUO548) · [Guitar Action Height 2026](https://owningafender.com/guitar-setup/action-height) · [Best Strings for Arthritis](https://blog.gentleoctaves.com/best-guitar-strings-for-hand-thumb-pain/) · [Heavy gauge and tendinitis thread](https://sevenstring.org/threads/heavy-string-gauge-causing-tendinitis.194589/)

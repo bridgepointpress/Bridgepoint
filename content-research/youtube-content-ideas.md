@@ -184,3 +184,90 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 2 October 2026
+
+*Method: web search (arthritis/setup, short-scale, channel landscape) cross-checked against everything above. Items already listed earlier in this file are not repeated; this section only adds new angles, sharpened priorities, and wording fixes. Web results were thin on actual YouTube trend data (mostly buyer's guides), so appeal ratings are judgement-based, not view-count-based.*
+
+## What the Research Shows
+
+- **Short-scale is now a mainstream search theme.** Buyer's guides (Guitar World, Guitar Lobby, Tone Authority, Musician Wave) all frame 22.5"–24.75" scale as a comfort choice for adults. Named models recurring: Fender Mustang (24"), Ibanez Mikro, Taylor BT1/BT2, Fender FA-25N nylon. Written content is plentiful; *measured, before/after* video is not.
+- **Arthritis content is dominated by listicles** ("17 tips", "10 easy tips"). Common advice: lighter gauges, 24–24.75" scale, lower action, slim C neck, a $50–80 pro setup. Nobody prioritises these by ROI. That is the channel's opening.
+- **A celebrity hook exists.** Guitar World covered Joe Perry changing his setup to protect his hands (lighter strings, easier bends). Good "even pros do this" social proof, usable as context without leaning on the name.
+- **Channel landscape** (Paul Davids, Marty Music, Beato, etc.) is lessons, theory and song breakdowns. The friction/setup/ergonomics lane for adults 35–65 is uncontested at that scale.
+
+## New Video Ideas (not already in the file)
+
+| # | Working title | Friction | Appeal | Effort / physical load |
+|---|---|---|---|---|
+| 1 | **Every Arthritis Guitar Tip, Ranked by ROI** | Tip lists give 17 options with no order | High — direct counter to listicle SERP; strong PM insight | Low (talking + 3 quick demos) |
+| 2 | **Scale Length Test: 25.5" vs 24.75" vs 24" on the Same Chord Changes** | Reach and stretch at the first three frets | High — measurable (stretch in mm, time to change) | Medium |
+| 3 | **Nylon vs Steel vs Electric: Fingertip Pressure Measured** | Fingertip soreness limits session length | High — shareable comparison, affiliate-ready | Medium |
+| 4 | **Slim C vs Chunky Neck: Does Profile Matter More Than Scale?** | Wrap and grip fatigue in the fretting hand | Medium-High | Low |
+| 5 | **The 15-Minute Setup Sprint: Action Only** | A setup feels like an all-day job | High — fits sprint philosophy, searchable | Low |
+| 6 | **Joe Perry Changed His Setup. Here Is the Version for Everyone** | Bends and sustained holds tire the hand | Medium-High — news-peg, search spike potential | Low |
+| 7 | **Small-Body Acoustic Shelf Test (Baby Taylor, FA-25N and budget alternatives)** | Large body = shoulder reach and strain | Medium — ties to existing parlour video | Medium |
+| 8 | **Returning After Ten Years: The First Three Changes** | A guitar left in a case needs a baseline | High — large "returning player" audience; emotional | Low |
+| 9 | **Left Hand Rest Day Plan: What to Do at the Guitar on Low-Grip Days** | Low-grip days with a wish to play anyway | Medium — extends flare-up episode; open/fingerstyle/lap options | Low |
+| 10 | **Budget Short-Scale Under £200: Setup Before and After** | Budget short-scales ship with high action | High — ties Short Scale 2026 doc (Harley Benton, Sire, Mitchell, Indio) to the Fix Ladder | Medium |
+
+### Sample Fix Ladder sketch — Idea 3 (Nylon vs Steel vs Electric)
+- **Free:** Re-seat fretting hand position; test lighter pressure at the 12th fret
+- **Affordable £5–20:** Extra-light set or silk-and-steel strings
+- **Quality upgrade £25–100:** Nylon-string conversion set or used nylon classical
+- **Premium £100+:** Short-scale nylon acoustic-electric (e.g. Fender FA-25N class and up)
+
+## Gaps and Underexplored Angles (new)
+
+1. **Prioritisation is the missing piece in existing content.** Everyone lists fixes; no one ranks them. "Ranked by ROI" can become a signature video format.
+2. **Measured comparisons.** Scale, neck profile and string tension are written about constantly but almost never measured on camera.
+3. **The returning-after-a-gap player** (35–65) is only touched in the existing "keep playing when life gets busy" idea; a dedicated first-session baseline video is open.
+4. **Left-hand-free options.** Lap playing, alternate tunings and open tunings as permanent strategies are not yet in the backlog (existing One-Handed ep is the closest).
+5. **Comfortable Player persona is under-served** in this file: most ideas sit in the Free/Affordable tiers. Add Premium-led videos (ergonomic builds, short-scale premium acoustics) so both personas are equally served.
+
+## Titles, Thumbnail Concepts and Hooks (top 5 for this round)
+
+1. **"Every Arthritis Guitar Tip, Ranked by ROI"**
+   - *Hook:* "Seventeen tips is a list. Three tips in the right order is a plan."
+   - *Thumbnail:* Numbered stack of tip cards re-ordered with 1/2/3 highlighted; hand on neck.
+2. **"The 15-Minute Setup Sprint: Action Only"**
+   - *Hook:* "One measurement, one adjustment, one chord that rings out."
+   - *Thumbnail:* Ruler at the 12th fret, before/after mm figures, clock at 15:00.
+3. **"Scale Length Test: Same Chord Changes, Three Guitars"**
+   - *Hook:* "I measured the stretch. The numbers made the choice easy."
+   - *Thumbnail:* Three necks side by side with stretch distances in mm.
+4. **"Returning After Ten Years: The First Three Changes"**
+   - *Hook:* "Start by measuring where the guitar is today."
+   - *Thumbnail:* Case opening on a guitar with dust; after shot with the guitar in hand.
+5. **"Budget Short-Scale Under £200: Before and After"**
+   - *Hook:* "Same guitar, one afternoon, a different instrument to play."
+   - *Thumbnail:* Price tag with action measurement overlay.
+
+## Wording Check on the Existing Sections (per channel guardrails)
+
+Several earlier hooks use frames the channel avoids. Suggested replacements:
+- "Your guitar is probably fighting you" (Title 1 hook) → "Your guitar may not be set up for how you play yet. Here is how to check in 30 seconds."
+- "The neck that was perfect in August is fighting you by December" (Title 9) → "The neck that suited you in August has moved by December. Here is how to re-baseline it."
+- "98% of barre chord pain is a setup problem" (Title 5) — an unsourced statistic; swap for a measured claim from your own before/after.
+- "Your doctor said stop" (Title 3) — adds a negative frame and medical-advice risk; try "Carpal tunnel and guitar: the setup changes worth making first."
+- "Budget guitars aren't bad. They're just unfinished." — fine in spirit; avoid the negative construction: "Budget guitars arrive ready for a final setup."
+
+## Recommended Next Picks (sequencing)
+
+1. **The 15-Minute Setup Sprint: Action Only** — lowest physical load, highest search fit, anchors the sprint philosophy.
+2. **Every Arthritis Guitar Tip, Ranked by ROI** — strongest differentiation against existing listicles; mostly talking.
+3. **Returning After Ten Years: The First Three Changes** — broad audience, emotional, low production cost.
+
+## Verdict
+New opportunities found: the ROI-ranking format, measured scale/profile comparisons, returning-player baseline, and Premium-tier coverage for the Comfortable Player.
+
+**Sources:**
+- [Best Guitar For Arthritic Hands (2026 Update) – Remix Mag](https://remixmag.com/best-guitar-for-arthritic-hands/)
+- [Joe Perry's setup changes for arthritis – Guitar World](https://www.guitarworld.com/artists/guitarists/joe-perry-guitar-changes-arthritis)
+- [17 Tips On How To Play Guitar with Arthritis – Guitar Based](https://www.guitarbased.com/how-to-play-guitar-with-arthritis/)
+- [Best 3/4 acoustic guitars 2026 – Guitar World](https://www.guitarworld.com/features/best-three-quarter-acoustic-guitars)
+- [14 Best Short Scale Electric Guitars in 2026 – Guitar Lobby](https://www.guitarlobby.com/best-short-scale-electric-guitars/)
+- [Best YouTube Channels for Learning Guitar 2026 – Musician.ie](https://musician.ie/best-youtube-channels-learn-guitar-2026/)

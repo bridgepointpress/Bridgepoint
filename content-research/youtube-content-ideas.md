@@ -184,3 +184,88 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 4 October 2026
+
+*Appended section. Earlier content above is unchanged. Sources: web search on arthritis/short-scale/over-50 playability themes (see links at the end). Search tooling returned general web articles rather than YouTube analytics, so audience-appeal ratings are judgement estimates, not measured data.*
+
+## 1. What the Current Landscape Shows
+
+- **Playability is now a mainstream selling point.** 2026 coverage for players over 50 centres on lighter string tension, lower action, flexible-top bracing, and ergonomic contours. The channel's thesis is arriving in mainstream conversation, which is a tailwind for search demand.
+- **Short scale is the recurring recommendation** for hand limitations (24–24.75" electric; Taylor GS Mini at 23.5" acoustic is the most-named acoustic). Most articles list models; few show a measured before/after on the player's own guitar.
+- **Lighter gauges are the standard first-line fix** (electric .010 → .009/.008; acoustic .013 → .012/.011). Mostly covered as text lists, not demonstrated with measurement.
+- **Professional setup cost is quoted at roughly $40–75** in current articles, supporting the "luthier or DIY" framing already in the backlog.
+- **Format gap:** most results are listicles and forum threads. Calm, demonstrated, measured content is thin, which is the channel's lane.
+
+## 2. New Video Ideas (not duplicating the sections above)
+
+| # | Working Title | Friction | Appeal |
+|---|---|---|---|
+| A | **Measuring String Tension: What Each Gauge Change Actually Saves You** | Players change gauges by guesswork | High: measurable, shareable, evergreen |
+| B | **Acoustic Bracing and Fretting Effort: Why Some Guitars Feel Lighter** | Two guitars, same strings, different effort | Medium-high: fresh angle on the "flexible top" trend |
+| C | **The Same Song on 24", 24.75" and 25.5": A Scale Length Test** | Stretch and reach on lower frets | High: turns the "Guitar I Wish I'd Bought at 50" idea into a hands-on test |
+| D | **Neck Profile and Hand Size: Reading the Spec Sheet for Comfort** | Nut width and profile numbers mean little | Medium: affiliate-adjacent, buyer-intent search |
+| E | **Capo Placement as a Playability Tool** | High-tension open chords, reach on low frets | Medium-high: low cost, Free/Affordable tiers, adaptive strategy |
+| F | **Alternate Tunings That Lower the Effort: Open and Drop Options** | Barre-heavy songs | Medium: adaptive and musical, ends naturally with playing |
+| G | **The 10-Minute Hand Check Before You Play (Arthritis Checklist 1A Version)** | Unsure whether to play on a stiff day | High within the PTI audience; potential free PDF lead magnet |
+| H | **Left-Hand Fatigue at 20 Minutes: Finding the Point It Starts** | Sessions end early | Medium-high: baseline-and-measure PM lens, session logging |
+| I | **Wide Nut vs. Narrow Nut: Which Suits Your Hand?** | Chord clarity and reach | Medium |
+| J | **A Practice Corner in 2 Square Metres** | Shared space, no dedicated room | Medium: situational-constraint audience, links to silent practice series |
+
+## 3. Gaps and Underexplored Angles (new)
+
+1. **Measured string-tension and effort comparisons.** Text lists are plentiful; measured demos are not.
+2. **Scale length as a hands-on test**, not a spec list. Complements existing gap #6.
+3. **Capos and alternate tunings as permanent strategies**, framed as legitimate approaches rather than fallbacks.
+4. **Session-length baseline.** Tracking when fatigue begins is a natural PM-lens video and supports the 15-Minute Sprint PDF.
+5. **Nut width and neck profile** are under-explained for buyers coming from the arthritis and short-scale searches.
+6. **Persona balance:** recent backlog leans Budget DIYer. Ideas A, C, D and B give the Comfortable Player tiers (Quality upgrade, Premium) more room.
+
+## 4. Titles, Hooks and Thumbnail Concepts
+
+### A. "Lighter Strings, Measured: What You Actually Save"
+- **Hook:** "Here is the same chord on three gauges, with the pressure measured."
+- **Thumbnail:** Fretting hand and a small gauge reading, two numbers side by side.
+- **Fix Ladder sketch:** Free: check current gauge and tension feel · £5–20: a set one gauge lighter · £25–100: a gauge-matched setup · £100+: professional setup plus refret or nut work for the new tension.
+
+### C. "24 Inches or 25.5? The Same Song, Three Guitars"
+- **Hook:** "One song, one hand, three scale lengths."
+- **Thumbnail:** Three necks fanned out, a tape measure across the first-fret reach.
+- **Fix Ladder sketch:** Free: try a friend's or shop's short scale · £5–20: capo placement to shorten reach · £25–100: used Harley Benton or Sire short scale · £100+: Taylor GS Mini or equivalent.
+
+### E. "A Capo Is a Playability Tool"
+- **Hook:** "Same song, same voicings, less reach."
+- **Thumbnail:** Capo on fret 3 or 5, before/after chord shape.
+- **Fix Ladder sketch:** Free: use a pencil-and-rubber-band test · £5–20: a basic capo · £25–100: a quality capo · £100+: partial-capo set for open tunings.
+
+### G. "The 10-Minute Hand Check Before You Play"
+- **Hook:** "A short routine that tells you how today's hands are."
+- **Thumbnail:** Hands resting open on the guitar body, a clock at ten minutes.
+- **Fix Ladder sketch:** Free: the routine itself · £5–20: warm pack or therapy putty · £25–100: ergonomic strap or support · £100+: consult with a hand therapist.
+
+### H. "When Does Your Hand Start to Tire? Finding Your Baseline"
+- **Hook:** "Time the first sign. That number is your baseline."
+- **Thumbnail:** Stopwatch beside a fretting hand, a 'Baseline' and 'After' pair of times.
+- **Fix Ladder sketch:** Free: log session length · £5–20: lighter strings · £25–100: setup adjustment · £100+: a different scale or body size.
+
+## 5. Recommended Next Three (Mode 3 logic: value vs. production load)
+
+1. **G — 10-Minute Hand Check.** Lowest physical load, strong PTI fit, doubles as lead-magnet groundwork.
+2. **E — Capo as Playability Tool.** Quick to film, Free/Affordable heavy, broad audience.
+3. **A — String Tension Measured.** Higher setup effort but the strongest evergreen and most shareable; schedule on a good-hand day.
+
+## 6. Notes
+
+- All new ideas keep the structure: insight, one demonstrated action with before/after, ending in playing.
+- Existing titles above that use phrases like "fighting you" or percentage claims ("98%") sit outside current tone guardrails and are worth rewording before filming.
+- The v10 spreadsheet was not available in this repository, so backlog duplication was checked against this file only.
+
+**Sources:**
+- [Easiest Guitars to Play With Arthritis](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [How to Play Guitar with Arthritis or Hand Pain](https://www.myguitarmatch.com/blog/how-to-play-guitar-with-arthritis/)
+- [Guitar Over 50 — Taylor Wood&Steel](https://woodandsteel.taylorguitars.com/issue/2025-issue-1/feature-story/guitar-over-50/)
+- [2026 Seniors' Guide: Easiest Playing Acoustic Guitar](https://guitarreview.net/2026-seniors-guide-finding-the-easiest-playing-acoustic-guitar/)
+- [Exciting Design Trends in Boutique Guitars for 2026](https://mythicguitars.com/blogs/articles/boutique-guitar-design-trends-2026)

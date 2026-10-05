@@ -184,3 +184,93 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 5 October 2026
+
+**Method:** Web search on current playability, short-scale and adult-returner coverage, cross-checked against the June 2026 list above (no duplicates proposed). The search tool does not expose YouTube view data, so "audience appeal" is an estimate from search-topic signals, not channel analytics. The v10 backlog spreadsheet was not available in this repo; check ideas against it before scheduling.
+
+## Timing Opportunity: Act Now
+
+- **Seasonal window is open.** October is the start of heating season. "Winter humidity / seasonal setup drift" (already on the June list as title #9) is now the highest-timing-value item. Film it this month to catch the search ramp.
+- **Q4 gift-buying.** Short-scale and "guitar for someone over 50" searches rise toward the holidays. A gift-oriented Fix Ladder video fits the window.
+
+## Trends Observed
+
+- Short-scale and small-body guitars (Taylor GS Mini, Yamaha concert-body models, 24–25.3" scale) are recurring in 2026 buyer guides, framed as comfort for small hands, arthritis and age.
+- Guides now state that a £200-class guitar plays better out of the box than a comparable one a decade ago. This supports the "setup first, then decide on upgrades" ROI argument.
+- Neck profile and finish (satin C-shape) and string tension are mentioned as endurance factors, but mostly as one-line bullets. No deep, practical treatment surfaced.
+- Setup advice is almost always "get a professional setup". DIY with a clear decision rule remains thin.
+
+## New Video Ideas (not in the June list)
+
+| # | Working Title | Friction | Fix Angle | Appeal (est.) | Physical load |
+|---|---|---|---|---|---|
+| 1 | **Heating Season and Your Guitar: A 15-Minute Check** | Neck and action shift when the heating comes on | Seasonal baseline measure (relief, action at 12th fret), humidifier options | High (timely, recurring) | Low |
+| 2 | **Neck Profile and Finish: Why Some Necks Are Easier on Your Hand** | Hand tires before the session ends | Compare C, D and slim profiles; satin vs gloss; sanding/refinish option | Medium-High (underserved) | Low |
+| 3 | **Scale Length Measured: 24", 24.75", 25.5" Side by Side** | Reach and stretch in open chords and barres | Measure finger-stretch and string tension on three guitars; a "ruler and tension meter" video | High (data-led, shareable) | Low |
+| 4 | **Starting Again After 10 Years: The First-Week Baseline** | Returning player unsure where to begin | Baseline guitar and hands, pick 1 fix, 15-min sessions | High (returner demographic) | Low |
+| 5 | **Lap Playing and Open Tunings as a Permanent Option** | Fretting-hand grip limits | Lap steel style on a regular guitar, open G/D, slide; adaptive as a first-class strategy | Medium (niche, loyal) | Low-Med |
+| 6 | **Buying a Guitar for Someone Over 50: A Fix Ladder Gift Guide** | Gift buyers do not know what is comfortable | Four tiers from £0 setup voucher to £100+ short-scale | High (Q4 seasonal, affiliate-ready) | Low |
+| 7 | **Fretboard Care and Fret Edges: The Small Snag You Feel Every Session** | Rough fret ends and dry board | Free: clean and condition; £5-20: fret-end dressing kit; £100+: luthier fret dress | Medium | Medium (fine motor) |
+| 8 | **Thumb Pick and Fingerstyle Switch: Taking Load Off the Fretting Hand** | Sustained chord shapes cause fatigue | Rhythm approach, partial capo, thumb pick | Medium-High | Low |
+| 9 | **Shared-Space Playing: Practising When the House Is Awake** | Limited time, other people around | Combine with silent-practice series; schedule 15-min windows | High (relatable) | Low |
+| 10 | **A Month of Strings: Do Gauge and Coating Change How Long You Play?** | Fingertip soreness limits session length | Measure session length across 3 gauges; coated vs uncoated | Medium-High (data-led) | Low |
+
+## Gaps and Underexplored Angles (additions)
+
+1. **Neck profile and finish** are mentioned everywhere, explained nowhere. Strong fit with the "measure it" format.
+2. **Scale length as data.** Buyer guides assert short scale is easier but rarely show measurements. A measured comparison is a differentiator.
+3. **Returner onboarding.** "Starting again" content tends to be motivation-led. A baseline-first, PM-style start is distinctive.
+4. **Gift buyers** are a different viewer (not the player) and a Q4 opportunity.
+5. **Lap and open-tuning playing** treated as a permanent strategy rather than a trick.
+6. **Seasonal series cadence.** Beyond winter humidity, plan spring and summer entries to make a repeatable annual calendar.
+
+## Titles, Hooks and Thumbnails for the Top Ideas
+
+### A. "Heating Season and Your Guitar: A 15-Minute Check"
+- **Alt titles:** "Your Guitar in Winter: Measure It Now" / "The Neck Relief Check to Do Every October"
+- **Hook:** "Same guitar, same strings, different month. Here is how to measure what changed."
+- **Thumbnail:** Feeler gauge in the gap at the 8th fret, calendar page for October; before/after number overlay.
+
+### B. "Scale Length Measured: 24", 24.75", 25.5" Side by Side"
+- **Alt titles:** "How Much Easier Is a Short Scale? I Measured It" / "The Guitar I Wish I'd Bought at 50, With Numbers"
+- **Hook:** "Everyone says short scale is easier. Here is by how much."
+- **Thumbnail:** Three necks fanned out with a ruler across the first fret; the stretch measurement in a clean callout.
+
+### C. "Starting Again After 10 Years: The First-Week Baseline"
+- **Alt titles:** "Back to Guitar at 50: Where to Start" / "Pick Up the Old Guitar: A First-Week Plan"
+- **Hook:** "Day one is not about playing well. It is about knowing where you are starting from."
+- **Thumbnail:** Dusty case opening, a notebook with "Baseline" written on it.
+
+### D. "Buying a Guitar for Someone Over 50: A Fix Ladder Gift Guide"
+- **Alt titles:** "The Gift That Makes Guitar Easier" / "Four Budgets, One Goal: A Guitar That Is Comfortable to Play"
+- **Hook:** "Four budgets, from nothing to £100 and up. Each one makes the guitar easier to pick up."
+- **Thumbnail:** Gift-wrapped short-scale guitar with the four tier prices in a row.
+
+### E. "Neck Profile and Finish: Why Some Necks Are Easier on Your Hand"
+- **Alt titles:** "C, D or Slim? Choosing a Neck for Your Hand"
+- **Hook:** "Two guitars, same scale length, very different feel after 15 minutes."
+- **Thumbnail:** Cross-section cutouts of neck profiles held against a hand.
+
+## Recommended Order (PM logic)
+
+1. **Heating Season check** — time-sensitive, low physical load, reuses existing measurement tools.
+2. **Scale Length Measured** — highest differentiation; supports later short-scale affiliate content.
+3. **Gift Guide** — shoot by early November to land before the Q4 peak.
+
+## Housekeeping Note on the June Section
+
+- Hook #1 ("Your guitar is probably fighting you") and hook #9 ("is fighting you by December") conflict with the channel guardrail that the guitar is never framed as hostile. Suggested rewrites: "Here is how to measure where your action sits in 30 seconds" and "The neck that measured one way in August measures differently by December."
+- Hook #2 ("The problem isn't your hands") and hook #5 ("98% ... It's probably not your technique") introduce negative frames. Consider: "Setup changes what your hands can do" and "Barre chords get easier when the nut slots are right." The "98%" figure also needs a source before use.
+
+## Sources
+
+- [Best Short Scale Acoustic Guitars 2026 (Country Music Appreciation)](https://countrymusicappreciation.com/best-short-scale-acoustic-guitars/)
+- [Easiest Guitars to Play With Arthritis (Gentle Octaves)](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [Best Guitars for Small Hands, 2026 Guide (Guitar Metrics)](https://guitarmetrics.com/blogs/mastering-your-guitar-skills/best-guitars-for-small-hands-2026-guide)
+- [Best Acoustic Guitars 2026 (Guitar World)](https://www.guitarworld.com/gear/best-acoustic-guitars)
+- [Best Beginner Acoustic Guitars 2026 (Guitar Player)](https://www.guitarplayer.com/gear/best-beginner-acoustic-guitars)
+- [Best Guitars for Adult Beginners (My Guitar Match)](https://www.myguitarmatch.com/blog/best-guitars-for-adult-beginners/)

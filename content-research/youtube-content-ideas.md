@@ -184,3 +184,84 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 6 October 2026
+
+Appended run. Earlier content above is unchanged. Focus: new angles not already covered, plus sequencing and guardrail notes.
+
+## 1. What the Search Landscape Shows
+
+- **Arthritis and guitar** is covered mostly by text articles and generic tip lists (lower action, lighter strings, nylon, short scale). The common advice is accurate but flat. It rarely gives measured before/after results or tiered costs, which is the channel's differentiator.
+- **Celebrity adaptation stories** are drawing attention. Joe Perry's recent setup changes for early arthritis (hybrid .09/.08 strings, fatter frets) give a mainstream reference point for "lighter gauge is a legitimate strategy." ([Guitar World](https://www.guitarworld.com/artists/guitarists/joe-perry-guitar-changes-arthritis))
+- **Short-scale buying guides** are heavily saturated for 2026 (Squier Mini Strat, Taylor GS Mini, Fender FA-15 and CC-60S recur). Gap: almost none frame scale length as a comfort fix with measured string tension or fretting force, and none present it as a Fix Ladder. ([Guitar Player](https://www.guitarplayer.com/gear/best-three-quarter-acoustic-guitars), [Musician Wave](https://www.musicianwave.com/best-short-scale-guitars/))
+- **Professional setup price anchor:** sources quote roughly $40–75 for a setup tuned to low action. This supports the planned "Pay a Luthier or DIY?" video with a real comparison point. ([Gentle Octaves](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/))
+- **Nylon / wide-nut angle** (52mm vs 43–44mm nut width) appears in advice lists but with no hands-on comparison.
+
+## 2. New Video Ideas (not already in the lists above)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| A | **Hybrid String Sets: .09 Top, .08 Bottom** | Bass strings fret fine but bends and the top strings tire the hand | Free: re-tune to half step down / £5–20: hybrid set / £25–100: set plus nut check / £100+: full setup tuned to the new gauge | High. Joe Perry tie-in, easy before/after |
+| B | **Scale Length vs String Gauge: Which Reduces Effort More?** | Unsure whether to change guitar or strings | Free: capo-free test on existing guitar / £5–20: lighter strings / £25–100: used short-scale / £100+: new short-scale | High. Original data angle, comparison format |
+| C | **Nut Width Test: 43mm vs 48mm vs 52mm** | Fingers crowd adjacent strings on chord shapes | Free: finger placement check / £5–20: none, honest gap / £25–100: used nylon or wide-neck electric / £100+: new wide-neck steel-string | Medium-high. Niche but loyal; ties to Easier Play Guitars doc |
+| D | **Fret Edges and Fret Size: Why Some Necks Feel Kinder** | Sharp or tall fret ends catch the hand | Free: inspect and note / £5–20: fret-end file check, polishing cloth / £25–100: professional dress / £100+: refret | Medium. Rarely covered for comfort |
+| E | **The Bad Hand Day Setlist** | Hands unwilling, time limited | Free: tuning change and open chords / £5–20: lighter strings / £25–100: second guitar kept for these days / £100+: dedicated adaptive instrument | High emotional resonance; fills the flare-up gap |
+| F | **Pick Thickness and Grip: A Quiet Source of Hand Strain** | Pinch tension in the picking hand | Free: grip relaxation test / £5–20: pick assortment, grip-friendly picks / £25–100: larger-grip picks / £100+: custom pick | Medium. Low-effort 15-minute filming |
+| G | **Seat, Footstool and Neck Angle: A 10-Minute Reset** | Wrist angle and shoulder tension | Free: reposition, stack books / £5–20: footstool / £25–100: ergonomic support / £100+: adjustable stool | Medium-high; shareable |
+| H | **Reader/Viewer Setup Review: Three Guitars, One Ladder** | Viewers unsure which fix first | All four tiers per guitar | Community builder; use once comments grow |
+
+## 3. Gaps Still Open (after cross-checking the earlier list)
+
+1. **Measured comparisons.** Competing content gives lists; the channel can give numbers (action in mm, tension, nut width). Videos B and C anchor this.
+2. **Hybrid / mixed-gauge strings** are mentioned in the press but not explained for everyday players.
+3. **Nut width as a comfort variable.** Barely addressed for steel-string and electric.
+4. **Picking-hand strain.** The existing plan is almost entirely fretting-hand focused.
+5. **Tiered buying guidance for short-scale.** Reviews rank products; none present Free to Premium options.
+6. **Fix sequencing.** A "which fix first" ROI ranking is the clearest PM-lens video and nobody else can make it as credibly.
+
+## 4. Titles, Thumbnail Concepts and Hooks (top five)
+
+1. **"Hybrid Guitar Strings: The Set Joe Perry Uses, and Whether It Suits You"**
+   - Hook: "One gauge on the bass side, a lighter one on top. Here is what that changes in the hand."
+   - Thumbnail: two string packs side by side, measured tension numbers, no text on camera needed.
+   - Alternates: "Mixing String Gauges: A Fix Ladder"
+2. **"Scale Length or Lighter Strings? I Measured Both"**
+   - Hook: "Two ways to ease the fretting hand. One costs £8. One costs £200. Here are the numbers."
+   - Thumbnail: ruler on two necks, price callouts £8 and £200.
+3. **"Which Fix First? Ranking Eight Playability Changes by ROI"**
+   - Hook: "Same guitar, eight changes, ranked by what each one returns for the time and money."
+   - Thumbnail: ranked list graphic over a guitar, before/after action gauge.
+4. **"The Bad Hand Day Setlist"**
+   - Hook: "Fifteen minutes, open chords, and a guitar set up for exactly this."
+   - Thumbnail: warm light, guitar on lap, clock showing 15 minutes.
+5. **"Nut Width: The Measurement Nobody Puts on the Spec Sheet"**
+   - Hook: "A few millimetres decide whether a chord rings or buzzes."
+   - Thumbnail: callipers across a nut, two widths labelled.
+
+## 5. Suggested Sequencing (Mode 3 view)
+
+The Fix Ladder and sprint constraint suggest:
+1. **E: Bad Hand Day Setlist.** Low physical load, filmed in one 15-minute sprint, high emotional pull. Also fills the flare-up gap.
+2. **A: Hybrid String Sets.** Quick to film, reuses strings tests, timely given the current press coverage.
+3. **B: Scale Length vs String Gauge.** Higher production load (measurement rig, two guitars). Schedule when hands are good.
+
+Note: the v10 spreadsheet was not available in this repository, so cross-checking against planned backlog items was done against this file only. Worth confirming A, B and E are not already scheduled.
+
+## 6. Guardrail Notes on Earlier Entries
+
+For consistency with the channel's tone rules, consider rewording these earlier hooks when scripting:
+- "Your guitar is probably fighting you" and "…is fighting you by December" frame the guitar as hostile. Suggested alternative: "Your guitar may not yet be set up for how you play."
+- "Your doctor said stop. Here's the smarter middle path." could be softened to avoid positioning against medical advice. Suggest: "Setup changes that sit alongside your doctor's guidance."
+- "98% of barre chord pain is a setup problem" is an unsourced statistic. Either measure it or reword.
+- Fix Ladder currency is mixed ($ and £) across the file. Pick one.
+
+## 7. Sources
+
+- [Guitar World: Joe Perry and arthritis setup](https://www.guitarworld.com/artists/guitarists/joe-perry-guitar-changes-arthritis)
+- [Gentle Octaves: Easiest guitars for arthritis](https://blog.gentleoctaves.com/easiest-guitars-to-play-with-arthritis/)
+- [Guitar Player: Best 3/4 acoustics 2026](https://www.guitarplayer.com/gear/best-three-quarter-acoustic-guitars)
+- [Musician Wave: Best short scale guitars 2026](https://www.musicianwave.com/best-short-scale-guitars/)
+- [My Guitar Match: Playing with arthritis](https://www.myguitarmatch.com/blog/how-to-play-guitar-with-arthritis/)

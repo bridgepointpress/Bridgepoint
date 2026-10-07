@@ -184,3 +184,67 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 7 October 2026
+
+*Appended section. Everything above is unchanged. Web signals this run were thin on hard YouTube view data, so "appeal" ratings are judgement calls based on search themes, the existing backlog and channel fit.*
+
+## What the Research Showed
+
+- **Arthritis + guitar is well covered by generic tip lists** (capo, warm-up, thumb pick, DADGAD, fingerpicking). The gap is *setup-as-the-fix* with measurable before/after, which is the channel's angle.
+- **Short-scale is having a moment at every price tier:** Squier Sonic Mustang (24" scale), Squier Mini Strat/P-Bass refresh, Harley Benton super-short-scale model (~$89, 492mm fretboard), Suhr Oso Short Scale (NAMM 2026, 24.625"), Ibanez miKro bass (~$220). New releases = fresh search interest and a natural Fix Ladder spread.
+- **Luthier vs DIY is a live debate** in community forums (Justin Guitar community thread, senior setup guides). Most guides tell readers nut work is "advanced, see a pro" with no tiered middle path. The Fix Ladder is that path.
+- **Senior-oriented setup content is mostly written articles**, not calm demonstration video. Open lane.
+
+## New Video Ideas (not in the earlier lists)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Short Scale at Every Price: Squier Sonic / Harley Benton / Suhr Oso** | Full-scale reach and stretch | Free: capo + lower tuning check / £5–20: lighter strings / £25–100: Squier or Harley Benton short scale / £100+: Suhr Oso class | High: new releases, affiliate-ready, strong tier spread |
+| 2 | **Which Part of the Setup Do I Do First? (ROI Order)** | Too many setup tasks, no order | Free: relief and action check / £5–20: feeler gauges / £25–100: nut slot files / £100+: pro fret dress | High: pure PM lens, answers the luthier-vs-DIY debate |
+| 3 | **The Nut File Question: When DIY Stops** | Nut work labelled "advanced" | Free: measure first-fret clearance / £5–20: graphite in slots / £25–100: nut files / £100+: luthier replace | High: gap in existing content |
+| 4 | **Capo Positions as a Permanent Strategy** | Barre chords at open positions | Free: capo at fret 2–5 / £5–20: partial capo / £25–100: quality capo / £100+: short scale | Medium-high: adaptive approach framed as legitimate |
+| 5 | **Alternate Tunings for Reduced Stretch (DADGAD / Open G)** | Wide finger spans | Free: retune and play / £5–20: lighter set / £25–100: second guitar kept in the tuning / £100+: short scale | Medium: good Short for a niche audience |
+| 6 | **Fingerstyle for Joint Comfort: A 15-Minute Sprint** | Strumming fatigue | Free: thumb-and-two-finger pattern / £5–20: thumb pick / £25–100: custom pick / £100+: nylon-string guitar | Medium |
+| 7 | **A Warm Room, A Warm Hand: Playing-Space Setup** | Cold stiff joints | Free: warm water before playing / £5–20: heated gloves / £25–100: small room heater / £100+: guitar humidifier + room control | Medium-high: pairs with winter humidity video |
+
+## New Gaps and Angles
+
+1. **Order-of-operations setup video**: nobody sequences fixes by ROI. Strong brand differentiator.
+2. **New short-scale release coverage**: timely, searchable, and underserved from an ergonomics viewpoint.
+3. **Where DIY ends**: a clear line for nut work and fret work reassures cautious viewers.
+4. **Permanent adaptive strategies** (capo, tunings, fingerstyle) presented as first-class choices, not tips.
+5. **Autumn/winter seasonal slot**: October is the right moment to schedule the humidity and warm-room videos.
+
+## Titles, Hooks and Thumbnail Concepts
+
+### A. "Short Scale Guitars: Four Prices, One Question"
+- **Hook:** "Same chord, 24 inches versus 25.5. Here's what changes."
+- **Thumbnail:** Two necks side by side, ruler across the first five frets.
+
+### B. "The Setup Order That Saves You Money"
+- **Hook:** "Five setup jobs. One of them gives you most of the improvement."
+- **Thumbnail:** Numbered list 1–5 on a guitar body, item 1 highlighted.
+
+### C. "Nut Slots: Where DIY Ends"
+- **Hook:** "Measure first. It takes a minute and costs nothing."
+- **Thumbnail:** Feeler gauge at the first fret, before/after gap in mm.
+
+### D. "A Capo Is a Real Strategy"
+- **Hook:** "Same song, same shapes, fewer barres."
+- **Thumbnail:** Capo on fret 3, relaxed open hand.
+
+## Housekeeping Note
+
+- The June hook text for titles 1 and 9 uses "fighting you." This conflicts with the channel guardrail that the guitar is never framed as working against the player. Suggested rewrites: "Your guitar is probably not set up for how you play. Here's how to know in 30 seconds." / "The neck that was perfect in August has moved by December."
+
+## Recommended Next Picks (PM logic)
+
+1. **Setup order / ROI video** — lowest physical load, strongest brand fit, answers a live debate.
+2. **Short scale price tiers** — timely with the 2026 releases; check the Short Scale Guitars 2026 doc before scripting.
+3. **Warm room + winter humidity** — seasonal window is now.
+
+*Sources consulted:* [Andy Guitar arthritis advice](https://andyguitar.co.uk/videos/arthritis-advice-easy-changes-to-help-you-keep-playing-guitar), [Riffhard](https://www.riffhard.com/how-to-play-guitar-with-arthritic-fingers/), [Justin Guitar community: luthier vs DIY](https://community.justinguitar.com/t/took-my-new-guitar-in-for-a-setup-what-s-your-experience-with-luthiers-vs-diy-been/145956?page=3), [Guitar.com Squier Sonic Mini 2026](https://guitar.com/news/gear-news/squier-sonic-mini-2026/), [Guitar World Harley Benton ST Junior](https://guitarworld.com/news/harley-benton-st-junior-sbk), [Chicago Music Exchange Suhr 2026](https://www.chicagomusicexchange.com/en-mx/blogs/news/suhr-2026-new-gear-arrivals).

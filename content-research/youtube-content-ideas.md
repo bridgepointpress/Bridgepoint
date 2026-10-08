@@ -184,3 +184,83 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 8 October 2026
+
+**Method note:** Web searches returned forum threads and older articles, not YouTube trend or view-count data. Signals below are directional (forum recurrence, seasonality, gaps against the June list), not measured demand. Validate with YouTube search autocomplete and sorted-by-views checks before committing filming time.
+
+## Timing Opportunity: Heating Season
+
+- October is when central heating starts and indoor humidity drops. The June list already flags "What Happens to Your Guitar in Winter" and the humidity explainer. This is the window for them; both are now due rather than someday.
+- Suggested sequence: humidity/seasonal drift first, then the fret-end and action checks that follow from it.
+
+## Signals Observed
+
+- **Lighter strings among older players.** Forum threads (UK and US) ask whether lighter sets ease ageing fingers. Some posters argue gauge matters more than action. Fits Video 6 (light strings) and supports a follow-up on gauge vs. action ROI.
+- **Setup order matters.** Sources note that lighter strings on high action can cause intonation problems, so the nut/saddle check comes first. A natural PM-sequencing insight: "do the dependency first."
+- **Scale length for arthritic players.** Luthiers recommend moving from 25.4" to 24.75" or shorter. Reinforces the "Guitar I Wish I'd Bought at 50" idea.
+- **Hand-health crossover.** Guitar World's aging-guitarists piece frames playing as a skilled muscular activity (athlete model), and a March 2026 Steve Morse interview describes adapting technique and picking pattern. Both support the warm-up and adaptive-technique angles.
+- **Posture and neck angle.** Forum players report relief from constant strap use and raising the neck toward a classical position. Backs the strap-height and classical-position ideas.
+- **Gap in sources:** no strong video result surfaced for "arthritis guitar setup" in the search; the one video lead was a Tim Lerch / Dr. Geoff Yule hand-health conversation. Suggests the topic is still thinly covered, though this is not confirmed.
+
+## New Video Ideas (not on the June list)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Gauge or Action: Which Fix First?** | Fingers tire before the song ends | Free: measure action at 1st/12th fret. £5–20: one gauge lighter. £25–100: nut slot recut by a tech. £100+: full professional setup | High. Clear ROI-ordering insight, evergreen |
+| 2 | **Is Your Nut the Problem? A 5-Minute Check** | First-position chords take effort | Free: feeler gauge check at fret 1. £5–20: gauge set. £25–100: tech recuts slots. £100+: new pre-slotted bone nut, fitted | High. Overlaps the buzzing video but targets the open-chord friction |
+| 3 | **Cold Room, Dry Air: Autumn Setup Check** | Guitar feels different since the heating came on | Free: check relief and fret ends. £5–20: soundhole humidifier. £25–100: room hygrometer plus case humidification. £100+: room humidifier | High now, repeatable every year |
+| 4 | **Short Scale Test: Same Song, Two Scale Lengths** | Stretches and barres feel long | Free: capo at fret 1–2 as a proxy. £5–20: lighter strings. £25–100: used or entry short-scale (see Short Scale Guitars 2026 doc). £100+: custom short-scale build | High for the arthritis audience, strong before/after |
+| 5 | **A Bad Hand Day Plan (15 Minutes)** | Hands are stiff and the session feels pointless | Free: warm water, shortened session, open-string and chord-subset routine. £5–20: lighter strings or capo shapes. £25–100: nylon or short-scale for flare days. £100+: second guitar set up for low-load days | Medium-high. Extends the flare-up episode already planned as PTI Ep 8 |
+| 6 | **The Neck Angle Experiment** | Left wrist bends at an uncomfortable angle | Free: strap on while seated, try classical position. £5–20: footstool. £25–100: guitar support. £100+: adjustable support system | Medium. Combines the two ergonomics ideas on the June list |
+| 7 | **Dependency Mapping for Your Guitar** | Too many fixes, unclear order | Free: write friction list and score by effort and gain. £5–20: strings. £25–100: nut/saddle work. £100+: neck or fret work | Medium-high in the PM community, strong channel-identity fit |
+
+## Gaps and Underexplored Angles
+
+1. **Sequencing content.** The June list covers individual fixes well. Little covers the order of fixes (nut, then saddle, then gauge). This is the channel's PM lens applied directly and a differentiator.
+2. **Seasonal calendar is unscheduled.** Humidity, travel, and cold-room playing are listed but not yet placed on a calendar. Suggest a four-video seasonal slot per year.
+3. **Persona balance.** June ideas lean to Budget DIYer. Comfortable Player coverage is thin: professional setup walkthroughs, what to ask a tech for, how to read a quote. Idea: "What to Ask For at a Setup Appointment."
+4. **Spreadsheet check outstanding.** The Bridge and Baseline v10 spreadsheet was not available in this repo, so overlap with planned backlog items is unchecked. Compare this list against it before scheduling.
+
+## Title, Thumbnail, and Hook Suggestions
+
+### "Gauge or Action: Which Fix First?"
+- **Alt titles:** "Lighter Strings Didn't Fix It. Here's Why." / "The Right Order to Fix Your Guitar"
+- **Hook:** "Two changes, same guitar, one measured result each. Let's see which one gives more."
+- **Thumbnail:** Two hands pressing at fret 3, a feeler gauge in one frame and a string pack in the other; no text on camera.
+
+### "Autumn Setup Check: Is the Heating Changing Your Guitar?"
+- **Hook:** "The same guitar, measured in August and again today."
+- **Thumbnail:** Feeler gauge at the first fret with an August/October reading side by side.
+
+### "Short Scale Test: Same Song, Two Scale Lengths"
+- **Hook:** "Same chord, same fingers, a different stretch."
+- **Thumbnail:** Two necks aligned at the nut, with the fret-span difference visible.
+
+### "A Bad Hand Day Plan (15 Minutes)"
+- **Hook:** "Some days start slowly. Here's a session that fits them."
+- **Thumbnail:** Hands resting on a warm mug beside a guitar; calm, low-contrast.
+
+## Recommended Next 3 (Low Physical Load First)
+
+1. **Autumn Setup Check** — seasonal timing, low physical load (measuring and talking), reusable annually.
+2. **Gauge or Action: Which Fix First?** — strongest expression of the PM lens; can reuse Video 6 footage.
+3. **A Bad Hand Day Plan** — fills the flare-up gap and serves the core audience; film on a good-hands day for short takes.
+
+## Wording Flag for Existing Content
+
+The June hooks "Your guitar is probably fighting you" and "…is fighting you by December" conflict with the skill guardrail that the guitar never fights the player. Suggested neutral rewrites: "Your guitar may not be set up for how you play yet" and "The neck that was right in August has moved by December."
+
+## Sources
+
+- [Acoustic guitar for arthritic hands (Premier Guitar)](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands)
+- [Arthritis and guitarists (Guitar World)](https://www.guitarworld.com/artists/guitarists/arthritis-and-guitarists)
+- [Steve Morse on arthritis (Blabbermouth)](https://blabbermouth.net/news/ex-deep-purple-guitarist-steve-morse-on-his-battle-with-arthritis-ive-tried-every-treatment-i-can-find)
+- [Hand anatomy and playing issues (Justin Guitar community)](https://community.justinguitar.com/t/hand-anatomy-and-playing-issues-including-arthritis/171362)
+- [How to make your acoustic guitar easier to play (Yamaha)](https://hub.yamaha.com/guitars/g-acoustic/how-to-make-your-acoustic-guitar-easier-to-play)
+- [Are lighter strings easier to play? (My New Microphone)](https://mynewmicrophone.com/are-lighter-thinner-gauge-guitar-strings-easier-to-play/)
+- [The Fretboard forum thread on lighter strings](https://thefretboard.co.uk/discussion/comment/3696162)
+- [Left-hand arthritis adaptations (UMGF)](https://umgf.com/left-hand-arthritis-adaptations-t178874.html)

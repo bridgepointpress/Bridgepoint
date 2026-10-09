@@ -184,3 +184,73 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+
+---
+---
+
+# Content Research Update — 9 October 2026
+
+**Method note:** Live web search returned thin results for YouTube-specific trend data (mostly forum threads and blog posts). Findings below combine those signals with the existing backlog above and the channel charter. Search-volume claims are directional and should be checked in YouTube Studio / search autocomplete before filming.
+
+## What the signals say
+
+- **Short scale + arthritis is an active forum question** (BassBuzz, UMGF, classical forums, Eastwood blog). The recurring nuance: short scale lowers tension and tightens fret spacing, but does not remove every reach, and string gauge/tuning trade-offs apply. A balanced, measured treatment is missing.
+- **Tenor guitars** are being raised as an arthritis-friendly option (4 strings, short scale, open tunings). Not covered in the backlog.
+- **Common advice loop** across arthritis articles: warm-up, capo, alternate tunings, fingerpicking, thumb pick, professional setup, auto-winder/tuner (twisting tuning pegs is a known pain point). Lots of listicles, little demonstrated before/after. That is the channel's gap.
+- **Timing:** October starts the dry-air/heating season (humidity video is now timely) and the gift-buying run-up (Nov–Dec search for "guitar for someone over 50", "gift for guitarist").
+
+## New video ideas (not in the backlog above)
+
+| # | Working title | Friction | Fix Ladder sketch (Free / £5–20 / £25–100 / £100+) | Appeal |
+|---|---|---|---|---|
+| 1 | **Short Scale vs Full Scale: Measured on the Same Song** | Reaches and tension feel like too much, unsure if scale length is the cause | Free: capo/lighter-gauge test on current guitar / Strings + capo / Used short-scale (Harley Benton, Sire) / Premium short-scale | High — extends gap #6, evergreen |
+| 2 | **Tenor Guitar for Sore Hands: A Fair Look** | Six strings and long reaches are the limit | Free: try 4 strings on current guitar / Cheap tenor or ukulele-scale / Mid tenor / Custom | Medium-high — little competition, novelty |
+| 3 | **Tuning Without Twisting: Peg Winders and Tuner Options** | Tuner pegs are a hand-twisting task | Free: tune less often (fresh-string stretch) / Peg winder £5 / Clip-on tuner + locking-style tuners £30–60 / Premium tuners | Medium — tiny, quick sprint, low physical load |
+| 4 | **Capo Positions That Replace Barre Chords** | Barre chords at the 1st-fret cost grip strength | Free: partial capo concept using a pencil + rubber band / Basic capo / Quality capo / Partial/Kyser-style capo set | High — builds on Video 4 |
+| 5 | **Alternate Tunings for Easier Shapes (DADGAD, Open G)** | Wide stretches and multi-finger shapes | Free: retune / Tuner app / Light-gauge set per tuning / Dedicated guitar | Medium-high |
+| 6 | **Thumb Pick and Grip-Friendly Picks Compared** | Pinching a pick fatigues thumb/index joints | Free: textured tape on pick / Thumb pick £3–8 / Grip picks £10–20 / Custom-printed grip | Medium — cheap, affiliate-friendly |
+| 7 | **Dry-Air Season Checklist (Humidity Part 2)** | Action drops, fret ends sharp in winter | Free: case + damp sponge / Soundhole humidifier / Room hygrometer + case humidifier / Whole-room humidifier | High now (seasonal) |
+| 8 | **Buying a Guitar for Someone Who Plays With Sore Hands** | Gift-buyers pick on looks, not playability | Free: ask three questions / £60 setup on existing guitar / Short-scale £150–300 / £500+ | High in Nov–Dec |
+| 9 | **The 10-Minute Hand Check Before You Pick Up the Guitar** | Not knowing whether today is a "play" or "adapt" day | Free: Arthritis Checklist 1A / Printable / Hand tools / Physio consult | Medium — doubles as PDF lead magnet |
+| 10 | **Nylon vs Steel for Sore Fingers: Same Song, Both Guitars** | Steel-string tension | Free: lighter strings / Silk-and-steel set / Used nylon / Premium nylon | High — draws on Easier Play Guitars doc |
+
+## Gaps and underexplored angles (additions)
+
+1. **Demonstrated, not listed, adaptive advice.** Most arthritis content is text listicles. Before/after on camera is the channel's edge.
+2. **Tuner/peg ergonomics** — mentioned in articles, no video treats it as a setup fix.
+3. **Partial capos and capo-as-ergonomics** — framed as a tone tool elsewhere, a comfort tool here.
+4. **Tenor and other short-scale formats** beyond standard 24" guitars.
+5. **Gift-buyer audience** — a seasonal secondary audience (family of the player) that reaches the channel through search.
+6. **Honest scale-length nuance** — short scale is not a universal fix (finger travel remains). Saying so builds trust.
+7. **Sprint-sized videos** — items 3, 6, 9 are low-physical-load and fit the 15-minute constraint.
+
+## Suggested titles, hooks and thumbnails (top picks)
+
+- **Short Scale vs Full Scale: Measured on the Same Song**
+  - Hook: "Same song, two scale lengths, one stopwatch and one comfort rating."
+  - Thumbnail: two necks side by side with a ruler across fret 5; no text on camera.
+- **Capo Positions That Replace Barre Chords**
+  - Hook: "One chord shape, five capo positions, no barre."
+  - Thumbnail: open hand on the neck beside a capo, before/after chord shapes.
+- **Dry-Air Season Checklist**
+  - Hook: "The neck measured 0.010" in August. Here it is in October."
+  - Thumbnail: feeler gauge in the gap at fret 7, season labels in the corner.
+- **Buying a Guitar for Someone Who Plays With Sore Hands**
+  - Hook: "Three questions to ask before you spend anything."
+  - Thumbnail: gift-wrapped guitar case with a measuring tape.
+- **Tuning Without Twisting**
+  - Hook: "Two minutes, five pounds, and the pegs turn themselves."
+  - Thumbnail: peg winder on a tuner, £5 callout.
+
+## Recommended order (backlog logic, ROI vs. production load)
+
+1. **Dry-Air Season Checklist** — time-sensitive now, low physical load.
+2. **Capo Positions That Replace Barre Chords** — direct audience pull, short sprint.
+3. **Buying a Guitar for Someone Who Plays With Sore Hands** — publish before mid-November.
+
+## Notes for the creator
+
+- **Wording flag in the earlier sections:** some hooks above use "fighting you" phrasing (e.g. title #1 and #9 hooks). That conflicts with the channel guardrail that the guitar is never hostile; suggest "not yet set up for how you play" instead.
+- The v10 spreadsheet was not available in this repo, so ideas were not cross-checked against the live backlog. Please check for overlap before scheduling.
+- Verify any specific product price or model before filming.

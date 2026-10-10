@@ -184,3 +184,68 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 10 October 2026
+
+**Method note:** Web search this run returned forum threads, buyer's guides and luthier/tool-maker pages, with no usable YouTube trend or view-count data. Findings below are demand signals from written sources plus gap analysis against the June 2026 list above. Treat appeal ratings as estimates and check against YouTube search autocomplete and Studio analytics before committing filming time.
+
+## Demand Signals This Run
+
+- **Short scale for arthritic hands** is a live topic in buyer's guides (September 2026 roundups cite 24"–24.75" scale, slim C neck, bodies under 5 lb). Forums disagree on how much scale length alone helps, since finger travel is similar and the benefit is mostly lower string tension. A measured, honest test is more useful than another product list.
+- **Bass players with arthritis** are asking the same questions in bass forums (short-scale bass, softest action). No channel on the guitar side is serving them.
+- **Nut slot and light-gauge compatibility** keeps surfacing in beginner threads: switching to lighter strings in slots cut for heavier ones causes buzz, and "have my guitar set up" is still a confusing phrase for new players. This pairs directly with Video 6 (light strings).
+- **Acoustic-for-arthritic-hands** advice (Premier Guitar and others) concentrates on action and neck profile, which supports the setup-first framing.
+
+## New Video Ideas (not in the June list)
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal (est.) |
+|---|---|---|---|---|
+| 1 | **Light Strings Buzzing? Check Your Nut Slots First** | Lighter set installed, new buzz at the nut | Free: fret at 3rd and check first-fret clearance. £5–20: nut slot files or graphite. £25–100: pre-slotted replacement nut. £100+: professional nut and setup | High; follows Video 6 |
+| 2 | **Short Scale Test: Does 24" Actually Feel Different?** | Unsure whether scale length or setup is the real lever | Free: lower action and lighter strings on current guitar. £5–20: capo-at-1 tension comparison. £25–100: used short-scale. £100+: new short-scale built for comfort | High; settles a live forum argument with measurement |
+| 3 | **Short-Scale Bass and Arthritis** | Bass tension and stretch for sore hands | Free: strap height and action. £5–20: lighter or flatwound set. £25–100: setup and nut work. £100+: short-scale bass | Medium; small audience, almost no competition |
+| 4 | **What "Get It Set Up" Actually Means** | Jargon barrier for new and returning players | Free: learn the 5 measurements. £5–20: feeler gauges, ruler. £25–100: DIY tool kit. £100+: luthier setup | High search potential, evergreen |
+| 5 | **The 3rd-Fret Clearance Check (60 Seconds)** | No quick way to tell if nut slots are too high | Free: the check itself. £5–20: feeler gauge. £25–100: slotting files. £100+: bone nut, professionally cut | High; short, shareable, Shorts-ready |
+| 6 | **Neck Profile and Hand Fatigue** | Chunky neck tires the hand in 15 minutes | Free: thumb position check. £5–20: lighter strings. £25–100: used slim-neck guitar. £100+: neck reshape or new guitar | Medium-high; links Ergonomics series |
+| 7 | **Guitar Weight Under 5 lb: Does It Matter?** | Shoulder and hand fatigue from heavy body | Free: strap width and height. £5–20: padded strap. £25–100: strap lock and support. £100+: lightweight body | Medium; extends the Les Paul video |
+| 8 | **A Setup Diary: Baseline, Change, Measure** | Changes made with no record of what worked | Free: notebook and ruler. £5–20: feeler gauge. £25–100: digital caliper. £100+: full tool set | Medium; strongest PM-lens fit, good lead-in to the PDF product |
+
+## Gaps and Underexplored Angles (new)
+
+1. **Bass players with hand pain**: unserved; low competition, loyal community.
+2. **Measured myth-testing**: forums argue scale length, action and string gauge endlessly. A before/after with numbers fits the "baseline and measure" brand and few channels do it.
+3. **Light-gauge side effects**: most string videos stop at "lighter is easier". Nut slots, setup drift and truss rod adjustment after a gauge change are the missing second half.
+4. **Jargon translation**: "setup", "relief", "action", "intonation" glossary content for returning players, built as a series of 60-second Shorts.
+5. **Tier-balanced short-scale buying**: current guides skew to a single price band; a full Fix Ladder view (Harley Benton, Sire, Mitchell, Indio and above) is open ground and draws on the Short Scale Guitars 2026 doc.
+
+## Titles, Hooks and Thumbnail Concepts
+
+### 1. "Light Strings Buzzing? Check Your Nut Slots First"
+- **Hook:** "You changed one thing and gained a new buzz. Here is where it is coming from."
+- **Thumbnail:** Close-up of a string sitting in the nut slot, ruler beside it, "£0" callout.
+
+### 2. "Short Scale Test: Does 24 Inches Change Anything?"
+- **Hook:** "Same player, same strings, two scale lengths. Here is what the numbers say."
+- **Thumbnail:** Two necks side by side with a tape measure; no text on camera.
+
+### 3. "The 60-Second Check for High Action at the Nut"
+- **Hook:** "One finger, one fret, one look. That is the whole test."
+- **Thumbnail:** Finger on 3rd fret, gap at first fret highlighted.
+
+### 4. "What 'Get It Set Up' Actually Means"
+- **Hook:** "Five measurements. After this you will know what you are paying for."
+- **Thumbnail:** Five small icons in a row (relief, action, nut, saddle, intonation).
+
+## Recommended Next Filming Order
+
+1. **Nut slots and light strings** (quick, one-fret demo, low physical load, builds on Video 6).
+2. **60-second 3rd-fret check** as a Short cut from the same session.
+3. **Short-scale measured test** (higher production cost; schedule on a good hand day).
+
+## Notes
+
+- Ideas 1, 4 and 5 are low-load enough for a 15-minute sprint.
+- Any product named in these videos needs the Mode 2 checklist and personal use before publishing.
+- Suggested follow-up: check the v10 backlog spreadsheet for overlap with these titles; it was not available in this environment.

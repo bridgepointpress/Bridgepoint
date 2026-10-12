@@ -184,3 +184,57 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 12 October 2026
+
+**Research note:** Web search this run returned mostly forum threads and guide pages, with no verifiable YouTube trend data. Items below marked *(signal)* are supported by recurring forum questions seen this run; everything else is drawn from gaps in the June 2026 list and the channel brief. Treat audience-appeal ratings as judgement calls, not measured demand.
+
+## Signals Seen This Run
+- **Nut and action are the recurring fix.** Forum threads keep returning to nut slot height and action targets (a common "3/32 low E, 2/32 high E" figure), with open disagreement on sequence (nut first vs. action first). *(signal)*
+- **Older and arthritic players ask about three things:** thinner neck profiles, lower action, and shorter scale or nylon strings. *(signal)*
+- **Warm-up vs. rest on inflamed days** appears in player discussion, with no settled answer. *(signal; links to PTI Ep 8)*
+- **Sequence confusion** is a gap in itself: setup guides disagree on order of operations, and no beginner source gives a ranked, ROI-ordered list.
+
+## New Ideas (not in the June list)
+
+| # | Working title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Nut First or Action First? The Order That Saves Time** | Conflicting advice on setup sequence | Free: check order using a business card and a ruler / £5–20: feeler gauges / £25–100: nut files / £100+: pro nut replacement | High: PM prioritisation lens fits directly |
+| 2 | **Neck Profile and Small Hands: C, D and Slim Taper Explained** | Neck shape never mentioned when buying | Free: measure nut width and compare / £5–20: neck-profile gauge / £25–100: used slim-neck guitar / £100+: custom neck carve or refret | High for the arthritis audience |
+| 3 | **Nylon on a Steel-String Body: What Works and What Doesn't** | Steel tension tires the fretting hand | Free: drop tuning a half step / £5–20: extra-light steels / £25–100: classical or hybrid guitar / £100+: nylon-string crossover | High: bridges Easier Play doc content |
+| 4 | **The Ten-Minute Baseline: Measure Your Guitar Before Changing Anything** | No starting point to compare against | Free: phone photos plus ruler / £5–20: feeler set / £25–100: string-action gauge set / £100+: setup-tool kit | High: anchors the "baseline" brand idea |
+| 5 | **Capo Position as a Comfort Tool** | Open-chord stretches in the first positions | Free: capo at fret 2 or 3 / £5–20: basic capo / £25–100: partial or lightweight capo / £100+: premium capo | Medium-high: low physical load to film |
+| 6 | **Thumb Pick, Finger Picks and Lap Playing: Permanent Strategies** | Pick grip strain | Free: try a thicker pick / £5–20: thumb pick / £25–100: lap-style stand / £100+: lap steel | Medium: strong adaptive relevance |
+| 7 | **One Change, Then Stop: The Single-Variable Setup Test** | Changing everything at once hides what worked | Free: log one change per week / £5–20: notebook / £25–100: lighter strings plus tool / £100+: pro setup with one request | Medium-high: PM "change control" insight |
+| 8 | **Returning After a Gap: Your First 15 Minutes Back** | Guitar sat untouched for years | Free: clean and re-tune / £5–20: new strings / £25–100: setup check / £100+: refret or neck reset | High: large returning-player audience |
+
+## Gaps Still Open (carried forward plus new)
+- **Carpal tunnel episode (PTI Ep 2)** remains the highest-priority gap. No recent coverage found this run either.
+- **Neck profile / nut width** as a buying criterion is absent from the June list.
+- **Order-of-operations** for setup is unaddressed and ties directly to the channel's ROI framing.
+- **Sprint-friendly production:** Ideas 4, 5 and 7 need little physical load on camera and fit the 15-minute sprint constraint.
+
+## Title, Hook and Thumbnail Suggestions
+
+1. **"Nut First or Action First? The Order That Saves Time"**
+   - Hook: "Two setup guides, two different orders. Here is how to decide."
+   - Thumbnail: nut slot and saddle side by side, numbered 1 and 2 with a swap arrow.
+2. **"The Ten-Minute Baseline"**
+   - Hook: "Before changing anything, write down where you are starting from."
+   - Thumbnail: ruler at the 12th fret, measurement overlay, clipboard.
+3. **"Neck Profiles Explained for Smaller or Stiffer Hands"**
+   - Hook: "The neck shape matters as much as the scale length."
+   - Thumbnail: two neck cross-sections held to the camera.
+4. **"Returning After a Gap: Your First 15 Minutes Back"**
+   - Hook: "The guitar has been in the case for years. Here is a gentle first session."
+   - Thumbnail: dusty case half open, clock reading 15:00.
+
+## Recommended Next Production Order
+1. **#4 The Ten-Minute Baseline** — lowest physical load, sets up every later video, reinforces the channel name.
+2. **#1 Nut First or Action First** — high search intent, builds on #4.
+3. **PTI Ep 2 Carpal Tunnel** — highest-priority gap; schedule on a good-hand day given the clinical research load.
+
+*Note: the Bridge and Baseline v10 spreadsheet was not accessible from this environment, so backlog duplication was checked only against this file.*

@@ -184,3 +184,99 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+
+# Update — 13 October 2026
+
+**Research note:** Live web searches this run returned mostly SEO pages, shops and forum threads, with no reliable YouTube view-count or trend data. The signals below come from those sources plus seasonal timing, and are directional rather than measured. Check YouTube search autocomplete and Studio search-term reports before committing a slot. Ideas below do not repeat anything in the June 2026 section.
+
+## What the research confirmed
+
+- Action height is still the most common first fix in guidance aimed at older players; lighter strings, truss rod and bridge/nut adjustments come up repeatedly, with "small steps, let the guitar settle" as the usual advice. This supports the Fix Ladder format already in place.
+- Shorter scale length is cited as lower string tension and less fretting effort. Little of it is framed as an ergonomics fix, which matches Gap 6 from June.
+- Pressing near the fret rather than on it, and using only the pressure needed to sound the note, appear as technique tips in pain-related threads. A technique-adjacent Insight/Action pairing the channel has not used yet.
+- Products aimed at sore fingers (easy-play guitars, low-tension and silk-and-steel strings, nylon) are sold mostly by the sellers themselves. Independent, Fix Ladder-style comparison is thin.
+
+## Seasonal timing (October to January)
+
+- **Heating season:** central heating dries rooms and moves necks. Complements the June winter-humidity idea with a specific trigger.
+- **Cold weather and joint stiffness:** relevant to the Arthritis Checklist and warm-up content.
+- **Gift season:** searches for "guitar for a parent / partner over 50" tend to rise from November. Few videos speak to the player rather than the giver.
+- **New-year restart:** returning-player searches rise in January. Publish prep in December.
+
+## New video ideas
+
+| # | Working title | The friction | Audience appeal |
+|---|---|---|---|
+| 1 | **Central Heating and Your Guitar: A 10-Minute Check** | Neck relief and action shift once the heating comes on | High. Timely, repeatable each year, low physical load |
+| 2 | **Cold Hands, Stiff Joints: A Warm-Up Before You Pick Up the Guitar** | Joints are slower in colder months | High for the arthritis audience. Draws on Arthritis Checklist section 1A |
+| 3 | **Press Less: Finding the Minimum Pressure for a Clean Note** | Fretting harder than the note needs | Medium-high. Measurable with a before/after pressure feel and a setup tie-in |
+| 4 | **Partial Capos Compared: Fix Ladder £0 to £100** | Open-chord shapes that stretch or need barres | Medium. Comparison format, affiliate-ready under Mode 2 checks |
+| 5 | **Thumb Picks, Lap Playing and Alternate Tunings as Permanent Strategies** | Standard grip and posture do not suit every hand | Medium-high. Strong adaptive relevance, shareable beyond the niche |
+| 6 | **The Guitar That Fits: Choosing for Yourself, Not for a Gift List** | Gift guides ignore comfort | High in Nov-Dec. Short-scale and nylon options by tier |
+| 7 | **Returning After Ten Years: Your First Three 15-Minute Sessions** | Restarting without a plan | High in Dec-Jan. Pairs with the 15-Minute Sprint PDF |
+| 8 | **String Gauge Ladder: Moving Down One Step at a Time** | Jumping straight to the lightest set and losing tone or stability | Medium. Extends the light-strings video with a stepwise ROI view |
+| 9 | **Nut Slot Check With a Feeler Gauge: Before and After** | Open-string height that makes first-position chords tiring | High search overlap. Strong visual before/after |
+| 10 | **Fretting Hand Fatigue Log: One Week, Baseline and Variance** | Not knowing which change helped | Medium. Clear project-management insight, low production cost |
+
+### Fix Ladder sketches for the three strongest
+
+**Central Heating and Your Guitar**
+- Free: Check relief with a capo and a business card at the 7th fret; note the baseline
+- Affordable (£5-20): Soundhole humidifier, small hygrometer
+- Quality upgrade (£25-100): Case humidifier system, digital hygrometer
+- Premium (£100+): Professional seasonal setup, room humidifier
+
+**Cold Hands Warm-Up**
+- Free: Warm water, gentle open-and-close hand sequence, five minutes
+- Affordable (£5-20): Heated hand pack, thin fingerless gloves
+- Quality upgrade (£25-100): Heated gloves or a small hand warmer for the practice space
+- Premium (£100+): Occupational therapy or hand therapy consult
+
+**Partial Capos Compared**
+- Free: Existing capo with a standard alternate tuning
+- Affordable (£5-20): Basic third-hand style capo
+- Quality upgrade (£25-100): Quality partial or cut capo (e.g. Kyser Drop D, Third Hand-style)
+- Premium (£100+): Custom partial capo or setup with matching tuning chart
+
+## Gaps and underexplored angles
+
+1. **Independent comparison of "sore finger" products.** Sellers dominate the results; a calm, tiered, tested comparison would stand out.
+2. **Minimum-pressure fretting as a measurable skill.** Treated as a tip, rarely as a before/after project.
+3. **Cold-season hand care for players.** No obvious dedicated content found for guitar-specific warm-ups.
+4. **Gift-season content aimed at the player.** Most guides address the buyer.
+5. **Retrospective/log format.** The project-management lens is still underused for tracking progress over a week or month.
+6. **Evergreen annual seasonal series** (heating, humidity, travel, holiday restarts) as a content-calendar anchor.
+
+## Titles, hooks and thumbnail concepts for the top ideas
+
+### 1. "Central Heating and Your Guitar: A 10-Minute Check"
+- **Alt titles:** "Why Your Guitar Feels Different Since October" / "The Winter Neck Check"
+- **Hook:** "Same guitar, same strings, different feel. Here is how to measure what changed."
+- **Thumbnail:** Capo and card at the 7th fret, a small hygrometer in frame, warm room tones
+
+### 2. "Cold Hands, Stiff Joints: A Warm-Up Before You Play"
+- **Hook:** "Five minutes, nothing to buy, and you have your baseline for the day."
+- **Thumbnail:** Hands around a mug, guitar resting beside them
+
+### 3. "Press Less: Finding the Minimum Pressure for a Clean Note"
+- **Hook:** "Find the lightest touch that still rings clear, then lower the action to match."
+- **Thumbnail:** Fingertip close-up, just behind the fret
+
+### 4. "Partial Capos Compared: £0 to £100"
+- **Hook:** "One chord shape that gets easier, tested on four tiers."
+- **Thumbnail:** Four capos in a row with price tags
+
+### 5. "Returning After Ten Years: Your First Three 15-Minute Sessions"
+- **Hook:** "Fifteen minutes is enough to start. Here is what to do with each one."
+- **Thumbnail:** Kitchen timer at 15:00 beside a guitar on a stand
+
+## Recommended order (physical load considered)
+
+1. **Central Heating check** (seasonal window is now, low physical load, quick demo)
+2. **Cold-Hands Warm-Up** (same window, supports the arthritis audience)
+3. **Gift-season "Guitar That Fits"** (publish by mid-November, requires some preparation)
+4. Hold **Returning After Ten Years** for early December so it lands before January.
+
+*Backlog check:* the v10 spreadsheet was not available in this repository, so these ideas were checked only against the June 2026 section. Compare against the v10 backlog before scheduling.

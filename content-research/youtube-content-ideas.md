@@ -184,3 +184,82 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 14 October 2026
+
+**Method note:** Web search surfaced no reliable YouTube-specific trend data (results were mostly affiliate buying guides and general articles). Findings below combine those signals with the existing backlog above and the calendar. Treat search-volume claims as directional and verify in YouTube Studio / Search Console before committing.
+
+## Signals This Run
+
+- **Seasonal timing is the strongest lever right now.** It is mid-October: heating goes on, humidity drops, and necks begin to move. The "What Happens to Your Guitar in Winter" idea (title #9 above) is now in-window. Filming this in the next 2–3 weeks catches the search peak.
+- **Arthritis and guitar search results are dominated by text articles** (Premier Guitar, Riffhard, senior-setup blogs). Common advice is lighter strings, lower action, shorter scale, capo, and alternate tunings. Video coverage that shows a measured before/after appears thin — this is the channel's format advantage.
+- **Short-scale and "small hands" buying guides are proliferating** (22"–24.75" scale models such as Fender Redondo Mini, Yamaha JR1, Ibanez GRGM21). Several guides admit they have not verified scale-length measurements. A measured, honest comparison is an opening for credibility.
+- **Capo and alternate-tuning advice for stiff hands is repeated widely** but rarely demonstrated as a permanent strategy. Fits the channel's "adaptive approaches are legitimate" stance.
+
+## New Video Ideas (not already in the lists above)
+
+Audience appeal: ★★★ high / ★★ medium / ★ niche. Physical load is flagged for scheduling against the 15-minute sprint.
+
+| # | Working Title | Friction | Fix Ladder sketch (Free / £5–20 / £25–100 / £100+) | Appeal | Physical load |
+|---|---|---|---|---|---|
+| 1 | **Capos and Open Tunings as a Permanent Setup** | Chord shapes that need stretch or strong barre | Free: try a simple open tuning · £: basic capo · £££: Shubb/Kyser quality capo · Premium: partial capo set | ★★★ | Low |
+| 2 | **Measure Your Scale Length Before You Buy** | Buying "short scale" guitars that aren't | Free: tape measure, nut to 12th fret ×2 · £: steel rule · ££: shop trial · Premium: a measured short-scale guitar | ★★★ | Low |
+| 3 | **Neck Shape and Nut Width: The Comfort Spec Nobody Lists** | Thumb and palm ache from the wrong neck profile | Free: compare guitars you own · £: shop visits · ££: neck-profile swap · Premium: custom neck | ★★ | Low |
+| 4 | **Guitar Weight: Weigh It, Then Decide** | Shoulder strain after 20 minutes | Free: bathroom-scale weigh-in · £: wider strap · ££: padded strap · Premium: lighter instrument | ★★ | Low |
+| 5 | **Fret Edges and Fret Ends: The Hidden Comfort Fix** | Sore hand-side from sharp fret ends | Free: inspect with a finger pass · £: fret-end file · ££: luthier dress · Premium: refret | ★★ | Medium |
+| 6 | **Under-Saddle and Pickup Height: Why Strumming Hurts** | Right-hand and forearm fatigue from strings sitting too far from the soundhole/pickups | Free: pickup height · £: lighter pick · ££: thumb pick set · Premium: setup | ★★ | Low |
+| 7 | **Picks for Stiff Hands: Thickness, Grip, Shape** | Pick slips or demands tight grip | Free: use what you own, test grip · £: textured pick variety pack · ££: thumb picks · Premium: custom pick | ★★★ | Low |
+| 8 | **The 10-Minute Evening Reset: A Cold-Room Warm-Up** | Cold, stiff hands in autumn/winter | Free: warm water · £: hand warmers · ££: fingerless gloves · Premium: heated gear | ★★★ | Low |
+| 9 | **Nylon-String Switch: What Actually Changes** | Steel strings too demanding | Free: borrow one · £: nylon strings on a compatible guitar (check first) · ££: entry classical · Premium: hybrid-neck classical | ★★★ | Low |
+| 10 | **Viewer Rescue #1 (Pilot)** | One reader's guitar, fully triaged | Full ladder, chosen by viewer | ★★★ | Medium |
+
+*Idea 9 should draw on the Easier Play Guitars doc; ideas 2 and 4 on the Short Scale Guitars 2026 doc; idea 8 on the Arthritis Checklist.*
+
+## Gaps and Underexplored Angles (new this run)
+
+1. **Cold-weather playing** — autumn/winter hand stiffness is a distinct, seasonal friction, not covered by the humidity idea.
+2. **Right-hand friction** — nearly all backlog items address the fretting hand. Pick grip, strumming fatigue, and pickup/soundhole distance are underserved.
+3. **Measurement-first buying** — a "check the number yourself" approach differentiates from affiliate guides that skip verification.
+4. **Fit before features** — neck profile, nut width, and weight appear nowhere in the backlog.
+5. **Permanent adaptive strategies** — capo, partial capo, and tuning are well-known tips but rarely framed as a lasting setup choice.
+
+## Suggested Titles, Hooks & Thumbnail Concepts (top 4)
+
+*Hooks follow channel guardrails: calm, specific, no negative framing, ends in playing.*
+
+### A. "What Happens to Your Guitar in Winter" (in-window; film first)
+- **Alt titles:** "Your Guitar in Winter: A 10-Minute Check" / "Autumn Setup Check: Three Measurements"
+- **Hook:** "The heating just came on. Here are three measurements worth taking this week."
+- **Thumbnail:** Feeler gauge at the 7th fret, with a thermometer/humidity reading beside it. Before/after relief.
+- **Why:** Time-boxed search window, repeatable annually, strong reshoot value.
+
+### B. "Capos and Open Tunings as a Permanent Setup"
+- **Hook:** "One change to the tuning, and the chord that needed a stretch sits under two fingers."
+- **Thumbnail:** Same chord shown two ways — standard shape vs. capo shape — hand silhouettes side by side.
+- **Why:** Large existing search interest, thin video demonstration, directly in the adaptive lane.
+
+### C. "Measure Your Scale Length Before You Buy"
+- **Hook:** "The listing says short scale. A tape measure takes thirty seconds to check."
+- **Thumbnail:** Tape measure from nut to 12th fret with a doubled-number overlay; two guitars in frame.
+- **Why:** Credibility play; supports the Short Scale Guitars doc and future affiliate content under the editorial-first rules.
+
+### D. "Picks for Stiff Hands"
+- **Hook:** "Your grip changes with the pick. Here are four, tested on one chord progression."
+- **Thumbnail:** Four picks fanned out with price tags; close-up of thumb-and-finger contact.
+- **Why:** Cheap to film, low physical load, full Fix Ladder fit, natural comparison format.
+
+## Recommended Sequence (Mode 3 view)
+
+*The v10 spreadsheet was not available in this repo, so sequencing is based on this document only. Cross-check before committing.*
+
+1. **A. Winter check** — seasonal window closes; low physical load.
+2. **D. Picks for Stiff Hands** — quick sprint, low load, comparison format.
+3. **B. Capos and Open Tunings** — slightly larger, but high appeal.
+
+## Housekeeping Notes
+
+- Existing hook lines above (e.g., "Your guitar is probably fighting you", "Your doctor said stop") conflict with channel guardrails (guitar as hostile; negative framing). Consider rewording before scripting.
+- The Fix Ladder currency is mixed ($ and £) in the header; the channel doc uses £. Worth standardising.

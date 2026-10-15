@@ -184,3 +184,83 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 15 October 2026
+
+**Method note:** Web search surfaced written guides and forum threads, not YouTube analytics, so "trending" below is inferred from forum/search signals plus seasonal timing. Treat appeal ratings as estimates. Nothing above has been changed.
+
+## What the Fresh Signals Say
+
+- **Setup beats scale length.** Forum threads (UMGF, TheFretboard, Acoustic Guitar Forum) agree factory action is usually too high and a good setup, especially nut height, changes playability most. Short scale is *debated* (one bass thread argues finger travel is unchanged). A calm "what short scale does and doesn't change" test is an open niche.
+- **Try-before-you-buy** is repeated advice for players with hand limitations. Few creators turn it into a checklist.
+- **Lighter strings / tuning down a half step** keep appearing as the first adaptive strategy. Taylor's *Wood & Steel* ("Guitar Over 50", 2025) frames lighter gauges as the cheapest change for older players, so the mainstream audience is primed for it.
+- **Quality gap:** the "guitar setup for seniors" results are mostly low-grade or marketing pages. A trustworthy, measured, peer-to-peer source is still unclaimed.
+- **Seasonal timing:** October is the start of heating season (humidity drift) and the run-up to Black Friday/Christmas gifting (guitar-buying and "first guitar for a parent/partner" searches).
+
+## New Video Ideas (not already in the list above)
+
+| # | Working title | Friction | Appeal |
+|---|---|---|---|
+| 1 | **Short Scale: What It Changes and What It Doesn't** | Players unsure whether a new guitar will actually help | High. Debated topic, product-adjacent, links to Short Scale Guitars 2026 doc |
+| 2 | **The Try-Before-You-Buy Checklist for Sore Hands** (5 measurements in a shop, 15 min) | Buying blind with limited hand capacity | High. Evergreen, peaks Nov-Dec, shareable PDF |
+| 3 | **A Guitar for Someone Else: Choosing for a Parent or Partner with Stiff Hands** | Gift-buyers have no framework | High (seasonal). Opens a new audience: the family member |
+| 4 | **Nut Slot Height: The One Measurement That Changes the First Three Frets** | Open chords and F barre feel heavy | High. Backs up the forum consensus; fits free/affordable tiers |
+| 5 | **Half-Step Down: Lower Tension for Free** | Strings feel tight on current guitar | Medium-high. Zero-cost tier, quick to film (low physical load) |
+| 6 | **Heating Season Setup Check** (relief + action before and after the radiators go on) | Neck drifts; action creeps up | Medium. Reshootable annually; links the existing humidity idea to a date |
+| 7 | **Nylon, Steel or Electric: Which First for Hands That Need Less Pressure** | Choosing a type, not a model | Medium-high. Draws on the Easier Play Guitars doc comparison table |
+| 8 | **My Baseline: Measuring Playability Before Touching Anything** (action at 12th, relief, string tension, a 10-minute felt-effort score) | No shared way to know if a fix worked | Medium. Anchors the series; makes before/after repeatable across all videos |
+
+## Gaps and Underexplored Angles
+
+1. **Buyer-side content for gift-givers and family** (new persona edge, seasonal).
+2. **Evidence-honest scale-length coverage.** Most content asserts; few measure.
+3. **A shared baseline protocol.** Every video promises before/after, but there is no single "how I measure" video to link to. Cheap to make, reusable forever.
+4. **Shop-floor tools for choosing instruments**, not just fixing them (pairs with the Short Scale doc's budget tiers).
+5. **Hand-health overlap with the Arthritis Checklist Section 1A** (pain that worsens vs improves with movement) as a hook for a lead-magnet PDF.
+
+## Hooks, Titles and Thumbnail Concepts (top 4)
+
+### A. "Short Scale Guitars: What Actually Changes" (idea 1)
+- **Alt titles:** "Short Scale vs Standard: Measured" / "Will a Short Scale Help My Hands?"
+- **Hook:** "Short scale changes some things and leaves others exactly where they were. Here are the measurements."
+- **Thumbnail:** Two guitars at the same fret, a ruler across each; no text needed on camera.
+- **Fix Ladder sketch:** Free: capo at fret 1 as a tension test / Affordable: lighter strings / Quality: nut and saddle work / Premium: a short-scale model from the Short Scale 2026 tiers.
+
+### B. "The Try-Before-You-Buy Checklist" (idea 2)
+- **Hook:** "Five checks, fifteen minutes, one phone ruler. You'll know before you pay."
+- **Thumbnail:** Hand holding a feeler gauge at a shop-wall guitar's first fret.
+- **Fix Ladder:** Free: shop checklist / Affordable: pocket feeler gauges / Quality: shop setup included in purchase / Premium: custom order.
+
+### C. "Nut Height: The Measurement for the First Three Frets" (idea 4)
+- **Hook:** "One slot, fractions of a millimetre, and the F chord feels different. Before and after."
+- **Thumbnail:** Macro of a nut slot with a feeler gauge beneath the string.
+- **Fix Ladder:** Free: check and diagnose / Affordable: nut files / Quality: pre-slotted replacement nut / Premium: luthier nut work.
+
+### D. "Choosing a Guitar for Someone with Stiff Hands" (idea 3, seasonal)
+- **Hook:** "You can't ask them to try ten guitars. Here's how to narrow it to two."
+- **Thumbnail:** Two hands, one holding a guitar neck; warm light.
+- **Fix Ladder:** Free: borrowed guitar plus half-step down / Affordable: lighter strings / Quality: short-scale model / Premium: instrument with setup and neck profile chosen together.
+
+## Recommended Order (physical-load aware, 15-minute sprint friendly)
+
+1. **Half-Step Down** (idea 5): lowest physical load, zero cost, quick win.
+2. **Baseline protocol** (idea 8): supports every later video.
+3. **Try-Before-You-Buy** (idea 2): publish before Black Friday; ties to a free PDF.
+Then Short Scale (idea 1) and the gift-buyer video (idea 3) in late November. Nut height (idea 4) is higher precision work on hands; schedule on a good-hand day.
+
+## Notes on the Earlier Section
+
+- A few earlier hooks use "your guitar is fighting you" / "is fighting you by December" phrasing, which conflicts with the channel's rule that the guitar is never hostile. Suggested reword: "Your guitar probably isn't set up for your hands yet. Here's how to know in 30 seconds."
+- "98% of barre chord pain..." is an unsourced statistic; consider a measured claim instead.
+- Several earlier titles use "(Most Players Never Try This)" or "Nobody Tells You" hype framing; plainer alternatives fit the tone better.
+
+## Sources
+
+- [Guitar Over 50, Taylor Wood & Steel](https://woodandsteel.taylorguitars.com/issue/2025-issue-1/feature-story/guitar-over-50/)
+- [Acoustic guitar for arthritic hands, Premier Guitar](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands)
+- [Short Scale Bass for Older Adult with Arthritis, BassBuzz forum](https://forum.bassbuzz.com/t/short-scale-bass-for-older-adult-with-arthritis/94153)
+- [left-hand arthritis adaptations, UMGF](https://umgf.com/left-hand-arthritis-adaptations-t178874.html)
+- [TheFretboard discussion](https://thefretboard.co.uk/discussion/comment/3636184)

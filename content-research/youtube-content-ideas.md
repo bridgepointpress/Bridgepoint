@@ -184,3 +184,94 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 16 October 2026
+
+**Method note:** Web search this run returned mostly forum threads, retailer blogs and setup guides rather than YouTube analytics, so there is no hard view-count or trend data. Items below combine those signals with the seasonal calendar and the gaps already logged above. Treat audience-appeal ratings as judgement calls, not measurements. Existing content above is unchanged.
+
+## What the Search Signals Suggest
+
+- **Tension vs scale length is a live question.** Forum players with arthritis debate whether short scale helps through reach or through lower tension, and whether lighter strings on a standard scale give the same benefit. No clear, measured answer surfaced. Fits the channel's before/after format.
+- **Tenor guitars** are being pitched by retailers as a short-scale option for rheumatoid arthritis. Not covered in the existing list.
+- **Neck angle and position** (raising the neck with a strap, near-classical posture) recurs as a hand-comfort fix from luthier forums.
+- **Nut slot depth** is a recurring setup topic, with tools (nut slotting gauge, action gauge) and quoted measurements that disagree between sources. Suggests demand for a calm, measured explainer that shows the baseline first.
+- **"Try before you buy"** is repeated advice for players with hand conditions. Little content helps with how to do an in-shop test.
+
+## Seasonal Timing (Oct–Jan)
+
+- **Now to December:** heating season starts, so the humidity/winter drift video (already in the list, item 9 of titles) is timely. Highest-priority existing idea to film next.
+- **Late Nov:** gift-season and sale-season searches. A "what to check before buying a guitar for yourself or someone with sore hands" piece fits.
+- **January:** returning-player and new-year practice searches. Good slot for the 15-Minute Sprint video.
+
+## New Video Ideas
+
+| # | Working title | Friction | Appeal | Effort |
+|---|---|---|---|---|
+| 1 | **Short Scale vs Lighter Strings: Measuring the Difference in Tension** | Unsure which change eases the fretting hand more | High. Answers an open forum debate with measured before/after | Medium; needs a tension reference and two setups |
+| 2 | **Tenor Guitar for Sore Hands: A Fix Ladder** | Standard scale reach and tension | Medium. Niche but underserved, shareable among RA/OA communities | Medium; instrument access needed |
+| 3 | **How to Test a Guitar in a Shop When Your Hands Hurt** | Fear of buying the wrong instrument | High. Practical, evergreen, pairs with gift season | Low; can be filmed in 15-minute sprints |
+| 4 | **Nut Slot Height: Measure It Before You Touch It** | Stiff first-position chords | High. Extends existing buzzing and barre ideas with a baseline-first method | Low to medium; light on hands if no filing |
+| 5 | **Raise the Neck, Change the Angle: Two Free Positions to Try** | Wrist angle and left-hand strain | Medium to high. Free tier, very easy to demonstrate | Low |
+| 6 | **Heating Season and Your Guitar: A 10-Minute Check** | Setup drift as indoor air dries | High, seasonal. Compact version of the winter video | Low |
+| 7 | **The Buyer's Baseline: What to Measure on Any Guitar Before You Pay** | Buying without knowing the starting state | Medium to high. Strong PM framing, combines with pawn-shop inspection idea | Low |
+
+### Fix Ladder sketches for the top three
+
+**1. Short scale vs lighter strings**
+- Free: lower the tuning a half step, note the change
+- Affordable (£5–20): lighter gauge set
+- Quality upgrade (£25–100): professional setup with lighter gauge and adjusted nut
+- Premium (£100+): short-scale instrument (see Short Scale Guitars 2026 for tiers)
+
+**3. Testing a guitar in a shop**
+- Free: a 5-point checklist (action at the 12th fret, first-fret clearance, neck shape, weight, fatigue after 10 minutes)
+- Affordable: carry a small ruler or feeler gauges
+- Quality upgrade: pay for a setup quote before purchase
+- Premium: buy, then commission a full setup tailored to hand needs
+
+**4. Nut slot height**
+- Free: check first-fret clearance by eye and by feel
+- Affordable: feeler gauge set, roughly £5–10
+- Quality upgrade: nut slotting gauge or action gauge
+- Premium: replacement nut cut by a luthier
+
+## Gaps and Underexplored Angles (new this round)
+
+1. **Measured tension comparisons** between scale length and string gauge. Most advice is anecdotal.
+2. **Shop-testing guidance** for players with physical differences.
+3. **Tenor and other alternate-scale instruments** framed as ergonomic choices.
+4. **Baseline measurement as a method.** Sources quote differing target numbers, so a video that teaches viewers to measure their own starting point, rather than chase a figure, is on-brand and sidesteps disagreement.
+5. **Series naming.** Consider a "Measure First" mini-series (nut, relief, action) that sequences the setup basics.
+
+## Titles, Hooks and Thumbnail Concepts
+
+### A. "Short Scale or Lighter Strings? I Measured Both"
+- **Hook:** "Two ways to ease the fretting hand. Here is how much each one changes."
+- **Thumbnail:** Two necks side by side, a number overlay on each, hand resting on neither
+
+### B. "How to Try a Guitar in a Shop When Your Hands Hurt"
+- **Hook:** "Ten minutes in the shop can tell you what a spec sheet cannot."
+- **Thumbnail:** Hand holding a ruler at the 12th fret, shop wall behind
+
+### C. "Measure Your Nut Slots Before You Change Anything"
+- **Hook:** "Start with the number you have, not the number someone else quotes."
+- **Thumbnail:** Feeler gauge at the first fret, close-up, £5 callout
+
+### D. "Your Guitar in Heating Season: A 10-Minute Check"
+- **Hook:** "The room got drier in October. The neck noticed."
+- **Thumbnail:** Radiator in soft focus, neck relief gauge in foreground
+
+## Housekeeping Flag
+
+Two hooks in the earlier section ("Your guitar is probably fighting you", "...is fighting you by December") use the guitar-as-hostile framing that the channel guidelines rule out. Suggested replacements: "Your guitar may simply not be set up for you yet" and "The neck that was right in August has moved by December". Not edited above, to keep prior content intact.
+
+## Recommended Next Three (PM view: value vs production load)
+
+1. **Heating Season check (#6)**: timely now, low physical load, quick win.
+2. **Nut Slot Height (#4)**: high search demand, anchors a "Measure First" series.
+3. **Shop-testing video (#3)**: lands before gift season, low effort, strong for the adaptive audience.
+
+Sources: [Short scale bass for older adult with arthritis (BassBuzz forum)](https://forum.bassbuzz.com/t/short-scale-bass-for-older-adult-with-arthritis/94153), [Tenor guitar for arthritic hands (Eastwood)](https://eastwoodguitars.com/blogs/news/a-tenor-guitar-solution-for-guitarists-with-arthritic-hands), [Left-hand arthritis adaptations (UMGF)](https://umgf.com/left-hand-arthritis-adaptations-t178874.html), [How to Cut Nut Slots guide](https://rocksolidimages.com/information/how-to-cut-nut-slots-top.html), [Music Nomad String Action Gauge (UMGF)](https://umgf.com/viewtopic.php?p=2673949)

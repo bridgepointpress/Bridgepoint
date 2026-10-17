@@ -184,3 +184,70 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 17 October 2026
+
+**Method note:** Web search returned articles, retailer pages and forums, not YouTube view counts or trend data, so demand estimates below are judgement calls based on search-intent signals and gaps in the existing list. The v10 backlog spreadsheet was not available in this environment; check each idea against it before scheduling.
+
+## Signals From This Run
+
+- **Arthritis and guitar:** Coverage is mostly written guides (Premier Guitar, Riffhard, Acoustica forum). The advice repeats the same five levers: lower action, shorter scale, lighter strings, capo/alternate tunings, and classical or electric alternatives. Nobody ties them together into a ranked sequence with a before/after measurement. That sequencing is the channel's ROI lens.
+- **Short scale for adults:** Retailer content frames short scale as a travel or casual guitar. Returning players describe it as the thing that made playing comfortable again. Retail listings sometimes give body size where scale length belongs, so there is a verification angle.
+- **Buyer's-guide content for arthritic hands is commercial.** A neutral, price-tiered, measured version is a clear opening.
+- **Seasonal:** October is the start of heating season, so the humidity and winter-drift topic is timely now.
+
+## New Video Ideas (not already in this file)
+
+| # | Working Title | Friction | Fix Ladder sketch (Free / £5-20 / £25-100 / £100+) | Appeal |
+|---|---|---|---|---|
+| 1 | **Five Arthritis Fixes, Ranked by Return on Effort** | Many suggestions, no order to try them in | Action check / lighter strings / setup or nut work / short-scale guitar | High. Search-matched, sequencing is unique to channel |
+| 2 | **Is It Really Short Scale? How to Check Before You Buy** | Listings mix up body size and scale length | Tape measure / calipers or fret-to-nut ruler / Squier Sonic Mustang or Harley Benton class / Fender-level short scale | Medium-high. Useful, shareable, affiliate-ready |
+| 3 | **Heating Season Setup Check: 10 Minutes, Once a Year** | Neck relief and action shift when the house dries out | Visual check / £5 hygrometer / humidifier pouch / room humidifier or case system | High now, repeatable each autumn |
+| 4 | **Measure Your Baseline: A Playability Scorecard** | No way to tell if a fix helped | Action and relief measurements / feeler gauges / digital caliper / none needed | Medium-high. Pure channel DNA; reusable in every later video; PDF candidate |
+| 5 | **Capo, Open Tunings and Lighter Strings as Permanent Strategies** | Stretch shapes and high tension limit playing time | Capo placement / £8 capo / extra-light set / partial capo or compensated setup | Medium-high. Fits the adaptive-strategies principle directly |
+| 6 | **The 15-Minute Return: First Month Back After a Long Break** | Adults returning after years away lose momentum | Free sprint plan / fresh strings / setup / short-scale second guitar | High emotional pull for 35-65 returners |
+| 7 | **Classical, Steel or Electric: Which Asks Least of Your Hands?** | Choosing a guitar type with hand health in mind | Borrow and test / used nylon-string / new nylon or short-scale electric / premium instrument | Medium-high. Draws on the Easier Play Guitars doc |
+
+## Gaps and Underexplored Angles (additions to the list above)
+
+1. **Ranked, measured fix order for hand comfort.** Existing content lists fixes; none sequences them by return. Strongest new angle.
+2. **Scale-length literacy.** Search results show real confusion between body size and scale. Pairs with gap 6 above.
+3. **Neutral buyer's guidance.** Most "best guitars for arthritic hands" content is commercial. A tiered, uncommissioned version builds trust.
+4. **Returner-specific pacing.** Adults restarting after a gap are served by beginner content that assumes no history.
+5. **A reusable baseline scorecard.** Gives every video a consistent before/after frame and a lead-magnet candidate alongside the Arthritis Checklist PDF.
+
+## Titles, Hooks and Thumbnail Concepts for the Top Three
+
+### A. "Five Arthritis Fixes, Ranked by Return on Effort"
+- **Alt titles:** "Where to Start When Your Hands Need an Easier Guitar" / "The Order Matters: Easier Guitar Playing, Step by Step"
+- **Hook:** "Five changes make a guitar easier on the hands. Here is the order that gives the most for the least."
+- **Thumbnail:** Five numbered cards on a bench, number one highlighted, a ruler measuring string height at the twelfth fret.
+- **Insight:** ROI prioritisation. **Ends with:** a song played at the lowered action.
+
+### B. "Heating Season Setup Check: 10 Minutes, Once a Year"
+- **Alt titles:** "Why the Neck Moves in Autumn" / "The Annual Check That Keeps Action Where You Set It"
+- **Hook:** "The guitar you set up in summer has changed. Here is how to see by how much."
+- **Thumbnail:** August and December measurements side by side on the same feeler gauge, with a hygrometer reading.
+- **Insight:** Baseline versus variance. **Ends with:** a quiet evening tune.
+
+### C. "Is It Really Short Scale? Check Before You Buy"
+- **Alt titles:** "Scale Length in Two Minutes" / "Short Scale Guitars Compared by the Number That Matters"
+- **Hook:** "Listings often show body size. Scale length is the number that changes how your hand feels."
+- **Thumbnail:** Tape measure from nut to saddle on two guitars, scale lengths shown as figures.
+- **Insight:** Verify the specification, not the description. **Ends with:** playing the shorter-scale guitar.
+
+## Notes for Existing Material
+
+- Several hooks above in this file ("Your guitar is probably fighting you", "the neck... is fighting you by December", "98% of barre chord pain...") conflict with the channel guardrails (guitar framed as hostile; unsupported statistic). Suggested rewrites: "Here is how to see what your setup is doing in 30 seconds" and "The neck that was right in August has moved by December. Here is how to measure it."
+- The file mixes $ and £ in Fix Ladder ranges. The charter uses £ with 5-20 / 25-100 / 100+ tiers; consider aligning.
+
+## Suggested Next Three (subject to v10 backlog check)
+
+1. **Heating Season Setup Check** — timely now, low physical load, easy to film in one sprint.
+2. **Baseline Scorecard** — builds the frame all later videos reuse.
+3. **Five Arthritis Fixes, Ranked** — higher production effort, schedule once the scorecard exists so it can reference it.
+
+Sources: [Premier Guitar](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands), [Riffhard](https://www.riffhard.com/how-to-play-guitar-with-arthritic-fingers/), [Guitar Serious Fun](https://guitarseriousfun.substack.com/p/12-strategies-for-guitarists-with), [Vintage Vinyl News](https://vintagevinylnews.com/best-electric-guitars-for-arthritic-hands/), [Thomann Yamaha JR1](https://www.thomann.co.uk/yamaha_jr1.htm), [Mayfair Farms short-scale guide](https://www.mayfairfarms.com/?p=89541)

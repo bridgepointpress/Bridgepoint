@@ -184,3 +184,95 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 18 October 2026
+
+*Appended research pass. Existing sections above are unchanged. Web search returned thin YouTube-specific trend data this run, so signals below come from press coverage and search-intent reasoning; treat audience-appeal ratings as estimates, not measured volume.*
+
+## What Moved Since June
+
+- **Guitar World feature on arthritis and ageing guitarists (2026).** Frames hands as an athlete's tools (physio Dan Turnell: playing is a skilled muscular action). Nuffield Health estimate cited: about 50% of adults 65+ have an arthritis diagnosis. This is mainstream validation of the channel's core audience.
+- **Named players publicly adapting.** Keith Richards (fewer notes, wider fingerboard to keep knuckles clear), Joe Perry (changed string setup for reduced flexibility), Steve Morse (March 2026, continuing to play with wrist limitations), Jake E. Lee (relearning guitar, Sept 2025). Adaptation is now a news story, not a niche one.
+- **Existing arthritis content is mostly tips lists** (capo, thumb picks, alternate tunings, warm-ups; Riffhard, Roadie Music, Andy Guitar). Nobody found structuring it by cost tier or measuring before/after. That is the Fix Ladder gap.
+- **Nut-slot content is mostly low-quality written guides** with conflicting depth figures (roughly 0.018"–0.032" at the first fret depending on source). A calm, measured, feeler-gauge-based video is a credible authority play.
+- **Short-scale search interest continues** (shorter scale = closer frets, lower tension). Retail coverage frames it as travel/small-hands gear; the comfort/ergonomics framing remains open.
+
+## New Video Ideas
+
+| # | Working Title | Friction | Fix angle | Appeal (est.) | Physical load |
+|---|---|---|---|---|---|
+| 1 | **What Keith Richards Changed (And What You Can Copy)** | Hands no longer do what they did | Fewer notes, wider neck, simplified voicings as legitimate strategy | High (name recognition, news hook) | Low |
+| 2 | **Wide Nut vs. Narrow Nut: Which Suits Your Knuckles?** | Knuckles catching neighbouring strings | Nut width / neck profile comparison | Medium-high, underserved | Low |
+| 3 | **Nut Slot Depth: Measure It With a £5 Feeler Gauge** | Open chords hard, first-fret buzz | Measure at 1st fret; free check to pro fix | High (search-led) | Low |
+| 4 | **Treat Your Hands Like an Athlete's: A 5-Minute Pre-Play Routine** | Stiff start to every session | Warm-up protocol; pairs with Arthritis Checklist 1A | High | Very low |
+| 5 | **Fewer Notes, Same Song: Simplifying Voicings** | Stretch shapes that no longer feel good | Rhythm-first arrangements, partial chords | High | Low |
+| 6 | **Capo Positions That Replace Barre Chords** | Barre pain | Capo + open shapes; partial capos | High | Low |
+| 7 | **The Ladder for Tuning: Auto Tuner vs. Clip-On vs. Locking Tuners** | Wrist twisting at tuning pegs | Tuning ergonomics (£0 / £10 / £40 / £100+) | Medium, novel angle | Low |
+| 8 | **One Guitar, Three String Gauges: Measuring Fretting Force** | Fatigue after 10 minutes | Gauge comparison with a before/after feel score | High | Medium (restringing) |
+| 9 | **Reading the Pain: Worse With Movement or Better?** | Unsure if playing helps or hurts | Plain-language walkthrough of Checklist 1A; not medical advice | High, shareable | Very low |
+| 10 | **Playing Through Winter: A Seasonal Setup Check** | Action creeping up as humidity drops | Reshoot-friendly seasonal series (Nov/Dec timing) | Medium, calendar-timed | Low |
+
+## Fix Ladder Sketches (top three)
+
+**Nut Slot Depth Check**
+- Free: fret at 3rd fret, look at first-fret gap; note by feel
+- Affordable £5–20: feeler gauge set
+- Quality £25–100: nut files set
+- Premium £100+: luthier nut replacement (bone, compensated)
+
+**Tuning Ergonomics**
+- Free: tune with the guitar resting on the knee, using the whole forearm
+- Affordable £5–20: peg winder
+- Quality £25–100: clip-on tuner plus string winder, or locking tuners
+- Premium £100+: automatic/robotic tuning system
+
+**Simplified Voicings (Keith Richards approach)**
+- Free: drop the stretch notes, keep root and third
+- Affordable £5–20: capo
+- Quality £25–100: wider-nut or short-scale guitar trial
+- Premium £100+: custom neck profile or nut width via luthier
+
+## Gaps and Underexplored Angles (new)
+
+1. **Neck width/nut width as an arthritis variable.** Richards' move to a wider fingerboard is public; no one connects it to a buying guide.
+2. **Tuning ergonomics.** Repetitive wrist twist is rarely discussed.
+3. **Cost-tiered arthritis content.** Competing videos give lists; none give four price tiers with measured results.
+4. **Interpreting pain patterns** (Checklist 1A) in plain language; strong candidate for a free PDF lead magnet.
+5. **Celebrity-adaptation explainers.** News-hook format, low production load, suits 15-minute sprints.
+6. **Evergreen nut-slot reference.** Source quality in search is poor; accurate measured content can rank.
+
+## Titles, Hooks, Thumbnails (high-potential)
+
+**1. "What Keith Richards Changed About His Playing"**
+- Hook: "He plays fewer notes now. The songs sound the same."
+- Thumbnail: Hands on a wide fingerboard, soft focus; single price-free callout "Fewer notes"
+- Ends with: a full simplified verse played through
+
+**2. "Nut Slots: Measure Before You Cut"**
+- Hook: "One feeler gauge tells you whether your open chords have an easy fix."
+- Thumbnail: Feeler gauge in the first-fret gap; before/after mm figures
+
+**3. "Five Minutes Before You Play"**
+- Hook: "Athletes warm up. Guitarists usually just start."
+- Thumbnail: Open hand beside a clock reading 5:00
+
+**4. "Capo Instead of a Barre"**
+- Hook: "Same song, no barre."
+- Thumbnail: Capo on fret 3; chord diagram with the barre struck out of the frame
+
+## Suggested Sequencing (15-minute sprint friendly)
+
+1. Nut slot depth (low load, search-led, anchors setup series)
+2. Pain-pattern explainer / warm-up (pairs with checklist PDF)
+3. Keith Richards adaptation video (news-hook, time-sensitive)
+4. Winter setup check (film before late November)
+
+## Notes and Caveats
+
+- Keep health content framed as setup and approach, with a line pointing viewers to their own clinician; no medical claims.
+- Verify slot-depth figures against a luthier reference before filming; sources conflict.
+- Before scheduling, cross-check against the v10 backlog spreadsheet (not accessible in this run) to avoid duplicating planned items.
+- Sources: [Guitar World, arthritis and guitarists](https://www.guitarworld.com/artists/guitarists/arthritis-and-guitarists); [Riffhard](https://www.riffhard.com/how-to-play-guitar-with-arthritic-fingers/); [Roadie Music](https://www.roadiemusic.com/blog/?p=19944); [Andy Guitar](https://www.andyguitar.co.uk/videos/arthritis-advice-easy-changes-to-help-you-keep-playing-guitar); [AOL on Keith Richards](https://www.aol.com/articles/keith-richards-adapted-guitar-playing-144411023.html); [Blabbermouth on Steve Morse](https://blabbermouth.net/news/ex-deep-purple-guitarist-steve-morse-on-his-battle-with-arthritis-ive-tried-every-treatment-i-can-find); [Guitar.com on Jake E. Lee](https://guitar.com/news/music-news/jake-e-lee-relearning-guitar-arthritis/); [Music Street on short scale](https://musicstreet.co.uk/blogs/blog-post/why-short-scale-guitars)

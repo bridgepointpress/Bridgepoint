@@ -184,3 +184,68 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 19 October 2026
+
+*Appended; everything above is unchanged. Web search returned mostly written guides rather than YouTube-specific trend data, so the signals below are directional, not volume-verified. Check against YouTube search autocomplete and Studio before committing.*
+
+## What's Moving (Autumn 2026)
+
+- **Arthritis-friendly guitar roundups are proliferating as written content** (product-roundup style, short scale, slim C neck, under ~5 lb body). Video coverage that is hands-on and non-commercial is the opening. Source: [Premier Guitar](https://www.premierguitar.com/pro-advice/acoustic-soundboard/acoustic-guitar-for-arthritic-hands), [Riffhard](https://www.riffhard.com/how-to-play-guitar-with-arthritic-fingers/)
+- **Senior-oriented setup guides** are appearing ([Acoustica](https://discourse.acoustica.com/?p=20597)), including ergonomic-handle tool kits. Tool ergonomics for the *person doing the setup* is an unclaimed angle.
+- **Squier Mini / Sonic range refreshed for 2026** (new colours; Mini Strat, Sonic Mustang at 24" scale). Entry-level short scale remains a live topic. Source: [guitar.com](https://guitar.com/news/gear-news/squier-sonic-mini-2026/). Exact UK prices not confirmed; verify before scripting.
+- **Seasonal timing:** late October into winter is the window for the already-listed humidity/seasonal-drift video. Publishing it in the next 3-4 weeks beats any other seasonal idea on the list.
+
+## New Video Ideas (not in the earlier list)
+
+| # | Working Title | Friction | Fix Ladder sketch (Free / £5-20 / £25-100 / £100+) | Appeal |
+|---|---|---|---|---|
+| 1 | **Setup Tools for Hands That Don't Grip Well** | Doing your own setup is the fix, but small hex keys and screwdrivers are hard on stiff hands | Wrap handles in self-amalgamating tape or foam / oversized-grip screwdriver and hex key set / quality ratcheting driver set / luthier visit with a written spec | High - unique, adaptive-first, affiliate-friendly |
+| 2 | **Changing Strings with Stiff Hands** | String changes are long, fiddly and painful | Change one string at a time, rest between / string winder and snips (~£8) / locking tuners (£30-60) / pre-stretched coated strings plus a fixed schedule | High - perennial search plus adaptive angle |
+| 3 | **Which Strings Are Easiest? Gauge, Coating and Tension Compared** | Unclear which string changes reduce fretting effort | Drop one gauge / Elixir-type coated sets / custom gauge sets / lower-tension strings on a short-scale conversion | High - measurable (tension figures), comparison format |
+| 4 | **Capo Positions as a Permanent Strategy** | Open chord stretches and barres at low frets hurt | Capo you already own / £10-15 capo / partial or Spider-style capo / short-scale guitar | Medium-high - reframes capos as legitimate, not a workaround |
+| 5 | **Nut Slots: The 10-Minute Check** | Open chords feel stiff even after the bridge end is fine | Business-card/feeler check for height / nut-slot files only if confirmed needed / pre-slotted replacement nut / luthier fit | High - fits "buzz and action" search demand |
+| 6 | **The 15-Minute Sprint: Sunday Reset** | Guitars drift; routine maintenance feels like a project | Wipe-down and tuning check / string lube and fretboard conditioner / hygrometer (£10-15) / room humidifier | Medium - routine, shareable checklist |
+| 7 | **Buying a First Short-Scale at 50: Reading the Spec Sheet** | Spec sheets hide what matters for the hands | Measure your current guitar / compare nut width and scale online / Squier or Harley Benton short scale / higher-end short scale | High - ties to Short Scale Guitars 2026 doc |
+| 8 | **Left-Hand Rest Days: What a Good Practice Week Looks Like** | Hands fatigue; unclear when to play and when to rest | Alternate days of lighter playing / timer and log / lighter-gauge swap / lesson with adaptive-experienced teacher | Medium-high |
+| 9 | **Guitar Weight and Straps: Which Fixes Actually Help** | Shoulder and neck load after 20 minutes standing | Move strap pin position / wide padded strap £10-20 / lock-strap setup £25-40 / lighter guitar | Medium - extends existing strap experiment idea |
+| 10 | **Amplifier Placement and Volume at Low Level** | Low-volume playing sounds thin so players push harder | Move the amp to ear height / small practice amp / headphone amp / modelling amp | Medium - links into the Silent Practice series |
+
+## Gaps and Underexplored Angles (additions)
+
+1. **Tool ergonomics** - nearly all setup content assumes strong, precise hands. Idea 1 is the clearest white space.
+2. **String-change process as an accessibility topic** - covered as a how-to everywhere, rarely as a physical-load problem.
+3. **Rest and recovery scheduling** - existing list covers warm-ups and flare-ups, not weekly structure.
+4. **Spec-sheet literacy** - nut width, radius, scale and weight as comfort variables; existing ideas touch scale only.
+5. **Persona balance** - the earlier list skews to Budget DIYer. Comfortable Player ideas (locking tuners, professional fit, premium short-scale) are thin. Ideas 1, 2 and 7 can fill the quality and premium tiers.
+
+## Top Picks: Titles, Hooks, Thumbnails
+
+1. **"Guitar Setup Tools for Stiff Hands"** (idea 1)
+   - Hook: "The setup is easy. The tools weren't made for your hands. That's fixable."
+   - Thumbnail: standard hex key next to a foam-wrapped one, held in one hand.
+2. **"The Easiest Way to Change Guitar Strings"** (idea 2)
+   - Hook: "One string at a time, with breaks. Here's the sequence."
+   - Thumbnail: single new string against a half-restrung neck; clock showing 15:00.
+3. **"Which Strings Take the Least Effort to Play?"** (idea 3)
+   - Hook: "Same guitar, three gauges, and a gauge for how hard each one presses."
+   - Thumbnail: three string packets with tension numbers.
+4. **"The Capo Is a Tool, Not a Cheat"** (idea 4)
+   - Hook: "A capo can make your whole repertoire easier on your hands. Keep it on."
+   - Thumbnail: capo at fret 3 with a finished chord shape.
+5. **"Reading a Short-Scale Spec Sheet"** (idea 7)
+   - Hook: "Three numbers on the spec sheet tell you how it will feel."
+   - Thumbnail: spec table highlight on scale, nut width, weight.
+
+**Suggested sequencing (low physical load, high return):** (1) the seasonal humidity video this month, (2) idea 3 - desk-based, measurable, (3) idea 1 - high uniqueness.
+
+## Notes for Existing Material
+
+Flagging against the channel guardrails, for review:
+- Hooks #1 ("Your guitar is probably fighting you") and #9 ("is fighting you by December") frame the guitar as hostile. Suggested alternative: "Your guitar probably isn't set up for how you play yet."
+- Hook #5 ("98% of barre chord pain is a setup problem") is an unsourced statistic; soften or measure it first.
+- Hook #2 ("The problem isn't your hands") and "Your doctor said stop" (#3) risk medical overreach and negative framing; consider rewording around what the setup change unlocks.
+- Several titles use "£" while the channel context line uses "$"; confirm which currency is canonical.

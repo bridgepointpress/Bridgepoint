@@ -184,3 +184,88 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 21 October 2026
+
+**Method note:** Live web searches returned forum threads and manufacturer articles (Fender, Premier Guitar, luthier forums), but no YouTube view or search-volume data. Demand signals below are qualitative (recurring forum questions, gaps against the existing ideas list), not measured. Validate in YouTube Studio / search autocomplete before committing a slot. Prices are approximate and should be re-checked before filming.
+
+## What the search confirmed
+
+- Lower action, lighter strings, nut slot height and shorter scale length are the recurring advice for arthritic and low-grip-strength players. They are already covered in the list above, so the core pillars hold.
+- Forum threads show players looking for a *sequence* ("what do I try first?") more than single tips. That favours the Fix Ladder / ROI framing.
+- Mainstream articles (Fender etc.) treat hand pain as a beginner-toughening issue. Nothing found speaks to the 35–65 returning or physically-limited player, which is the channel's gap.
+
+## Seasonal timing (act on this first)
+
+- It is late October. The "What Happens to Your Guitar in Winter" and humidity ideas are best published in **November to early December**. Film this fortnight.
+
+## New video ideas (not in the earlier list)
+
+| # | Working title | Friction | Fix angle | Free / £5–20 / £25–100 / £100+ | Appeal |
+|---|---|---|---|---|---|
+| 1 | **Tune Down a Half Step: The Free Tension Fix** | Strings feel tight at standard pitch | Lower tension without changing gauge; capo to play along with others | Half-step down / lighter set (~£7) / professional setup for lower tuning (~£40–60) / short-scale guitar | High: free, instant, measurable |
+| 2 | **Partial Capos and Open Tunings for Sore Hands** | Barre shapes and stretches limit what can be played | Fewer fretted notes per chord, a permanent strategy rather than a workaround | Open tuning (£0) / partial capo (~£15–25) / second guitar left in open G (budget) / custom setup for open tuning | High: adaptive, little competing content |
+| 3 | **Nylon, Steel or Electric: Choosing by Finger Load** | Fingertip and joint load differs sharply between types | Compare using the Easier Play Guitars doc table | Try a friend's guitar / nylon-string classical (~£100–150) / entry hybrid or short-scale electric (~£200–350) / premium nylon or thinline | High: comparison format, affiliate-ready |
+| 4 | **Short-Scale Guitars Under £250: Measured, Not Hyped** | Reach and tension on 25.5" scale | Use the Short Scale Guitars 2026 doc (Harley Benton, Sire, Mitchell, Indio); measure scale length and tension | Capo on fret 1 as a trial / lighter strings on current guitar / short-scale budget model / premium short-scale | High: ties to existing "guitar I wish I'd bought" idea |
+| 5 | **Pick Thickness and Grip Size** | Pinching a small pick tires the thumb and index finger | Test grip-textured, larger and thumb picks, weighing grip effort | Wrap tape or rubber band round the pick (£0) / assorted large and grip picks (~£8) / thumb pick set (~£15) / custom-moulded pick | Medium: quick, low physical load to film |
+| 6 | **Neck Profile and Nut Width: What Fits Your Hand** | Neck shape causes reaching and cramping | Measure nut width and neck depth; compare slim vs wide | Measure your own guitars (£0) / calipers (~£10) / neck shaving or refret quote / buy to profile | Medium: unusual angle, search term "neck profile" is confusing to many |
+| 7 | **Picking Up the Guitar After 10 Years: The First 15 Minutes** | Returning after a gap; unsure where to start | Fifteen-minute restart sprint; baseline the guitar first | Check and tune as-is / new strings (~£8) / setup (~£50) / better-fitting guitar | Very high: fits both personas and the emotional core of the audience |
+| 8 | **Sitting vs Standing: Which Posture Lets You Play Longer?** | Fatigue in shoulder, wrist or hand part-way through a session | Measure how long you play comfortably in each position | Chair height change (£0) / footstool (~£15) / strap or support (~£30) / ergonomic guitar | Medium: complements existing chair and strap ideas |
+
+## Gaps and underexplored angles
+
+1. **Returning players** — the existing list leans toward problem-solving; there is little for the adult coming back after years away, which is likely the largest slice of the 35–65 audience.
+2. **Tension-based fixes** — half-step tuning and capo-as-tool are absent and fully free, so they suit the Budget DIYer.
+3. **Instrument-type comparison by physical load** — nylon vs steel vs electric is not yet covered, despite the Easier Play doc.
+4. **Hand-sized contact points** — picks, strap, thumb picks and grip are small changes with low production cost.
+5. **Comfortable Player coverage** — most ideas skew to £0–20. Add at least one premium-focused video (e.g. short-scale premium, custom setup) so the upper two ladder tiers are not thin.
+6. **Fix Ladder tier balance** — the Quality (£25–100) and Premium (£100+) tiers are lightly represented in the earlier list.
+
+## Hooks, titles and thumbnail concepts for top ideas
+
+### A. "Picking Up the Guitar After 10 Years: The First 15 Minutes"
+- **Alt titles:** "Back to Guitar at 45: Start Here" / "The Restart Plan: Fifteen Minutes, One Change"
+- **Hook:** "You have a guitar, fifteen minutes, and a few years of dust. Here is the order I would do things in."
+- **Thumbnail:** Guitar case opening in a dim room, clock at 15:00; before/after of tuned, strung guitar.
+- **Insight:** Baseline before improving.
+
+### B. "Tune Down a Half Step: The Free Tension Fix"
+- **Alt titles:** "Free Lighter Strings" / "The Tuning Change That Costs Nothing"
+- **Hook:** "One tuning peg turn each. Same guitar, less tension."
+- **Thumbnail:** Tuner reading Eb with a £0 callout; before/after tension feel.
+- **Insight:** Lowest-cost change with measurable return (ROI ordering).
+
+### C. "Partial Capos and Open Tunings for Sore Hands"
+- **Hook:** "Fewer fingers down, the same song."
+- **Thumbnail:** Close-up of a partial capo with a simplified chord diagram.
+- **Insight:** Constraint-led design: change the approach, not the person.
+
+### D. "Nylon, Steel or Electric: Choosing by Finger Load"
+- **Hook:** "Three guitars, one chord, three different amounts of pressure."
+- **Thumbnail:** Three guitars in a row with pressure bars.
+- **Insight:** Value engineering. Choose the spec that fits the requirement.
+
+### E. "Short-Scale Guitars Under £250: Measured, Not Hyped"
+- **Hook:** "Two inches of scale length, and what it does to your reach."
+- **Thumbnail:** Tape measure across two guitars.
+- **Insight:** Baseline vs variance. Same chord, measured stretch.
+
+## Recommended order (Mode 3 logic)
+
+Backlog spreadsheet (v10) and project files were not available in this run, so sequencing is based on this doc only. Confirm against the spreadsheet.
+
+1. **Winter humidity video** — seasonal deadline; low physical load (measure, no heavy work).
+2. **Tune Down a Half Step** — fast to film, free, a good short-session sprint; strong Shorts cut-down.
+3. **Picking Up the Guitar After 10 Years** — highest audience resonance; film once a clear Fix Ladder is drafted.
+
+Physical load flags: nylon/steel/electric comparison and posture test involve extended playing, so schedule on good hand days; picks, half-step tuning and neck measurement are low load.
+
+## Tone check on earlier hooks
+
+Several hooks above in this file ("Your guitar is probably fighting you", "…is fighting you by December") conflict with the channel guardrail that the guitar is never framed as hostile. Suggested rewrites:
+- "Your guitar is probably fighting you…" → "Your guitar is probably not yet set up for how you play. Here is how to check in 30 seconds."
+- "The neck that was perfect in August is fighting you by December." → "The neck that felt right in August has moved by December. Here is what changed."
+- "98% of barre chord pain is a setup problem." → also an unverifiable statistic; replace with a measured claim from the video itself.

@@ -184,3 +184,72 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Update — 22 October 2026
+
+**Research note:** Live web search returned thin results this run (mostly forum threads and low-quality guide sites; no reliable YouTube view-count or trend data). Signals below are drawn from what did surface (action/nut height as the most-cited playability levers for arthritic players; string gauge and short scale mentioned alongside; wrist-position and tension-release content aimed at 40+ players) plus gaps against the June list. Treat search-volume claims as hypotheses to check in YouTube Studio / search autocomplete before filming. No figures here are verified.
+
+## What's new vs. June
+
+- **Nut height keeps surfacing as the lever players rate above 12th-fret action.** June has nut slots as a buzz fix; there is no video on nut action *as a playability fix* (distinct from buzzing).
+- **Neck relief numbers get quoted without context.** An explainer that gives a baseline-and-measure routine (measure, record, adjust, re-measure) fits the PM lens better than a single "correct" figure.
+- **Wrist position / tension release** is a live topic for 40+ players, mostly sold as paid PDFs or books. A free, setup-first angle (what the guitar can change before technique has to) is open.
+- **Seasonal timing:** it is late October. Winter humidity (already in June list) is now timely — highest-urgency existing idea.
+
+## New Video Ideas
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Nut Height: The Setup Change That Changes Fretting Effort Most** | First-position chords take more pressure than the rest of the neck | Free: check with a feeler gauge / capo-at-3rd test · £5–20: nut slot files or a luthier's quote · £25–100: pre-slotted replacement nut · £100+: bone nut cut and fitted by a tech | High — pairs with highest-volume "action too high" query |
+| 2 | **Measure Your Baseline: A Setup Log for Your Guitar** | Changes get made, but nobody can say what improved | Free: notebook + phone photos · £5–20: feeler gauges / steel rule · £25–100: string action gauge + capo relief tool · £100+: pro setup as the reference point | Medium-high — pure PM insight (baseline vs. variance), reusable template/PDF |
+| 3 | **Winter Is Coming: A 15-Minute Seasonal Check** | Neck and action drift as heating comes on | Free: humidity check by feel + relief check · £5–20: hygrometer + soundhole humidifier · £25–100: case humidifier system · £100+: room humidification | High — timely now; re-releasable each year |
+| 4 | **Capo Options for Hands That Don't Fit the Standard Capo** | Squeezing a standard capo is the hardest part of the song | Free: partial-capo shapes using what you own · £5–20: light-spring capo · £25–100: Kyser/Shubb-type quick-change models · £100+: capo + lap/support system | Medium — strong adaptive relevance |
+| 5 | **Thumb Picks, Finger Picks and Grip: Less Squeeze, Same Sound** | Pinch grip on a flat pick causes fatigue | Free: pick angle and grip changes · £5–20: pick variety pack, thumb pick · £25–100: ergonomic/textured pick sets · £100+: custom-moulded pick | Medium — niche but loyal |
+| 6 | **Same Song, Three Tunings: Lower Tension, Easier Shapes** | Chord shapes that require wide stretches | Free: capo up / drop tune a half step · £5–20: lighter strings · £25–100: second guitar kept in alternate tuning · £100+: baritone/short-scale pairing | Medium — extends "light strings" video |
+| 7 | **Ten Minutes at Night: A Quiet Evening Routine** | Only time to play is after the household is asleep | Free: fingertip-pad routine, no amp · £5–20: string dampener/foam · £25–100: headphone amp · £100+: silent guitar | High — bridges silent-practice and 15-minute sprint series |
+
+## Gaps (additions to June list)
+
+1. **Nut action as a playability fix** (not just buzzing) — no coverage in the existing idea list.
+2. **A shareable setup log / baseline template** — the strongest PM-lens asset; doubles as a lead magnet alongside the planned Arthritis Checklist PDF.
+3. **Capo and pick ergonomics** — small hand-load items almost absent from the June list; low production cost.
+4. **Tuning/tension as an accessibility strategy** — framed as a permanent strategy, not a compromise.
+5. **Fix Ladder balance:** June ideas cluster in Free and £5–20. Quality-upgrade and premium tiers are thinly represented — Ideas 1 and 3 give those tiers credible entries.
+6. **Persona balance:** Comfortable Player is underserved (few "buy once, buy right" videos). Idea 1 (bone nut) and Idea 3 (humidification system) address this.
+
+## Titles, Thumbnails & Hooks for Top Picks
+
+### Top pick: Nut Height (Idea 1)
+- **Titles:** "The Nut Is Probably Why First-Position Chords Take So Much Effort" · "Lower Nut Slots: What It Changes, What It Costs, Four Ways to Do It"
+- **Hook:** "Same guitar, same strings. One measurement at the nut — and the open chords take less effort."
+- **Thumbnail:** Macro shot of the nut with a feeler gauge in the slot; split before/after with the measurement in mm. No text on camera.
+
+### Seasonal Check (Idea 3)
+- **Titles:** "Winter Guitar Check in 15 Minutes" · "Why Your Guitar Plays Differently in December"
+- **Hook:** "It played well in August. Here is the quick check that tells you what changed."
+- **Thumbnail:** Same neck, two seasons, relief measurement overlaid; frosted window in background.
+
+### Setup Log (Idea 2)
+- **Titles:** "Measure Your Guitar Before You Change Anything" · "The Baseline: Your Guitar's Numbers Today"
+- **Hook:** "Before I touch a single screw, I write down five numbers."
+- **Thumbnail:** Notebook page with measurements next to the guitar; pencil in frame.
+
+### Quiet Evening Routine (Idea 7)
+- **Titles:** "Ten Minutes of Guitar After Everyone's Asleep" · "A Quiet Evening Routine That Fits the Time You Have"
+- **Hook:** "Ten minutes, no amp, no one disturbed — and a song at the end of it."
+- **Thumbnail:** Guitar by lamplight, clock reading late evening, headphones draped over the headstock.
+
+## Suggested Sequencing (for Mode 3 review against the v10 spreadsheet)
+
+1. **Winter Is Coming** — time-sensitive; low physical load; film this month.
+2. **Nut Height** — highest search-fit; needs a before/after bench demo (moderate hand load; batch the filing work into 15-minute sprints).
+3. **Setup Log** — low production cost; builds the baseline asset used in later videos.
+
+*Note: the v10 spreadsheet was not available in this repository, so these have not been checked against the backlog for duplicates. Cross-check before scheduling.*
+
+## Closing Note
+
+Opportunities exist, mainly nut-action, seasonal timing, and Fix Ladder upper tiers. Evidence quality this run was low; validate keywords in YouTube Studio before committing film time.

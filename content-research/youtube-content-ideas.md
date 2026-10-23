@@ -184,3 +184,76 @@
 - **Seasonal hooks** (winter humidity, summer travel) create a recurring content calendar anchor
 - **"Viewer rescue" episodes** should be considered once the channel has 50–100 comments per video — strong community builder
 - **Shorts / Reels cut-downs:** The before/after measurement moments in every video are natural 30-second Reels clips — no face required, consistent with the channel's existing identity rules
+
+---
+---
+
+# Research Update — 23 October 2026
+
+**Method note:** Web search returned mostly forum threads and affiliate buyer's guides, not YouTube analytics, so the signals below are directional (forum recurrence, seasonality, gaps against the existing list), not measured search volume. Verify against YouTube Studio / keyword tools before committing production time. Existing ideas above are not repeated unless timing has changed.
+
+## Timing Flag (act first)
+
+- **Winter humidity / cold-room setup** (existing idea #9, "What Happens to Your Guitar in Winter") is now in season. Heating comes on, neck relief shifts, and forum posts about cold stiff joints recur this time of year. If filmed in the next 2–3 weeks it catches the seasonal search window; later and it waits until next autumn.
+- Low physical load: one 15-minute sprint (relief check, feeler gauge, before/after).
+
+## Signals Observed
+
+- **Lighter strings + lower action** remain the most repeated advice in over-50 hand-pain threads. Players also mention trade-offs they notice (less sustain and low end at 9.5s), which suggests an honest "what you gain, what you notice" angle has an audience.
+- **Neck shape**: one poster found a fuller neck eased knuckle pain compared with a slim one. This runs against the common "slim neck = easier" assumption and is not covered in the ideas list.
+- **Cold and joint stiffness**: players discuss warm rooms and space heaters before playing. Pairs naturally with the existing warm-up idea.
+- **Diagnosis confusion**: a poster's "arthritis" turned out to be trigger finger. Supports the PTI Ep 4 idea and suggests a "which one do I have" framing (with a see-a-clinician note, not diagnosis).
+- **Short-scale search results** are dominated by affiliate listings, several with unverified scale-length specs. A measured, nut-to-bridge-verified comparison would stand apart from them.
+
+## New Video Ideas
+
+| # | Working Title | Friction | Fix Ladder sketch | Appeal |
+|---|---|---|---|---|
+| 1 | **Is a Thicker Neck Easier on Your Hands?** | Slim-neck advice does not match every hand; knuckle/thumb pinch | Free: change thumb position and guitar angle · £5–20: neck-shape template/profile gauge to measure what you have · £25–100: swap-neck or used guitar with a different profile · £100+: luthier neck reshape or new instrument | High — contrarian, measurable, little coverage |
+| 2 | **Playing in a Cold Room: Keep Your Hands (and Your Setup) Ready** | Stiff joints and shifting neck relief in winter | Free: warm hands/room routine · £5–20: fingerless gloves, hand warmer · £25–100: small room heater · £100+: humidifier plus hygrometer setup | High — seasonal, pairs with #9 |
+| 3 | **Trigger Finger or Arthritis? What to Ask Before You Change Anything** | Unclear cause of pain, so unclear first fix | Free: note when pain occurs (Arthritis Checklist 1A) · £5–20: practice log · £25–100: appointment with a hand clinician · £100+: musician's medicine specialist | Medium-high — feeds PTI Ep 4; keep to "what to track and ask" |
+| 4 | **What You Gain and What You Notice at 9.5s** | Wanting lighter strings but unsure of the trade-off | Free: drop tuning slightly to test feel · £5–20: a set of 9s or 9.5s · £25–100: nut/setup adjustment for the new gauge · £100+: pro setup plus compensated bridge | High — honest comparison, affiliate-ready |
+| 5 | **Short Scale, Actually Measured** | Retail listings that do not give true scale length | Free: measure your own scale · £5–20: ruler/tape, comparison chart · £25–100: Squier / Harley Benton short-scale options · £100+: higher-end short-scale models (use Short Scale Guitars 2026 doc) | High — differentiates from affiliate pages |
+| 6 | **The Five-Minute Warm-Up for a Cold Morning** | Stiff first minutes of a session | Free: hand-open/close sequence · £5–20: therapy putty · £25–100: paraffin bath · £100+: n/a (note: no ceiling needed) | Medium — evergreen in winter |
+| 7 | **Which Fix First? Ranking Seven Setup Changes by Return on Effort** | Not knowing where to start | Free: nut slot check · £5–20: strings · £25–100: nut replacement · £100+: fret dress | High — flagship PM video; becomes the channel's index video |
+
+## Gaps (new since June)
+
+1. **Neck profile as an ergonomic variable** — thickness/shape rarely framed as a choice that varies by hand.
+2. **Verified short-scale data** — measured numbers versus retail claims.
+3. **Pain-pattern tracking before gear changes** — baseline-before-fix is the channel's core idea and nothing on YouTube applies it to hand pain.
+4. **Winter/cold-room playing** — setup drift and joint stiffness covered together.
+5. **Trade-off honesty** (string gauge, short scale) — most content only lists benefits.
+
+## Titles, Hooks, Thumbnails for Top Three
+
+### A. "Is a Thicker Neck Easier on Your Hands?"
+- **Hook:** "Most advice says slimmer is easier. I measured three necks and my own hand to find out where that holds."
+- **Thumbnail:** Two necks side by side, calipers on one, thumb contact point highlighted; no text on the guitar.
+- **Ends with:** a full chord progression on the neck that felt best.
+
+### B. "What Happens to Your Guitar in Winter (and Your Hands)"
+- **Hook:** "The neck that was right in August has moved. Here is the five-minute check."
+- **Thumbnail:** Feeler gauge at the first fret with a frosted window behind; before/after relief reading.
+- **Ends with:** playing in the warmed room.
+
+### C. "Which Fix First? Seven Changes Ranked by Return on Effort"
+- **Hook:** "Same guitar, seven fixes, one order that makes sense."
+- **Thumbnail:** Numbered fixes on a ladder graphic with action reading before/after.
+- **Ends with:** a short piece played on the finished guitar.
+
+## Suggested Order (Mode 3 logic, backlog not re-checked against v10 spreadsheet)
+
+1. **Winter / cold room** — time-sensitive, lowest physical load.
+2. **Which Fix First?** — builds the index video that links the rest.
+3. **Thicker neck** — most differentiated; needs two or three guitars, so higher setup cost.
+
+Note: the v10 spreadsheet and project docs were not available in this session, so confirm none of these duplicate planned videos.
+
+## Sources
+
+- [Guitar & Osteoarthritis? (Troy Grady forum)](https://forum.troygrady.com/t/guitar-osteoarthritis/58513)
+- [left-hand arthritis…adaptations? (UMGF)](https://umgf.com/left-hand-arthritis-adaptations-t178874.html)
+- [Hand soreness/stiff feeling? (rig-talk)](https://www.rig-talk.com/forum/threads/hand-soreness-stiff-feeling.208417/)
+- [Pain, Stiffness, & Playing Guitar (guitarlessons.com)](https://guitarlessons.com/guitar-lessons/guitar-lessons-for-beginners/pain-stiffness-and-playing-guitar/)
+- [Short Scale Guitars (Music Store)](https://www.musicstore.de/en_RO/RON/Guitars/Short-Scale-Guitars/cat-GITARRE-GITEGVINT)
